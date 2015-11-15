@@ -1,2 +1,2 @@
-Příručka pro pořadatele kurzů pro začátečníky
-=============================================
+Příručka pro pořadatele
+=======================

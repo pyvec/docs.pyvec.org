@@ -1,25 +1,17 @@
-Příručka pro pořadatele kurzů pro začátečníky
-=============================================
+Příručka pro pořadatele
+=======================
 
-Contents:
+Úvod...
 
 .. toctree::
    :maxdepth: 2
 
-Co kdybych uspořádal kurz?
---------------------------
+   guides/beginners-course
+   guides/meetup
+   guides/high-school-class
 
-Uspořádám kurz
---------------
-
-Jde do tuhého
--------------
-
-Uf, máme to za sebou!
----------------------
-
-Rejstřík a vyhledávání
-======================
+Navigace
+========
 
 * :ref:`genindex`
 * :ref:`modindex`
