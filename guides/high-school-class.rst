@@ -1,6 +1,8 @@
 Příručka pro středoškolského učitele
 ====================================
 
+https://trello.com/c/lWIwsSON/7-vytvo-it-p-irucku-pro-ss-ucitele
+
 Proč bych měl učit Python?
 --------------------------
 

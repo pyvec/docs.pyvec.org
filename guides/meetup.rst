@@ -1,6 +1,8 @@
 Příručka pro pořadatele srazů
 =============================
 
+https://trello.com/c/xPOQjBDg/8-vytvo-it-p-irucku-pro-organizatory-srazu
+
 Co kdybych uspořádal sraz?
 --------------------------
 
