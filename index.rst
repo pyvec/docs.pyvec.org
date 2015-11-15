@@ -1,19 +1,24 @@
-Příručka pro pořadatele
-=======================
 
-Úvod...
+.. include:: README.rst
+
+Obsah
+-----
 
 .. toctree::
    :maxdepth: 2
 
    guides/beginners-course
    guides/meetup
+   guides/django-girls
    guides/high-school-class
 
-Navigace
-========
+.. note::
+    :doc:`CONTRIBUTING`
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+Navigace
+--------
+
+- :ref:`genindex`
+- :ref:`modindex`
+- :ref:`search`
 
