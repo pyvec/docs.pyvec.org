@@ -54,11 +54,23 @@ Pravidelná Pyva by si měla stanovit nějaký interval a držet se ho. Např. k
 Vhodné místo konání
 ^^^^^^^^^^^^^^^^^^^
 
-Businesses that are heavily invested in your technology may sponsor your group.
-Coworking spaces are often a good choice as well, as they want their members to be able to network.
-hospoda - naroky na salonek a vybaveni
-kavarna
-pristupnost - cim vic alkoholicke a kuracke misto, tim mensi moznost, ze prijde treba stredoskolak
+Vhodné místo závisí na tom, jakou bude sraz mít náplň a jak často se koná. Jestliže vás bude deset a neplánujete mít přednášky, asi není moc co řešit - sejít se můžete prakticky kdekoliv.
+
+Je dobré, pokud máte k dispozici:
+
+- Nekuřácký salonek se zavíracími dveřmi,
+- možnost požádat obsluhu o vypnutí hudby v salonku,
+- projektor a plátno,
+- Wi-Fi.
+
+Většina doposud existujících srazů se odehrává v nějakém pohostinství, ať už je to hospůdka, soukromý klub nebo kavárna. Je dobré myslet na přístupnost podniku. Pyvo by sice bez piva nebylo tak úplně Pyvem, ale na druhou stranu, čím méně to bude připomínat nálevnu piva, tím větší je pravděpodobnost, že na váš sraz přijde ostýchavější abstinent, křehčí dívka nebo středoškolák (představte si, jak doma mamce obhajuje, že jde do zakouřeného pivního pajzlu, protože se tam schází kamarádi co umí Python). Ideální je buď soukromý klub nebo něco mezi restaurací a kavárnou. Ani moc nepřemýšlej nad tím, že to uděláš někde, kde se nedá najíst. Většina lidí, kteří na sraz dorazí, se tam bude chtít navečeřet (nebo dokonce bude potřebovat, protože jim to tak vyšlo). Když se rezervuje celý salonek, berou si podniky někdy zálohu, většinou se lze ale domluvit jen tak, s příslibem větší útraty pijících a večeřících návštěvníků srazu.
+
+Rovněž rozmysli, zda se dá do místa konání pohodlně dostat z jiných částí města nebo z autobusového či vlakového nádraží. Ta jsou důležitá pro přespolní - a to nejsou jen návštěvníci z jiných srazů, ale i vzdálenější místní. Třeba v Brně jsou někteří pravidelní účastníci srazu z Kuřimi, což je město 15 km vzdálené.
+
+Projektor lze v nouzi půjčit pro účel srazu z větší firmy, ale musíte se s ním nosit. Když najdete místo s nějakou velkou televizí a není vás moc, je to celkem rozumná náhrada. Plátno lze nahradit kusem stěny nebo bílým ubrusem (vyzkoušeno). Také lze koupit rozkládací plátno, které se pak na místo přinese, roztáhne a za pár minut je vše připraveno.
+
+.. note::
+    Coworkingová centra, univerzity nebo firemní zasedačky jsou určitě také možnost, ale napříč komunitou se zatím docela shodujeme na tom, že je to ukrutná nuda a nespojuje to lidi. Sraz by měl být odpočinkem po práci a měl by ulehčit navázání a utužování vztahů mezi lidmi. Sejít se ve firemní zasedačce a při zářivkovém světle si tam dát pizzu s kolou... to prostě nemá tu správnou atmosféru. I když potom uděláš "after-party" v hospůdce, většina lidí se ti rozuteče a nebude to o ničem. Nerozděluj části večera, nesnaž se z toho udělat konferenci, neupřednostňuj přednášky před lidmi a networkingem. Jako nějaký speciál dobrý, ale na pravidelný sraz asi spíš ne. Viděli jsme to u jiných, zkoušeli jsme to dokonce sami, a není to prostě ono.
 
 Franšíza
 ^^^^^^^^
@@ -85,6 +97,8 @@ Propagace
 
 Lanyrd, Facebook Event + Pyonieri, Srazy.info, univerzity, firmy, Twitter... zpravicka na root.cz, zpravicka na zdrojak, email pozvanka na django-cs / py konference, meetup.com, https://wiki.python.org/moin/PythonEventsCalendar
 
+Firmy!!!
+
 Hang some flyers at your local college; hold some meetings on a campus and get listed as a campus organization.
 
 Příprava před srazem, zajištění vybavení
@@ -106,7 +120,10 @@ Jde do tuhého
 Příprava
 ^^^^^^^^
 
-redukce na Mac, prodluzka, projektor
+Pro přednášky je vhodné dále mít:
+
+- Prodlužovačku,
+- redukci pro Mac (záleží i na projektoru).
 
 Řízení přednášek
 ^^^^^^^^^^^^^^^^
