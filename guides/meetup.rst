@@ -206,7 +206,7 @@ Videa, fotky
 
 Pyva zatím nemají žádnou centralizovanou celorepublikovou galerii. Pokud máš nějaké fotky ze srazu a chceš je sdílet, hoď je kam je ti libo. Když se ti pár fotek opravdu povede,
 
-- tweetni je a udělej _mention_ na `@naPyvo <https://twitter.com/napyvo>`_ (rádi to retweetnem), nebo
+- tweetni je a udělej *mention* na `@naPyvo <https://twitter.com/napyvo>`_ (rádi to retweetnem), nebo
 - udělej Pull Request a `přidej je jako fotky, které se náhodně zobrazují jako pozadí na python.cz <https://github.com/pyvec/python.cz/tree/master/pythoncz/static/photos>`_.
 
 Pokud se vám povedlo natočit nějaká videa, tak dejte vědět `Petrovi Viktorinovi <http://encukou.cz/>`_ a on vám řekne, co s nimi. Až ho to nebude bavit, tak tento odstavec přepíše a bude tady přímo návod na to, jak je můžete zpracovat a jak se můžou objevit na `YouTube kanálu Pyvce <https://www.youtube.com/user/pyvec/playlists>`_.
@@ -214,10 +214,24 @@ Pokud se vám povedlo natočit nějaká videa, tak dejte vědět `Petrovi Viktor
 Další informace
 ---------------
 
-.. warning::
-    Tato sekce ještě není připravena.
+Pokud chceš nabrat nějakou další inspiraci k tomu, jak organizovat Python sraz, doporučujeme následující zdroje:
 
-- https://mail.python.org/mailman/listinfo/group-organizers
-- https://wiki.python.org/moin/StartingYourUsersGroup
-- https://groups.google.com/forum/#!forum/brno-pyvo
-- https://groups.google.com/forum/#!forum/ostrava-pyvo
+Globální zdroje
+^^^^^^^^^^^^^^^
+
+- E-mailová diskuse `group-organizers <https://mail.python.org/mailman/listinfo/group-organizers>`_
+- `Starting Your Python Users Group <https://wiki.python.org/moin/StartingYourUsersGroup>`_ na python.org
+
+Zákulisí existujících srazů v ČR
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Na následujících e-mailových skupinách nebo stránkách se domlouvají organizátoři existujících srazů.
+
+- `Brno <https://groups.google.com/forum/#!forum/brno-pyvo>`_
+- `Ostrava (e-mail) <https://groups.google.com/forum/#!forum/ostrava-pyvo>`_
+- `Ostrava (Facebook) <https://www.facebook.com/groups/pyvoruby/>`_
+
+Tipy
+^^^^
+
+- Anglicky se sraz řekne *meetup*. Lokální komunita kolem jazyka se označuje *user group*, takže sraz Python nadšenců v Olomouci bude něco jako *Meetup of the Olomouc Python User Group*.
