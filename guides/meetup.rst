@@ -214,7 +214,7 @@ Pokud se vám povedlo natočit nějaká videa, tak dejte vědět `Petrovi Viktor
 Další informace
 ---------------
 
-Pokud chceš nabrat nějakou další inspiraci k tomu, jak organizovat Python sraz, doporučujeme následující zdroje:
+Pokud chceš nabrat nějakou další inspiraci k tomu, jak organizovat Python sraz, doporučujeme následující zdroje.
 
 Globální zdroje
 ^^^^^^^^^^^^^^^
@@ -225,10 +225,10 @@ Globální zdroje
 Zákulisí existujících srazů v ČR
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Na následujících e-mailových skupinách nebo stránkách se domlouvají organizátoři existujících srazů.
+Na následujících stránkách se domlouvají organizátoři existujících srazů.
 
-- `Brno <https://groups.google.com/forum/#!forum/brno-pyvo>`_
-- `Ostrava (e-mail) <https://groups.google.com/forum/#!forum/ostrava-pyvo>`_
+- `Brno (Google Group) <https://groups.google.com/forum/#!forum/brno-pyvo>`_
+- `Ostrava (Google Group) <https://groups.google.com/forum/#!forum/ostrava-pyvo>`_
 - `Ostrava (Facebook) <https://www.facebook.com/groups/pyvoruby/>`_
 
 Tipy
