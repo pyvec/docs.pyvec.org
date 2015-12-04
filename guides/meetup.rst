@@ -75,12 +75,18 @@ Projektor lze v nouzi půjčit pro účel srazu z větší firmy, ale musíš se
 Franšíza
 ^^^^^^^^
 
+.. warning::
+    Tato sekce ještě není připravena.
+
 problem maleho mesta
 sirsi temata - web, linux, open source, dynamicky typovane jazyky, elegantni programovani, spojovani s Ruby atd.
 pokud aspon 50% talku je o pythonu nebo se tema srazu pythonu tyka, muzes dane vydani nazvat Pyvo a zpropagujeme to a bude to v kalendarich atd., zaclenime to jako pyvo, pomuzeme, atd., at uz je ten originalni sraz o cemkoliv
 
 Počet organizátorů
 ^^^^^^^^^^^^^^^^^^
+
+.. warning::
+    Tato sekce ještě není připravena.
 
 Get at least a second person you can count on as core members who will contribute regularly to the running of the group.
 
@@ -90,10 +96,16 @@ Uspořádám sraz
 Rezervace místa
 ^^^^^^^^^^^^^^^
 
+.. warning::
+    Tato sekce ještě není připravena.
+
 Have a location you can rely upon, monthly, without fail.
 
 Propagace
 ^^^^^^^^^
+
+.. warning::
+    Tato sekce ještě není připravena.
 
 Lanyrd, Facebook Event + Pyonieri, Srazy.info, univerzity, firmy, Twitter... zpravicka na root.cz, zpravicka na zdrojak, email pozvanka na django-cs / py konference, meetup.com, https://wiki.python.org/moin/PythonEventsCalendar
 
@@ -101,16 +113,19 @@ Firmy!!!
 
 Hang some flyers at your local college; hold some meetings on a campus and get listed as a campus organization.
 
-Příprava před srazem, zajištění vybavení
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
 Výběr tématu, lákání speakerů
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. warning::
+    Tato sekce ještě není připravena.
 
 I've found that keeping the presentations short, and maybe having two or three speakers, is a good alternative to having one speaker (unless a good speaker volunteers!). It takes some of the load off the speaker and gets more people involved.
 
 Zahraniční speakeři versus zkušení speakeři versus nováčci
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. warning::
+    Tato sekce ještě není připravena.
 
 https://wiki.python.org/moin/PythonSpeakers
 
@@ -120,13 +135,16 @@ Jde do tuhého
 Příprava
 ^^^^^^^^
 
-Pro přednášky je vhodné dále mít:
+Pokud se chcete jen setkat a popovídat si, nepotřebujete zřejmě žádné speciální vybavení. Pokud ale budete mít přednášky, je dobré mít při ruce:
 
-- Prodlužovačku,
+- Prodlužovačku (záleží i na místě konání),
 - redukci pro Mac (záleží i na projektoru).
 
 Řízení přednášek
 ^^^^^^^^^^^^^^^^
+
+.. warning::
+    Tato sekce ještě není připravena.
 
 predstavovani ucastniku
 uvitani, uvitaci slajd, moderovani
@@ -135,10 +153,16 @@ casovac prednasek/lightning talku, 20 min max, 2-3 max
 Natáčení
 ^^^^^^^^
 
+.. warning::
+    Tato sekce ještě není připravena.
+
 kamera, jak zpracovat a dat na web
 
 Fotografování
 ^^^^^^^^^^^^^
+
+.. warning::
+    Tato sekce ještě není připravena.
 
 nekomu to muze byt neprijemne
 spis jednou za par pyv, aby bylo co pouzit na propagaci apod., ale vesmes jsou ty fotky na jedno brdo - slajdy, lidi, pivo, ...
@@ -146,11 +170,17 @@ spis jednou za par pyv, aby bylo co pouzit na propagaci apod., ale vesmes jsou t
 Domluva s obsluhou
 ^^^^^^^^^^^^^^^^^^
 
+.. warning::
+    Tato sekce ještě není připravena.
+
 zpusob placeni
 kdy chodi a roznasi pivo atd., zavrene dvere, hrajici hudba, osvetleni, ...
 
 Volná zábava
 ^^^^^^^^^^^^
+
+.. warning::
+    Tato sekce ještě není připravena.
 
 CoC
 
@@ -160,19 +190,32 @@ Uf, máme to za sebou!
 Po srazu
 ^^^^^^^^
 
+.. warning::
+    Tato sekce ještě není připravena.
+
 doplnit coverage na lanyrd/pyvo.cz
 
 Angažování účastníků v mezidobí
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. warning::
+    Tato sekce ještě není připravena.
+
 Videa, fotky
 ^^^^^^^^^^^^
 
-dat fotky nekam, treba na FB (nemame globalni galerii)
-zajistit zpracovani videi
+Pyva zatím nemají žádnou centralizovanou celorepublikovou galerii. Pokud máš nějaké fotky ze srazu a chceš je sdílet, hoď je kam je ti libo. Když se ti pár fotek opravdu povede,
+
+- tweetni je a udělej _mention_ na `@naPyvo <https://twitter.com/napyvo>`_ (rádi to retweetnem), nebo
+- udělej Pull Request a `přidej je jako fotky, které se náhodně zobrazují jako pozadí na python.cz <https://github.com/pyvec/python.cz/tree/master/pythoncz/static/photos>`_.
+
+Pokud se vám povedlo natočit nějaká videa, tak dejte vědět `Petrovi Viktorinovi <http://encukou.cz/>`_ a on vám řekne, co s nimi. Až ho to nebude bavit, tak tento odstavec přepíše a bude tady přímo návod na to, jak je můžete zpracovat a jak se můžou objevit na `YouTube kanálu Pyvce <https://www.youtube.com/user/pyvec/playlists>`_.
 
 Další informace
 ---------------
+
+.. warning::
+    Tato sekce ještě není připravena.
 
 - https://mail.python.org/mailman/listinfo/group-organizers
 - https://wiki.python.org/moin/StartingYourUsersGroup
