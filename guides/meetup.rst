@@ -1,10 +1,6 @@
 Příručka pro pořadatele srazů
 =============================
 
-.. note::
-    .. _pyvec:
-    Za touto příručkou stojí `Pyvec <http://pyvec.org/>`_, neziskovka podporující v ČR aktivity kolem programovacího jazyka Python.
-
 Mám založit sraz?
 -----------------
 
@@ -24,6 +20,7 @@ Založení srazu
 --------------
 
 .. _koncept:
+
 Koncept
 ^^^^^^^
 
@@ -53,6 +50,7 @@ Není nutné se tohoto formátu držet. Na srazech se dá dělat spousta věcí 
 Výše uvedené lze různě kombinovat podle situace a sraz například ozvláštňovat speciálními vydáními. Je na tobě, co vymyslíš!
 
 .. _datum:
+
 Vhodné datum konání
 ^^^^^^^^^^^^^^^^^^^
 
@@ -61,6 +59,7 @@ Podívej se do kalendáře existujících Pyv a pokus se nastavit datum tak, aby
 Pravidelná Pyva by si měla stanovit nějaký interval a držet se ho. Např. každý poslední čtvrtek v měsíci nebo každá druhá středa v měsíci. Pokud by na daný den vycházel státní svátek, Vánoce apod., je dobré udělat výjimku a důkladně ji propagovat. Nemá moc smysl konat Pyvo ve dnech volna, ze stejného důvodu jako jsou nevhodné víkendy. Pokud máš pocit, že nepřijde mnoho lidí třeba v létě, udělej klidně prázdninovou pauzu, nebo jen nějaký odlehčený speciál.
 
 .. _misto:
+
 Vhodné místo konání
 ^^^^^^^^^^^^^^^^^^^
 
@@ -85,6 +84,7 @@ Projektor lze v nouzi půjčit pro účel srazu z větší firmy, ale musíš se
     Coworkingová centra, univerzity nebo firemní zasedačky jsou určitě také možnost, ale napříč komunitou se zatím docela shodujeme na tom, že je to ukrutná nuda a nespojuje to lidi. Sraz by měl být odpočinkem po práci a měl by ulehčit navázání a utužování vztahů mezi lidmi. Sejít se ve firemní zasedačce a při zářivkovém světle si tam dát pizzu s kolou... to prostě nemá tu správnou atmosféru. I když potom uděláš "after-party" v hospůdce, většina lidí se ti rozuteče po cestě a nebude to o ničem. Nerozděluj části večera, nesnaž se z toho udělat konferenci, neupřednostňuj přednášky před lidmi a networkingem. Jako nějaký speciál dobrý, ale na pravidelný sraz asi spíš ne. Viděli jsme to u jiných, zkoušeli jsme to dokonce sami, a není to prostě ono.
 
 .. _fransiza:
+
 Franšíza
 ^^^^^^^^
 
@@ -97,6 +97,7 @@ Franšíza
     pokud aspon 50% talku je o pythonu nebo se tema srazu pythonu tyka, muzes dane vydani nazvat Pyvo a zpropagujeme to a bude to v kalendarich atd., zaclenime to jako pyvo, pomuzeme, atd., at uz je ten originalni sraz o cemkoliv
 
 .. _organizatori:
+
 Počet organizátorů
 ^^^^^^^^^^^^^^^^^^
 
@@ -110,6 +111,7 @@ Příprava akce
 -------------
 
 .. _rezervace:
+
 Rezervace místa
 ^^^^^^^^^^^^^^^
 
@@ -120,6 +122,7 @@ Rezervace místa
     Have a location you can rely upon, monthly, without fail.
 
 .. _propagace:
+
 Propagace
 ^^^^^^^^^
 
@@ -133,7 +136,16 @@ Propagace
 
     Hang some flyers at your local college; hold some meetings on a campus and get listed as a campus organization.
 
+.. _sponzori:
+
+Sponzoři
+^^^^^^^^
+
+.. warning::
+    Tato sekce ještě není připravena.
+
 .. _tema:
+
 Výběr tématu
 ^^^^^^^^^^^^
 
@@ -141,6 +153,7 @@ Výběr tématu
     Tato sekce ještě není připravena.
 
 .. _prednasejici:
+
 Přednášející
 ^^^^^^^^^^^^
 
@@ -157,6 +170,7 @@ Průběh akce
 -----------
 
 .. _priprava:
+
 Než přijdu na místo konání
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -170,6 +184,7 @@ Pokud se chcete jen setkat a popovídat si, nepotřebujete zřejmě žádné spe
     kdy chodi a roznasi pivo atd., zavrene dvere, hrajici hudba, osvetleni, ...
 
 .. _program:
+
 Řízení programu
 ^^^^^^^^^^^^^^^
 
@@ -183,6 +198,7 @@ Pokud se chcete jen setkat a popovídat si, nepotřebujete zřejmě žádné spe
     casovac prednasek/lightning talku, 20 min max, 2-3 max
 
 .. _nataceni:
+
 Natáčení
 ^^^^^^^^
 
@@ -193,6 +209,7 @@ Natáčení
     kamera
 
 .. _foceni:
+
 Focení
 ^^^^^^
 
@@ -204,6 +221,7 @@ Focení
     spis jednou za par pyv, aby bylo co pouzit na propagaci apod., ale vesmes jsou ty fotky na jedno brdo - slajdy, lidi, pivo, ...
 
 .. _volna-zabava:
+
 Volná zábava
 ^^^^^^^^^^^^
 
@@ -217,6 +235,7 @@ Po akci
 -------
 
 .. _materialy-z-prednasek:
+
 Materiály z přednášek
 ^^^^^^^^^^^^^^^^^^^^^
 
@@ -227,6 +246,7 @@ Materiály z přednášek
     doplnit coverage na lanyrd/pyvo.cz
 
 .. _fotky:
+
 Fotky
 ^^^^^
 
@@ -236,12 +256,14 @@ Pyva zatím nemají žádnou centralizovanou celorepublikovou galerii. Pokud má
 - udělej Pull Request a `přidej je jako fotky, které se náhodně zobrazují jako pozadí na python.cz <https://github.com/pyvec/python.cz/tree/master/pythoncz/static/photos>`_.
 
 .. _videa:
+
 Videa
 ^^^^^
 
 Pokud se vám povedlo natočit nějaká videa (viz :ref:`nataceni`), tak dejte vědět `Petrovi Viktorinovi <http://encukou.cz/>`_ a on vám řekne, co s nimi. Až ho to nebude bavit, tak tento odstavec přepíše a bude tady přímo návod na to, jak je můžete zpracovat a jak se můžou objevit na `YouTube kanálu Pyvce <https://www.youtube.com/user/pyvec/playlists>`_.
 
 .. _mezidobi:
+
 Angažování účastníků v mezidobí
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -254,6 +276,7 @@ Další informace
 Pokud chceš nabrat nějakou další inspiraci k tomu, jak organizovat Python sraz, doporučujeme následující zdroje.
 
 .. _globalni-zdroje:
+
 Globální zdroje
 ^^^^^^^^^^^^^^^
 
@@ -261,6 +284,7 @@ Globální zdroje
 - `Starting Your Python Users Group <https://wiki.python.org/moin/StartingYourUsersGroup>`_ na python.org
 
 .. _zakulisi-cr:
+
 Zákulisí existujících srazů v ČR
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -271,7 +295,15 @@ Na následujících stránkách se domlouvají organizátoři existujících sra
 - `Ostrava (Facebook) <https://www.facebook.com/groups/pyvoruby/>`_
 
 .. _tipy:
+
 Tipy
 ^^^^
 
 - Anglicky se sraz řekne *meetup*. Lokální komunita kolem jazyka se označuje *user group*, takže sraz Python nadšenců v Olomouci bude něco jako *Meetup of the Olomouc Python User Group*.
+
+.. _pyvec:
+
+Pyvec
+^^^^^
+
+Za touto příručkou stojí `Pyvec <http://pyvec.org/>`_, neziskovka podporující v ČR aktivity kolem programovacího jazyka Python. Pokud byste se srazem měli jakékoliv problémy, potřebovali nějaké finance nebo rady, rozhodně se na nás obraťte - jsme tu od toho, abychom vám byli k ruce a pomohli vám.
