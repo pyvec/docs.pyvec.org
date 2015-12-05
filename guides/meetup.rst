@@ -1,6 +1,10 @@
 Příručka pro pořadatele srazů
 =============================
 
+.. note::
+    .. _pyvec:
+    Za touto příručkou stojí `Pyvec <http://pyvec.org/>`_, neziskovka podporující v ČR aktivity kolem programovacího jazyka Python.
+
 Mám založit sraz?
 -----------------
 
@@ -69,7 +73,9 @@ Je dobré, pokud máte k dispozici:
 - projektor a plátno,
 - Wi-Fi.
 
-Většina doposud existujících srazů se odehrává v nějakém pohostinství, ať už je to hospůdka, soukromý klub nebo kavárna. Je dobré myslet na přístupnost podniku. Pyvo by sice bez piva nebylo tak úplně Pyvem, ale na druhou stranu, čím méně to bude připomínat nálevnu, tím větší je pravděpodobnost, že na váš sraz přijde ostýchavější abstinent, křehčí dívka nebo středoškolák (představte si, jak doma mamce obhajuje, že jde do zakouřeného pivního pajzlu, protože se tam schází kamarádi co umí programovat). Ideální je buď soukromý klub nebo něco mezi restaurací a kavárnou. Ani moc nepřemýšlej nad tím, že to uděláš někde, kde se nedá najíst. Většina lidí, kteří na sraz dorazí, se tam bude chtít navečeřet (nebo nejen chtít, ale i muset, protože jim to tak vyšlo). Když se rezervuje celý salonek, berou si podniky někdy zálohu, většinou se lze ale domluvit jen tak, s příslibem větší útraty pijících a večeřících návštěvníků srazu.
+Většina doposud existujících srazů se odehrává v nějakém pohostinství, ať už je to hospůdka, soukromý klub nebo kavárna. Je dobré myslet na přístupnost podniku. Pyvo by sice bez piva nebylo tak úplně Pyvem, ale na druhou stranu, čím méně to bude připomínat nálevnu, tím větší je pravděpodobnost, že na váš sraz přijde ostýchavější abstinent, křehčí dívka nebo středoškolák (představte si, jak doma mamce obhajuje, že jde do zakouřeného pivního pajzlu, protože se tam schází kamarádi co umí programovat). Ideální je buď soukromý klub nebo něco mezi restaurací a kavárnou. Ani moc nepřemýšlej nad tím, že to uděláš někde, kde se nedá najíst. Většina lidí, kteří na sraz dorazí, se tam bude chtít navečeřet (nebo nejen chtít, ale i muset, protože jim to tak vyšlo).
+
+Když se rezervuje celý salonek, berou si podniky někdy zálohu (s tím by případně dokázal finančně pomoci :ref:`pyvec`), většinou se lze ale domluvit jen tak, s příslibem větší útraty pijících a večeřících návštěvníků srazu.
 
 Rovněž rozmysli, zda se dá do místa konání pohodlně dostat z jiných částí města nebo z autobusového či vlakového nádraží. Ta jsou důležitá pro přespolní - a to nejsou jen návštěvníci z jiných srazů, ale i vzdálenější místní. Třeba v Brně jsou někteří pravidelní účastníci srazu z Kuřimi, což je město 15 km vzdálené.
 
@@ -224,7 +230,7 @@ Materiály z přednášek
 Fotky
 ^^^^^
 
-Pyva zatím nemají žádnou centralizovanou celorepublikovou galerii. Pokud máš nějaké fotky ze srazu a chceš je sdílet, hoď je kam je ti libo. Když se ti pár fotek opravdu povede,
+Pyva zatím nemají žádnou centralizovanou celorepublikovou galerii. Pokud máš nějaké fotky ze srazu (viz :ref:`foceni`) a chceš je sdílet, hoď je kam je ti libo. Když se ti pár fotek opravdu povede,
 
 - tweetni je a udělej *mention* na `@naPyvo <https://twitter.com/napyvo>`_ (rádi to retweetnem), nebo
 - udělej Pull Request a `přidej je jako fotky, které se náhodně zobrazují jako pozadí na python.cz <https://github.com/pyvec/python.cz/tree/master/pythoncz/static/photos>`_.
@@ -233,7 +239,7 @@ Pyva zatím nemají žádnou centralizovanou celorepublikovou galerii. Pokud má
 Videa
 ^^^^^
 
-Pokud se vám povedlo natočit nějaká videa, tak dejte vědět `Petrovi Viktorinovi <http://encukou.cz/>`_ a on vám řekne, co s nimi. Až ho to nebude bavit, tak tento odstavec přepíše a bude tady přímo návod na to, jak je můžete zpracovat a jak se můžou objevit na `YouTube kanálu Pyvce <https://www.youtube.com/user/pyvec/playlists>`_.
+Pokud se vám povedlo natočit nějaká videa (viz :ref:`nataceni`), tak dejte vědět `Petrovi Viktorinovi <http://encukou.cz/>`_ a on vám řekne, co s nimi. Až ho to nebude bavit, tak tento odstavec přepíše a bude tady přímo návod na to, jak je můžete zpracovat a jak se můžou objevit na `YouTube kanálu Pyvce <https://www.youtube.com/user/pyvec/playlists>`_.
 
 .. _mezidobi:
 Angažování účastníků v mezidobí
