@@ -235,6 +235,12 @@ Volná zábava
 ..
     CoC
 
+Knihovnička
+^^^^^^^^^^^
+
+.. warning::
+    Tato sekce ještě není připravena.
+
 Po akci
 -------
 
@@ -243,18 +249,27 @@ Po akci
 Materiály z přednášek
 ^^^^^^^^^^^^^^^^^^^^^
 
-.. warning::
-    Tato sekce ještě není připravena.
+Jako archiv informací o jednotlivých srazech využíváme `Lanyrd <http://lanyrd.com>`_:
 
-..
-    doplnit coverage na lanyrd/pyvo.cz
+- `Praha <http://lanyrd.com/series/praha-pyvo/>`_
+- `Brno <http://lanyrd.com/series/brno-pyvo/>`_
+- `Ostrava <http://lanyrd.com/series/ostrava-pyvo/>`_
+
+Je to v podstatě `wiki <https://cs.wikipedia.org/wiki/Wiki>`_, kde může kdokoliv vytvořit událost a popsat, co se na ní dělo - kde byla, kdo přednášel, aj. detaily. Zároveň se lidé mohou i sami přihlásit k tomu, že na akci jdou, že tam budou přednášet, apod. V ČR tento web účastníci srazů moc nevyužívají (kromě Prahy, tam se to nějakou záhadou docela naučili) a jako pozvánka na sraz mnohem lépe funguje Facebook nebo jiné weby (viz :ref:`srazy-propagace`). Lanyrd nicméně skvěle funguje jako archiv toho, co se dělo.
+
+Pokud máš nějaké slajdy nebo jiné materiály, je dobré je na událost vašeho srazu doplnit k přednáškám. Lanyrd takovým materiálům říká *coverage* a může to být skoro cokoliv od odkazu na YouTube s videem z přednášky po odkazy na slajdy ze služeb jako `Speaker Deck <https://speakerdeck.com/>`_ či `SlideShare <http://www.slideshare.net/>`_. Lanyrd potom takto nahrané materiály umí pěkně zobrazit.
+
+Na Lanyrdu lze jednotlivé události řadit do *series* (sérií). To je vhodné dělat pro opakované srazy a má to tak zatím každé Pyvo (viz odkazy výše). Vedle toho existují ještě tzv. *guides* (průvodci), což jsou ručně udržované seznamy událostí napříč sériemi. My udržujeme průvodce s názvem `Pyvo <http://lanyrd.com/guides/pyvo/>`_, a to hlavně kvůli tomu, že k němu takto Lanyrd vygeneruje odkazy na kalendáře a RSS pro všechny Python srazy v republice. Tuto úlohu by ale měl zastat web `pyvo.cz <http://pyvo.cz/>`_, takže by to snad brzy už nemělo být tolik potřeba.
+
+.. note::
+    V dlouhodobém horizontu se chceme závislosti na Lanyrdu zbavit. Data postupně stahujeme do repozitáře `pyvo-data <https://github.com/pyvec/pyvo-data>`_, zobrazujeme je na `pyvo.cz <http://pyvo.cz/>`_ a do budoucna bychom rádi, aby se tato kopie stala hlavním "zdrojem pravdy" a primárním archivem. Až se tak stane, příručka by se měla přepsat, aby nabádala k nahrávání informací především do naší databáze.
 
 .. _srazy-fotky:
 
 Fotky
 ^^^^^
 
-Pyva zatím nemají žádnou centralizovanou celorepublikovou galerii. Pokud máš nějaké fotky ze srazu (viz :ref:`srazy-foceni`) a chceš je sdílet, hoď je kam je ti libo. Když se ti pár fotek opravdu povede,
+Pyva zatím nemají žádnou centralizovanou celorepublikovou galerii. Pokud máš nějaké fotky ze srazu (viz :ref:`srazy-foceni`) a chceš je sdílet, hoď je, kam je ti libo. Když se ti pár fotek opravdu povede,
 
 - tweetni je a udělej *mention* na `@naPyvo <https://twitter.com/napyvo>`_ (rádi to retweetnem), nebo
 - udělej Pull Request a `přidej je jako fotky, které se náhodně zobrazují jako pozadí na python.cz <https://github.com/pyvec/python.cz/tree/master/pythoncz/static/photos>`_.
@@ -269,14 +284,6 @@ Videa
 Pokud se vám povedlo natočit nějaká videa (viz :ref:`srazy-nataceni`), tak dejte vědět `Petrovi Viktorinovi <http://encukou.cz/>`_ a on vám řekne, co s nimi. Až ho to nebude bavit, tak tento odstavec přepíše a bude tady přímo návod na to, jak je můžete zpracovat a jak se můžou objevit na `YouTube kanálu Pyvce <https://www.youtube.com/user/pyvec/playlists>`_.
 
 Při sdílení myslete na to, že ne každý může chtít, aby byla jeho přednáška veřejně přístupná (viz :ref:`srazy-prednasejici`). Měli byste mít od přednášejícího svolení s nahráváním a uveřejněním nebo by mělo být alespoň jasné, že si mohou vybrat.
-
-.. _srazy-mezidobi:
-
-Angažování účastníků v mezidobí
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. warning::
-    Tato sekce ještě není připravena.
 
 Další informace
 ---------------
