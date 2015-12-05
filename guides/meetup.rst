@@ -61,9 +61,7 @@ Jak bylo už naznačeno, Pyvo v Brně, Praze nebo Ostravě má většinou formá
 #. zhruba 19:30 začátek přednášek,
 #. několik přednášek na předem dohodnuté a propagované téma,
 #. volitelně *lightning talky*, tzn. striktně pětiminutové příspěvky bez následující diskuse na libovolné téma od kohokoliv v místnosti,
-#. volná zábava.
-
-Volná zábava je pak už čistý networking, který trvá většinou do té doby, než se vytratí poslední návštěvník.
+#. volná zábava (čistý networking, který trvá většinou do té doby, než se vytratí poslední návštěvník).
 
 Není nutné se tohoto formátu držet. Na srazech se dá dělat spousta věcí a od nich se pak odvíjí i výběr místa, termínu, četnosti srazu, a tak dále. Nápady na aktivity:
 
@@ -188,6 +186,9 @@ Výběr tématu
 Přednášející
 ^^^^^^^^^^^^
 
+.. warning::
+    Tato sekce ještě není připravena.
+
 ..
     I've found that keeping the presentations short, and maybe having two or three speakers, is a good alternative to having one speaker (unless a good speaker volunteers!). It takes some of the load off the speaker and gets more people involved.
 
@@ -202,17 +203,23 @@ Průběh akce
 
 .. _srazy-priprava:
 
-Než přijdu na místo konání
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+Přicházím na místo konání
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Pravidlo číslo jedna: Přijď na místo konání včas! Nejlépe 15 nebo 30 minut předem, aby bylo dost času vyzvednout rezervaci a vše připravit.
 
 Pokud se chcete jen setkat a popovídat si, nepotřebujete zřejmě žádné speciální vybavení. Pokud ale budete mít přednášky, je dobré mít při ruce:
 
 - Prodlužovačku (záleží i na místě konání),
 - redukci pro Mac (záleží i na projektoru).
 
-..
-    zpusob placeni
-    kdy chodi a roznasi pivo atd., zavrene dvere, hrajici hudba, osvetleni, ...
+S obsluhou si předem domluv, jak bude vypadat průběh akce a placení.
+
+Pokud máte salonek se zavíracími dveřmi, je možné obsluze říct, aby chodila jen pokud jsou otevřené (o přestávkách mezi přednáškami). S tím jak si návštěvníci objednávají, tak je takové pravidlo docela těžké dodržet. Nejlepší je asi moc to neřešit a klidně nechat přednášku přerušit obsluhou - přece jenom jsme na Pyvu a ne na velevážném kongresu státníků.
+
+Pokud v salonku hraje hudba, je potřeba ji nechat na přednášky vypnout. I když je velice potichu, hodně to ruší. Stejně tak může být problematické některé osvětlení.
+
+Co se placení týče, nejlepší je, pokud obsluha každému návštěvníku dává lístek zvlášť a na něj zapisuje, co si objednával. Pokud to nejde, musíš odcházet z místa konání více méně poslední a dořešit případné nesrovnalosti. Sem tam nějaké zapomenuté pivo nebývá problém, ale když lidé nezaplatí jídlo, částka může rychle naskakovat. V takovém případě nezbývá než zaplatit ze svého. Jedinou šancí je poprosit se smutným výrazem ve tváři poslední okolo postávající návštěvníky srazu o charitativní sbírku. Sice hloupá dvacka nebo pade, ale když se to sesbírá, leccos to dokáže vyřešit.
 
 .. _srazy-program:
 
