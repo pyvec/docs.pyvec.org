@@ -5,18 +5,26 @@ Příručka pro pořadatele srazů
 
 Tato příručka si klade za cíl shromáždit veškeré zkušenosti, jež jsme za roky pořádání srazů nasbírali, aby si je mohl kdokoliv přečíst a na jejich základě založit vlastní sraz. Zároveň by bylo hezké, kdyby se stala kodexem toho, jak se správné Pyvo má dělat, kdyby sledovala nejnovější trendy a změny a kdyby díky společnému úsilí zůstala v souladu s tím, co se na srazech reálně praktikuje.
 
+Python v ČR
+-----------
+
 Kultura
 ^^^^^^^
 
 Python komunitě v ČR se povedlo sjednotit se. To ale neznamená, že existuje nějaká silná organizační struktura a všichni musí poslouchat někoho, kdo jim rozkazuje. Jednota spočívá v tom, že se respektujeme, spolupracujeme, táhneme za jeden provaz, že jsme našli společnou řeč, věci vymýšlíme společně, vzájemně se podporujeme a pomáháme si. Přitom zůstáváme samostatní v tom, co děláme.
 
-Pokud se chceš zapojit, jsi vřele vítán. Máš právo výše popsanou kulturu vyžadovat od druhých, ale také pamatuj, že máš nepsanou povinnost ji i dodržovat.
+Pokud se chceš zapojit, jsi vřele vítán. Máš právo výše popsanou kulturu vyžadovat od druhých, ale také pamatuj, že aby mohla přetrvat, máš nepsanou povinnost ji i dodržovat.
 
 Slovníček
 ^^^^^^^^^
 
 - **Pyvo** je název, který se v ČR používá pro lokální sraz uživatelů programovacího jazyka Python.
 - **Pyvec** je název neziskovky, která v ČR podporuje aktivity kolem programovacího jazyka Python (viz :ref:`srazy-pyvec`). Pyvec srazy neorganizuje, je jim akorát při ruce, kdyby něco potřebovaly. Srazy může pořádat kdo chce.
+
+Web
+^^^
+
+Hlavním rozcestníkem komunity je sice `python.cz <http://python.cz/>`_, ale srazy mají vyhrazený svůj vlastní web, `pyvo.cz <http://pyvo.cz/>`_. Jako i všechno ostatní co se tvoří pro Python komunitu u nás, i tento web `je Open Source <https://github.com/pyvec/pyvo.cz>`_ a může do něj přispět kdokoliv.
 
 Mám založit sraz?
 -----------------
