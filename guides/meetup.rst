@@ -1,10 +1,10 @@
 Příručka pro pořadatele srazů
 =============================
 
-Co kdybych uspořádal sraz?
---------------------------
+Mám založit sraz?
+-----------------
 
-Výborný nápad! Pokud ve tvém městě sraz neexistuje, rozhodně můžeš založit místní Python sraz a pojmenovat ho Pyvo. Rádi ti pomůžeme se vším, co budeš potřebovat, zařadíme tě do kalendářů a budeme váš sraz propagovat. Rádi také přijedeme. Jestliže ve tvém městě už sraz je, tak jeho organizátoři rozhodně uvítají, pokud se k nim přidá někdo další, kdo jim pomůže - ať už jen s nějakou drobností, názorem, nebo i naplno s provozem události.
+Pokud ve tvém městě sraz už neexistuje, rozhodně můžeš založit místní Python sraz a pojmenovat ho Pyvo. Rádi ti pomůžeme se vším, co budeš potřebovat, zařadíme tě do kalendářů a budeme váš sraz propagovat. Rádi také přijedeme. Jestliže ve tvém městě už sraz je, tak jeho organizátoři rozhodně uvítají, pokud se k nim přidá někdo další, kdo jim pomůže - ať už jen s nějakou drobností, názorem, nebo i naplno s provozem události.
 
 Při zakládání nového srazu je rozumné myslet na několik věcí:
 
@@ -15,6 +15,9 @@ Při zakládání nového srazu je rozumné myslet na několik věcí:
 - Existují ve tvém okolí nějaké firmy, které při práci používají Python? Univerzita? Víš o nějakých jednotlivcích? Klidně se vás může scházet pět, ale znáš to - víc hlav víc ví. Zvaž šance na úspěch a podle toho zkus vymyslet formát, četnost, apod.
 - Za zkoušku nic nedáš! Když zarezervuješ místnost pro deset lidí a vytroubíš do světa, že u vás bude Python sraz, tak i kdyby nikdo nepřišel, pořád se nestala žádná újma.
 - Na to, abys založil sraz, nepotřebuješ znát Python. Zvládání srazu je úplně jiná práce. Kontakty, zkušenosti apod. nejsou podmínkou, ale odměnou.
+
+Založení srazu
+--------------
 
 .. _koncept:
 Koncept
@@ -97,8 +100,8 @@ Počet organizátorů
 ..
     Get at least a second person you can count on as core members who will contribute regularly to the running of the group.
 
-Uspořádám sraz
---------------
+Příprava akce
+-------------
 
 .. _rezervace:
 Rezervace místa
@@ -144,12 +147,12 @@ Přednášející
 ..
     https://wiki.python.org/moin/PythonSpeakers
 
-Jde do tuhého
--------------
+Průběh akce
+-----------
 
 .. _priprava:
-Příprava
-^^^^^^^^
+Než přijdu na místo konání
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Pokud se chcete jen setkat a popovídat si, nepotřebujete zřejmě žádné speciální vybavení. Pokud ale budete mít přednášky, je dobré mít při ruce:
 
@@ -168,6 +171,7 @@ Pokud se chcete jen setkat a popovídat si, nepotřebujete zřejmě žádné spe
     Tato sekce ještě není připravena.
 
 ..
+    byt na miste vcas, vyzvednout rezervaci, ...
     predstavovani ucastniku
     uvitani, uvitaci slajd, moderovani
     casovac prednasek/lightning talku, 20 min max, 2-3 max
@@ -203,8 +207,8 @@ Volná zábava
 ..
     CoC
 
-Uf, máme to za sebou!
----------------------
+Po akci
+-------
 
 .. _materialy-z-prednasek:
 Materiály z přednášek
