@@ -3,10 +3,25 @@ Příručka pro pořadatele srazů
 
 .. Protože Sphinx umožňuje odkazování napříč dokumenty, hodí se mít názvy odkazů unikátní. Z toho důvodu všechny odkazy v této příručce začínají 'srazy-'.
 
+Tato příručka si klade za cíl shromáždit veškeré zkušenosti, jež jsme za roky pořádání srazů nasbírali, aby si je mohl kdokoliv přečíst a na jejich základě založit vlastní sraz. Zároveň by bylo hezké, kdyby se stala kodexem toho, jak se správné Pyvo má dělat, kdyby sledovala nejnovější trendy a změny a kdyby díky společnému úsilí zůstala v souladu s tím, co se na srazech reálně praktikuje.
+
+Kultura
+^^^^^^^
+
+Python komunitě v ČR se povedlo sjednotit se. To ale neznamená, že existuje nějaká silná organizační struktura a všichni musí poslouchat někoho, kdo jim rozkazuje. Jednota spočívá v tom, že se respektujeme, spolupracujeme, táhneme za jeden provaz, že jsme našli společnou řeč, věci vymýšlíme společně, vzájemně se podporujeme a pomáháme si. Přitom zůstáváme samostatní v tom, co děláme.
+
+Pokud se chceš zapojit, jsi vřele vítán. Máš právo výše popsanou kulturu vyžadovat od druhých, ale také pamatuj, že máš nepsanou povinnost ji i dodržovat.
+
+Slovníček
+^^^^^^^^^
+
+- **Pyvo** je název, který se v ČR používá pro lokální sraz uživatelů programovacího jazyka Python.
+- **Pyvec** je název neziskovky, která v ČR podporuje aktivity kolem programovacího jazyka Python (viz :ref:`srazy-pyvec`). Pyvec srazy neorganizuje, je jim akorát při ruce, kdyby něco potřebovaly. Srazy může pořádat kdo chce.
+
 Mám založit sraz?
 -----------------
 
-Pokud ve tvém městě sraz už neexistuje, rozhodně můžeš založit místní Python sraz a pojmenovat ho Pyvo. Rádi ti pomůžeme se vším, co budeš potřebovat, zařadíme tě do kalendářů a budeme váš sraz propagovat. Rádi také přijedeme. Jestliže ve tvém městě už sraz je, tak jeho organizátoři rozhodně uvítají, pokud se k nim přidá někdo další, kdo jim pomůže - ať už jen s nějakou drobností, názorem, nebo i naplno s provozem události.
+Pokud ve tvém městě sraz ještě neexistuje, rozhodně můžeš založit místní Python sraz a pojmenovat ho Pyvo. Rádi ti pomůžeme se vším, co budeš potřebovat, zařadíme tě do kalendářů a budeme váš sraz propagovat. Rádi také přijedeme. Jestliže ve tvém městě už sraz je, tak jeho organizátoři rozhodně uvítají, pokud se k nim přidá někdo další, kdo jim pomůže - ať už jen s nějakou drobností, názorem, nebo i naplno s provozem události.
 
 Při zakládání nového srazu je rozumné myslet na několik věcí:
 
