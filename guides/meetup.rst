@@ -220,7 +220,7 @@ Pokud máte salonek se zavíracími dveřmi, je možné obsluze říct, aby chod
 
 Pokud v salonku hraje hudba, je potřeba ji nechat na přednášky vypnout. I když je velice potichu, hodně to ruší. Stejně tak může být problematické některé osvětlení.
 
-Co se placení týče, nejlepší je, pokud obsluha každému návštěvníku dává lístek zvlášť a na něj zapisuje, co si objednával. Pokud to nejde, musíš odcházet z místa konání více méně poslední a dořešit případné nesrovnalosti. Sem tam nějaké zapomenuté pivo nebývá problém, ale když lidé nezaplatí jídlo, částka může rychle naskakovat. V takovém případě nezbývá než zaplatit ze svého. Jedinou šancí je poprosit se smutným výrazem ve tváři poslední okolo postávající návštěvníky srazu o charitativní sbírku. Sice hloupá dvacka nebo pade, ale když se to sesbírá, leccos to dokáže vyřešit.
+Co se placení týče, nejlepší je, pokud obsluha každému návštěvníku dává lístek zvlášť a na něj zapisuje, co si objednával. Pokud to nejde, musíš odcházet z místa konání více méně poslední a dořešit případné nesrovnalosti. Sem tam nějaké zapomenuté pivo nebývá problém, ale když lidé nezaplatí jídlo, částka může rychle naskakovat. V takovém případě je jedinou šancí je poprosit se smutným výrazem ve tváři poslední okolo postávající návštěvníky srazu o charitativní sbírku. Sice hloupá dvacka nebo pade, ale když se to nasbírá, mnohdy může být nakonec k dispozici i větší částka, než jakou je potřeba doplatit.
 
 .. _srazy-program:
 
@@ -265,11 +265,9 @@ Při natáčení videí a jejich následném sdílení myslete na to, že ne ka�
 Volná zábava
 ^^^^^^^^^^^^
 
-.. warning::
-    Tato sekce ještě není připravena.
+Jako *volná zábava* je označován čistý networking, který trvá většinou do té doby, než se vytratí poslední návštěvník. Čím více lidí vám na srazu zůstane na networking, tím lépe, protože přesně tato část večera nejvíc přivádí lidi k sobě a utužuje komunitu. Svým způsobem je důležitější, než všechny přednášky dohromady. Jestliže návštěvníci odejdou brzy, zkus se zamyslet nad tím, zda nebyli příliš utaháni přednáškami nebo jestli je pro ně místo konání dostatečně atraktivní k delšímu setrvání. (Samozřejmě se nad tím nemusíš jen zamýšlet, můžeš se jich jednoduše zeptat).
 
-..
-    CoC
+V průběhu volné zábavy by bylo fajn, kdyby se k sobě účastníci pořád chovali jako slušní lidé i přes možné "opojení atmosférou". Alkohol je při networkingu dobrý sluha, ale zlý pán. Jakmile se někdo začne chovat tak, že by to jiné návštěvníky přivádělo do nekomfortních situací, měl bys být připraven jako organizátor zasáhnout a tohoto člověka napomenout nebo jej požádat, aby akci opustil. Tvým cílem by mělo být dosažení příjemného prostředí, do kterého se nikdo nemusí bát vstoupit, ať už je to nesmělý středoškolák nebo mamina, která se zrovna vrátila ze začátečnického kurzu pořádaného `PyLadies <http://pyladies.cz/>`_. Arogance, povýšenost nad začátečníky, nejapné šikanizující vtípky nebo nemístné poznámky smrdící sexismem by se neměly tolerovat.
 
 Knihovnička
 ^^^^^^^^^^^
