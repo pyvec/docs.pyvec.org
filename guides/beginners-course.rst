@@ -1,6 +1,9 @@
 Příručka pro pořadatele kurzů pro začátečníky
 =============================================
 
+.. warning::
+    Tato příručka ještě není připravena.
+
 - vycházíme z toho, jak se dělají PyLadies, ale příručka by měla být obecná na jakýkoliv kurz pro začátečníky
 - místo
 - jak sehnat kouče

@@ -1,6 +1,9 @@
 Příručka pro pořadatele Django Girls
 ====================================
 
+.. warning::
+    Tato příručka ještě není připravena.
+
 - návod jak organizovat DG v českém prostředí - obecné rady nedávat sem, ale spíš do globálního návodu pro organizátory, který je přímo na djangogirls.org
 - kde začít? vysvětlení konceptu
 - odkazy na zdroje na djangogirls.org - návod pro organizátora, kouče, tutoriál, resources
