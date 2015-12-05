@@ -61,7 +61,7 @@ Jak bylo už naznačeno, Pyvo v Brně, Praze nebo Ostravě má většinou formá
 #. zhruba 19:30 začátek přednášek,
 #. několik přednášek na předem dohodnuté a propagované téma,
 #. volitelně *lightning talky*, tzn. striktně pětiminutové příspěvky bez následující diskuse na libovolné téma od kohokoliv v místnosti,
-#. volná zábava (čistý networking, který trvá většinou do té doby, než se vytratí poslední návštěvník).
+#. volná zábava (čistý networking, který trvá většinou do té doby, než se vytratí poslední návštěvník, viz :ref:`srazy-volna-zabava`).
 
 Není nutné se tohoto formátu držet. Na srazech se dá dělat spousta věcí a od nich se pak odvíjí i výběr místa, termínu, četnosti srazu, a tak dále. Nápady na aktivity:
 
@@ -211,6 +211,7 @@ Pravidlo číslo jedna: Přijď na místo konání včas! Nejlépe 15 nebo 30 mi
 Pokud se chcete jen setkat a popovídat si, nepotřebujete zřejmě žádné speciální vybavení. Pokud ale budete mít přednášky, je dobré mít při ruce:
 
 - Prodlužovačku (záleží i na místě konání),
+- něco jako stopky na měření délky přednášek,
 - redukci pro Mac (záleží i na projektoru).
 
 S obsluhou si předem domluv, jak bude vypadat průběh akce a placení.
@@ -230,7 +231,6 @@ Co se placení týče, nejlepší je, pokud obsluha každému návštěvníku d�
     Tato sekce ještě není připravena.
 
 ..
-    byt na miste vcas, vyzvednout rezervaci, ...
     predstavovani ucastniku
     uvitani, uvitaci slajd, moderovani
     casovac prednasek/lightning talku, 20 min max, 2-3 max
@@ -274,8 +274,7 @@ Volná zábava
 Knihovnička
 ^^^^^^^^^^^
 
-.. warning::
-    Tato sekce ještě není připravena.
+Existuje tzv. `Knihovnička <https://github.com/pyvec/bookshelf/>`_, do které můžete darovat knihy a z níž si knihy můžete půjčovat. Přestože jsou srazy v různých městech, docela se nám zatím daří knihy distribuovat a poptávky po zapůjčkách uspokojovat (velký dík za to patří především knihovníkovi `Petru Viktorinovi <http://encukou.cz/>`_, jenž s knihami pravidelně objíždí většinu srazů v ČR). Máš-li sraz, tato Knihovnička je jednou z věcí, kterou tam můžeš docela snadno zavést a podpořit tak interakci lidí i přenos vědomostí.
 
 Po akci
 -------
