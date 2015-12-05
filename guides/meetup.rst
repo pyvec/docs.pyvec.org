@@ -8,6 +8,8 @@ Tato příručka si klade za cíl shromáždit veškeré zkušenosti, jež jsme 
 Python v ČR
 -----------
 
+.. _srazy-kultura:
+
 Kultura
 ^^^^^^^
 
@@ -15,11 +17,15 @@ Python komunitě v ČR se povedlo sjednotit se. To ale neznamená, že existuje 
 
 Pokud se chceš zapojit, jsi vřele vítán. Máš právo výše popsanou kulturu vyžadovat od druhých, ale také pamatuj, že aby mohla přetrvat, máš nepsanou povinnost ji i dodržovat.
 
+.. _srazy-slovnicek:
+
 Slovníček
 ^^^^^^^^^
 
 - **Pyvo** je název, který se v ČR používá pro lokální sraz uživatelů programovacího jazyka Python.
 - **Pyvec** je název neziskovky, která v ČR podporuje aktivity kolem programovacího jazyka Python (viz :ref:`srazy-pyvec`). Pyvec srazy neorganizuje, je jim akorát při ruce, kdyby něco potřebovaly. Srazy může pořádat kdo chce.
+
+.. _srazy-web:
 
 Web
 ^^^
