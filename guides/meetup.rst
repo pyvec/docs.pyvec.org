@@ -74,7 +74,7 @@ Je dobré, pokud máte k dispozici:
 
 Většina doposud existujících srazů se odehrává v nějakém pohostinství, ať už je to hospůdka, soukromý klub nebo kavárna. Je dobré myslet na přístupnost podniku. Pyvo by sice bez piva nebylo tak úplně Pyvem, ale na druhou stranu, čím méně to bude připomínat nálevnu, tím větší je pravděpodobnost, že na váš sraz přijde ostýchavější abstinent, křehčí dívka nebo středoškolák (představte si, jak doma mamce obhajuje, že jde do zakouřeného pivního pajzlu, protože se tam schází kamarádi co umí programovat). Ideální je buď soukromý klub nebo něco mezi restaurací a kavárnou. Ani moc nepřemýšlej nad tím, že to uděláš někde, kde se nedá najíst. Většina lidí, kteří na sraz dorazí, se tam bude chtít navečeřet (nebo nejen chtít, ale i muset, protože jim to tak vyšlo).
 
-Když se rezervuje celý salonek, berou si podniky někdy zálohu (s tím by případně dokázal finančně pomoci :ref:`pyvec`), většinou se lze ale domluvit jen tak, s příslibem větší útraty pijících a večeřících návštěvníků srazu.
+Když se rezervuje celý salonek, berou si podniky někdy zálohu (s tím by případně dokázal finančně pomoci :ref:`pyvec-nonprofit`), většinou se lze ale domluvit jen tak, s příslibem větší útraty pijících a večeřících návštěvníků srazu.
 
 Rovněž rozmysli, zda se dá do místa konání pohodlně dostat z jiných částí města nebo z autobusového či vlakového nádraží. Ta jsou důležitá pro přespolní - a to nejsou jen návštěvníci z jiných srazů, ale i vzdálenější místní. Třeba v Brně jsou někteří pravidelní účastníci srazu z Kuřimi, což je město 15 km vzdálené.
 
@@ -197,28 +197,30 @@ Pokud se chcete jen setkat a popovídat si, nepotřebujete zřejmě žádné spe
     uvitani, uvitaci slajd, moderovani
     casovac prednasek/lightning talku, 20 min max, 2-3 max
 
-.. _nataceni:
-
-Natáčení
-^^^^^^^^
-
-.. warning::
-    Tato sekce ještě není připravena.
-
-..
-    kamera
-
 .. _foceni:
 
 Focení
 ^^^^^^
 
-.. warning::
-    Tato sekce ještě není připravena.
+Focení je dobré občas udělat, aby člověk měl co použít při propagaci srazu, nebo aby měl něco na památku, ale odnést si z každé akce 100 fotek ve vysokém rozlišení asi úplně nutné není. Na většině fotek bude totiž pořád totéž: Lidi u stolu, lidi s pivem, lidi s jídlem, lidi jak si povídají, přednáška, jiná přednáška, ... K fotodokumentaci srazu postačí běžný foťák, nebo i moderní mobil, netřeba šermovat se zrcadlovkou nebo snad dokonce nahánět a platit profesionálního fotografa.
 
-..
-    nekomu to muze byt neprijemne
-    spis jednou za par pyv, aby bylo co pouzit na propagaci apod., ale vesmes jsou ty fotky na jedno brdo - slajdy, lidi, pivo, ...
+Při focení a následném sdílení výsledků své práce myslete na to, že ne každý se rád fotí a ne každý rád visí někde na Facebooku. Zpracování fotek je ještě podrobně popsáno v sekci :ref:`fotky`.
+
+.. _nataceni:
+
+Natáčení
+^^^^^^^^
+
+Pokud máte přednášky, můžete je natočit. To se nejlépe dělá kamerou na stativu, ale takové vybavení má málokdo. Z pravidelných návštěvníků českých Pyv je to především `Petr Viktorin <http://encukou.cz/>`_, který si jej pořídil speciálně pro tento účel, objíždí s ním srazy a vše co vidí, to natáčí a následně zpracovává.
+
+Pokud zrovna nemáte Petra ani vlastní kameru, ale přesto chcete zkusit přednášky natočit, můžete to zkusit klidně i chytrým telefonem nebo foťákem. Nakonec jde totiž při natáčení přednášejícího stejně především o zvuk. Co ukazuje divákům můžete snadno zachytit přímo v jeho počítači přes programy jako
+
+- `recordMyDesktop <https://en.wikipedia.org/wiki/RecordMyDesktop>`_ nebo
+- `Quick Time <https://support.apple.com/en-us/HT201066#screen>`_.
+
+Při zpracování se dá potom obraz z počítače spojit s nahrávkou z místnosti. Jedinou překážkou může být neochota přednášejících instalovat si na počítač nějaký nový software. Argumentovat můžeš tím, že ``recordMyDesktop`` je Open Source a Quick Time že je na Macu přímo součástí systému.
+
+Při natáčení videí a jejich následném sdílení myslete na to, že ne každý může chtít, aby byla jeho přednáška veřejně přístupná (viz :ref:`prednasejici`). Měli byste mít od přednášejícího svolení s nahráváním a uveřejněním nebo by mělo být alespoň jasné, že si mohou vybrat. Zpracování videí je ještě podrobně popsáno v sekci :ref:`videa`.
 
 .. _volna-zabava:
 
@@ -255,12 +257,16 @@ Pyva zatím nemají žádnou centralizovanou celorepublikovou galerii. Pokud má
 - tweetni je a udělej *mention* na `@naPyvo <https://twitter.com/napyvo>`_ (rádi to retweetnem), nebo
 - udělej Pull Request a `přidej je jako fotky, které se náhodně zobrazují jako pozadí na python.cz <https://github.com/pyvec/python.cz/tree/master/pythoncz/static/photos>`_.
 
+Při sdílení myslete na to, že ne každý se rád fotí a ne každý rád visí někde na Facebooku.
+
 .. _videa:
 
 Videa
 ^^^^^
 
 Pokud se vám povedlo natočit nějaká videa (viz :ref:`nataceni`), tak dejte vědět `Petrovi Viktorinovi <http://encukou.cz/>`_ a on vám řekne, co s nimi. Až ho to nebude bavit, tak tento odstavec přepíše a bude tady přímo návod na to, jak je můžete zpracovat a jak se můžou objevit na `YouTube kanálu Pyvce <https://www.youtube.com/user/pyvec/playlists>`_.
+
+Při sdílení myslete na to, že ne každý může chtít, aby byla jeho přednáška veřejně přístupná (viz :ref:`prednasejici`). Měli byste mít od přednášejícího svolení s nahráváním a uveřejněním nebo by mělo být alespoň jasné, že si mohou vybrat.
 
 .. _mezidobi:
 
@@ -301,7 +307,8 @@ Tipy
 
 - Anglicky se sraz řekne *meetup*. Lokální komunita kolem jazyka se označuje *user group*, takže sraz Python nadšenců v Olomouci bude něco jako *Meetup of the Olomouc Python User Group*.
 
-.. _pyvec:
+.. _pyvec-nonprofit:
+.. Z nějakého důvodu samotný odkaz 'pyvec' nefunguje a Sphinx je z něj zmatený, tak je to 'pyvec-nonprofit'.
 
 Pyvec
 ^^^^^
