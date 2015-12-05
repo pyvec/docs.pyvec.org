@@ -206,34 +206,52 @@ Průběh akce
 Přicházím na místo konání
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Pravidlo číslo jedna: Přijď na místo konání včas! Nejlépe 15 nebo 30 minut předem, aby bylo dost času vyzvednout rezervaci a vše připravit.
+**Příchod**
+    Pravidlo číslo jedna: Přijď na místo konání včas! Nejlépe 15 nebo 30 minut předem, aby bylo dost času vyzvednout rezervaci a vše připravit.
 
-Pokud se chcete jen setkat a popovídat si, nepotřebujete zřejmě žádné speciální vybavení. Pokud ale budete mít přednášky, je dobré mít při ruce:
+**Co přinést**
+    Pokud se chcete jen setkat a popovídat si, nepotřebujete zřejmě žádné speciální vybavení. Pokud ale budete mít přednášky, je dobré mít při ruce:
 
-- Prodlužovačku (záleží i na místě konání),
-- něco jako stopky na měření délky přednášek,
-- redukci pro Mac (záleží i na projektoru).
+    - Prodlužovačku (záleží i na místě konání),
+    - něco jako stopky na měření délky přednášek,
+    - redukci pro Mac (záleží i na projektoru).
 
-S obsluhou si předem domluv, jak bude vypadat průběh akce a placení.
+**Domluva s obsluhou**
+    S obsluhou si předem domluv, jak bude vypadat průběh akce a placení.
 
-Pokud máte salonek se zavíracími dveřmi, je možné obsluze říct, aby chodila jen pokud jsou otevřené (o přestávkách mezi přednáškami). S tím jak si návštěvníci objednávají, tak je takové pravidlo docela těžké dodržet. Nejlepší je asi moc to neřešit a klidně nechat přednášku přerušit obsluhou - přece jenom jsme na Pyvu a ne na velevážném kongresu státníků.
+    Pokud máte salonek se zavíracími dveřmi, je možné obsluze říct, aby chodila jen pokud jsou otevřené (o přestávkách mezi přednáškami). S tím jak si návštěvníci objednávají, tak je takové pravidlo docela těžké dodržet. Nejlepší je asi moc to neřešit a klidně nechat přednášku přerušit obsluhou - přece jenom jsme na Pyvu a ne na velevážném kongresu státníků.
 
-Pokud v salonku hraje hudba, je potřeba ji nechat na přednášky vypnout. I když je velice potichu, hodně to ruší. Stejně tak může být problematické některé osvětlení.
+    Pokud v salonku hraje hudba, je potřeba ji nechat na přednášky vypnout. I když je velice potichu, hodně to ruší. Stejně tak může být problematické některé osvětlení.
 
-Co se placení týče, nejlepší je, pokud obsluha každému návštěvníku dává lístek zvlášť a na něj zapisuje, co si objednával. Pokud to nejde, musíš odcházet z místa konání více méně poslední a dořešit případné nesrovnalosti. Sem tam nějaké zapomenuté pivo nebývá problém, ale když lidé nezaplatí jídlo, částka může rychle naskakovat. V takovém případě je jedinou šancí je poprosit se smutným výrazem ve tváři poslední okolo postávající návštěvníky srazu o charitativní sbírku. Sice hloupá dvacka nebo pade, ale když se to nasbírá, mnohdy může být nakonec k dispozici i větší částka, než jakou je potřeba doplatit.
+**Placení**
+    Co se placení týče, nejlepší je, pokud obsluha každému návštěvníku dává lístek zvlášť a na něj zapisuje, co si objednával. Pokud to nejde, musíš odcházet z místa konání více méně poslední a dořešit případné nesrovnalosti. Sem tam nějaké zapomenuté pivo nebývá problém, ale když lidé nezaplatí jídlo, částka může rychle naskakovat. V takovém případě je jedinou šancí je poprosit se smutným výrazem ve tváři poslední okolo postávající návštěvníky srazu o charitativní sbírku. Sice hloupá dvacka nebo pade, ale když se to nasbírá, mnohdy může být nakonec k dispozici i větší částka, než jakou je potřeba doplatit.
 
 .. _srazy-program:
 
 Řízení programu
 ^^^^^^^^^^^^^^^
 
-.. warning::
-    Tato sekce ještě není připravena.
+Co bude součástí programu srazu, je čistě na tobě. Pokud je váš sraz inspirován tím, co je v sekci :ref:`srazy-koncept`, mohou se ti hodit následující rady:
 
-..
-    predstavovani ucastniku
-    uvitani, uvitaci slajd, moderovani
-    casovac prednasek/lightning talku, 20 min max, 2-3 max
+**Uvítání, uvítací slajd**
+    Až ti dojde trpělivost s čekáním na opozdilce a usoudíš, že nastal čas sraz zahájit, předstup před shromážděný lid, uzmi jeho pozornost a uvítej ho. Hodí se říct kde se návštěvníci nacházejí, jaké je téma srazu a jak to bude zhruba probíhat. Pokud jsou nějaké výrazné novinky v Python komunitě nebo v organizaci srazu, toto je ta pravá chvíle je vytáhnout.
+
+**Představování účastníků**
+    Pokud se vás nesešlo sto, na začátku udělejte kolečko jako z filmů o anonymních alkoholicích. Osvědčená šablona je:
+
+    Ahoj, já jsem *jméno*, pracuju pro/pracuju jako *firma/volná noha*, ve volném čase rád *koníček*. Za poslední měsíc jsem *cokoliv*.
+
+    Příklad:
+
+    *Ahoj, já jsem Pepa Novák, pracuju pro Google, kde dělám na vyhledávání, a ve volném čase si rád hraju s RapsberryPi. Za poslední měsíc jsem na zahradě postavil žížalovník a naprogramoval jsem si super věc na setřízení empétrojek na disku.*
+
+    Může to vypadat trapně, ale fakt se to hodí a lidem to dává šanci lépe poznat, kdo vlastně přišel, o čem se s ním mohou bavit, na co se ho mohou ptát, apod. Část "za poslední měsíc" je zajímavá především pokud se váš sraz opakuje každý měsíc a jádro pravidelných návštěvníků je stále stejné.
+
+**Přednášky**
+    Přednášky by účastníky neměly utahat. Ideální je mít dvě až tři maximálně a omezit je na 20 minut. Tento čas pak na místě hlídat. Lightning talky omezit na 5 minut a jejich čas hlídat naprosto striktně.
+
+**Moderování diskusí**
+    Je fajn, když přednáška vyvolá živelnou diskusi a všichni se nebojácně zapojují a předávají si nejrůzněší moudrosti, ale někdy už to přeroste jakousi mez a je potřeba to utnout s tím, že zbytek si dořeší o přestávce nebo během volné zábavy (viz :ref:`srazy-volna-zabava`).
 
 .. _srazy-foceni:
 
