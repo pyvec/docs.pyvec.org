@@ -217,8 +217,6 @@ Přicházím na místo konání
     - redukci pro Mac (záleží i na projektoru).
 
 **Domluva s obsluhou**
-    S obsluhou si předem domluv, jak bude vypadat průběh akce a placení.
-
     Pokud máte salonek se zavíracími dveřmi, je možné obsluze říct, aby chodila jen pokud jsou otevřené (o přestávkách mezi přednáškami). S tím jak si návštěvníci objednávají, tak je takové pravidlo docela těžké dodržet. Nejlepší je asi moc to neřešit a klidně nechat přednášku přerušit obsluhou - přece jenom jsme na Pyvu a ne na velevážném kongresu státníků.
 
     Pokud v salonku hraje hudba, je potřeba ji nechat na přednášky vypnout. I když je velice potichu, hodně to ruší. Stejně tak může být problematické některé osvětlení.
