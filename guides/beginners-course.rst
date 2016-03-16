@@ -46,7 +46,6 @@ Kolik lidí chceš kurzem provést?
     Počítej s tím, že pokud je kurz zadarmo, budou lidi postupně odpadávat
     – např. se jim změní pracovní situace, nebo jednoduše zjistí, že
     programování není pro ně.
-
     Klidně se může stát, že z 25 lidí celým kurzem projdou 3.
 
 Jaká je cílová skupina?
@@ -76,7 +75,7 @@ Placené prostory
 
     Placené kurzy (nebo lépe, kurzy s nenulovým rozpočtem) se dají pořádat
     v coworkingovém centru nebo školícím středisku.
-    Možností je spousta,
+    Možností je spousta.
 
 
 Mentoři
@@ -106,12 +105,13 @@ Vedlejší koučové
     Koučové se dají nabrat na srazech, případně se dají oslovit programátoři
     v okolních firmách.
     Určitě koučování nabídni i účastníkům předchozích kurzů.
+    (XXX: rozšířit, že je fakt hodně dobré, když se verbují původní účastníci.)
 
 Obsah
 .....
 
 Naše materiály jsou `volně k použití <http://pyladies.cz/course.html>`_
-pod licencí CC-BY-SA, a dají se použít přímo nebo upravit přesně podle
+pod licencí `CC-BY-SA`_, a dají se použít přímo nebo upravit přesně podle
 vašich představ :)
 
 
@@ -174,13 +174,11 @@ V rámci úvodní prezentace by mělo padnout:
     * Pár instrukcí pro kouče
     * Představení koučů
 
-Osvědčil se systém barevných papírků, viz dole.
-
 
 Systém barevných papírků
 ------------------------
 
-Osvědčil se nám „papírkový” systém převzatý ze Software Carpentry.
+Osvědčil se nám „papírkový” systém převzatý ze `Software Carpentry`_.
 
 Každý účastník má k dispozici 3 barevné lepící papírky: žlutý, zelený a červený [#f1]_.
 
@@ -245,10 +243,11 @@ Pokračovací a doprovodné srazy
 
 XXX: "čtvrteční srazy"
 
-    
 
 
 .. _začátečnické kurzy PyLadies: http://pyladies.cz/course.html
+.. _CC-BY-SA: http://creativecommons.org/licenses/by-sa/4.0/
+.. _Software Carpentry: http://software-carpentry.org/
 
 .. rubric:: Footnotes
 
