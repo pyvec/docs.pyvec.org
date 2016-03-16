@@ -5,7 +5,7 @@ Tato příručka popisuje, jak pořádáme `začátečnické kurzy PyLadies`_,
 zhruba tříměsíční bezplatný kurz s každotýdenními dvouhodinovými setkáními.
 
 Podobné principy by měly fungovat i kdekoliv jinde.
-Můžeš to tu budeš brát jako návod nebo jako inspiraci,
+Můžeš to tu brát jako návod nebo jako inspiraci,
 nebo něco mezi tím – je to jen na tobě!
 
 .. warning::
