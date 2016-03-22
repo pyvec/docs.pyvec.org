@@ -130,11 +130,9 @@ Franšíza
 Počet organizátorů
 ^^^^^^^^^^^^^^^^^^
 
-.. warning::
-    Tato sekce ještě není připravena.
+Pokud se povedlo sraz trochu rozjet, je dobré najít si lidi, kteří by mohli s organizací pomoci. Alespoň jeden parťák dokáže vyřešit situace jako je nemoc, dovolená nebo nedostatek volného osobního času na organizaci.
 
-..
-    Get at least a second person you can count on as core members who will contribute regularly to the running of the group.
+Dalo by se říci, že čím více lidí je v organizačním týmu, tím lépe. Při větším počtu je ale potřeba dávat si pozor na syndrom *je nás dost, udělají to ostatní*. Osvědčilo se zavést funkci hlavního organizátora, který je zodpovědný za konkrétní sraz v kalendáři a i pokud mu nikdo nepomůže, on zodpovídá za organizaci daného srazu a proaktivně se snaží vše zařídit. Také by to měl být on, kdo má poslední slovo, pokud se organizátoři zrovna snaží domluvit na něčem ohledně daného srazu - může rozhodnout jaké bude téma nebo kdo bude přednášet. Tato funkce potom spravedlivě rotuje tak, aby se všichni vystřídali. Je-li sraz každý měsíc a organizátoři jsou třeba čtyři, vychází potom na každého zorganizovat tři srazy za rok, a to už se dá zvládnout i s časově náročnou prací, rodinou, nebo jinými zájmy. Pokud někdo zjistí, že termín, který slíbil, nemůže zorganizovat, tak si jej vymění s kolegou za nějaký jeho termín, aby zůstalo rovnoměrné rozložení.
 
 Příprava akce
 -------------
