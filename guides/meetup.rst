@@ -94,23 +94,26 @@ Vhodné místo konání
 
 Vhodné místo závisí na tom, jakou bude sraz mít náplň a jak často se koná. Jestliže vás bude deset a neplánujete mít přednášky, asi není moc co řešit - sejít se můžete prakticky kdekoliv.
 
-Je dobré, pokud máte k dispozici:
+Pro standardní Pyvo s přednáškami je dobré, pokud máte k dispozici:
 
-- Nekuřácký salonek se zavíracími dveřmi,
+- Nekuřácký salonek se zásuvkou a zavíracími dveřmi,
 - možnost požádat obsluhu o vypnutí hudby v salonku,
 - projektor a plátno,
 - Wi-Fi.
 
 Většina doposud existujících srazů se odehrává v nějakém pohostinství, ať už je to hospůdka, soukromý klub nebo kavárna. Je dobré myslet na přístupnost podniku. Pyvo by sice bez piva nebylo tak úplně Pyvem, ale na druhou stranu, čím méně to bude připomínat nálevnu, tím větší je pravděpodobnost, že na váš sraz přijde ostýchavější abstinent, křehčí dívka nebo středoškolák (představte si, jak doma mamce obhajuje, že jde do zakouřeného pivního pajzlu, protože se tam schází kamarádi co umí programovat). Ideální je buď soukromý klub nebo něco mezi restaurací a kavárnou. Ani moc nepřemýšlej nad tím, že to uděláš někde, kde se nedá najíst. Většina lidí, kteří na sraz dorazí, se tam bude chtít navečeřet (nebo nejen chtít, ale i muset, protože jim to tak vyšlo).
 
-Když se rezervuje celý salonek, berou si podniky někdy zálohu (s tím by případně dokázal finančně pomoci :ref:`srazy-pyvec`), většinou se lze ale domluvit jen tak, s příslibem větší útraty pijících a večeřících návštěvníků srazu.
-
 Rovněž rozmysli, zda se dá do místa konání pohodlně dostat z jiných částí města nebo z autobusového či vlakového nádraží. Ta jsou důležitá pro přespolní - a to nejsou jen návštěvníci z jiných srazů, ale i vzdálenější místní. Třeba v Brně jsou někteří pravidelní účastníci srazu z Kuřimi, což je město 15 km vzdálené.
+
+Zvaž bezpečnost účastníků. Za temných zimních večerů není příjmné chodit kolem parku nebo lesa. Pokud není snadné se na místo konání dostat (např. není zvenčí označeno), zorganizujte před každým srazem pravidelné setkání na dobře rozlišitelném místě a nové účastníky do místa konání doveďte.
 
 Projektor lze v nouzi půjčit pro účel srazu z větší firmy, ale musíš se s ním pak nosit. Když najdete místo s nějakou velkou televizí a není vás moc, je to celkem rozumná náhrada. Plátno lze nahradit kusem stěny nebo bílým ubrusem (vyzkoušeno). Také lze koupit rozkládací plátno, které se pak na místo přinese, roztáhne a za pár minut je vše připraveno.
 
 .. note::
     Coworkingová centra, univerzity nebo firemní zasedačky jsou určitě také možnost, ale napříč komunitou se zatím docela shodujeme na tom, že je to ukrutná nuda a nespojuje to lidi. Sraz by měl být odpočinkem po práci a měl by ulehčit navázání a utužování vztahů mezi lidmi. Sejít se ve firemní zasedačce a při zářivkovém světle si tam dát pizzu s kolou... to prostě nemá tu správnou atmosféru. I když potom uděláš "after-party" v hospůdce, většina lidí se ti rozuteče po cestě a nebude to o ničem. Nerozděluj části večera, nesnaž se z toho udělat konferenci, neupřednostňuj přednášky před lidmi a networkingem. Jako nějaký speciál dobrý, ale na pravidelný sraz asi spíš ne. Viděli jsme to u jiných, zkoušeli jsme to dokonce sami, a není to prostě ono.
+
+.. note::
+    Pokud si můžeš vybírat, zvol místo, které má bezbariérový přístup. Je škoda vyloučit z Python komunity lidi na vozíku jen proto, že hospoda, kde se scházíte, je ve sklepě a vedou do ní pouze schody. Je jasné, že už tak je to s místy opravdu těžké a toto je další omezení, ale zkus na něj myslet. Méně schodů může v některých případech potěšit třeba i lidi, kteří přijedou na kole.
 
 .. _srazy-fransiza:
 
@@ -142,11 +145,11 @@ Příprava akce
 Rezervace místa
 ^^^^^^^^^^^^^^^
 
-.. warning::
-    Tato sekce ještě není připravena.
+Když se rezervuje celý salonek, berou si podniky někdy zálohu (s tím by případně dokázal finančně pomoci :ref:`srazy-pyvec`), většinou se lze ale domluvit jen tak, s příslibem větší útraty pijících a večeřících návštěvníků srazu (v Brně lze bez zálohy rezervovat i pro 70 osob).
 
-..
-    Have a location you can rely upon, monthly, without fail.
+Pokud jste našli opravdu dobré místo a máte pravidelný sraz, domluvte se s majiteli na dlouhodobé rezervaci, ať máte jistotu, že vám podnik nikdo nevyblokuje. Rezervujete-li sraz po srazu, vyplácí se udělat rezervaci přímo na místě už před odchodem z předešlého srazu. Jinak se totiž musí do podniku zavolat během následujícího měsíce a programátoři jsou bohužel někdy, ač třeba jinak velcí organizátoři, duše plaché. To znamená, že aby nemuseli volat cizím lidem, odsouvají rezervaci ze dne na den celý měsíc, pak se ji snaží udělat dva dny před akcí. Tak mohou dospět třeba k tomu, že místo už zabral někdo jiný.
+
+Hodí se prozkoumat různá místa ve vašem městě a mít nějaké do zálohy, kdyby to ve vašem oblíbeném z nějakých důvodů nevyšlo.
 
 .. _srazy-propagace:
 
