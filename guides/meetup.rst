@@ -195,6 +195,9 @@ Přednášející
 
 ..
     Zahraniční speakeři versus zkušení speakeři versus nováčci
+    Líheň
+    doporučení, jak vybrat přednášející, lightning talky
+    přednášení hloupostí na lightning talku podnítí ostatní
 
 ..
     https://wiki.python.org/moin/PythonSpeakers
