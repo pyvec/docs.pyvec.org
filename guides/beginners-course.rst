@@ -174,6 +174,16 @@ V rámci úvodní prezentace by mělo padnout:
     * Pár instrukcí pro kouče
     * Představení koučů
 
+.. _usb_flash:
+
+Je dobré mít několik flashek s následujícíma věcma, aby je všichni nestahovali
+najednou:
+
+    * Aktuální kopie materiálů
+    * Instalačky Pythonu (Windows 64-bit, Windows 32-bit, Mac)
+    * Instalačky Atomu (Windows, Mac)
+    * Instalačky Gitu (Windows 64-bit, Windows 32-bit, Mac)
+
 
 Systém barevných papírků
 ------------------------
