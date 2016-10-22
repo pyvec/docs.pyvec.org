@@ -149,7 +149,26 @@ Podle toho si vytvoř časový rozvrh, ať na nic nezapomeneš:
 * D + zhruba 3 měsíce
 
     * Plánovaný konec kurzu
+    
+Tabulka koučů
+------------
+Je vhodné si připravit tabulku, kterou lze všem koučům nasdílet online a mohou v ní současně upravovat kdy který z nich může na lekci přijít. Nám se při organizování kuzů vyplatilo používání Google Tabulek, které lze nastavit na přístup na konkrétní emailové adresy či jen i anonymnim osobam, které mají odkaz. Koučové tak nutně nemusí mít Gmail, dají si odkaz někam, kde ho budou mít na očích a organizace se tím velmi zjednodušuje.
 
+Příklad takové tabulky:
+.....................
+
++--------------+--------------+---------------------+--------------+---------------+---------------+---------------+---------------+
+| Datum        | Název lekce  | Poznámka k lekci    | Hlavní kouč  | Vedlejší kouč | Vedlejší kouč | Vedlejší kouč | Vedlejší kouč |
++==============+==============+=====================+==============+===============+===============+===============+===============+  
+| 02.03.  2028 | Instalace    | potřeba více koučů  | Hugo         | Jarda         | Evžen         | Jana          | Emilka        |
++--------------+--------------+---------------------+--------------+---------------+---------------+---------------+---------------+
+| 09.03.  2028 | První program| ukázat dpaste.com   | Hugo         | Emilka        | Jana          |               | Pavla         |
++--------------+--------------+---------------------+--------------+---------------+---------------+---------------+---------------+
+| 16.03.  2028 | Cykly        |                     | Jana         | Emilka        |               | Evžen         |       X       |
++--------------+--------------+---------------------+--------------+---------------+---------------+---------------+---------------+
+| 23.03.  2028 | Git          |                     | Hugo         | Emilka        | Jan Tleskač   |     X         |       X       |
++--------------+--------------+---------------------+--------------+---------------+---------------+---------------+---------------+
+**Jarda vidí, že na 9.3. a 16.3. bude potřeba pokaždé ještě jednoho kouče a tak ví, že může pomoci a napíše se tam - plánování vidí všichni a ne jen organizátor, což mu usnadní práci a může se věnovat dalším věcem! Někdy není potřeba koučů tolik, můžeš jim to dát vědět domluveným znakem. V naší tabulce je to X**
 
 První lekce
 -----------
