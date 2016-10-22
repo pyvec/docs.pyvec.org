@@ -236,9 +236,9 @@ Každá lekce (kromě té první) je u nás rozdělena do dvou částí:
     Potom stejným způsobem proberou dva úkoly, které byly složité, nebo se je
     nepodařilo vyřešit. (Když řešení nezná ani jeden, pomůže kouč.)
     
-    Varianta B: Vytvoří se menší skupinky s koučem. Např. 3-5 úřastníků a kouč a úkoly projdou spolu, podívají se na různá řešení úkolů 
+    Varianta B: Vytvoří se menší skupinky s koučem. Např. 3-5 účastníků a kouč a úkoly projdou spolu, podívají se na různá řešení úkolů 
     každého z účastníků. Zde je důležité, že kouč by měl být       
-    v takové skupině aktivní víc než u variaty A, kde čeká až jej někdo požádá o pomoc. 
+    v takové skupině aktivní víc než u variaty A, kde čeká, až jej někdo požádá o pomoc. 
 
 * 90 minut: probírání nového materiálu
 
@@ -256,10 +256,10 @@ Každý vedlejší i hlavní kouč by měl mít na paměti jistá pravidla, aby 
 
     * klávesnice každého účastníka je svatá a psát na ní může jen on sám
     * mluví pomalu a má trpělivost, s úsměvem je vše lepší a lekce budí přátelský dojem
-    * vždy vysvětluje pouze to co se aktuálně řeší (platí především pro vedlejší kouče), nezdržuje lekci vysvětlováním látky dopředu (to        
+    * vždy vysvětluje pouze to, co se aktuálně řeší (platí především pro vedlejší kouče), nezdržuje lekci vysvětlováním látky dopředu (to        
     je úkol hlavního kouče)
     * nekempuje u jednoho účastníka celou lekci, ale snaží se podávat pomoc mezi více účastníky 
-    * řešení problému by mělo vzejít od účastníka, vedlejší kouč se jej na řešení snaží navést otázkami na které účastník sám odpovídá ( 
+    * řešení problému by mělo vzejít od účastníka, vedlejší kouč se jej na řešení snaží navést otázkami, na které účastník sám odpovídá ( 
     přímé odhalení řešení pomůže účastníkovi pouze krátkodobě)
     * snaží se nepoužívat terminologii, kterou účastník zatím nezná
     * nezlehčuje problémy, které účastník řeší ani je nevhodně nekomentuje, nevzdychá a vyvaruje se demotivujícím hláškám
