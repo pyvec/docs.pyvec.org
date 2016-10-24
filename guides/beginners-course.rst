@@ -257,10 +257,10 @@ Každý vedlejší i hlavní kouč by měl mít na paměti jistá pravidla, aby 
     * klávesnice každého účastníka je svatá a psát na ní může jen on sám
     * mluví pomalu a má trpělivost, s úsměvem je vše lepší a lekce budí přátelský dojem
     * vždy vysvětluje pouze to, co se aktuálně řeší (platí především pro vedlejší kouče), nezdržuje lekci vysvětlováním látky dopředu (to        
-    je úkol hlavního kouče)
+      je úkol hlavního kouče)
     * nekempuje u jednoho účastníka celou lekci, ale snaží se podávat pomoc mezi více účastníky 
     * řešení problému by mělo vzejít od účastníka, vedlejší kouč se jej na řešení snaží navést otázkami, na které účastník sám odpovídá ( 
-    přímé odhalení řešení pomůže účastníkovi pouze krátkodobě)
+      přímé odhalení řešení pomůže účastníkovi pouze krátkodobě)
     * snaží se nepoužívat terminologii, kterou účastník zatím nezná
     * nezlehčuje problémy, které účastník řeší ani je nevhodně nekomentuje, nevzdychá a vyvaruje se demotivujícím hláškám
     
