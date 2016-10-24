@@ -105,7 +105,9 @@ Vedlejší koučové
     Koučové se dají nabrat na srazech, případně se dají oslovit programátoři
     v okolních firmách.
     Určitě koučování nabídni i účastníkům předchozích kurzů.
-    (XXX: rozšířit, že je fakt hodně dobré, když se verbují původní účastníci.)
+    V první řadě, látku uslyší znovu a tím si ji oživí. A navíc vysvětlováním a pomáháním s chybami účastníků jim i leccos zpětně dojde.                       
+    Tuto metodu i samotní programátoři používají při své práci a jde o tzv. `Rubber duck debugging 
+    <https://en.wikipedia.org/wiki/Rubber_duck_debugging>`_. 
 
 Obsah
 .....
@@ -191,7 +193,8 @@ V rámci úvodní prezentace by mělo padnout:
     * Co se naučíme, a co naopak v kurzu nebude
     * Instrukce pro účastníky – viz barevné papírky níže
     * Pár instrukcí pro kouče
-    * Představení koučů
+    * Představení koučů i účastníků ( je dobré, pokud mohou účastníci kurzu uvést, proč na kurz přišli a co jaká bližší oblast je zajimá. 
+    Celé oboustranné představování většinout dost prolomí ledy a kurz budí přátelský dojem)
 
 .. _usb_flash:
 
@@ -199,9 +202,9 @@ Je dobré mít několik flashek s následujícíma věcma, aby je všichni nesta
 najednou:
 
     * Aktuální kopie materiálů
-    * Instalačky Pythonu (Windows 64-bit, Windows 32-bit, Mac)
-    * Instalačky Atomu (Windows, Mac)
-    * Instalačky Gitu (Windows 64-bit, Windows 32-bit, Mac)
+    * Instalačky Pythonu (Windows 64-bit, Windows 32-bit, macOS)
+    * Instalačky Atomu (Windows, macOS)
+    * Instalačky Gitu (Windows 64-bit, Windows 32-bit, macOS)
 
 
 Systém barevných papírků
@@ -246,11 +249,15 @@ Každá lekce (kromě té první) je u nás rozdělena do dvou částí:
 
 * 30 minut: kontrola domácích úkolů
 
-    Účastníci se rozdělí do dvojic. Jeden z nich vybere úkol, který byl zajímavý,
+    Varianta A: Účastníci se rozdělí do dvojic. Jeden z nich vybere úkol, který byl zajímavý,
     vtipný, jednoduchý, nebo jinak pozitivní, a vysvětlí řešení.
     Pak je řada na druhém ze dvojice.
     Potom stejným způsobem proberou dva úkoly, které byly složité, nebo se je
     nepodařilo vyřešit. (Když řešení nezná ani jeden, pomůže kouč.)
+    
+    Varianta B: Vytvoří se menší skupinky s koučem. Např. 3-5 účastníků a kouč a úkoly projdou spolu, podívají se na různá řešení úkolů 
+    každého z účastníků. Zde je důležité, že kouč by měl být       
+    v takové skupině aktivní víc než u variaty A, kde čeká, až jej někdo požádá o pomoc. 
 
 * 90 minut: probírání nového materiálu
 
@@ -264,9 +271,18 @@ Každá lekce (kromě té první) je u nás rozdělena do dvou částí:
 Pravidla chování pro kouče
 --------------------------
 
-XXX: "desatero" pro kouče (co z desatera má smysl?)
+Každý vedlejší i hlavní kouč by měl mít na paměti jistá pravidla, aby kurz nepůsobil zmateně a každému účastníkovi se dostalo stejné pomoci. Pro příklad jsme jich pár zkusili a velmi se nám jejich prosazování vyplatilo.
 
-
+    * klávesnice každého účastníka je svatá a psát na ní může jen on sám
+    * mluví pomalu a má trpělivost, s úsměvem je vše lepší a lekce budí přátelský dojem
+    * vždy vysvětluje pouze to, co se aktuálně řeší (platí především pro vedlejší kouče), nezdržuje lekci vysvětlováním látky dopředu (to        
+      je úkol hlavního kouče)
+    * nekempuje u jednoho účastníka celou lekci, ale snaží se podávat pomoc mezi více účastníky 
+    * řešení problému by mělo vzejít od účastníka, vedlejší kouč se jej na řešení snaží navést otázkami, na které účastník sám odpovídá ( 
+      přímé odhalení řešení pomůže účastníkovi pouze krátkodobě)
+    * snaží se nepoužívat terminologii, kterou účastník zatím nezná
+    * nezlehčuje problémy, které účastník řeší ani je nevhodně nekomentuje, nevzdychá a vyvaruje se demotivujícím hláškám
+    
 Pokračovací a doprovodné srazy
 ------------------------------
 
