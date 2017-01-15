@@ -156,7 +156,7 @@ Hodí se prozkoumat různá místa ve vašem městě a mít nějaké do zálohy,
 Propagace
 ^^^^^^^^^
 
-.. todo::
+.. warning::
     Tato sekce ještě není připravena.
 
 ..
@@ -171,7 +171,7 @@ Propagace
 Sponzoři
 ^^^^^^^^
 
-.. todo::
+.. warning::
     Tato sekce ještě není připravena.
 
 .. _srazy-tema:
@@ -179,7 +179,7 @@ Sponzoři
 Výběr tématu
 ^^^^^^^^^^^^
 
-.. todo::
+.. warning::
     Tato sekce ještě není připravena.
 
 .. _srazy-prednasejici:
@@ -187,7 +187,7 @@ Výběr tématu
 Přednášející
 ^^^^^^^^^^^^
 
-.. todo::
+.. warning::
     Tato sekce ještě není připravena.
 
 ..
