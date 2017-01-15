@@ -135,6 +135,8 @@ Pokud se povedlo sraz trochu rozjet, je dobré najít si lidi, kteří by mohli 
 
 Dalo by se říci, že čím více lidí je v organizačním týmu, tím lépe. Při větším počtu je ale potřeba dávat si pozor na syndrom *je nás dost, udělají to ostatní*. Osvědčilo se zavést funkci hlavního organizátora, který je zodpovědný za konkrétní sraz v kalendáři a i pokud mu nikdo nepomůže, on zodpovídá za organizaci daného srazu a proaktivně se snaží vše zařídit. Také by to měl být on, kdo má poslední slovo, pokud se organizátoři zrovna snaží domluvit na něčem ohledně daného srazu - může rozhodnout jaké bude téma nebo kdo bude přednášet. Tato funkce potom spravedlivě rotuje tak, aby se všichni vystřídali. Je-li sraz každý měsíc a organizátoři jsou třeba čtyři, vychází potom na každého zorganizovat tři srazy za rok, a to už se dá zvládnout i s časově náročnou prací, rodinou, nebo jinými zájmy. Pokud někdo zjistí, že termín, který slíbil, nemůže zorganizovat, tak si jej vymění s kolegou za nějaký jeho termín, aby zůstalo rovnoměrné rozložení.
 
+V Praze zase praktikují dělbu práce - jeden pravidelně posílá e-mail, druhý vždy shání přednášející, a tak dále.
+
 Příprava akce
 -------------
 
@@ -145,7 +147,7 @@ Rezervace místa
 
 Když se rezervuje celý salonek, berou si podniky někdy zálohu (s tím by případně dokázal finančně pomoci :ref:`srazy-pyvec`), většinou se lze ale domluvit jen tak, s příslibem větší útraty pijících a večeřících návštěvníků srazu (v Brně lze bez zálohy rezervovat i pro 70 osob).
 
-Pokud jste našli opravdu dobré místo a máte pravidelný sraz, domluvte se s majiteli na dlouhodobé rezervaci, ať máte jistotu, že vám podnik nikdo nevyblokuje. Rezervujete-li sraz po srazu, vyplácí se udělat rezervaci přímo na místě už před odchodem z předešlého srazu. Jinak se totiž musí do podniku zavolat během následujícího měsíce a programátoři jsou bohužel někdy, ač třeba jinak velcí organizátoři, duše plaché. To znamená, že aby nemuseli volat cizím lidem, odsouvají rezervaci ze dne na den celý měsíc, pak se ji snaží udělat dva dny před akcí. Tak mohou dospět třeba k tomu, že místo už zabral někdo jiný.
+Pokud jste našli opravdu dobré místo a máte pravidelný sraz, domluvte se s majiteli na dlouhodobé rezervaci, ať máte jistotu, že vám podnik nikdo nevyblokuje. Rezervujete-li sraz po srazu, vyplácí se udělat rezervaci přímo na místě už před odchodem z předešlého srazu. Jinak se totiž musí do podniku zavolat během následujícího měsíce a programátoři jsou bohužel někdy, ač třeba jinak velcí organizátoři, duše plaché. To znamená, že aby nemuseli volat cizím lidem, odsouvají rezervaci ze dne na den celý měsíc, pak se ji snaží udělat dva dny před akcí. Tak mohou snadno dospět k tomu, že místo už zabral někdo jiný.
 
 Hodí se prozkoumat různá místa ve vašem městě a mít nějaké do zálohy, kdyby to ve vašem oblíbeném z nějakých důvodů nevyšlo.
 
@@ -216,10 +218,10 @@ Přicházím na místo konání
 
     - Prodlužovačku (záleží i na místě konání),
     - něco jako stopky na měření délky přednášek,
-    - redukci pro Mac (záleží i na projektoru).
+    - nejrůznější redukce pro Mac (záleží i na projektoru).
 
 **Domluva s obsluhou**
-    Pokud máte salonek se zavíracími dveřmi, je možné obsluze říct, aby chodila jen pokud jsou otevřené (o přestávkách mezi přednáškami). S tím jak si návštěvníci objednávají, tak je takové pravidlo docela těžké dodržet. Nejlepší je asi moc to neřešit a klidně nechat přednášku přerušit obsluhou - přece jenom jsme na Pyvu a ne na velevážném kongresu státníků.
+    Pokud máte salonek se zavíracími dveřmi, je možné obsluze říct, aby chodila jen pokud jsou otevřené (o přestávkách mezi přednáškami). S tím jak si návštěvníci objednávají, tak je ale takové pravidlo docela těžké dodržet. Nejlepší je asi moc to neřešit a klidně nechat přednášku přerušit obsluhou - přece jenom jsme na Pyvu a ne na velevážném kongresu státníků.
 
     Pokud v salonku hraje hudba, je potřeba ji nechat na přednášky vypnout. I když je velice potichu, hodně to ruší. Stejně tak může být problematické některé osvětlení.
 
@@ -267,7 +269,7 @@ Při focení a následném sdílení výsledků své práce myslete na to, že n
 Natáčení
 ^^^^^^^^
 
-Pokud máte přednášky, můžete je natočit. To se nejlépe dělá kamerou na stativu, ale takové vybavení má málokdo. Z pravidelných návštěvníků českých Pyv je to především `Petr Viktorin <http://encukou.cz/>`_, který si jej pořídil speciálně pro tento účel, objíždí s ním srazy a vše co vidí, to natáčí a následně zpracovává.
+Pokud máte přednášky, můžete je natočit. To se nejlépe dělá kamerou na stativu, ale takové vybavení má málokdo. Z pravidelných návštěvníků českých Pyv je to především `Petr Viktorin <http://encukou.cz/>`_, který si je pořídil speciálně pro tento účel, objíždí s ním srazy a vše co vidí, to natáčí a následně zpracovává.
 
 Pokud zrovna nemáte Petra ani vlastní kameru, ale přesto chcete zkusit přednášky natočit, můžete to zkusit klidně i chytrým telefonem nebo foťákem. Nakonec jde totiž při natáčení přednášejícího stejně především o zvuk. Co ukazuje divákům můžete snadno zachytit přímo v jeho počítači přes programy jako
 
@@ -300,30 +302,19 @@ Po akci
 Materiály z přednášek
 ^^^^^^^^^^^^^^^^^^^^^
 
-Jako archiv informací o jednotlivých srazech využíváme `Lanyrd <http://lanyrd.com>`_:
+Jako archiv informací o jednotlivých srazech jsme využívali `Lanyrd <http://lanyrd.com>`_ (`Praha <http://lanyrd.com/series/praha-pyvo/>`_, `Brno <http://lanyrd.com/series/brno-pyvo/>`_, `Ostrava <http://lanyrd.com/series/ostrava-pyvo/>`_), ale nakonec jsme si na `pyvo.cz <http://pyvo.cz/>`_ udělali vlastní systém s databází `pyvo-data <https://github.com/pyvec/pyvo-data>`_.
 
-- `Praha <http://lanyrd.com/series/praha-pyvo/>`_
-- `Brno <http://lanyrd.com/series/brno-pyvo/>`_
-- `Ostrava <http://lanyrd.com/series/ostrava-pyvo/>`_
-
-Je to v podstatě `wiki <https://cs.wikipedia.org/wiki/Wiki>`_, kde může kdokoliv vytvořit událost a popsat, co se na ní dělo - kde byla, kdo přednášel, aj. detaily. Zároveň se lidé mohou i sami přihlásit k tomu, že na akci jdou, že tam budou přednášet, apod. V ČR tento web účastníci srazů moc nevyužívají (kromě Prahy, tam se to nějakou záhadou docela naučili) a jako pozvánka na sraz mnohem lépe funguje Facebook nebo jiné weby (viz :ref:`srazy-propagace`). Lanyrd nicméně skvěle funguje jako archiv toho, co se dělo.
-
-Pokud máš nějaké slajdy nebo jiné materiály, je dobré je na událost vašeho srazu doplnit k přednáškám. Lanyrd takovým materiálům říká *coverage* a může to být skoro cokoliv od odkazu na YouTube s videem z přednášky po odkazy na slajdy ze služeb jako `Speaker Deck <https://speakerdeck.com/>`_ či `SlideShare <http://www.slideshare.net/>`_. Lanyrd potom takto nahrané materiály umí pěkně zobrazit.
-
-Na Lanyrdu lze jednotlivé události řadit do *series* (sérií). To je vhodné dělat pro opakované srazy a má to tak zatím každé Pyvo (viz odkazy výše). Vedle toho existují ještě tzv. *guides* (průvodci), což jsou ručně udržované seznamy událostí napříč sériemi. My udržujeme průvodce s názvem `Pyvo <http://lanyrd.com/guides/pyvo/>`_, a to hlavně kvůli tomu, že k němu takto Lanyrd vygeneruje odkazy na kalendáře a RSS pro všechny Python srazy v republice. Tuto úlohu by ale měl zastat web `pyvo.cz <http://pyvo.cz/>`_, takže by to snad brzy už nemělo být tolik potřeba.
-
-.. note::
-    V dlouhodobém horizontu se chceme závislosti na Lanyrdu zbavit. Data postupně stahujeme do repozitáře `pyvo-data <https://github.com/pyvec/pyvo-data>`_, zobrazujeme je na `pyvo.cz <http://pyvo.cz/>`_ a do budoucna bychom rádi, aby se tato kopie stala hlavním "zdrojem pravdy" a primárním archivem. Až se tak stane, příručka by se měla přepsat, aby nabádala k nahrávání informací především do naší databáze.
+Pokud máš nějaké slajdy nebo jiné materiály, je dobré je na stránky vašeho srazu doplnit k popisu přednášek. Může to být skoro cokoliv od odkazu na YouTube s videem z přednášky, po odkazy na slajdy ze služeb jako `Speaker Deck <https://speakerdeck.com/>`_ či `SlideShare <http://www.slideshare.net/>`_.
 
 .. _srazy-fotky:
 
 Fotky
 ^^^^^
 
-Pyva zatím nemají žádnou centralizovanou celorepublikovou galerii. Pokud máš nějaké fotky ze srazu (viz :ref:`srazy-foceni`) a chceš je sdílet, hoď je, kam je ti libo. Když se ti pár fotek opravdu povede,
+Pyvec má na svém Google Drive archiv všech možných fotek z akcí české Python komunity, který zatím ale neústí v žádnou veřejnou, centralizovanou celorepublikovou galerii. Pokud máš nějaké fotky ze srazu (viz :ref:`srazy-foceni`) a chceš je archivovat, kontaktuj určitě :ref:`srazy-pyvec`. Chceš-li je sdílet, hoď je, kam je ti libo. Když se ti pár fotek opravdu povede,
 
 - tweetni je a udělej *mention* na `@naPyvo <https://twitter.com/napyvo>`_ (rádi to retweetnem), nebo
-- udělej Pull Request a `přidej je jako fotky, které se náhodně zobrazují jako pozadí na python.cz <https://github.com/pyvec/python.cz/tree/master/pythoncz/static/photos>`_.
+- je zmenši na rozumnou velikost a udělej Pull Request, v němž `je přidáš jako fotky, které se náhodně zobrazují jako pozadí na python.cz <https://github.com/pyvec/python.cz/tree/master/pythoncz/static/photos>`_.
 
 Při sdílení myslete na to, že ne každý se rád fotí a ne každý rád visí někde na Facebooku.
 
@@ -356,6 +347,7 @@ Zákulisí existujících srazů v ČR
 
 Na následujících stránkách se domlouvají organizátoři existujících srazů.
 
+- `Pyvec Slack <http://pyvec.slack.com/>`_
 - `Brno (Google Group) <https://groups.google.com/forum/#!forum/brno-pyvo>`_
 - `Ostrava (Google Group) <https://groups.google.com/forum/#!forum/ostrava-pyvo>`_
 - `Ostrava (Facebook) <https://www.facebook.com/groups/pyvoruby/>`_
@@ -367,9 +359,16 @@ Tipy
 
 - Anglicky se sraz řekne *meetup*. Lokální komunita kolem jazyka se označuje *user group*, takže sraz Python nadšenců v Olomouci bude něco jako *Meetup of the Olomouc Python User Group*.
 
+Původ názvu Pyvo
+^^^^^^^^^^^^^^^^
+
+Název *Pyvo* vymyslel `Rastislav Turek <http://turek.co/>`_ někdy v roce 2011. Založil skupinu `Pyonieri <https://www.facebook.com/groups/pyonieri/>`_ a odstartoval v Bratislavě srazy Pyvo, které byly ale prakticky od začátku spojené s `Rubyslavou <http://rubyslava.sk/>`_. Když Honza Javorek zakládal Python sraz v Brně, název se svolením převzal. Později se rozšířil i do Prahy (kde přejmenovali Django CS / Pyvec srazy na Pyvo) a do Ostravy, kde už se to jako Pyvo rovnou založilo. Mezitím se Rubyslava stala srazem pro programátory všeho druhu a Pyvo v Bratislavě jako samostatný projekt úplně zaniklo. Až později bylo nahrazeno komunitou kolem `PyCon SK <https://www.pycon.sk/>`_ a jejich srazy.
+
 .. _srazy-pyvec:
 
 Pyvec
 ^^^^^
 
 Za touto příručkou stojí `Pyvec <http://pyvec.org/>`_, neziskovka podporující v ČR aktivity kolem programovacího jazyka Python. Pokud byste se srazem měli jakékoliv problémy, potřebovali nějaké finance nebo rady, rozhodně se na nás obraťte - jsme tu od toho, abychom vám byli k ruce a pomohli vám.
+
+Příručku sepsal Honza Javorek. Podíleli se na ní nebo do ní nějak přispěli Petr Viktorin, Jirka Bartoň, Michal Valoušek, a další.
