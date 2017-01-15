@@ -120,13 +120,11 @@ Projektor lze v nouzi půjčit pro účel srazu z větší firmy, ale musíš se
 Franšíza
 ^^^^^^^^
 
-.. todo::
-    Tato sekce ještě není připravena.
+Zvaž, jestli pro tvé město není Python příliš úzké zaměření srazu. Např. ve Valašském Meziříčí jsou `Tkalci <http://tkalci.cz/>`__, sraz obecnější, o webu a dalších technologiích. V Českých Budějovicích je `Čtvrtkon <http://ctvrtkon.cz/>`__, který pravidelně střídá témata z různých oblastí.
 
-..
-    problem maleho mesta
-    sirsi temata - web, linux, open source, dynamicky typovane jazyky, elegantni programovani, spojovani s Ruby atd.
-    pokud aspon 50% talku je o pythonu nebo se tema srazu pythonu tyka, muzes dane vydani nazvat Pyvo a zpropagujeme to a bude to v kalendarich atd., zaclenime to jako pyvo, pomuzeme, atd., at uz je ten originalni sraz o cemkoliv
+V Pyvci přemýšlíme nad tím, jestli bychom nemohli zkusit zavést možnost franšízování značky Pyvo. Že by například Tkalci mohli mít jedno vydání čistě s přednáškami ze světa Pythonu a díky tomu by toto konkrétní setkání mohli prohlásit za Pyvo. Tím by se dostalo do našich kalendářů na `pyvo.cz <http://pyvo.cz>`__ a pomohli bychom jej propagovat na sociálních sítích a i jinde. Také bychom třeba vyslali nějakou delegaci výletníků (přednášejících?).
+
+Nemáme to nijak skvěle promyšlené. Pokud by měl o tohle tvůj sraz zájem, dej nám vědět (viz :ref:`srazy-pyvec`).
 
 .. _srazy-organizatori:
 
