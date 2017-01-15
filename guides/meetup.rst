@@ -120,7 +120,7 @@ Projektor lze v nouzi půjčit pro účel srazu z větší firmy, ale musíš se
 Franšíza
 ^^^^^^^^
 
-.. warning::
+.. todo::
     Tato sekce ještě není připravena.
 
 ..
@@ -156,7 +156,7 @@ Hodí se prozkoumat různá místa ve vašem městě a mít nějaké do zálohy,
 Propagace
 ^^^^^^^^^
 
-.. warning::
+.. todo::
     Tato sekce ještě není připravena.
 
 ..
@@ -171,7 +171,7 @@ Propagace
 Sponzoři
 ^^^^^^^^
 
-.. warning::
+.. todo::
     Tato sekce ještě není připravena.
 
 .. _srazy-tema:
@@ -179,7 +179,7 @@ Sponzoři
 Výběr tématu
 ^^^^^^^^^^^^
 
-.. warning::
+.. todo::
     Tato sekce ještě není připravena.
 
 .. _srazy-prednasejici:
@@ -187,7 +187,7 @@ Výběr tématu
 Přednášející
 ^^^^^^^^^^^^
 
-.. warning::
+.. todo::
     Tato sekce ještě není připravena.
 
 ..
