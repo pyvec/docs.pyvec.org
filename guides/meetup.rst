@@ -271,12 +271,15 @@ Natáčení
 
 Pokud máte přednášky, můžete je natočit. To se nejlépe dělá kamerou na stativu, ale takové vybavení má málokdo. Z pravidelných návštěvníků českých Pyv je to především `Petr Viktorin <http://encukou.cz/>`_, který si je pořídil speciálně pro tento účel, objíždí s ním srazy a vše co vidí, to natáčí a následně zpracovává.
 
-Pokud zrovna nemáte Petra ani vlastní kameru, ale přesto chcete zkusit přednášky natočit, můžete to zkusit klidně i chytrým telefonem nebo foťákem. Nakonec jde totiž při natáčení přednášejícího stejně především o zvuk. Co ukazuje divákům můžete snadno zachytit přímo v jeho počítači přes programy jako
+Pokud zrovna nemáte Petra ani vlastní kameru, ale přesto chcete zkusit přednášky natočit, můžete to zkusit klidně i chytrým telefonem nebo foťákem. Nakonec jde totiž při natáčení přednášejícího stejně především o zvuk.Je dobré přednášky „stříhat rovnou v kameře,“ to znamená zapnout kameru těsně před začátkem přednášky a vypnout ji těsně po potlesku. Natáčení více přednášek do jednoho záběru zbytečně přináší víc nároků na následné zpracovávání záznamů.
 
-- `recordMyDesktop <https://en.wikipedia.org/wiki/RecordMyDesktop>`_ nebo
-- `Quick Time <https://support.apple.com/en-us/HT201066#screen>`_.
+Co ukazuje přednášející divákům je možné zachytit pomocí speciální krabičky `ExtremeCap 910 <https://www.avermedia.com/education/product/all/extremecap_910>`_, která se zapojí mezi počítač a projektor a nahrává na SD kartu promítaný obraz včetně zvuku z mikrofonu. Jednu takovou krabičku má `Petr Viktorin <http://encukou.cz/>`_, druhou `Ondřej Caletka <https://ondřej.caletka.cz>`_. Alternativou je nahrávání obrazu přímo v jeho počítači přes programy jako
 
-Při zpracování se dá potom obraz z počítače spojit s nahrávkou z místnosti. Jedinou překážkou může být neochota přednášejících instalovat si na počítač nějaký nový software. Argumentovat můžeš tím, že *recordMyDesktop* je Open Source a *Quick Time* že je na Macu přímo součástí systému.
+- `recordMyDesktop <https://en.wikipedia.org/wiki/RecordMyDesktop>`_ 
+- `Quick Time <https://support.apple.com/en-us/HT201066#screen>`_ 
+- `FFmpeg <https://trac.ffmpeg.org/wiki/Capture/Desktop>`_
+
+Jedinou překážkou může být neochota přednášejících instalovat si na počítač nějaký nový software. Argumentovat můžeš tím, že *recordMyDesktop* je Open Source a *Quick Time* že je na Macu přímo součástí systému. Při zpracování se dá potom obraz z počítače spojit s nahrávkou z místnosti – k tomu je dobré, aby jak nahrávka z kamery, tak nahrávka projektoru obsahovala zvuk. Přednášející by měl být snímán v detailu a pokud možno bez plátna v záběru, aby z něj nebyla jen tmavá silueta.
 
 Při natáčení videí a jejich následném sdílení myslete na to, že ne každý může chtít, aby byla jeho přednáška veřejně přístupná (viz :ref:`srazy-prednasejici`). Měli byste mít od přednášejícího svolení s nahráváním a uveřejněním nebo by mělo být alespoň jasné, že si mohou vybrat. Zpracování videí je ještě podrobně popsáno v sekci :ref:`srazy-videa`.
 
@@ -304,7 +307,7 @@ Materiály z přednášek
 
 Jako archiv informací o jednotlivých srazech jsme využívali `Lanyrd <http://lanyrd.com>`_ (`Praha <http://lanyrd.com/series/praha-pyvo/>`_, `Brno <http://lanyrd.com/series/brno-pyvo/>`_, `Ostrava <http://lanyrd.com/series/ostrava-pyvo/>`_), ale nakonec jsme si na `pyvo.cz <http://pyvo.cz/>`_ udělali vlastní systém s databází `pyvo-data <https://github.com/pyvec/pyvo-data>`_.
 
-Pokud máš nějaké slajdy nebo jiné materiály, je dobré je na stránky vašeho srazu doplnit k popisu přednášek. Může to být skoro cokoliv od odkazu na YouTube s videem z přednášky, po odkazy na slajdy ze služeb jako `Speaker Deck <https://speakerdeck.com/>`_ či `SlideShare <http://www.slideshare.net/>`_.
+Pokud máš nějaké slajdy nebo jiné materiály, je dobré je na stránky vašeho srazu doplnit k popisu přednášek. Může to být skoro cokoliv od odkazu na YouTube s videem z přednášky, po odkazy na slajdy ze služeb jako `Speaker Deck <https://speakerdeck.com/>`_ či `SlideShare <http://www.slideshare.net/>`_. Pokud ti přednášející předá slajdy ve formě souboru, převeď je pokud možno na PDF a nahraj do repozitáře `talks-archive <https://github.com/pyvec/talks-archive>`. Následně na ně odkazuj ve formátu ``https://pyvec.github.io/talks-archive/<název souboru>``
 
 .. _srazy-fotky:
 
@@ -323,9 +326,59 @@ Při sdílení myslete na to, že ne každý se rád fotí a ne každý rád vis
 Videa
 ^^^^^
 
-Pokud se vám povedlo natočit nějaká videa (viz :ref:`srazy-nataceni`), tak dejte vědět `Petrovi Viktorinovi <http://encukou.cz/>`_ a on vám řekne, co s nimi. Až ho to nebude bavit, tak tento odstavec přepíše a bude tady přímo návod na to, jak je můžete zpracovat a jak se můžou objevit na `YouTube kanálu Pyvce <https://www.youtube.com/user/pyvec/playlists>`_.
+Pokud se ti povedlo natočit nějaká videa (viz :ref:`srazy-nataceni`), buď dej vědět `Petrovi Viktorinovi <http://encukou.cz/>`_ a nebo se pokus o jejich zpracování sám/sama.
+
+ 1. Připrav prázdný adresář pro každou přednášku. S ti tím pomůže funkce ``videometadata`` nástroje `pyvodb <https://github.com/pyvec/pyvodb>`_:
+
+.. code-block:: shell
+
+ $ python3 -m venv venv
+ $ source ./venv/bin/activate
+ (venv)$ pip install git+https://github.com/pyvec/pyvodb
+ (venv)$ git clone https://github.com/pyvec/pyvo-data
+ (venv)$ pyvo --data pyvo-data videometadata praha 2018-07
+ (venv)$ tree Praha-2018-07/
+ Praha-2018-07/
+ ├── config.yaml
+ ├── 01-Python-bites
+ │   └── config.yaml
+ ├── 02-Back-end-ktery-pohani-LinuxDays-cz
+ │   └── config.yaml
+ └── 03-Black-The-Uncompromising-Code-Formatter
+     └── config.yaml
+
+..
+
+ 2. Do připravených adresářů nahraj soubory s videem – jak z kamery, tak záznamy plochy. Uprav vygenerovaný soubor ``config.yaml``, tak aby obsahoval správný název přednášky, jméno přednášejícího, datum a URL akce, stejně jako odkazy na videosoubory (pokud kamera automaticky dělí záběry do více souborů, nevadí to).
+
+ 3. Nainstaluj `talk-video-maker <https://github.com/encukou/talk-video-maker>`_ a jeho závislosti – `Inkscape <https://inkscape.org/cs/>`_ a `FFmpeg <https://www.ffmpeg.org/>`_. Tohle s největší pravděpodobností nebude fungovat jinde než na Linuxu. Na wiki projektu je `návod, jak s tím začít <https://github.com/encukou/talk-video-maker/wiki/Jak-s-t%C3%ADm-za%C4%8D%C3%ADt>`_.
+
+.. code-block:: shell
+
+ (venv)$ git clone https://github.com/encukou/talk-video-maker
+ (venv)$ pip install -e talk-video-maker
+ (venv)$ python talk-video-maker/pyvo/make_vid.py --outdir . Praha-2018-07/01-Python-bites/config.yaml
+
+..
+
+ 4. Pokud se vše podařilo, máš v aktuálním adresáři sestříhané video a k němu YAML soubor s metadaty potřebnými pro YouTube. Zkontroluj, jestli video vypadá, jak vypadat má, jestli nejsou překlepy v titulcích a jestli i na konci videa je synchronní obraz a zvuk.
+
+ 5. Pro nahrávání do `kanálu Pyvo na YouTube <https://www.youtube.com/channel/UCaT4I7hjX9iH1YFvNvuu84A>`_ potřebuješ vlastní Google účet. Následně požádáš Petra Viktorina, aby tě přidal jako správce. Na YouTube pak budeš moci přepínat mezi svými účty, přičemž jedním z nich bude právě Pyvo. Protože ruční nahrávání je otrava, existuje nástroj `talk-video-uploader <https://github.com/oskar456/talk-video-uploader>`_, který video nahraje za tebe. Při prvním spuštění tě požádá o udělení oprávnění ke konkrétnímu účtu, do kterého následně bude nahrávat všechna videa.
+
+.. code-block:: shell
+
+ (venv)$ pip install git+https://github.com/oskar456/talk-video-uploader
+ (venv)$ talk-video-uploader
+ Please visit this URL to authorize this application: https://accounts.google.com/o/…
+ Enter the authorization code: 4/AAAdhr…isho
+ (venv)$ talk-video-uploader *.yaml
+
+..
+
+ 6. Po nahrání všech videí je potřeba doplnit odkazy na ně do databáze `pyvo-data <https://github.com/pyvec/pyvo-data>`_. Příslušný fragment YAML souboru vygeneruje přímo ``talk-video-uploader``. Videa jsou také nastavena jako neveřejná. Nastavit zveřejnění je možné přímo z webového rozhraní YouTube.
 
 Při sdílení myslete na to, že ne každý může chtít, aby byla jeho přednáška veřejně přístupná (viz :ref:`srazy-prednasejici`). Měli byste mít od přednášejícího svolení s nahráváním a uveřejněním nebo by mělo být alespoň jasné, že si mohou vybrat.
+
 
 Další informace
 ---------------
