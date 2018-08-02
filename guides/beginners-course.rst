@@ -11,6 +11,10 @@ nebo něco mezi tím – je to jen na tobě!
 .. warning::
     Tato příručka ještě není úplně kompletní.
 
+.. image:: ../_static/images/pylady.svg
+    :width: 20%
+    :align: center
+
 Před začátkem
 -------------
 
@@ -97,7 +101,7 @@ Vedlejší koučové
     V téhle roli nemusí být všichni experti. Naopak, pro účastníka
     předchozího „běhu” začátečnického kurzu je koučování skvělá příležitost
     jak si všechno zopakovat, a zjistit kolik se toho naučil :)
-    
+
     Doporučujeme zhruba jednoho vedlejšího kouče na 3-5 účastníků.
     Ze začátku, na instalaci a nastavení prostředí, je lepší jich pozvat spíš
     víc; potom nebývá problém když občas někdo odpadne.
@@ -105,9 +109,9 @@ Vedlejší koučové
     Koučové se dají nabrat na srazech, případně se dají oslovit programátoři
     v okolních firmách.
     Určitě koučování nabídni i účastníkům předchozích kurzů.
-    V první řadě, látku uslyší znovu a tím si ji oživí. A navíc vysvětlováním a pomáháním s chybami účastníků jim i leccos zpětně dojde.                       
-    Tuto metodu i samotní programátoři používají při své práci a jde o tzv. `Rubber duck debugging 
-    <https://en.wikipedia.org/wiki/Rubber_duck_debugging>`_. 
+    V první řadě, látku uslyší znovu a tím si ji oživí. A navíc vysvětlováním a pomáháním s chybami účastníků jim i leccos zpětně dojde.
+    Tuto metodu i samotní programátoři používají při své práci a jde o tzv. `Rubber duck debugging
+    <https://en.wikipedia.org/wiki/Rubber_duck_debugging>`_.
 
 Obsah
 .....
@@ -151,17 +155,17 @@ Podle toho si vytvoř časový rozvrh, ať na nic nezapomeneš:
 * D + zhruba 3 měsíce
 
     * Plánovaný konec kurzu
-    
+
 Tabulka koučů
-------------
+-------------
 Je vhodné si připravit tabulku, kterou lze všem koučům nasdílet online a mohou v ní současně upravovat kdy který z nich může na lekci přijít. Nám se při organizování kuzů vyplatilo používání Google Tabulek, které lze nastavit na přístup na konkrétní emailové adresy či jen i anonymnim osobam, které mají odkaz. Koučové tak nutně nemusí mít Gmail, dají si odkaz někam, kde ho budou mít na očích a organizace se tím velmi zjednodušuje.
 
 Příklad takové tabulky:
-.....................
+.......................
 
 +--------------+--------------+---------------------+--------------+---------------+---------------+---------------+---------------+
 | Datum        | Název lekce  | Poznámka k lekci    | Hlavní kouč  | Vedlejší kouč | Vedlejší kouč | Vedlejší kouč | Vedlejší kouč |
-+==============+==============+=====================+==============+===============+===============+===============+===============+  
++==============+==============+=====================+==============+===============+===============+===============+===============+
 | 02.03.  2028 | Instalace    | potřeba více koučů  | Hugo         | Jarda         | Evžen         | Jana          | Emilka        |
 +--------------+--------------+---------------------+--------------+---------------+---------------+---------------+---------------+
 | 09.03.  2028 | První program| ukázat dpaste.com   | Hugo         | Emilka        | Jana          |               | Pavla         |
@@ -170,6 +174,7 @@ Příklad takové tabulky:
 +--------------+--------------+---------------------+--------------+---------------+---------------+---------------+---------------+
 | 23.03.  2028 | Git          |                     | Hugo         | Emilka        | Jan Tleskač   |     X         |       X       |
 +--------------+--------------+---------------------+--------------+---------------+---------------+---------------+---------------+
+
 **Jarda vidí, že na 9.3. a 16.3. bude potřeba pokaždé ještě jednoho kouče a tak ví, že může pomoci a napíše se tam - plánování vidí všichni a ne jen organizátor, což mu usnadní práci a může se věnovat dalším věcem! Někdy není potřeba koučů tolik, můžeš jim to dát vědět domluveným znakem. V naší tabulce je to X**
 
 První lekce
@@ -193,8 +198,7 @@ V rámci úvodní prezentace by mělo padnout:
     * Co se naučíme, a co naopak v kurzu nebude
     * Instrukce pro účastníky – viz barevné papírky níže
     * Pár instrukcí pro kouče
-    * Představení koučů i účastníků ( je dobré, pokud mohou účastníci kurzu uvést, proč na kurz přišli a co jaká bližší oblast je zajimá. 
-    Celé oboustranné představování většinout dost prolomí ledy a kurz budí přátelský dojem)
+    * Představení koučů i účastníků ( je dobré, pokud mohou účastníci kurzu uvést, proč na kurz přišli a co jaká bližší oblast je zajimá. Celé oboustranné představování většinout dost prolomí ledy a kurz budí přátelský dojem)
 
 .. _usb_flash:
 
@@ -254,10 +258,10 @@ Každá lekce (kromě té první) je u nás rozdělena do dvou částí:
     Pak je řada na druhém ze dvojice.
     Potom stejným způsobem proberou dva úkoly, které byly složité, nebo se je
     nepodařilo vyřešit. (Když řešení nezná ani jeden, pomůže kouč.)
-    
-    Varianta B: Vytvoří se menší skupinky s koučem. Např. 3-5 účastníků a kouč a úkoly projdou spolu, podívají se na různá řešení úkolů 
-    každého z účastníků. Zde je důležité, že kouč by měl být       
-    v takové skupině aktivní víc než u variaty A, kde čeká, až jej někdo požádá o pomoc. 
+
+    Varianta B: Vytvoří se menší skupinky s koučem. Např. 3-5 účastníků a kouč a úkoly projdou spolu, podívají se na různá řešení úkolů
+    každého z účastníků. Zde je důležité, že kouč by měl být
+    v takové skupině aktivní víc než u variaty A, kde čeká, až jej někdo požádá o pomoc.
 
 * 90 minut: probírání nového materiálu
 
@@ -275,14 +279,14 @@ Každý vedlejší i hlavní kouč by měl mít na paměti jistá pravidla, aby 
 
     * klávesnice každého účastníka je svatá a psát na ní může jen on sám
     * mluví pomalu a má trpělivost, s úsměvem je vše lepší a lekce budí přátelský dojem
-    * vždy vysvětluje pouze to, co se aktuálně řeší (platí především pro vedlejší kouče), nezdržuje lekci vysvětlováním látky dopředu (to        
+    * vždy vysvětluje pouze to, co se aktuálně řeší (platí především pro vedlejší kouče), nezdržuje lekci vysvětlováním látky dopředu (to
       je úkol hlavního kouče)
-    * nekempuje u jednoho účastníka celou lekci, ale snaží se podávat pomoc mezi více účastníky 
-    * řešení problému by mělo vzejít od účastníka, vedlejší kouč se jej na řešení snaží navést otázkami, na které účastník sám odpovídá ( 
+    * nekempuje u jednoho účastníka celou lekci, ale snaží se podávat pomoc mezi více účastníky
+    * řešení problému by mělo vzejít od účastníka, vedlejší kouč se jej na řešení snaží navést otázkami, na které účastník sám odpovídá (
       přímé odhalení řešení pomůže účastníkovi pouze krátkodobě)
     * snaží se nepoužívat terminologii, kterou účastník zatím nezná
     * nezlehčuje problémy, které účastník řeší ani je nevhodně nekomentuje, nevzdychá a vyvaruje se demotivujícím hláškám
-    
+
 Pokračovací a doprovodné srazy
 ------------------------------
 

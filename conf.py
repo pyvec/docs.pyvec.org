@@ -10,7 +10,7 @@ IS_READTHEDOCS = os.environ.get('READTHEDOCS') == 'True'
 
 # -- Project information -----------------------------------------------------
 
-project = 'Příručka pro pořadatele - Python v ČR'
+project = 'Příručka pro\u00a0pořadatele Python\u00a0akcí'
 copyright = '2015, Pyvec'
 author = 'Pyvec'
 
@@ -75,7 +75,7 @@ else:
     # emulates the default RTD theme for local development
     html_theme = 'sphinx_rtd_theme'
 
-html_logo = '_static/images/logo.svg'
+html_logo = '_static/images/org-i.svg'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the

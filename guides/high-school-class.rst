@@ -2,7 +2,7 @@ Příručka pro středoškolského učitele
 ====================================
 
 .. warning::
-    Tato příručka ještě není připravena. Chceš pomoci s její tvorbou? Na `této Trello kartě <https://trello.com/c/lWIwsSON/7-vytvo-it-p-irucku-pro-ss-ucitele>`_ jsou další informace.
+    Tato příručka ještě není připravena. Chceš pomoci s její tvorbou? Na `pyvec/zapojse#24 <https://github.com/pyvec/zapojse/issues/24>`_ jsou další informace.
 
 Proč bych měl učit Python?
 --------------------------

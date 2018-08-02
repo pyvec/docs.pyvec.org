@@ -1,13 +1,17 @@
 .. include:: README.rst
 
+.. image:: _static/images/community.svg
+    :width: 80%
+    :align: center
+
 Obsah
 -----
 
 .. toctree::
    :maxdepth: 2
 
-   guides/beginners-course
    guides/meetup
+   guides/beginners-course
    guides/django-girls
    guides/high-school-class
 

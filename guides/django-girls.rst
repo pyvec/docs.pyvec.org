@@ -15,3 +15,7 @@ Příručka pro pořadatele Django Girls
 - jak funguje financování a záštita Pyvce
 - jaké je ideální složení týmu (koordinátor, PR, ...)
 - na koho se obrátit? kdo u nás už DG konal a kde?
+
+.. image:: ../_static/images/pylady.svg
+    :width: 20%
+    :align: center
