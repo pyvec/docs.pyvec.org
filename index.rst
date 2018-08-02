@@ -1,4 +1,3 @@
-
 .. include:: README.rst
 
 Obsah
@@ -12,13 +11,14 @@ Obsah
    guides/django-girls
    guides/high-school-class
 
-.. note::
-    :doc:`CONTRIBUTING`
+.. toctree::
+   :hidden:
+
+   CONTRIBUTING
 
 Navigace
 --------
 
-- :ref:`genindex`
-- :ref:`modindex`
-- :ref:`search`
-
+* :ref:`contributing`
+* :ref:`genindex`
+* :ref:`search`

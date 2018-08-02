@@ -1,7 +1,77 @@
+.. _contributing:
+
 Jak přispívat?
 ==============
 
-- `GitHub repozitář <https://github.com/pyvec/guide>`_
-- Příručka je napsána v `reStructuredText <https://en.wikipedia.org/wiki/ReStructuredText>`_ a postavená nad `Sphinx <http://sphinx-doc.org/>`_ a `Read the Docs <https://readthedocs.org/>`_.
-- Po naklonování repozitáře stačí nainstalovat závislosti z ``requirements.txt`` a potom lze HTML vytvořit přes ``make html``.
-- Prohlédnout si výsledek lze tak, že si nad vygenerovaným HTML spustíme server pomocí ``cd ./_build/html/ && python -m http.server`` a potom se v prohlížeči podíváme na adresu ``http://localhost:8000/``.
+Našli jste chybu? Chtěli byste něco doplnit? Následující odstavce
+popisují, jak lze materiály upravovat a návrhy na změny posílat autorům.
+
+Rychlé úpravy bez instalace
+---------------------------
+
+Abyste něco změnili v textech, nemusíte nic instalovat. Obsah lze upravovat online přes `repozitář na GitHubu <https://github.com/pyvec/guide>`_ pomocí ikony s tužkou v pravém horním rohu u každého souboru.
+
+Instalace
+---------
+
+Když toho upravujete víc, nebo máte zálusk na nějaké složitější kejkle, je lepší mít materiály nainstalované na svém počítači. Projekt využívá Python 3.6 a `pipenv <https://docs.pipenv.org/>`_.
+
+.. tabs::
+
+    .. group-tab:: Standardní instalace
+
+        #. Nainstalujte si Python 3.6
+        #. ``git clone ...``
+        #. ``pipenv install --dev``
+
+    .. group-tab:: macOS
+
+        Na macOS je problém sehnat Python 3.6, `Homebrew <https://brew.sh/>`_ vám totiž pomocí ``brew install python3`` nainstaluje novější verzi. Použijte `pyenv <https://github.com/pyenv/pyenv>`_:
+
+        1. ``brew install pyenv``
+        2. ``pyenv install 3.6.6``
+
+        Potom pokračujte jako ve standardní instalaci, akorát je třeba napovědět, který Python chcete použít:
+
+        3. ``git clone ...``
+        4. ``pipenv install --dev --python="$(pyenv root)/versions/3.6.6/bin/python"``
+
+Běžná práce
+-----------
+
+#. ``pipenv run sphinx-autobuild . _build/html``
+#. Otevřete si v prohlížeči `<http://127.0.0.1:8000>`_
+#. V editoru upravujete texty a v prohlížeči si kontrolujete výsledek
+
+ReadTheDocs
+-----------
+
+Na GitHubu jsou pouze zdrojové texty. Po každé změně ve větvi ``master`` na GitHubu se automaticky vygenerují webové stránky na službě `ReadTheDocs <https://pyvec-guide.readthedocs.io/>`_. Následující kontrolka ukazuje, zda se poslední změny povedlo dostat až do webových stránek (zelená), nebo se to nepovedlo kvůli nějaké chybě (červená):
+
+.. image:: https://readthedocs.org/projects/pyvec-guide/badge/?version=latest
+    :target: https://readthedocs.org/projects/pyvec-guide/builds/
+    :alt: Documentation Status
+
+Pokud se něco nepovedlo, podrobnosti lze zjistit na `této stránce  <https://readthedocs.org/projects/pyvec-guide/builds/>`_, která je ovšem přístupná jen administrátorům.
+
+Závislosti
+----------
+
+Projekt využívá `pipenv <https://docs.pipenv.org/>`_, ale ReadTheDocs jej zatím nepodporují (`rtfd/readthedocs.org#3181 <https://github.com/rtfd/readthedocs.org/issues/3181>`_). Proto je nutné vždy při změně závislostí zavolat ``pipenv run pipenv_to_requirements -f -o requirements.txt`` a tím vytvořit i soubor ``requirements.txt``, kterému ReadTheDocs rozumí.
+
+Nejnovější verze Pythonu, jakou ReadTheDocs podporují, je 3.6. Z toho důvodu
+ji vyžaduje i tento projekt. Nastavení je v souboru ``readthedocs.yml`` (`dokumentace <https://docs.readthedocs.io/en/latest/yaml-config.html>`_).
+
+Continuous Integration
+----------------------
+
+Na repozitáři je zapojený `Travis CI <http://travis-ci.org/>`_. Zatím pouze
+kontroluje, jestli ``requirements.txt`` odpovídají ``Pipfile.lock`` (viz výše).
+Kontrolka:
+
+.. image:: https://travis-ci.org/pyvec/guide.svg?branch=master
+    :target: https://travis-ci.org/pyvec/guide
+    :alt: Continuous Integration Status
+
+Travis CI je pouze informativní a nezabrání tomu, aby se ``master`` větev
+dostala do ReadTheDocs.

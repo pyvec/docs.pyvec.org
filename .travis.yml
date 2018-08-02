@@ -1,0 +1,11 @@
+language: "python"
+python:
+  - "3.6"
+before_install:
+  - "pip install -U pip pipenv"
+install:
+  - "pipenv install --dev"
+before_script:
+  - "pipenv run pipenv_to_requirements -f -o ci-requirements.txt"
+script:
+  - "if ! diff requirements.txt ci-requirements.txt > /dev/null; then echo 'The requirements.txt file is not up to date. Read the contributing docs.' && exit 1; fi"
