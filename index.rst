@@ -1,5 +1,8 @@
-
 .. include:: README.rst
+
+.. image:: _static/images/community.svg
+    :width: 80%
+    :align: center
 
 Obsah
 -----
@@ -7,18 +10,19 @@ Obsah
 .. toctree::
    :maxdepth: 2
 
-   guides/beginners-course
    guides/meetup
+   guides/beginners-course
    guides/django-girls
    guides/high-school-class
 
-.. note::
-    :doc:`CONTRIBUTING`
+.. toctree::
+   :hidden:
+
+   CONTRIBUTING
 
 Navigace
 --------
 
-- :ref:`genindex`
-- :ref:`modindex`
-- :ref:`search`
-
+* :ref:`contributing`
+* :ref:`genindex`
+* :ref:`search`

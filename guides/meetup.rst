@@ -5,6 +5,10 @@ Příručka pro pořadatele srazů
 
 Tato příručka si klade za cíl shromáždit veškeré zkušenosti, jež jsme za roky pořádání srazů nasbírali, aby si je mohl kdokoliv přečíst a na jejich základě založit vlastní sraz. Zároveň by bylo hezké, kdyby se stala kodexem toho, jak se správné Pyvo má dělat, kdyby sledovala nejnovější trendy a změny a kdyby díky společnému úsilí zůstala v souladu s tím, co se na srazech reálně praktikuje.
 
+.. image:: ../_static/images/ukulele.svg
+    :width: 30%
+    :align: center
+
 Python v ČR
 -----------
 
@@ -331,6 +335,10 @@ Další informace
 ---------------
 
 Pokud chceš nabrat nějakou další inspiraci k tomu, jak organizovat Python sraz, doporučujeme následující zdroje.
+
+.. image:: ../_static/images/snake.svg
+    :width: 30%
+    :align: center
 
 .. _srazy-globalni-zdroje:
 

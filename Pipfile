@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+sphinx = "*"
+sphinx-tabs = "*"
+
+[dev-packages]
+sphinx-autobuild = "*"
+sphinx-rtd-theme = "*"
+"doc8" = "*"
+pylama = "*"
+pipenv-to-requirements = "*"
+
+[requires]
+python_version = "3.6"
