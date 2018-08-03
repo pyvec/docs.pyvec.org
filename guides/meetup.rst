@@ -271,15 +271,17 @@ Natáčení
 
 Pokud máte přednášky, můžete je natočit. To se nejlépe dělá kamerou na stativu, ale takové vybavení má málokdo. Z pravidelných návštěvníků českých Pyv je to především `Petr Viktorin <http://encukou.cz/>`_, který si je pořídil speciálně pro tento účel, objíždí s ním srazy a vše co vidí, to natáčí a následně zpracovává.
 
-Pokud zrovna nemáte Petra ani vlastní kameru, ale přesto chcete zkusit přednášky natočit, můžete to zkusit klidně i chytrým telefonem nebo foťákem. Nakonec jde totiž při natáčení přednášejícího stejně především o zvuk.Je dobré přednášky „stříhat rovnou v kameře,“ to znamená zapnout kameru těsně před začátkem přednášky a vypnout ji těsně po potlesku. Natáčení více přednášek do jednoho záběru zbytečně přináší víc nároků na následné zpracovávání záznamů.
+Pokud zrovna nemáte Petra ani vlastní kameru, ale přesto chcete zkusit přednášky natočit, můžete to zkusit klidně i chytrým telefonem nebo foťákem. Nakonec jde totiž při natáčení přednášejícího stejně především o zvuk. Je dobré přednášky *stříhat rovnou v kameře*, to znamená zapnout kameru těsně před začátkem přednášky a vypnout ji těsně po potlesku. Natáčení více přednášek do jednoho záběru zbytečně přináší víc nároků na následné zpracovávání záznamů.
 
-Co ukazuje přednášející divákům je možné zachytit pomocí speciální krabičky `ExtremeCap 910 <https://www.avermedia.com/education/product/all/extremecap_910>`_, která se zapojí mezi počítač a projektor a nahrává na SD kartu promítaný obraz včetně zvuku z mikrofonu. Jednu takovou krabičku má `Petr Viktorin <http://encukou.cz/>`_, druhou `Ondřej Caletka <https://ondřej.caletka.cz>`_. Alternativou je nahrávání obrazu přímo v jeho počítači přes programy jako
+Co ukazuje přednášející divákům je možné zachytit pomocí speciální krabičky `ExtremeCap 910 <https://www.avermedia.com/education/product/all/extremecap_910>`_, která se zapojí mezi počítač a projektor a nahrává na SD kartu promítaný obraz včetně zvuku z mikrofonu. Jednu takovou krabičku má `Petr Viktorin <http://encukou.cz/>`_, druhou `Ondřej Caletka <https://ondřej.caletka.cz>`_. Alternativou je nahrávání obrazu přímo v jeho počítači pomocí programů jako
 
 - `recordMyDesktop <https://en.wikipedia.org/wiki/RecordMyDesktop>`_ 
 - `Quick Time <https://support.apple.com/en-us/HT201066#screen>`_ 
-- `FFmpeg <https://trac.ffmpeg.org/wiki/Capture/Desktop>`_
+- `FFmpeg <https://trac.ffmpeg.org/wiki/Capture/Desktop>`_ (`příklad použití <https://gist.github.com/oskar456/e887539e66af8cd045f1180f1969fab3>`_)
 
-Jedinou překážkou může být neochota přednášejících instalovat si na počítač nějaký nový software. Argumentovat můžeš tím, že *recordMyDesktop* je Open Source a *Quick Time* že je na Macu přímo součástí systému. Při zpracování se dá potom obraz z počítače spojit s nahrávkou z místnosti – k tomu je dobré, aby jak nahrávka z kamery, tak nahrávka projektoru obsahovala zvuk. Přednášející by měl být snímán v detailu a pokud možno bez plátna v záběru, aby z něj nebyla jen tmavá silueta.
+Jedinou překážkou může být neochota přednášejících instalovat si na počítač nějaký nový software. Argumentovat můžeš tím, že *FFmpeg* nejspíš už nainstalovaný stejně mají, *recordMyDesktop* je Open Source a *Quick Time* že je na Macu přímo součástí systému.
+
+Obraz z počítače se dá při zpracování spojit s nahrávkou z místnosti – k tomu je dobré, aby jak nahrávka z kamery, tak nahrávka projektoru obsahovala zvuk. Přednášející by měl být snímán v detailu a pokud možno bez plátna v záběru, aby z něj nebyla jen tmavá silueta.
 
 Při natáčení videí a jejich následném sdílení myslete na to, že ne každý může chtít, aby byla jeho přednáška veřejně přístupná (viz :ref:`srazy-prednasejici`). Měli byste mít od přednášejícího svolení s nahráváním a uveřejněním nebo by mělo být alespoň jasné, že si mohou vybrat. Zpracování videí je ještě podrobně popsáno v sekci :ref:`srazy-videa`.
 
@@ -349,9 +351,9 @@ Pokud se ti povedlo natočit nějaká videa (viz :ref:`srazy-nataceni`), buď de
 
 ..
 
- 2. Do připravených adresářů nahraj soubory s videem – jak z kamery, tak záznamy plochy. Uprav vygenerovaný soubor ``config.yaml``, tak aby obsahoval správný název přednášky, jméno přednášejícího, datum a URL akce, stejně jako odkazy na videosoubory (pokud kamera automaticky dělí záběry do více souborů, nevadí to).
+ 2. Do připravených adresářů nahraj soubory s videem – jak z kamery, tak záznamy projekce. Uprav vygenerovaný soubor ``config.yaml``, tak aby obsahoval správný název přednášky, jméno přednášejícího, datum a URL akce, stejně jako odkazy na videosoubory (pokud kamera automaticky dělí záběry do více souborů, nevadí to) a další metadata: jestli byla projekce 4:3 nebo 16:9, jestli jde o lightning talk, v jakém jazyku byla přednáška a v jakém slajdy, atd. Všechny možné volby najdeš v nápovědě níže zmíněného nástroje ``talk-video-maker``.
 
- 3. Nainstaluj `talk-video-maker <https://github.com/encukou/talk-video-maker>`_ a jeho závislosti – `Inkscape <https://inkscape.org/cs/>`_ a `FFmpeg <https://www.ffmpeg.org/>`_. Tohle s největší pravděpodobností nebude fungovat jinde než na Linuxu. Na wiki projektu je `návod, jak s tím začít <https://github.com/encukou/talk-video-maker/wiki/Jak-s-t%C3%ADm-za%C4%8D%C3%ADt>`_.
+ 3. Nainstaluj `talk-video-maker <https://github.com/encukou/talk-video-maker>`_ a jeho závislosti – `Inkscape <https://inkscape.org/cs/>`_, `FFmpeg <https://www.ffmpeg.org/>`_ a font `Signika Negative <https://fonts.google.com/specimen/Signika+Negative>`_. Tohle s největší pravděpodobností nebude fungovat jinde než na Linuxu. Na wiki projektu je stručný `návod, jak s tím začít <https://github.com/encukou/talk-video-maker/wiki/Jak-s-t%C3%ADm-za%C4%8D%C3%ADt>`_.
 
 .. code-block:: shell
 
@@ -361,9 +363,9 @@ Pokud se ti povedlo natočit nějaká videa (viz :ref:`srazy-nataceni`), buď de
 
 ..
 
- 4. Pokud se vše podařilo, máš v aktuálním adresáři sestříhané video a k němu YAML soubor s metadaty potřebnými pro YouTube. Zkontroluj, jestli video vypadá, jak vypadat má, jestli nejsou překlepy v titulcích a jestli i na konci videa je synchronní obraz a zvuk.
+ 4. Pokud se vše podařilo, máš v aktuálním adresáři sestříhané video a k němu YAML soubor s metadaty potřebnými pro YouTube. Zkontroluj, jestli video vypadá, jak vypadat má, jestli nejsou překlepy v titulcích a jestli i na konci videa je synchronní obraz a zvuk. Pokud něco není v pořádku, pokus se najít příčinu – nejspíš to bude poškozený nebo špatně ustřižený video soubor.
 
- 5. Pro nahrávání do `kanálu Pyvo na YouTube <https://www.youtube.com/channel/UCaT4I7hjX9iH1YFvNvuu84A>`_ potřebuješ vlastní Google účet. Následně požádáš Petra Viktorina, aby tě přidal jako správce. Na YouTube pak budeš moci přepínat mezi svými účty, přičemž jedním z nich bude právě Pyvo. Protože ruční nahrávání je otrava, existuje nástroj `talk-video-uploader <https://github.com/oskar456/talk-video-uploader>`_, který video nahraje za tebe. Při prvním spuštění tě požádá o udělení oprávnění ke konkrétnímu účtu, do kterého následně bude nahrávat všechna videa.
+ 5. Pro nahrávání do `kanálu Pyvo na YouTube <https://www.youtube.com/channel/UCaT4I7hjX9iH1YFvNvuu84A>`_ potřebuješ vlastní Google účet. Následně požádáš `Petra Viktorina <http://encukou.cz/>`_, aby tě přidal jako správce. Na YouTube pak budeš moci přepínat mezi svými účty, přičemž jedním z nich bude právě Pyvo. Protože ruční nahrávání je otrava, existuje nástroj `talk-video-uploader <https://github.com/oskar456/talk-video-uploader>`_, který video nahraje za tebe. Při prvním spuštění tě požádá o udělení oprávnění ke konkrétnímu účtu, do kterého následně bude nahrávat všechna videa.
 
 .. code-block:: shell
 
@@ -375,7 +377,7 @@ Pokud se ti povedlo natočit nějaká videa (viz :ref:`srazy-nataceni`), buď de
 
 ..
 
- 6. Po nahrání všech videí je potřeba doplnit odkazy na ně do databáze `pyvo-data <https://github.com/pyvec/pyvo-data>`_. Příslušný fragment YAML souboru vygeneruje přímo ``talk-video-uploader``. Videa jsou také nastavena jako neveřejná. Nastavit zveřejnění je možné přímo z webového rozhraní YouTube.
+ 6. Po nahrání všech videí je potřeba doplnit odkazy na ně do databáze `pyvo-data <https://github.com/pyvec/pyvo-data>`_. Příslušný fragment YAML souboru vygeneruje přímo ``talk-video-uploader``. Videa jsou při nahrávání nastavena jako neveřejná. Až YouTube video zpracuje a zkontroluješ, že je všechno v pořádku, nastav ho jako veřejné přímo z webového rozhraní YouTube.
 
 Při sdílení myslete na to, že ne každý může chtít, aby byla jeho přednáška veřejně přístupná (viz :ref:`srazy-prednasejici`). Měli byste mít od přednášejícího svolení s nahráváním a uveřejněním nebo by mělo být alespoň jasné, že si mohou vybrat.
 
