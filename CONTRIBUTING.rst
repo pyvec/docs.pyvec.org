@@ -39,7 +39,7 @@ Když toho upravujete víc, nebo máte zálusk na nějaké složitější kejkle
 Běžná práce
 -----------
 
-#. ``pipenv run sphinx-autobuild . _build/html``
+#. ``pipenv run serve``
 #. Otevřete si v prohlížeči `<http://127.0.0.1:8000>`_
 #. V editoru upravujete texty a v prohlížeči si kontrolujete výsledek
 
