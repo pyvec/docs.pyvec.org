@@ -144,7 +144,7 @@ Podle toho si vytvoř časový rozvrh, ať na nic nezapomeneš:
     * Začít shánět kouče (pokud je už nemáš potvrzené)
     * Sehnat a domluvit prostory
     * Dej vědět organizátorkám PyLadies na info@pyladies.cz, pomůžou ti s propagací mezi
-    potenciální kouče a účastnice
+      potenciální kouče a účastnice
 
 * D - 1 měsíc
 
