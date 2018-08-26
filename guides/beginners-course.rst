@@ -116,7 +116,7 @@ Vedlejší koučové
     víc; potom nebývá problém když občas někdo odpadne.
 
     Koučové se dají nabrat na srazech, případně se dají oslovit programátoři
-    v okolních firmách. Není problém, pokud vedlejší kouč v praxi python nepoužívá.
+    v okolních firmách. Není problém, pokud vedlejší kouč v praxi Python nepoužívá.
     Určitě koučování nabídni i účastníkům předchozích kurzů.
     V první řadě, látku uslyší znovu a tím si ji oživí. A navíc vysvětlováním a pomáháním s chybami účastníků jim i leccos zpětně dojde.
     Tuto metodu i samotní programátoři používají při své práci a jde o tzv. `Rubber duck debugging
