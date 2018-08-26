@@ -1,5 +1,5 @@
-Příručka pro pořadatele srazů
-=============================
+Jak pořádat Python sraz (Pyvo)?
+===============================
 
 .. Protože Sphinx umožňuje odkazování napříč dokumenty, hodí se mít názvy odkazů unikátní. Z toho důvodu všechny odkazy v této příručce začínají 'srazy-'.
 
@@ -279,8 +279,8 @@ Pokud zrovna nemáte Petra ani vlastní kameru, ale přesto chcete zkusit předn
 
 Co ukazuje přednášející divákům je možné zachytit pomocí speciální krabičky `ExtremeCap 910 <https://www.avermedia.com/education/product/all/extremecap_910>`_, která se zapojí mezi počítač a projektor a nahrává na SD kartu promítaný obraz včetně zvuku z mikrofonu. Jednu takovou krabičku má `Petr Viktorin <http://encukou.cz/>`_, druhou `Ondřej Caletka <https://ondřej.caletka.cz>`_. Alternativou je nahrávání obrazu přímo v jeho počítači pomocí programů jako
 
-- `recordMyDesktop <https://en.wikipedia.org/wiki/RecordMyDesktop>`_ 
-- `Quick Time <https://support.apple.com/en-us/HT201066#screen>`_ 
+- `recordMyDesktop <https://en.wikipedia.org/wiki/RecordMyDesktop>`_
+- `Quick Time <https://support.apple.com/en-us/HT201066#screen>`_
 - `FFmpeg <https://trac.ffmpeg.org/wiki/Capture/Desktop>`_ (`příklad použití <https://gist.github.com/oskar456/e887539e66af8cd045f1180f1969fab3>`_)
 
 Jedinou překážkou může být neochota přednášejících instalovat si na počítač nějaký nový software. Argumentovat můžeš tím, že *FFmpeg* nejspíš už nainstalovaný stejně mají, *recordMyDesktop* je Open Source a *Quick Time* že je na Macu přímo součástí systému.

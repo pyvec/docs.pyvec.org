@@ -1,5 +1,5 @@
-Příručka pro pořadatele kurzů pro začátečníky
-=============================================
+Jak pořádat kurz pro začátečníky?
+=================================
 
 Tato příručka popisuje, jak pořádáme `začátečnické kurzy PyLadies`_,
 zhruba tříměsíční bezplatný kurz s každotýdenními dvouhodinovými setkáními.
