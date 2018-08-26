@@ -18,6 +18,7 @@ Weby
 * Aktualizovat kouče a organizátory (neaktivní zakomentovat, doplnit nové) v `teams <https://github.com/PyLadiesCZ/pyladies.cz/tree/master/teams>`_.
 * Fotky lidí se přidávají do `img <https://github.com/PyLadiesCZ/pyladies.cz/tree/master/static/img>`_, musí být malé (v kB) a čtveraté
 * Pokud chci doplnit logo sponzora/partnera, tak do `index.html <https://github.com/PyLadiesCZ/pyladies.cz/blob/master/templates/index.html>`_
+* Do záložky materiály chci vložit aktuální kurz, a to tak že aktualizuji odkaz (vedoucí na kurz na naucse) v souboru `layout.html <https://github.com/PyLadiesCZ/pyladies.cz/blob/master/templates/layout.html>`_
 
 Registrace
 ==========
