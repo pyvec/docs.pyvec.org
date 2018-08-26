@@ -19,6 +19,9 @@ Před začátkem
 -------------
 
 Než může kurz začít, potřebuješ místo, čas, mentory, účastníky, a obsah.
+Pokud rozjíždíš pilotní kurz v novém městě a bez dosavadních zkušeností, na první běh ti stačí sehnat
+cca 15 účastníků a 3 kouče. Nebo pokud se ti naskytne jen menší prostor pro méně lidí, klidně spusť první
+kurz v komornějším počtu lidí. Získáte zkušenosti a na druhý pokus už v klidu zvládnete větší skupinu.
 
 Čas
 ...
@@ -32,13 +35,16 @@ Jak často chceš učit?
 
 Kdy to bude?
 
-    Nám se osvědčily kurzy večerní, ve všední dny od 17:00 nebo 18:00.
+    Nám se osvědčily kurzy večerní, ve všední dny od 17:00 nebo 18:00. Jedna lekce trvá dvě hodiny.
     Chceš-li nalákat pracující nebo studující, je to asi jediná reálná možnost.
+    Snažíme se obvykle vybrat jiný den než pátek a vyhýbáme se pokud možno státním svátkům.
+    Obvykle děláme kurzy jarní a podzimní, takže vynecháváme letní měsíce a povánoční období.
 
 Jak dlouho?
 
     Každá lekce našeho kurzu trvá dvě hodiny.
     Po dvou-třech hodinách začíná být člověk unavený a učení už nejde tak dobře.
+    Aktuální podoba kurzu vychází zhruba na 3 měsíce, ale délka se dá nastavit podle lokálních možností.
 
 
 Účastníci
@@ -69,11 +75,12 @@ Místo
 
 
 Podle toho, kolik plánuješ účastníků, vyber vhodné prostory.
+Potřebuješ prostor s wifi a projektorem. 
 
 Sponzorované prostory
 
     Pro komunitní kurz je dobré se zeptat IT firem, jestli by neposkytly na
-    večer zasedačku. Místo mají občas i školy či studentské unie.
+    večer zasedačku. Místo mají občas i školy či studentské unie, univerzity, knihovny.
 
 Placené prostory
 
@@ -88,8 +95,10 @@ Mentoři
 Hlavní kouč
 
     Na každé lekci by měl být jeden „hlavní kouč”, který lekci řídí
-    a zná příslušné materiály.
-    Je dobré, když tuhle funkci po celé trvání kurzu zastává ten stejný
+    a zná příslušné materiály. 
+    Materiály jsou prověřené praxí, hlavní kouč se jich samozřejmě nemusí držet doslovně, 
+    ale neměl by bez předchozí konzultace či praxe úplně opouštět osvědčenou koncepci lekce.
+    Je dobré, když funkci hlavního kouče po celé trvání kurzu zastává ten stejný
     člověk, který má pak přehled o tom, co se probralo.
     Pokud se hlavní koučové střídají, měl by každou lekci vést někdo, kdo
     byl minimálně na lekci předchozí.
@@ -107,11 +116,14 @@ Vedlejší koučové
     víc; potom nebývá problém když občas někdo odpadne.
 
     Koučové se dají nabrat na srazech, případně se dají oslovit programátoři
-    v okolních firmách.
+    v okolních firmách. Není problém, pokud vedlejší kouč v praxi Python nepoužívá.
     Určitě koučování nabídni i účastníkům předchozích kurzů.
     V první řadě, látku uslyší znovu a tím si ji oživí. A navíc vysvětlováním a pomáháním s chybami účastníků jim i leccos zpětně dojde.
     Tuto metodu i samotní programátoři používají při své práci a jde o tzv. `Rubber duck debugging
     <https://en.wikipedia.org/wiki/Rubber_duck_debugging>`_.
+    
+    Spousta stávajících koučů PyLadies je ochotná jednorázově vypomoci a přijet
+    do jiného města
 
 Obsah
 .....
@@ -130,6 +142,9 @@ Podle toho si vytvoř časový rozvrh, ať na nic nezapomeneš:
 * D - 2 měsíce
 
     * Začít shánět kouče (pokud je už nemáš potvrzené)
+    * Sehnat a domluvit prostory
+    * Dej vědět organizátorkám PyLadies na info@pyladies.cz, pomůžou ti s propagací mezi
+      potenciální kouče a účastnice
 
 * D - 1 měsíc
 
@@ -199,6 +214,7 @@ V rámci úvodní prezentace by mělo padnout:
     * Instrukce pro účastníky – viz barevné papírky níže
     * Pár instrukcí pro kouče
     * Představení koučů i účastníků ( je dobré, pokud mohou účastníci kurzu uvést, proč na kurz přišli a co jaká bližší oblast je zajimá. Celé oboustranné představování většinout dost prolomí ledy a kurz budí přátelský dojem)
+    * Co je dobré taky zmínit - viz seznam
 
 .. _usb_flash:
 
