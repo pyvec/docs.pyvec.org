@@ -1,5 +1,5 @@
-Jak v ČR pořádat Django Girls?
-==============================
+Jak v ČR pořádat Django Girls
+=============================
 
 .. warning::
     Tato příručka ještě není připravena.

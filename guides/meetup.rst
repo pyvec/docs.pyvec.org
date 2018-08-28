@@ -1,5 +1,5 @@
-Jak pořádat Python sraz (Pyvo)?
-===============================
+Jak pořádat Python sraz (Pyvo)
+==============================
 
 .. Protože Sphinx umožňuje odkazování napříč dokumenty, hodí se mít názvy odkazů unikátní. Z toho důvodu všechny odkazy v této příručce začínají 'srazy-'.
 
@@ -9,8 +9,10 @@ Tato příručka si klade za cíl shromáždit veškeré zkušenosti, jež jsme 
     :width: 30%
     :align: center
 
+
 Python v ČR
 -----------
+
 
 .. _srazy-kultura:
 
@@ -21,6 +23,7 @@ Python komunitě v ČR se povedlo sjednotit se. To ale neznamená, že existuje 
 
 Pokud se chceš zapojit, jsi vřele vítán. Máš právo výše popsanou kulturu vyžadovat od druhých, ale také pamatuj, že aby mohla přetrvat, máš nepsanou povinnost ji i dodržovat.
 
+
 .. _srazy-slovnicek:
 
 Slovníček
@@ -29,12 +32,14 @@ Slovníček
 - **Pyvo** je název, který se v ČR používá pro lokální sraz uživatelů programovacího jazyka Python.
 - **Pyvec** je název neziskovky, která v ČR podporuje aktivity kolem programovacího jazyka Python (viz :ref:`srazy-pyvec`). Pyvec srazy neorganizuje, je jim akorát při ruce, kdyby něco potřebovaly. Srazy může pořádat kdo chce.
 
+
 .. _srazy-web:
 
 Web
 ^^^
 
 Hlavním rozcestníkem komunity je sice `python.cz <http://python.cz/>`_, ale srazy mají vyhrazený svůj vlastní web, `pyvo.cz <http://pyvo.cz/>`_. Jako i všechno ostatní co se tvoří pro Python komunitu u nás, i tento web `je Open Source <https://github.com/pyvec/pyvo.cz>`_ a může do něj přispět kdokoliv.
+
 
 Mám založit sraz?
 -----------------
@@ -51,8 +56,10 @@ Při zakládání nového srazu je rozumné myslet na několik věcí:
 - Za zkoušku nic nedáš! Když zarezervuješ místnost pro deset lidí a vytroubíš do světa, že u vás bude Python sraz, tak i kdyby nikdo nepřišel, pořád se nestala žádná újma.
 - Na to, abys založil sraz, nepotřebuješ znát Python. Zvládání srazu je úplně jiná práce. Kontakty, zkušenosti apod. nejsou podmínkou, ale odměnou.
 
+
 Založení srazu
 --------------
+
 
 .. _srazy-koncept:
 
@@ -82,6 +89,7 @@ Není nutné se tohoto formátu držet. Na srazech se dá dělat spousta věcí 
 
 Výše uvedené lze různě kombinovat podle situace a sraz například ozvláštňovat speciálními vydáními. Je na tobě, co vymyslíš!
 
+
 .. _srazy-datum:
 
 Vhodné datum konání
@@ -90,6 +98,7 @@ Vhodné datum konání
 Podívej se do kalendáře existujících Pyv a pokus se nastavit datum tak, aby nekolidovalo alespoň s těmi vzdálenostně nejbližšími srazy. Jen tak umožníš lidem z okolí, aby si na tvé Pyvo udělali výlet. Pokud je sraz pravidelný, je dobré jej dělat ve všední den večer - po práci a po škole. Tradičně všechna Pyva v republice začínají v 19:00, ale nikdo tě nenutí to dodržovat. Pátky a víkendy můžou fungovat pro ojedinělé akce, nicméně většinou v tyto dny lidi odjedou užívat si volno, takže by jich zřejmě moc nepřišlo.
 
 Pravidelná Pyva by si měla stanovit nějaký interval a držet se ho. Např. každý poslední čtvrtek v měsíci nebo každá druhá středa v měsíci. Pokud by na daný den vycházel státní svátek, Vánoce apod., je dobré udělat výjimku a důkladně ji propagovat. Nemá moc smysl konat Pyvo ve dnech volna, ze stejného důvodu jako jsou nevhodné víkendy. Pokud máš pocit, že nepřijde mnoho lidí třeba v létě, udělej klidně prázdninovou pauzu, nebo jen nějaký odlehčený speciál.
+
 
 .. _srazy-misto:
 
@@ -119,6 +128,7 @@ Projektor lze v nouzi půjčit pro účel srazu z větší firmy, ale musíš se
 .. note::
     Pokud si můžeš vybírat, zvol místo, které má bezbariérový přístup. Je škoda vyloučit z Python komunity lidi na vozíku jen proto, že hospoda, kde se scházíte, je ve sklepě a vedou do ní pouze schody. Je jasné, že už tak je to s místy opravdu těžké a toto je další omezení, ale zkus na něj myslet. Méně schodů může v některých případech potěšit třeba i lidi, kteří přijedou na kole.
 
+
 .. _srazy-fransiza:
 
 Franšíza
@@ -129,6 +139,7 @@ Zvaž, jestli pro tvé město není Python příliš úzké zaměření srazu. N
 V Pyvci přemýšlíme nad tím, jestli bychom nemohli zkusit zavést možnost franšízování značky Pyvo. Že by například Tkalci mohli mít jedno vydání čistě s přednáškami ze světa Pythonu a díky tomu by toto konkrétní setkání mohli prohlásit za Pyvo. Tím by se dostalo do našich kalendářů na `pyvo.cz <http://pyvo.cz>`__ a pomohli bychom jej propagovat na sociálních sítích a i jinde. Také bychom třeba vyslali nějakou delegaci výletníků (přednášejících?).
 
 Nemáme to nijak skvěle promyšlené. Pokud by měl o tohle tvůj sraz zájem, dej nám vědět (viz :ref:`srazy-pyvec`).
+
 
 .. _srazy-organizatori:
 
@@ -141,8 +152,10 @@ Dalo by se říci, že čím více lidí je v organizačním týmu, tím lépe. 
 
 V Praze zase praktikují dělbu práce - jeden pravidelně posílá e-mail, druhý vždy shání přednášející, a tak dále.
 
+
 Příprava akce
 -------------
+
 
 .. _srazy-rezervace:
 
@@ -154,6 +167,7 @@ Když se rezervuje celý salonek, berou si podniky někdy zálohu (s tím by př
 Pokud jste našli opravdu dobré místo a máte pravidelný sraz, domluvte se s majiteli na dlouhodobé rezervaci, ať máte jistotu, že vám podnik nikdo nevyblokuje. Rezervujete-li sraz po srazu, vyplácí se udělat rezervaci přímo na místě už před odchodem z předešlého srazu. Jinak se totiž musí do podniku zavolat během následujícího měsíce a programátoři jsou bohužel někdy, ač třeba jinak velcí organizátoři, duše plaché. To znamená, že aby nemuseli volat cizím lidem, odsouvají rezervaci ze dne na den celý měsíc, pak se ji snaží udělat dva dny před akcí. Tak mohou snadno dospět k tomu, že místo už zabral někdo jiný.
 
 Hodí se prozkoumat různá místa ve vašem městě a mít nějaké do zálohy, kdyby to ve vašem oblíbeném z nějakých důvodů nevyšlo.
+
 
 .. _srazy-propagace:
 
@@ -170,6 +184,7 @@ Propagace
 
     Hang some flyers at your local college; hold some meetings on a campus and get listed as a campus organization.
 
+
 .. _srazy-sponzori:
 
 Sponzoři
@@ -178,6 +193,7 @@ Sponzoři
 .. warning::
     Tato sekce ještě není připravena.
 
+
 .. _srazy-tema:
 
 Výběr tématu
@@ -185,6 +201,7 @@ Výběr tématu
 
 .. warning::
     Tato sekce ještě není připravena.
+
 
 .. _srazy-prednasejici:
 
@@ -206,8 +223,10 @@ Přednášející
 ..
     https://wiki.python.org/moin/PythonSpeakers
 
+
 Průběh akce
 -----------
+
 
 .. _srazy-priprava:
 
@@ -231,6 +250,7 @@ Přicházím na místo konání
 
 **Placení**
     Co se placení týče, nejlepší je, pokud obsluha každému návštěvníku dává lístek zvlášť a na něj zapisuje, co si objednával. Pokud to nejde, musíš odcházet z místa konání více méně poslední a dořešit případné nesrovnalosti. Sem tam nějaké zapomenuté pivo nebývá problém, ale když lidé nezaplatí jídlo, částka může rychle naskakovat. V takovém případě je jedinou šancí je poprosit se smutným výrazem ve tváři poslední okolo postávající návštěvníky srazu o charitativní sbírku. Sice hloupá dvacka nebo pade, ale když se to nasbírá, mnohdy může být nakonec k dispozici i větší částka, než jakou je potřeba doplatit.
+
 
 .. _srazy-program:
 
@@ -259,6 +279,7 @@ Co bude součástí programu srazu, je čistě na tobě. Pokud je váš sraz ins
 **Moderování diskusí**
     Je fajn, když přednáška vyvolá živelnou diskusi a všichni se nebojácně zapojují a předávají si nejrůzněší moudrosti, ale někdy už to přeroste jakousi mez a je potřeba to utnout s tím, že zbytek si dořeší o přestávce nebo během volné zábavy (viz :ref:`srazy-volna-zabava`).
 
+
 .. _srazy-foceni:
 
 Focení
@@ -267,6 +288,7 @@ Focení
 Focení je dobré občas udělat, aby člověk měl co použít při propagaci srazu, nebo aby měl něco na památku, ale odnést si z každé akce 100 fotek ve vysokém rozlišení asi úplně nutné není. Na většině fotek bude totiž pořád totéž: Lidi u stolu, lidi s pivem, lidi s jídlem, lidi jak si povídají, přednáška, jiná přednáška, ... K fotodokumentaci srazu postačí běžný foťák, nebo i moderní mobil, netřeba šermovat se zrcadlovkou nebo snad dokonce nahánět a platit profesionálního fotografa.
 
 Při focení a následném sdílení výsledků své práce myslete na to, že ne každý se rád fotí a ne každý rád visí někde na Facebooku. Zpracování fotek je ještě podrobně popsáno v sekci :ref:`srazy-fotky`.
+
 
 .. _srazy-nataceni:
 
@@ -289,6 +311,7 @@ Obraz z počítače se dá při zpracování spojit s nahrávkou z místnosti �
 
 Při natáčení videí a jejich následném sdílení myslete na to, že ne každý může chtít, aby byla jeho přednáška veřejně přístupná (viz :ref:`srazy-prednasejici`). Měli byste mít od přednášejícího svolení s nahráváním a uveřejněním nebo by mělo být alespoň jasné, že si mohou vybrat. Zpracování videí je ještě podrobně popsáno v sekci :ref:`srazy-videa`.
 
+
 .. _srazy-volna-zabava:
 
 Volná zábava
@@ -298,13 +321,16 @@ Jako *volná zábava* je označován čistý networking, který trvá většinou
 
 V průběhu volné zábavy by bylo fajn, kdyby se k sobě účastníci pořád chovali jako slušní lidé i přes možné "opojení atmosférou". Alkohol je při networkingu dobrý sluha, ale zlý pán. Jakmile se někdo začne chovat tak, že by to jiné návštěvníky přivádělo do nekomfortních situací, měl bys být připraven jako organizátor zasáhnout a tohoto člověka napomenout nebo jej požádat, aby akci opustil. Tvým cílem by mělo být dosažení příjemného prostředí, do kterého se nikdo nemusí bát vstoupit, ať už je to nesmělý středoškolák nebo mamina, která se zrovna vrátila ze začátečnického kurzu pořádaného `PyLadies <http://pyladies.cz/>`_. Arogance, povýšenost nad začátečníky, nejapné šikanizující vtípky nebo nemístné poznámky smrdící sexismem by se neměly tolerovat.
 
+
 Knihovnička
 ^^^^^^^^^^^
 
 Existuje tzv. `Knihovnička <https://github.com/pyvec/bookshelf/>`_, do které můžete darovat knihy a z níž si knihy můžete půjčovat. Přestože jsou srazy v různých městech, docela se nám zatím daří knihy distribuovat a poptávky po zapůjčkách uspokojovat (velký dík za to patří především knihovníkovi `Petru Viktorinovi <http://encukou.cz/>`_, jenž s knihami pravidelně objíždí většinu srazů v ČR). Máš-li sraz, tato Knihovnička je jednou z věcí, kterou tam můžeš docela snadno zavést a podpořit tak interakci lidí i přenos vědomostí.
 
+
 Po akci
 -------
+
 
 .. _srazy-materialy-z-prednasek:
 
@@ -314,6 +340,7 @@ Materiály z přednášek
 Jako archiv informací o jednotlivých srazech jsme využívali `Lanyrd <http://lanyrd.com>`_ (`Praha <http://lanyrd.com/series/praha-pyvo/>`_, `Brno <http://lanyrd.com/series/brno-pyvo/>`_, `Ostrava <http://lanyrd.com/series/ostrava-pyvo/>`_), ale nakonec jsme si na `pyvo.cz <http://pyvo.cz/>`_ udělali vlastní systém s databází `pyvo-data <https://github.com/pyvec/pyvo-data>`_.
 
 Pokud máš nějaké slajdy nebo jiné materiály, je dobré je na stránky vašeho srazu doplnit k popisu přednášek. Může to být skoro cokoliv od odkazu na YouTube s videem z přednášky, po odkazy na slajdy ze služeb jako `Speaker Deck <https://speakerdeck.com/>`_ či `SlideShare <http://www.slideshare.net/>`_. Pokud ti přednášející předá slajdy ve formě souboru, převeď je pokud možno na PDF a nahraj do repozitáře `talks-archive <https://github.com/pyvec/talks-archive>`. Následně na ně odkazuj ve formátu ``https://pyvec.github.io/talks-archive/<název souboru>``
+
 
 .. _srazy-fotky:
 
@@ -326,6 +353,7 @@ Pyvec má na svém Google Drive archiv všech možných fotek z akcí české Py
 - je zmenši na rozumnou velikost a udělej Pull Request, v němž `je přidáš jako fotky, které se náhodně zobrazují jako pozadí na python.cz <https://github.com/pyvec/python.cz/tree/master/pythoncz/static/photos>`_.
 
 Při sdílení myslete na to, že ne každý se rád fotí a ne každý rád visí někde na Facebooku.
+
 
 .. _srazy-videa:
 
@@ -395,6 +423,7 @@ Pokud chceš nabrat nějakou další inspiraci k tomu, jak organizovat Python sr
     :width: 30%
     :align: center
 
+
 .. _srazy-globalni-zdroje:
 
 Globální zdroje
@@ -402,6 +431,7 @@ Globální zdroje
 
 - E-mailová diskuse `group-organizers <https://mail.python.org/mailman/listinfo/group-organizers>`_
 - `Starting Your Python Users Group <https://wiki.python.org/moin/StartingYourUsersGroup>`_ na python.org
+
 
 .. _srazy-zakulisi-cr:
 
@@ -415,6 +445,7 @@ Na následujících stránkách se domlouvají organizátoři existujících sra
 - `Ostrava (Google Group) <https://groups.google.com/forum/#!forum/ostrava-pyvo>`_
 - `Ostrava (Facebook) <https://www.facebook.com/groups/pyvoruby/>`_
 
+
 .. _srazy-tipy:
 
 Tipy
@@ -422,10 +453,12 @@ Tipy
 
 - Anglicky se sraz řekne *meetup*. Lokální komunita kolem jazyka se označuje *user group*, takže sraz Python nadšenců v Olomouci bude něco jako *Meetup of the Olomouc Python User Group*.
 
+
 Původ názvu Pyvo
 ^^^^^^^^^^^^^^^^
 
 Název *Pyvo* vymyslel `Rastislav Turek <http://turek.co/>`_ někdy v roce 2011. Založil skupinu `Pyonieri <https://www.facebook.com/groups/pyonieri/>`_ a odstartoval v Bratislavě srazy Pyvo, které byly ale prakticky od začátku spojené s `Rubyslavou <http://rubyslava.sk/>`_. Když Honza Javorek zakládal Python sraz v Brně, název se svolením převzal. Později se rozšířil i do Prahy (kde přejmenovali Django CS / Pyvec srazy na Pyvo) a do Ostravy, kde už se to jako Pyvo rovnou založilo. Mezitím se Rubyslava stala srazem pro programátory všeho druhu a Pyvo v Bratislavě jako samostatný projekt úplně zaniklo. Až později bylo nahrazeno komunitou kolem `PyCon SK <https://www.pycon.sk/>`_ a jejich srazy.
+
 
 .. _srazy-pyvec:
 
