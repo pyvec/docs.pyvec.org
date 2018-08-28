@@ -12,6 +12,7 @@ Obsah
 
    guides/meetup
    guides/beginners-course
+   guides/pyladies_runs
    guides/django-girls
    guides/high-school-class
 
