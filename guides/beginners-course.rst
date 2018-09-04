@@ -1,5 +1,5 @@
-Příručka pro pořadatele kurzů pro začátečníky
-=============================================
+Jak pořádat kurz pro začátečníky
+================================
 
 Tato příručka popisuje, jak pořádáme `začátečnické kurzy PyLadies`_,
 zhruba tříměsíční bezplatný kurz s každotýdenními dvouhodinovými setkáními.
@@ -15,6 +15,7 @@ nebo něco mezi tím – je to jen na tobě!
     :width: 20%
     :align: center
 
+
 Před začátkem
 -------------
 
@@ -23,8 +24,9 @@ Pokud rozjíždíš pilotní kurz v novém městě a bez dosavadních zkušenost
 cca 15 účastníků a 3 kouče. Nebo pokud se ti naskytne jen menší prostor pro méně lidí, klidně spusť první
 kurz v komornějším počtu lidí. Získáte zkušenosti a na druhý pokus už v klidu zvládnete větší skupinu.
 
+
 Čas
-...
+^^^
 
 Jak často chceš učit?
 
@@ -48,7 +50,7 @@ Jak dlouho?
 
 
 Účastníci
-.........
+^^^^^^^^^
 
 Kolik lidí chceš kurzem provést?
 
@@ -71,11 +73,10 @@ Jaká je cílová skupina?
 
 
 Místo
-.....
-
+^^^^^
 
 Podle toho, kolik plánuješ účastníků, vyber vhodné prostory.
-Potřebuješ prostor s wifi a projektorem. 
+Potřebuješ prostor s wifi a projektorem.
 
 Sponzorované prostory
 
@@ -90,13 +91,13 @@ Placené prostory
 
 
 Mentoři
-.......
+^^^^^^^
 
 Hlavní kouč
 
     Na každé lekci by měl být jeden „hlavní kouč”, který lekci řídí
-    a zná příslušné materiály. 
-    Materiály jsou prověřené praxí, hlavní kouč se jich samozřejmě nemusí držet doslovně, 
+    a zná příslušné materiály.
+    Materiály jsou prověřené praxí, hlavní kouč se jich samozřejmě nemusí držet doslovně,
     ale neměl by bez předchozí konzultace či praxe úplně opouštět osvědčenou koncepci lekce.
     Je dobré, když funkci hlavního kouče po celé trvání kurzu zastává ten stejný
     člověk, který má pak přehled o tom, co se probralo.
@@ -121,12 +122,13 @@ Vedlejší koučové
     V první řadě, látku uslyší znovu a tím si ji oživí. A navíc vysvětlováním a pomáháním s chybami účastníků jim i leccos zpětně dojde.
     Tuto metodu i samotní programátoři používají při své práci a jde o tzv. `Rubber duck debugging
     <https://en.wikipedia.org/wiki/Rubber_duck_debugging>`_.
-    
+
     Spousta stávajících koučů PyLadies je ochotná jednorázově vypomoci a přijet
     do jiného města
 
+
 Obsah
-.....
+^^^^^
 
 Naše materiály jsou `volně k použití <http://pyladies.cz/course.html>`_
 pod licencí `CC-BY-SA`_, a dají se použít přímo nebo upravit přesně podle
@@ -171,12 +173,15 @@ Podle toho si vytvoř časový rozvrh, ať na nic nezapomeneš:
 
     * Plánovaný konec kurzu
 
+
 Tabulka koučů
 -------------
+
 Je vhodné si připravit tabulku, kterou lze všem koučům nasdílet online a mohou v ní současně upravovat kdy který z nich může na lekci přijít. Nám se při organizování kuzů vyplatilo používání Google Tabulek, které lze nastavit na přístup na konkrétní emailové adresy či jen i anonymnim osobam, které mají odkaz. Koučové tak nutně nemusí mít Gmail, dají si odkaz někam, kde ho budou mít na očích a organizace se tím velmi zjednodušuje.
 
-Příklad takové tabulky:
-.......................
+
+Příklad takové tabulky
+^^^^^^^^^^^^^^^^^^^^^^
 
 +--------------+--------------+---------------------+--------------+---------------+---------------+---------------+---------------+
 | Datum        | Název lekce  | Poznámka k lekci    | Hlavní kouč  | Vedlejší kouč | Vedlejší kouč | Vedlejší kouč | Vedlejší kouč |
@@ -191,6 +196,7 @@ Příklad takové tabulky:
 +--------------+--------------+---------------------+--------------+---------------+---------------+---------------+---------------+
 
 **Jarda vidí, že na 9.3. a 16.3. bude potřeba pokaždé ještě jednoho kouče a tak ví, že může pomoci a napíše se tam - plánování vidí všichni a ne jen organizátor, což mu usnadní práci a může se věnovat dalším věcem! Někdy není potřeba koučů tolik, můžeš jim to dát vědět domluveným znakem. V naší tabulce je to X**
+
 
 První lekce
 -----------
@@ -264,7 +270,6 @@ zlepšit.
 Program lekce
 -------------
 
-
 Každá lekce (kromě té první) je u nás rozdělena do dvou částí:
 
 * 30 minut: kontrola domácích úkolů
@@ -302,6 +307,7 @@ Každý vedlejší i hlavní kouč by měl mít na paměti jistá pravidla, aby 
       přímé odhalení řešení pomůže účastníkovi pouze krátkodobě)
     * snaží se nepoužívat terminologii, kterou účastník zatím nezná
     * nezlehčuje problémy, které účastník řeší ani je nevhodně nekomentuje, nevzdychá a vyvaruje se demotivujícím hláškám
+
 
 Pokračovací a doprovodné srazy
 ------------------------------
