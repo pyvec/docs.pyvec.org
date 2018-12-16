@@ -65,7 +65,7 @@ Nejnovější verze Pythonu, jakou ReadTheDocs podporují, je 3.6. Z toho důvod
 Continuous Integration
 ----------------------
 
-Na repozitáři je zapojený `Travis CI <http://travis-ci.org/>`_. Kontrolka:
+Na repozitáři je zapojený `Travis CI <https://travis-ci.org/>`_. Kontrolka:
 
 .. image:: https://travis-ci.org/pyvec/guide.svg?branch=master
     :target: https://travis-ci.org/pyvec/guide

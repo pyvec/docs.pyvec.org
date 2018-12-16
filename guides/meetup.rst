@@ -38,7 +38,7 @@ Slovníček
 Web
 ^^^
 
-Hlavním rozcestníkem komunity je sice `python.cz <http://python.cz/>`_, ale srazy mají vyhrazený svůj vlastní web, `pyvo.cz <http://pyvo.cz/>`_. Jako i všechno ostatní co se tvoří pro Python komunitu u nás, i tento web `je Open Source <https://github.com/pyvec/pyvo.cz>`_ a může do něj přispět kdokoliv.
+Hlavním rozcestníkem komunity je sice `python.cz <https://python.cz/>`__, ale srazy mají vyhrazený svůj vlastní web, `pyvo.cz <https://pyvo.cz/>`__. Jako i všechno ostatní co se tvoří pro Python komunitu u nás, i tento web `je Open Source <https://github.com/pyvec/pyvo.cz>`__ a může do něj přispět kdokoliv.
 
 
 Mám založit sraz?
@@ -77,7 +77,7 @@ Jak bylo už naznačeno, Pyvo v Brně, Praze nebo Ostravě má většinou formá
 Není nutné se tohoto formátu držet. Na srazech se dá dělat spousta věcí a od nich se pak odvíjí i výběr místa, termínu, četnosti srazu, a tak dále. Nápady na aktivity:
 
 - Code reviews,
-- kino - koukání na vybraná videa z `pyvideo.org <http://www.pyvideo.org/>`_,
+- kino - koukání na vybraná videa z `pyvideo.org <https://pyvideo.org/>`__,
 - volné povídání,
 - ukázky vlastních projektů,
 - sprint - společná práce na Open Source projektech,
@@ -134,9 +134,9 @@ Projektor lze v nouzi půjčit pro účel srazu z větší firmy, ale musíš se
 Franšíza
 ^^^^^^^^
 
-Zvaž, jestli pro tvé město není Python příliš úzké zaměření srazu. Např. ve Valašském Meziříčí jsou `Tkalci <http://tkalci.cz/>`__, sraz obecnější, o webu a dalších technologiích. V Českých Budějovicích je `Čtvrtkon <http://ctvrtkon.cz/>`__, který pravidelně střídá témata z různých oblastí.
+Zvaž, jestli pro tvé město není Python příliš úzké zaměření srazu. Např. ve Valašském Meziříčí jsou `Tkalci <http://tkalci.cz/>`__, sraz obecnější, o webu a dalších technologiích. V Českých Budějovicích je `Čtvrtkon <https://www.ctvrtkon.cz/>`__, který pravidelně střídá témata z různých oblastí.
 
-V Pyvci přemýšlíme nad tím, jestli bychom nemohli zkusit zavést možnost franšízování značky Pyvo. Že by například Tkalci mohli mít jedno vydání čistě s přednáškami ze světa Pythonu a díky tomu by toto konkrétní setkání mohli prohlásit za Pyvo. Tím by se dostalo do našich kalendářů na `pyvo.cz <http://pyvo.cz>`__ a pomohli bychom jej propagovat na sociálních sítích a i jinde. Také bychom třeba vyslali nějakou delegaci výletníků (přednášejících?).
+V Pyvci přemýšlíme nad tím, jestli bychom nemohli zkusit zavést možnost franšízování značky Pyvo. Že by například Tkalci mohli mít jedno vydání čistě s přednáškami ze světa Pythonu a díky tomu by toto konkrétní setkání mohli prohlásit za Pyvo. Tím by se dostalo do našich kalendářů na `pyvo.cz <https://pyvo.cz>`__ a pomohli bychom jej propagovat na sociálních sítích a i jinde. Také bychom třeba vyslali nějakou delegaci výletníků (přednášejících?).
 
 Nemáme to nijak skvěle promyšlené. Pokud by měl o tohle tvůj sraz zájem, dej nám vědět (viz :ref:`srazy-pyvec`).
 
@@ -295,15 +295,15 @@ Při focení a následném sdílení výsledků své práce myslete na to, že n
 Natáčení
 ^^^^^^^^
 
-Pokud máte přednášky, můžete je natočit. To se nejlépe dělá kamerou na stativu, ale takové vybavení má málokdo. Z pravidelných návštěvníků českých Pyv je to především `Petr Viktorin <http://encukou.cz/>`_, který si je pořídil speciálně pro tento účel, objíždí s ním srazy a vše co vidí, to natáčí a následně zpracovává.
+Pokud máte přednášky, můžete je natočit. To se nejlépe dělá kamerou na stativu, ale takové vybavení má málokdo. Z pravidelných návštěvníků českých Pyv je to především `Petr Viktorin <http://encukou.cz/>`__, který si je pořídil speciálně pro tento účel, objíždí s ním srazy a vše co vidí, to natáčí a následně zpracovává.
 
 Pokud zrovna nemáte Petra ani vlastní kameru, ale přesto chcete zkusit přednášky natočit, můžete to zkusit klidně i chytrým telefonem nebo foťákem. Nakonec jde totiž při natáčení přednášejícího stejně především o zvuk. Je dobré přednášky *stříhat rovnou v kameře*, to znamená zapnout kameru těsně před začátkem přednášky a vypnout ji těsně po potlesku. Natáčení více přednášek do jednoho záběru zbytečně přináší víc nároků na následné zpracovávání záznamů.
 
-Co ukazuje přednášející divákům je možné zachytit pomocí speciální krabičky `ExtremeCap 910 <https://www.avermedia.com/education/product/all/extremecap_910>`_, která se zapojí mezi počítač a projektor a nahrává na SD kartu promítaný obraz včetně zvuku z mikrofonu. Jednu takovou krabičku má `Petr Viktorin <http://encukou.cz/>`_, druhou `Ondřej Caletka <https://ondřej.caletka.cz>`_. Alternativou je nahrávání obrazu přímo v jeho počítači pomocí programů jako
+Co ukazuje přednášející divákům je možné zachytit pomocí speciální krabičky `ExtremeCap 910 <https://www.avermedia.com/education/product/all/extremecap_910>`__, která se zapojí mezi počítač a projektor a nahrává na SD kartu promítaný obraz včetně zvuku z mikrofonu. Jednu takovou krabičku má `Petr Viktorin <http://encukou.cz/>`__, druhou `Ondřej Caletka <https://ondřej.caletka.cz>`__. Alternativou je nahrávání obrazu přímo v jeho počítači pomocí programů jako
 
-- `recordMyDesktop <https://en.wikipedia.org/wiki/RecordMyDesktop>`_
-- `Quick Time <https://support.apple.com/en-us/HT201066#screen>`_
-- `FFmpeg <https://trac.ffmpeg.org/wiki/Capture/Desktop>`_ (`příklad použití <https://gist.github.com/oskar456/e887539e66af8cd045f1180f1969fab3>`_)
+- `recordMyDesktop <https://en.wikipedia.org/wiki/RecordMyDesktop>`__
+- `Quick Time <https://support.apple.com/en-us/HT201066#screen>`__
+- `FFmpeg <https://trac.ffmpeg.org/wiki/Capture/Desktop>`__ (`příklad použití <https://gist.github.com/oskar456/e887539e66af8cd045f1180f1969fab3>`__)
 
 Jedinou překážkou může být neochota přednášejících instalovat si na počítač nějaký nový software. Argumentovat můžeš tím, že *FFmpeg* nejspíš už nainstalovaný stejně mají, *recordMyDesktop* je Open Source a *Quick Time* že je na Macu přímo součástí systému.
 
@@ -319,13 +319,13 @@ Volná zábava
 
 Jako *volná zábava* je označován čistý networking, který trvá většinou do té doby, než se vytratí poslední návštěvník. Čím více lidí vám na srazu zůstane na networking, tím lépe, protože přesně tato část večera nejvíc přivádí lidi k sobě a utužuje komunitu. Svým způsobem je důležitější, než všechny přednášky dohromady. Jestliže návštěvníci odejdou brzy, zkus se zamyslet nad tím, zda nebyli příliš utaháni přednáškami nebo jestli je pro ně místo konání dostatečně atraktivní k delšímu setrvání. (Samozřejmě se nad tím nemusíš jen zamýšlet, můžeš se jich jednoduše zeptat).
 
-V průběhu volné zábavy by bylo fajn, kdyby se k sobě účastníci pořád chovali jako slušní lidé i přes možné "opojení atmosférou". Alkohol je při networkingu dobrý sluha, ale zlý pán. Jakmile se někdo začne chovat tak, že by to jiné návštěvníky přivádělo do nekomfortních situací, měl bys být připraven jako organizátor zasáhnout a tohoto člověka napomenout nebo jej požádat, aby akci opustil. Tvým cílem by mělo být dosažení příjemného prostředí, do kterého se nikdo nemusí bát vstoupit, ať už je to nesmělý středoškolák nebo mamina, která se zrovna vrátila ze začátečnického kurzu pořádaného `PyLadies <http://pyladies.cz/>`_. Arogance, povýšenost nad začátečníky, nejapné šikanizující vtípky nebo nemístné poznámky smrdící sexismem by se neměly tolerovat.
+V průběhu volné zábavy by bylo fajn, kdyby se k sobě účastníci pořád chovali jako slušní lidé i přes možné "opojení atmosférou". Alkohol je při networkingu dobrý sluha, ale zlý pán. Jakmile se někdo začne chovat tak, že by to jiné návštěvníky přivádělo do nekomfortních situací, měl bys být připraven jako organizátor zasáhnout a tohoto člověka napomenout nebo jej požádat, aby akci opustil. Tvým cílem by mělo být dosažení příjemného prostředí, do kterého se nikdo nemusí bát vstoupit, ať už je to nesmělý středoškolák nebo mamina, která se zrovna vrátila ze začátečnického kurzu pořádaného `PyLadies <https://pyladies.cz/>`__. Arogance, povýšenost nad začátečníky, nejapné šikanizující vtípky nebo nemístné poznámky smrdící sexismem by se neměly tolerovat.
 
 
 Knihovnička
 ^^^^^^^^^^^
 
-Existuje tzv. `Knihovnička <https://github.com/pyvec/bookshelf/>`_, do které můžete darovat knihy a z níž si knihy můžete půjčovat. Přestože jsou srazy v různých městech, docela se nám zatím daří knihy distribuovat a poptávky po zapůjčkách uspokojovat (velký dík za to patří především knihovníkovi `Petru Viktorinovi <http://encukou.cz/>`_, jenž s knihami pravidelně objíždí většinu srazů v ČR). Máš-li sraz, tato Knihovnička je jednou z věcí, kterou tam můžeš docela snadno zavést a podpořit tak interakci lidí i přenos vědomostí.
+Existuje tzv. `Knihovnička <https://github.com/pyvec/bookshelf/>`__, do které můžete darovat knihy a z níž si knihy můžete půjčovat. Přestože jsou srazy v různých městech, docela se nám zatím daří knihy distribuovat a poptávky po zapůjčkách uspokojovat (velký dík za to patří především knihovníkovi `Petru Viktorinovi <http://encukou.cz/>`__, jenž s knihami pravidelně objíždí většinu srazů v ČR). Máš-li sraz, tato Knihovnička je jednou z věcí, kterou tam můžeš docela snadno zavést a podpořit tak interakci lidí i přenos vědomostí.
 
 
 Po akci
@@ -337,9 +337,9 @@ Po akci
 Materiály z přednášek
 ^^^^^^^^^^^^^^^^^^^^^
 
-Jako archiv informací o jednotlivých srazech jsme využívali `Lanyrd <http://lanyrd.com>`_ (`Praha <http://lanyrd.com/series/praha-pyvo/>`_, `Brno <http://lanyrd.com/series/brno-pyvo/>`_, `Ostrava <http://lanyrd.com/series/ostrava-pyvo/>`_), ale nakonec jsme si na `pyvo.cz <http://pyvo.cz/>`_ udělali vlastní systém s databází `pyvo-data <https://github.com/pyvec/pyvo-data>`_.
+Jako archiv informací o jednotlivých srazech jsme využívali `Lanyrd <https://en.wikipedia.org/wiki/Lanyrd>`__, ale nakonec jsme si na `pyvo.cz <https://pyvo.cz/>`__ udělali vlastní systém s databází `pyvo-data <https://github.com/pyvec/pyvo-data>`__.
 
-Pokud máš nějaké slajdy nebo jiné materiály, je dobré je na stránky vašeho srazu doplnit k popisu přednášek. Může to být skoro cokoliv od odkazu na YouTube s videem z přednášky, po odkazy na slajdy ze služeb jako `Speaker Deck <https://speakerdeck.com/>`_ či `SlideShare <http://www.slideshare.net/>`_. Pokud ti přednášející předá slajdy ve formě souboru, převeď je pokud možno na PDF a nahraj do repozitáře `talks-archive <https://github.com/pyvec/talks-archive>`. Následně na ně odkazuj ve formátu ``https://pyvec.github.io/talks-archive/<název souboru>``
+Pokud máš nějaké slajdy nebo jiné materiály, je dobré je na stránky vašeho srazu doplnit k popisu přednášek. Může to být skoro cokoliv od odkazu na YouTube s videem z přednášky, po odkazy na slajdy ze služeb jako `Speaker Deck <https://speakerdeck.com/>`__ či `SlideShare <https://www.slideshare.net/>`__. Pokud ti přednášející předá slajdy ve formě souboru, převeď je pokud možno na PDF a nahraj do repozitáře `talks-archive <https://github.com/pyvec/talks-archive>`. Následně na ně odkazuj ve formátu ``https://pyvec.github.io/talks-archive/<název souboru>``
 
 
 .. _srazy-fotky:
@@ -347,10 +347,7 @@ Pokud máš nějaké slajdy nebo jiné materiály, je dobré je na stránky vaš
 Fotky
 ^^^^^
 
-Pyvec má na svém Google Drive archiv všech možných fotek z akcí české Python komunity, který zatím ale neústí v žádnou veřejnou, centralizovanou celorepublikovou galerii. Pokud máš nějaké fotky ze srazu (viz :ref:`srazy-foceni`) a chceš je archivovat, kontaktuj určitě :ref:`srazy-pyvec`. Chceš-li je sdílet, hoď je, kam je ti libo. Když se ti pár fotek opravdu povede,
-
-- tweetni je a udělej *mention* na `@naPyvo <https://twitter.com/napyvo>`_ (rádi to retweetnem), nebo
-- je zmenši na rozumnou velikost a udělej Pull Request, v němž `je přidáš jako fotky, které se náhodně zobrazují jako pozadí na python.cz <https://github.com/pyvec/python.cz/tree/master/pythoncz/static/photos>`_.
+Pyvec má na svém Google Drive archiv všech možných fotek z akcí české Python komunity, který zatím ale neústí v žádnou veřejnou, centralizovanou celorepublikovou galerii. Pokud máš nějaké fotky ze srazu (viz :ref:`srazy-foceni`) a chceš je archivovat, kontaktuj určitě :ref:`srazy-pyvec`. Chceš-li je sdílet, hoď je, kam je ti libo. Když se ti pár fotek opravdu povede, tweetni je a udělej *mention* na `@naPyvo <https://twitter.com/napyvo>`__ (rádi to retweetnem).
 
 Při sdílení myslete na to, že ne každý se rád fotí a ne každý rád visí někde na Facebooku.
 
@@ -360,9 +357,9 @@ Při sdílení myslete na to, že ne každý se rád fotí a ne každý rád vis
 Videa
 ^^^^^
 
-Pokud se ti povedlo natočit nějaká videa (viz :ref:`srazy-nataceni`), buď dej vědět `Petrovi Viktorinovi <http://encukou.cz/>`_ a nebo se pokus o jejich zpracování sám/sama.
+Pokud se ti povedlo natočit nějaká videa (viz :ref:`srazy-nataceni`), buď dej vědět `Petrovi Viktorinovi <http://encukou.cz/>`__ a nebo se pokus o jejich zpracování sám/sama.
 
- 1. Připrav prázdný adresář pro každou přednášku. S ti tím pomůže funkce ``videometadata`` nástroje `pyvodb <https://github.com/pyvec/pyvodb>`_:
+ 1. Připrav prázdný adresář pro každou přednášku. S ti tím pomůže funkce ``videometadata`` nástroje `pyvodb <https://github.com/pyvec/pyvodb>`__:
 
 .. code-block:: shell
 
@@ -385,7 +382,7 @@ Pokud se ti povedlo natočit nějaká videa (viz :ref:`srazy-nataceni`), buď de
 
  2. Do připravených adresářů nahraj soubory s videem – jak z kamery, tak záznamy projekce. Uprav vygenerovaný soubor ``config.yaml``, tak aby obsahoval správný název přednášky, jméno přednášejícího, datum a URL akce, stejně jako odkazy na videosoubory (pokud kamera automaticky dělí záběry do více souborů, nevadí to) a další metadata: jestli byla projekce 4:3 nebo 16:9, jestli jde o lightning talk, v jakém jazyku byla přednáška a v jakém slajdy, atd. Všechny možné volby najdeš v nápovědě níže zmíněného nástroje ``talk-video-maker``.
 
- 3. Nainstaluj `talk-video-maker <https://github.com/encukou/talk-video-maker>`_ a jeho závislosti – `Inkscape <https://inkscape.org/cs/>`_, `FFmpeg <https://www.ffmpeg.org/>`_ a font `Signika Negative <https://fonts.google.com/specimen/Signika+Negative>`_. Tohle s největší pravděpodobností nebude fungovat jinde než na Linuxu. Na wiki projektu je stručný `návod, jak s tím začít <https://github.com/encukou/talk-video-maker/wiki/Jak-s-t%C3%ADm-za%C4%8D%C3%ADt>`_.
+ 3. Nainstaluj `talk-video-maker <https://github.com/encukou/talk-video-maker>`__ a jeho závislosti – `Inkscape <https://inkscape.org/cs/>`__, `FFmpeg <https://www.ffmpeg.org/>`__ a font `Signika Negative <https://fonts.google.com/specimen/Signika+Negative>`__. Tohle s největší pravděpodobností nebude fungovat jinde než na Linuxu. Na wiki projektu je stručný `návod, jak s tím začít <https://github.com/encukou/talk-video-maker/wiki/Jak-s-t%C3%ADm-za%C4%8D%C3%ADt>`__.
 
 .. code-block:: shell
 
@@ -397,7 +394,7 @@ Pokud se ti povedlo natočit nějaká videa (viz :ref:`srazy-nataceni`), buď de
 
  4. Pokud se vše podařilo, máš v aktuálním adresáři sestříhané video a k němu YAML soubor s metadaty potřebnými pro YouTube. Zkontroluj, jestli video vypadá, jak vypadat má, jestli nejsou překlepy v titulcích a jestli i na konci videa je synchronní obraz a zvuk. Pokud něco není v pořádku, pokus se najít příčinu – nejspíš to bude poškozený nebo špatně ustřižený video soubor.
 
- 5. Pro nahrávání do `kanálu Pyvo na YouTube <https://www.youtube.com/channel/UCaT4I7hjX9iH1YFvNvuu84A>`_ potřebuješ vlastní Google účet. Následně požádáš `Petra Viktorina <http://encukou.cz/>`_, aby tě přidal jako správce. Na YouTube pak budeš moci přepínat mezi svými účty, přičemž jedním z nich bude právě Pyvo. Protože ruční nahrávání je otrava, existuje nástroj `talk-video-uploader <https://github.com/oskar456/talk-video-uploader>`_, který video nahraje za tebe. Při prvním spuštění tě požádá o udělení oprávnění ke konkrétnímu účtu, do kterého následně bude nahrávat všechna videa.
+ 5. Pro nahrávání do `kanálu Pyvo na YouTube <https://www.youtube.com/channel/UCaT4I7hjX9iH1YFvNvuu84A>`__ potřebuješ vlastní Google účet. Následně požádáš `Petra Viktorina <http://encukou.cz/>`__, aby tě přidal jako správce. Na YouTube pak budeš moci přepínat mezi svými účty, přičemž jedním z nich bude právě Pyvo. Protože ruční nahrávání je otrava, existuje nástroj `talk-video-uploader <https://github.com/oskar456/talk-video-uploader>`__, který video nahraje za tebe. Při prvním spuštění tě požádá o udělení oprávnění ke konkrétnímu účtu, do kterého následně bude nahrávat všechna videa.
 
 .. code-block:: shell
 
@@ -409,7 +406,7 @@ Pokud se ti povedlo natočit nějaká videa (viz :ref:`srazy-nataceni`), buď de
 
 ..
 
- 6. Po nahrání všech videí je potřeba doplnit odkazy na ně do databáze `pyvo-data <https://github.com/pyvec/pyvo-data>`_. Příslušný fragment YAML souboru vygeneruje přímo ``talk-video-uploader``. Videa jsou při nahrávání nastavena jako neveřejná. Až YouTube video zpracuje a zkontroluješ, že je všechno v pořádku, nastav ho jako veřejné přímo z webového rozhraní YouTube.
+ 6. Po nahrání všech videí je potřeba doplnit odkazy na ně do databáze `pyvo-data <https://github.com/pyvec/pyvo-data>`__. Příslušný fragment YAML souboru vygeneruje přímo ``talk-video-uploader``. Videa jsou při nahrávání nastavena jako neveřejná. Až YouTube video zpracuje a zkontroluješ, že je všechno v pořádku, nastav ho jako veřejné přímo z webového rozhraní YouTube.
 
 Při sdílení myslete na to, že ne každý může chtít, aby byla jeho přednáška veřejně přístupná (viz :ref:`srazy-prednasejici`). Měli byste mít od přednášejícího svolení s nahráváním a uveřejněním nebo by mělo být alespoň jasné, že si mohou vybrat.
 
@@ -429,8 +426,8 @@ Pokud chceš nabrat nějakou další inspiraci k tomu, jak organizovat Python sr
 Globální zdroje
 ^^^^^^^^^^^^^^^
 
-- E-mailová diskuse `group-organizers <https://mail.python.org/mailman/listinfo/group-organizers>`_
-- `Starting Your Python Users Group <https://wiki.python.org/moin/StartingYourUsersGroup>`_ na python.org
+- E-mailová diskuse `group-organizers <https://mail.python.org/mailman/listinfo/group-organizers>`__
+- `Starting Your Python Users Group <https://wiki.python.org/moin/StartingYourUsersGroup>`__ na python.org
 
 
 .. _srazy-zakulisi-cr:
@@ -440,10 +437,10 @@ Zákulisí existujících srazů v ČR
 
 Na následujících stránkách se domlouvají organizátoři existujících srazů.
 
-- `Pyvec Slack <http://pyvec.slack.com/>`_
-- `Brno (Google Group) <https://groups.google.com/forum/#!forum/brno-pyvo>`_
-- `Ostrava (Google Group) <https://groups.google.com/forum/#!forum/ostrava-pyvo>`_
-- `Ostrava (Facebook) <https://www.facebook.com/groups/pyvoruby/>`_
+- `Pyvec Slack <https://pyvec.slack.com/>`__
+- `Brno (Google Group) <https://groups.google.com/forum/#!forum/brno-pyvo>`__
+- `Ostrava (Google Group) <https://groups.google.com/forum/#!forum/ostrava-pyvo>`__
+- `Ostrava (Facebook) <https://www.facebook.com/groups/pyvoruby/>`__
 
 
 .. _srazy-tipy:
@@ -457,7 +454,7 @@ Tipy
 Původ názvu Pyvo
 ^^^^^^^^^^^^^^^^
 
-Název *Pyvo* vymyslel `Rastislav Turek <http://turek.co/>`_ někdy v roce 2011. Založil skupinu `Pyonieri <https://www.facebook.com/groups/pyonieri/>`_ a odstartoval v Bratislavě srazy Pyvo, které byly ale prakticky od začátku spojené s `Rubyslavou <http://rubyslava.sk/>`_. Když Honza Javorek zakládal Python sraz v Brně, název se svolením převzal. Později se rozšířil i do Prahy (kde přejmenovali Django CS / Pyvec srazy na Pyvo) a do Ostravy, kde už se to jako Pyvo rovnou založilo. Mezitím se Rubyslava stala srazem pro programátory všeho druhu a Pyvo v Bratislavě jako samostatný projekt úplně zaniklo. Až později bylo nahrazeno komunitou kolem `PyCon SK <https://www.pycon.sk/>`_ a jejich srazy.
+Název *Pyvo* vymyslel `Rastislav Turek <http://turek.co/>`__ někdy v roce 2011. Založil skupinu `Pyonieri <https://www.facebook.com/groups/pyonieri/>`__ a odstartoval v Bratislavě srazy Pyvo, které byly ale prakticky od začátku spojené s `Rubyslavou <http://rubyslava.sk/>`__. Když Honza Javorek zakládal Python sraz v Brně, název se svolením převzal. Později se rozšířil i do Prahy (kde přejmenovali Django CS / Pyvec srazy na Pyvo) a do Ostravy, kde už se to jako Pyvo rovnou založilo. Mezitím se Rubyslava stala srazem pro programátory všeho druhu a Pyvo v Bratislavě jako samostatný projekt úplně zaniklo. Až později bylo nahrazeno komunitou kolem `PyCon SK <https://www.pycon.sk/>`__ a jejich srazy.
 
 
 .. _srazy-pyvec:
@@ -465,6 +462,6 @@ Název *Pyvo* vymyslel `Rastislav Turek <http://turek.co/>`_ někdy v roce 2011.
 Pyvec
 ^^^^^
 
-Za touto příručkou stojí `Pyvec <http://pyvec.org/>`_, neziskovka podporující v ČR aktivity kolem programovacího jazyka Python. Pokud byste se srazem měli jakékoliv problémy, potřebovali nějaké finance nebo rady, rozhodně se na nás obraťte - jsme tu od toho, abychom vám byli k ruce a pomohli vám.
+Za touto příručkou stojí `Pyvec <http://pyvec.org/>`__, neziskovka podporující v ČR aktivity kolem programovacího jazyka Python. Pokud byste se srazem měli jakékoliv problémy, potřebovali nějaké finance nebo rady, rozhodně se na nás obraťte - jsme tu od toho, abychom vám byli k ruce a pomohli vám.
 
 Příručku sepsal Honza Javorek. Podíleli se na ní nebo do ní nějak přispěli Petr Viktorin, Jirka Bartoň, Michal Valoušek, a další.
