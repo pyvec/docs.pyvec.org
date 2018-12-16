@@ -4,7 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [scripts]
+lint = "_scripts/lint.sh"
 serve = "sphinx-autobuild . _build"
+requirements = "pipenv_to_requirements -f -o requirements.txt"
 
 [packages]
 sphinx = "*"
@@ -13,7 +15,6 @@ sphinx-tabs = "*"
 [dev-packages]
 sphinx-autobuild = "*"
 sphinx-rtd-theme = "*"
-"doc8" = "*"
 pylama = "*"
 pipenv-to-requirements = "*"
 
