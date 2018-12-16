@@ -3,8 +3,7 @@
 Jak přispívat do příruček?
 ==========================
 
-Našli jste chybu? Chtěli byste něco doplnit? Následující odstavce
-popisují, jak lze materiály upravovat a návrhy na změny posílat autorům.
+Našli jste chybu? Chtěli byste něco doplnit? Následující odstavce popisují, jak lze materiály upravovat a návrhy na změny posílat autorům.
 
 Rychlé úpravy bez instalace
 ---------------------------
@@ -21,6 +20,7 @@ Když toho upravujete víc, nebo máte zálusk na nějaké složitější kejkle
     .. group-tab:: Standardní instalace
 
         #. Nainstalujte si Python 3.6
+        #. `Nainstalujte si Pipenv <https://pipenv.readthedocs.io/en/latest/install/#installing-pipenv>`__
         #. ``git clone ...``
         #. ``pipenv install --dev``
 
@@ -33,8 +33,9 @@ Když toho upravujete víc, nebo máte zálusk na nějaké složitější kejkle
 
         Potom pokračujte jako ve standardní instalaci, akorát je třeba napovědět, který Python chcete použít:
 
-        3. ``git clone ...``
-        4. ``pipenv install --dev --python="$(pyenv root)/versions/3.6.6/bin/python"``
+        3. `Nainstalujte si Pipenv <https://pipenv.readthedocs.io/en/latest/install/#installing-pipenv>`__
+        4. ``git clone ...``
+        5. ``pipenv install --dev --python="$(pyenv root)/versions/3.6.6/bin/python"``
 
 Běžná práce
 -----------
@@ -57,21 +58,17 @@ Pokud se něco nepovedlo, podrobnosti lze zjistit na `této stránce  <https://r
 Závislosti
 ----------
 
-Projekt využívá `pipenv <https://docs.pipenv.org/>`_, ale ReadTheDocs jej zatím nepodporují (`rtfd/readthedocs.org#3181 <https://github.com/rtfd/readthedocs.org/issues/3181>`_). Proto je nutné vždy při změně závislostí zavolat ``pipenv run pipenv_to_requirements -f -o requirements.txt`` a tím vytvořit i soubor ``requirements.txt``, kterému ReadTheDocs rozumí.
+Projekt využívá `pipenv <https://docs.pipenv.org/>`_, ale ReadTheDocs jej zatím nepodporují (`rtfd/readthedocs.org#3181 <https://github.com/rtfd/readthedocs.org/issues/3181>`_). Proto je nutné vždy při změně závislostí zavolat ``pipenv run requirements`` a tím vytvořit i soubor ``requirements.txt``, kterému ReadTheDocs rozumí.
 
-Nejnovější verze Pythonu, jakou ReadTheDocs podporují, je 3.6. Z toho důvodu
-ji vyžaduje i tento projekt. Nastavení je v souboru ``readthedocs.yml`` (`dokumentace <https://docs.readthedocs.io/en/latest/yaml-config.html>`_).
+Nejnovější verze Pythonu, jakou ReadTheDocs podporují, je 3.6. Z toho důvodu ji vyžaduje i tento projekt. Nastavení je v souboru ``readthedocs.yml`` (`dokumentace <https://docs.readthedocs.io/en/latest/yaml-config.html>`_).
 
 Continuous Integration
 ----------------------
 
-Na repozitáři je zapojený `Travis CI <http://travis-ci.org/>`_. Zatím pouze
-kontroluje, jestli ``requirements.txt`` odpovídají ``Pipfile.lock`` (viz výše).
-Kontrolka:
+Na repozitáři je zapojený `Travis CI <https://travis-ci.org/>`_. Kontrolka:
 
 .. image:: https://travis-ci.org/pyvec/guide.svg?branch=master
     :target: https://travis-ci.org/pyvec/guide
     :alt: Continuous Integration Status
 
-Travis CI je pouze informativní a nezabrání tomu, aby se ``master`` větev
-dostala do ReadTheDocs.
+Travis CI je pouze informativní a nezabrání tomu, aby se ``master`` větev dostala do ReadTheDocs.

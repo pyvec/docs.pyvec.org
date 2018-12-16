@@ -121,7 +121,7 @@ Vedlejší koučové
     Určitě koučování nabídni i účastníkům předchozích kurzů.
     V první řadě, látku uslyší znovu a tím si ji oživí. A navíc vysvětlováním a pomáháním s chybami účastníků jim i leccos zpětně dojde.
     Tuto metodu i samotní programátoři používají při své práci a jde o tzv. `Rubber duck debugging
-    <https://en.wikipedia.org/wiki/Rubber_duck_debugging>`_.
+    <https://en.wikipedia.org/wiki/Rubber_duck_debugging>`__.
 
     Spousta stávajících koučů PyLadies je ochotná jednorázově vypomoci a přijet
     do jiného města
@@ -130,7 +130,7 @@ Vedlejší koučové
 Obsah
 ^^^^^
 
-Naše materiály jsou `volně k použití <http://pyladies.cz/course.html>`_
+Naše materiály jsou `volně k použití <https://pyladies.cz/course.html>`__
 pod licencí `CC-BY-SA`_, a dají se použít přímo nebo upravit přesně podle
 vašich představ :)
 
@@ -264,7 +264,7 @@ Na konci lekce dostanou papírky další roli: na zelený papírek každý úča
 napíše něco, co se mu líbilo, a na červený něco negativního.
 Hlavní kouč pak papírky vybere, aby měl představu co v příští lekci
 zlepšit.
-(Doporučuji sepsat shrnutí a reakci, jako např. `tady <http://pyladies.cz/v1/notes/2016-brno-jaro/2016-03-14.txt>`_)
+(Doporučuji sepsat shrnutí a reakci, jako např. `tady <https://pyladies.cz/v1/notes/2016-brno-jaro/2016-03-14.txt>`__)
 
 
 Program lekce
@@ -316,9 +316,9 @@ XXX: "čtvrteční srazy"
 
 
 
-.. _začátečnické kurzy PyLadies: http://pyladies.cz/course.html
-.. _CC-BY-SA: http://creativecommons.org/licenses/by-sa/4.0/
-.. _Software Carpentry: http://software-carpentry.org/
+.. _začátečnické kurzy PyLadies: https://pyladies.cz/course.html
+.. _CC-BY-SA: https://creativecommons.org/licenses/by-sa/4.0/
+.. _Software Carpentry: https://software-carpentry.org/
 
 .. rubric:: Footnotes
 
