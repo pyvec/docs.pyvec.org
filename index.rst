@@ -15,6 +15,7 @@ Obsah
    guides/pyladies-runs
    guides/django-girls
    guides/high-school-class
+   guides/promotion
 
 .. toctree::
    :hidden:
