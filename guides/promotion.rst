@@ -14,7 +14,7 @@ Jsou to tedy poměrně důležité úlohy, a to především pro konferenci, kte
 Media tým
 ---------
 
-`PyCon CZ <https://cz.pycon.org/>`__ řeší propagaci složením tzv. "Media" týmu, který se stará o *public relations* a *social media*. Pro srovnání, `EuroPython <https://europython.eu>`__ má `pracovní skupinu <https://www.europython-society.org/workgroups>`__ "Communications" se širším záběrem:
+`PyCon CZ <https://cz.pycon.org/>`__ řeší propagaci složením tzv. "Media" týmu, který se stará o *public relations* a *social media*. Pro srovnání, `EuroPython <https://ep2019.europython.eu/>`__ má `pracovní skupinu <https://www.europython-society.org/workgroups>`__ "Communications" se širším záběrem:
 
    **Communications:** press, community relations, diversity/outreach, announcements, social media, attendee tools, volunteer coordination, Telegram groups, mailing lists
 
@@ -57,7 +57,7 @@ Vedoucí
    Člen týmu si může vzít na starost i úkol, který neví jak zpracovat - to je v pořádku. Vedoucí všechno vysvětlí, naučí, a zapíše sem.
 
 Přístupy
-   Členové týmu by měli být na `Pyvec Slacku <https://pyvec.slack.com/>`__ v místnosti ``#pyconcz-media`` a v týmu ``@pyconcz-media-team``, ve Facebookové skupine `Pyonýři <https://www.facebook.com/groups/pyonieri/>`__, měli by být nastavení jako spoluorganizátoři Facebookové události pro konferenci (příspěvky od organizátorů se zobrazují viditelněji), měli by mít přístup do Twitter účtu `@pyconcz <https://twitter.com/pyconcz>`__ přes `TweetDeck Teams <https://blog.twitter.com/official/en_us/a/2015/introducing-tweetdeck-teams.html>`__, a měli by umět posílat e-maily do skupiny `django-cs <https://groups.google.com/group/django-cs/>`__ a `konference py.cz <http://www.py.cz/mailman/listinfo/python>`__.
+   Členové týmu by měli být na `Pyvec Slacku <https://pyvec.slack.com/>`__ v místnosti ``#pyconcz-media`` a v týmu ``@pyconcz-media-team``, ve Facebookové skupine `Pyonýři <https://www.facebook.com/groups/pyonieri/>`__, měli by být nastavení jako spoluorganizátoři Facebookové události pro konferenci (příspěvky od organizátorů se zobrazují viditelněji), měli by mít přístup do Twitter účtu `@pyconcz <https://twitter.com/pyconcz>`__ přes `TweetDeck Teams <https://blog.twitter.com/official/en_us/a/2015/introducing-tweetdeck-teams.html>`__, a měli by umět posílat e-maily do skupiny `django-cs <https://groups.google.com/group/django-cs/>`__ a `konference py.cz <https://www.py.cz/mailman/listinfo/python>`__.
 
 Úkoly od spoluorganizátorů
    Pokud na Slacku přijde úkol ("zpropagujte datum konference") a v Media týmu je víc lidí, je dobré na Slack napsat "jdu na to", pokud to jdu udělat, aby ostatní z týmu věděli, že už to nemusí řešit. Případně "budu na to mít čas dnes večer" (třeba to někdo zvládne i dřív) nebo "udělám Facebook" (někdo jiný si vezme Twitter).
@@ -202,4 +202,4 @@ Poznámky závěrem
 
 
 
-.. _Google Dokumentu: https://docs.google.com/document/d/1J1M6pKTGvQt_UjtXAJzoHJd6GRVHfeGbE3UTWuK-LLw/edit#heading=h.mrab3bga56h0
+.. _Google Dokumentu: https://docs.google.com/document/d/1J1M6pKTGvQt_UjtXAJzoHJd6GRVHfeGbE3UTWuK-LLw/edit
