@@ -104,3 +104,102 @@ Posloupnost událostí
 Události dávají smysl tak, jak jdou za sebou, v rozestupech. Turbulentní doba příprav konference může některé události zpozdit. Například vyhlášení keynote speakerů až s celým programem je promarněná šance přitlačit na prodej EARLY BIRD lístků.
 
 Také je to díra v informačním toku pro Media tým, protože dlouhou dobu není žádná novinka, o které by mohli psát. Vedoucí týmu si hlídá, aby šly věci chronologicky podle časové osy výše a aby bylo vše včas připravené pro další událost. Pokud něco nehraje, řeší to se zbytkem organizačního týmu.
+
+
+Komunikační kanály
+------------------
+
+Facebook
+~~~~~~~~
+
+.. todo::
+   Tady ještě nic není, musí se to přepsat z `Google Dokumentu`_.
+
+Twitter
+~~~~~~~
+
+.. todo::
+   Tady ještě nic není, musí se to přepsat z `Google Dokumentu`_.
+
+Zprávičky
+~~~~~~~~~
+
+.. todo::
+   Tady ještě nic není, musí se to přepsat z `Google Dokumentu`_.
+
+Akademici
+~~~~~~~~~
+
+.. todo::
+   Tady ještě nic není, musí se to přepsat z `Google Dokumentu`_.
+
+E-mailové skupiny
+~~~~~~~~~~~~~~~~~
+
+.. todo::
+   Tady ještě nic není, musí se to přepsat z `Google Dokumentu`_.
+
+Další kanály
+~~~~~~~~~~~~
+
+.. todo::
+   Tady ještě nic není, musí se to přepsat z `Google Dokumentu`_.
+
+
+Styl komunikace
+---------------
+
+Tón
+~~~
+
+.. todo::
+   Tady ještě nic není, musí se to přepsat z `Google Dokumentu`_.
+
+Jazyk
+~~~~~
+
+.. todo::
+   Tady ještě nic není, musí se to přepsat z `Google Dokumentu`_.
+
+.. _odpovidani-na-dotazy:
+
+Odpovídání na dotazy
+~~~~~~~~~~~~~~~~~~~~
+
+.. todo::
+   Tady ještě nic není, musí se to přepsat z `Google Dokumentu`_.
+
+
+Návody
+------
+
+Co lze průběžně propagovat
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. todo::
+   Tady ještě nic není, musí se to přepsat z `Google Dokumentu`_.
+
+Jak na Call for Papers
+~~~~~~~~~~~~~~~~~~~~~~
+
+.. todo::
+   Tady ještě nic není, pár poznámek má Honza na GitHubu ve `#22 <https://github.com/pyvec/guide/issues/22>`__.
+
+
+Co propagovat během konference
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. todo::
+   Tady ještě nic není, musí se to přepsat z `Google Dokumentu`_.
+
+
+Poznámky závěrem
+----------------
+
+.. todo::
+   Tady ještě nic není, musí se to přepsat z `Google Dokumentu`_.
+
+
+
+
+.. _Google Dokumentu: https://docs.google.com/document/d/1J1M6pKTGvQt_UjtXAJzoHJd6GRVHfeGbE3UTWuK-LLw/edit#heading=h.mrab3bga56h0
