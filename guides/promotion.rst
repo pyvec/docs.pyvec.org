@@ -51,7 +51,7 @@ Organizace práce
 ~~~~~~~~~~~~~~~~
 
 Vedoucí
-   Vedoucí týmu je "final escalation point". Pokud není jasné, jak se má něco udělat nebo rozhodnout, rozhoduje vedoucí. Vedoucí taky zodpovídá za to, aby se práce udělala (deleguje, nebo udělá).
+   Vedoucí týmu je "final escalation point". Pokud není jasné, jak se má něco udělat nebo rozhodnout, rozhoduje vedoucí. Vedoucí taky zodpovídá za to, aby byla práce hotová (deleguje, nebo udělá).
 
 Člen týmu
    Člen týmu si může vzít na starost i úkol, který neví jak zpracovat - to je v pořádku. Vedoucí všechno vysvětlí, naučí, a zapíše sem.
@@ -72,7 +72,7 @@ Milníky propagace konference
 Existuje tabulka, ve které se nachází všechno o konferenci, tzv. “Battle Plan”. Na záložce “Timeline” je časová osa toho, jak budou probíhat přípravy konference. Z hlediska propagace jsou nejdůležitější následující události:
 
 Vyhlášení konání konference (datum, místo)
-   Vytvoření FB události, atd. Nahánění prvních early-adopters, cílem je aby si lidi udělali značku ve svém kalendáři a na datum si nic neplánovali.
+   Vytvoření FB události, atd. Nahánění prvních early-adopters, cílem je, aby si lidi udělali značku ve svém kalendáři a na datum si nic neplánovali.
 
 Otevření CfP / uzavření CfP
    Co nejvíce lidí namotivovat, aby poslali přihlášku na přednášku nebo workshop do otevřeného CfP. Plošná oslovení nefungují, lepší je nacházet konkrétní lidi a psát jim, zvát je, apod. Je potřeba opravdu hodně přihlášek, toto je nejtěžší kus práce.
@@ -81,7 +81,7 @@ Spuštění prodeje EARLY BIRD lístků
    Smyslem je motivovat lidi kupovat si zlevněné lístky dřív, i když ještě neví, co bude na konferenci za obsah. Díky tomu máme potom jistější rozpočet.
 
 Vyhlášení keynote speakerů
-   Jsou domluvení a víme je před tím, než skončí CfP. Účelem je lákat lidi, i když ještě nemáme jasný další obsah konference.
+   Jsou domluvení a známe je před tím, než skončí CfP. Účelem je lákat lidi, i když ještě nemáme jasný další obsah konference.
 
 Spuštění prodeje STANDARD lístků, vyhlášení speakerů a programu
    Smyslem je, aby si lidi koupili lístky, přijeli na konferenci a my nepřišli na buben :)
