@@ -112,8 +112,30 @@ Komunikační kanály
 Facebook
 ~~~~~~~~
 
-.. todo::
-   Tady ještě nic není, musí se to přepsat z `Google Dokumentu`_.
+**Událost** pro PyCon CZ se většinou tvoří už hodně dopředu, aby se na ni lidi mohli naklikat. Jako datum se dá 1.4. (apríl) nebo tak něco, a všude se v popiscích zdůrazní, že datum ještě není finální. Grafika může být prozatím "loňská". Jakmile se uvěřejňuje datum konference, nastaví se správné datum. Jakmile je známá nová grafika, nahraje se nová, atd.
+
+**Události minulých let:** `2015 <https://www.facebook.com/events/1624916497723396/>`__, `2016 <https://www.facebook.com/events/845895085510493/>`__, `2017 <https://www.facebook.com/events/165281843969470/>`__, `2018 <https://www.facebook.com/events/1271690599641233/>`__, `2019 <https://www.facebook.com/events/2070764789904992/>`__
+
+.. note::
+   Prosíme čtenáře tohoto návodu, aby postupně doplňovali odkazy na další roky.
+
+Když se vytvoří nová událost, hodí se jít zpět na události minulých ročníků a hodit tam příspěvek o tom, že už se organizuje nový PyCon CZ a přidat odkaz na novou událost. Lidé, kteří na minulé konference šli tak dostanou poměrně relevantní notifikaci.
+
+Kromě události máme **skupinu** `Pyonieri <https://www.facebook.com/groups/pyonieri/>`__, kde cross-postujeme určité super významné události (otevření CfP, prodej lístků, apod.).
+
+Nemáme žádnou **stránku**. O stránku by bylo potřeba se starat celoročně a samostatné události zatím vždy fungovaly dobře, takže stránka nechyběla. Kontinuitu zajišťovala skupina, v níž je většina FB komunity a kde se vždy nová událost s novým ročníkem zpropagovala a bylo hotovo.
+
+Událost vytváří vedoucí Media týmu jako svou osobní veřejnou událost, ale dává jako spoluorganizátory minimálně ještě ostatní z Media týmu a nejvyšší vedení konferenčního týmu. Všichni členové týmu musí být nastaveni jako admini na události, protože když napíše admin na stránku události, všichni přihlášení dostanou notifikaci - a toho chceme samozřejmě využívat.
+
+Na Facebook píše každý z Media týmu za sebe a ručně monitoruje dotazy a odpovídá. K postům se snažíme mít obrázky, třeba i nějaké vtipné, zvyšuje to zapojení lidí. Označování lidí / firem / atd. (např. speakerů nebo sponzorů) taky zvyšuje, takže pokud to jde, tak by se to mělo dělat.
+
+Facebook umí v určitých kontextech příspěvky naplánovat (minimálně do skupin), takže by mělo být možné si tím pomoci a mělo by jít nasázet více příspěvků do budoucna.
+
+Ale pozor, na Facebook posíláme zprávy spíše jednou za čas a delší, na rozdíl od Twitteru, kam příspěvky sypeme jeden za druhým. Hodí se spíš počkat a spojit víc informací dohromady a nějak lidsky a vtipně je sepsat do pěkného statusu s obrázkem. Nezahlcovat lidi, postovat jen sem tam, jinak si vypnou notifikace na události nebo na ně přestanou reagovat (*notification fatigue*).
+
+Na Facebooku se vyplatí na rozdíl od Twitteru dávat věci i o víkendu, protože lidem přijdou notifikace a oni si je v neděli večer, až se vrátí z hor a z chalupy, vyberou.
+
+Emoji pomáhají tomu, aby si lidi statusu všimli, ale nemělo by se to s nimi asi úplně přehánět.
 
 Twitter
 ~~~~~~~
