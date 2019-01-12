@@ -299,7 +299,7 @@ Pokud máte přednášky, můžete je natočit. To se nejlépe dělá kamerou na
 
 Pokud zrovna nemáte Petra ani vlastní kameru, ale přesto chcete zkusit přednášky natočit, můžete to zkusit klidně i chytrým telefonem nebo foťákem. Nakonec jde totiž při natáčení přednášejícího stejně především o zvuk. Je dobré přednášky *stříhat rovnou v kameře*, to znamená zapnout kameru těsně před začátkem přednášky a vypnout ji těsně po potlesku. Natáčení více přednášek do jednoho záběru zbytečně přináší víc nároků na následné zpracovávání záznamů.
 
-Co ukazuje přednášející divákům je možné zachytit pomocí speciální krabičky `ExtremeCap 910 <https://www.avermedia.com/education/product/all/extremecap_910>`__, která se zapojí mezi počítač a projektor a nahrává na SD kartu promítaný obraz včetně zvuku z mikrofonu. Jednu takovou krabičku má `Petr Viktorin <http://encukou.cz/>`__, druhou `Ondřej Caletka <https://caletka.cz>`__. Alternativou je nahrávání obrazu přímo v jeho počítači pomocí programů jako
+Co ukazuje přednášející divákům je možné zachytit pomocí speciální krabičky `ExtremeCap 910 <https://www.avermedia.com/education/product/all/extremecap_910>`__, která se zapojí mezi počítač a projektor a nahrává na SD kartu promítaný obraz včetně zvuku z mikrofonu. Jednu takovou krabičku má `Petr Viktorin <http://encukou.cz/>`__, druhou `Ondřej Caletka <https://ondrej.caletka.cz>`__. Alternativou je nahrávání obrazu přímo v jeho počítači pomocí programů jako
 
 - `recordMyDesktop <https://en.wikipedia.org/wiki/RecordMyDesktop>`__
 - `Quick Time <https://support.apple.com/en-us/HT201066#screen>`__
