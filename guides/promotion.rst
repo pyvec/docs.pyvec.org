@@ -130,10 +130,10 @@ Velké publikum se dá sehnat tak, že s účtem `@pyconcz <https://twitter.com/
 
 Před každou konferencí je také potřeba upravit bio (kdy a kde se konference koná), grafika, atd.
 
-Na Twitteru lze naplánovat tweety dopředu přes `TweetDeck <http://tweetdeck.twitter.com/>`__, čehož se při přípravě konference velice hojně využívá. TweetDeck je obecně velkým pomocníkem. Přes `TweetDeck Teams <https://blog.twitter.com/official/en_us/a/2015/introducing-tweetdeck-teams.html>`__ se dá konferenční účet nasdílet dalším lidem bez sdílení hesla. Lze i snadno sledovat mentions, různá klíčová slova, operovat za více účtů najednou, apod.
+Na Twitteru lze naplánovat tweety dopředu přes `TweetDeck <https://tweetdeck.twitter.com/>`__, čehož se při přípravě konference velice hojně využívá. TweetDeck je obecně velkým pomocníkem. Přes `TweetDeck Teams <https://blog.twitter.com/official/en_us/a/2015/introducing-tweetdeck-teams.html>`__ se dá konferenční účet nasdílet dalším lidem bez sdílení hesla. Lze i snadno sledovat mentions, různá klíčová slova, operovat za více účtů najednou, apod.
 
 .. note::
-   Například `Honza Javorek <https://honzajavorek.cz>`__ má ve TweetDecku sloupec s vyhledáváním na následující způsob:
+   Například `Honza Javorek <http://honzajavorek.cz>`__ má ve TweetDecku sloupec s vyhledáváním na následující způsob:
 
    .. code-block:: text
 
