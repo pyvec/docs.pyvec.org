@@ -297,7 +297,11 @@ Nováčci
 
 Lákání nováčků je vyloženě "`scouting <https://cs.wikipedia.org/wiki/Skaut_(sport)>`__". Jsou to lidé, kteří nejspíš mají co říct, ale bojí se, nikdy to nedělali, mohou mít nízké sebevědomí, apod.
 
-Vytipování je dost na osobní bázi - většinou takový nováček nemůže dát expertní přednášku, takže hledáme spíše "hluboký lidský příběh" založený na osobním úspěchu, který umožnil či akceleroval Python a jeho komunita. `Ze skladníka programátorem <http://blog.python.cz/ja-python-a-rosti>`__, `programování s dětmi na koleně <https://cz.pycon.org/2018/programme/detail/talk/13/>`__, `absolventka PyLadies v Kanadě <https://twitter.com/BaruZKanady/status/1053485882827784192>`__, to vše jsou příběhy, které lze zachytit a přetavit v přednášku na PyCon CZ. Na minulých letech jde vidět, že takové lidi jde sehnat a jde je motivovat k akci, ale je to trochu mravenčí práce a je potřeba na ně mít osobní kontakt a být jim po ruce někde třeba na `Messangeru <http://messenger.com/>`__.
+Vytipování je dost na osobní bázi - většinou takový nováček nemůže dát expertní přednášku, takže hledáme spíše "hluboký lidský příběh" založený na osobním úspěchu, který umožnil či akceleroval Python a jeho komunita: `Ze skladníka programátorem <http://blog.python.cz/ja-python-a-rosti>`__, `absolventka PyLadies v Kanadě <https://twitter.com/BaruZKanady/status/1053485882827784192>`__, to vše jsou příběhy, které lze zachytit a přetavit v přednášku na PyCon CZ.
+
+Nemusí to být ale jen příběh. I začátečník v přednášení nebo Pythonu může mít nabušenou přednášku, viz již proběhlé `programování s dětmi <https://cz.pycon.org/2018/programme/detail/talk/13/>`__, `šifrovačky <https://cz.pycon.org/2016/speakers/talks/#honza-klusacek>`__ nebo `testování <https://cz.pycon.org/2016/speakers/talks/#magdalena-kabatova>`__.
+
+Na minulých letech jde tedy vidět, že takové lidi jde do přednáškového mixu sehnat a jde je motivovat k akci, ale je to trochu mravenčí práce a někdy je potřeba na ně mít osobní kontakt a být jim po ruce, třeba na `Messangeru <http://messenger.com/>`__.
 
 Paradoxně nováčci velmi příznivě reagují na fakt, že nemusí přes CfP vůbec projít. Lze je chlácholit, že prostě jen vhodí lístek do osudí a nikdo je třeba ani nevybere a nebudou muset nic řešit.
 
