@@ -119,7 +119,7 @@ Facebook
 .. note::
    Prosíme čtenáře tohoto návodu, aby postupně doplňovali odkazy na další roky.
 
-Když se vytvoří nová událost, hodí se jít zpět na události minulých ročníků a hodit tam příspěvek o tom, že už se organizuje nový PyCon CZ a přidat odkaz na novou událost. Lidé, kteří na minulé konference šli tak dostanou poměrně relevantní notifikaci.
+Když se vytvoří nová událost, hodí se jít zpět na události minulých ročníků a hodit tam příspěvek o tom, že už se organizuje nový PyCon CZ a přidat odkaz na novou událost. Lidé, kteří na minulé konference šli, tak dostanou poměrně relevantní notifikaci.
 
 Kromě události máme **skupinu** `Pyonieri <https://www.facebook.com/groups/pyonieri/>`__, kde cross-postujeme určité super významné události (otevření CfP, prodej lístků, apod.).
 
@@ -127,7 +127,7 @@ Nemáme žádnou **stránku**. O stránku by bylo potřeba se starat celoročně
 
 Událost vytváří vedoucí Media týmu jako svou osobní veřejnou událost, ale dává jako spoluorganizátory minimálně ještě ostatní z Media týmu a nejvyšší vedení konferenčního týmu. Všichni členové týmu musí být nastaveni jako admini na události, protože když napíše admin na stránku události, všichni přihlášení dostanou notifikaci - a toho chceme samozřejmě využívat.
 
-Na Facebook píše každý z Media týmu za sebe a ručně monitoruje dotazy a odpovídá. K postům se snažíme mít obrázky, třeba i nějaké vtipné, zvyšuje to zapojení lidí. Označování lidí / firem / atd. (např. speakerů nebo sponzorů) taky zvyšuje, takže pokud to jde, tak by se to mělo dělat.
+Na Facebook píše každý z Media týmu za sebe a ručně monitoruje dotazy a odpovídá. K postům se snažíme mít obrázky, třeba i nějaké vtipné, zvyšuje to zapojení lidí. Označování lidí / firem / atd. (např. speakerů nebo sponzorů) taky zvyšuje, takže pokud to jde, mělo by se to dělat.
 
 Facebook umí v určitých kontextech příspěvky naplánovat (minimálně do skupin), takže by mělo být možné si tím pomoci a mělo by jít nasázet více příspěvků do budoucna.
 
