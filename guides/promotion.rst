@@ -72,7 +72,7 @@ Milníky propagace konference
 Existuje tabulka, ve které se nachází všechno o konferenci, tzv. “Battle Plan”. Na záložce “Timeline” je časová osa toho, jak budou probíhat přípravy konference. Z hlediska propagace jsou nejdůležitější následující události:
 
 Vyhlášení konání konference (datum, místo)
-   Vytvoření FB události, atd. Nahánění prvních early-adopters, cílem je, aby si lidi udělali značku ve svém kalendáři a na datum si nic neplánovali.
+   Vytvoření FB události, atd. Nahánění prvních early-adopters, cílem je, aby si lidi udělali značku ve svém kalendáři a na datum si nic neplánovali. Je potřeba datum zadat do kalendáře na `pycon.org <https://www.pycon.org/>`__, aby si datum nevybraly jiné blízké konference.
 
 Otevření CfP / uzavření CfP
    Co nejvíce lidí namotivovat, aby poslali přihlášku na přednášku nebo workshop do otevřeného CfP. Plošná oslovení nefungují, lepší je nacházet konkrétní lidi a psát jim, zvát je, apod. Je potřeba opravdu hodně přihlášek, toto je nejtěžší kus práce.
@@ -108,6 +108,11 @@ Také je to díra v informačním toku pro Media tým, protože dlouhou dobu nen
 
 Komunikační kanály
 ------------------
+
+Kalendář na PyCon.org
+~~~~~~~~~~~~~~~~~~~~~
+
+Na `pycon.org <https://www.pycon.org/>`__ je kalendář, kam je potřeba co nejdříve zadat datum konference. Dělá se to `posláním e-mailu <https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event>`__. Pokud tam konference nebude, je pravděpodobné, že si datum vybere i jiná konference. Bude-li v nedalekém místě, může z toho být `mrzení <https://twitter.com/mariocj89/status/1100488632064856064>`__ v podobě nechtěného přetahování speakerů a návštěvníků.
 
 Facebook
 ~~~~~~~~
