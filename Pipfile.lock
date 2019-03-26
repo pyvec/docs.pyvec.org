@@ -327,11 +327,11 @@
         },
         "pipenv-to-requirements": {
             "hashes": [
-                "sha256:c20f905dfe4d93bc41486a36b87cf479f2d6b30b006649b57af68a0ab6bd48a8",
-                "sha256:d3d633c213d2fae0d2dceec26c9c67fdbeb48b56eeee66c9b2153c20cd0ba306"
+                "sha256:04dc5b1fedfea18858efe3f28d62ed70ac0cd04c34bc32a8c3531384d11be460",
+                "sha256:44bfefa3f6ded62e3bdcc5a6bb4de7a821b2658f821c1126f6abc3bffecb2c1e"
             ],
             "index": "pypi",
-            "version": "==0.6.1"
+            "version": "==0.7.1"
         },
         "port-for": {
             "hashes": [
