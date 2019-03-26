@@ -1,32 +1,21 @@
-################################################################################
-# This requirements file has been automatically generated from `Pipfile` with
-# `pipenv-to-requirements`
-#
-#
-# This has been done to maintain backward compatibility with tools and services
-# that do not support `Pipfile` yet.
-#
-# Do NOT edit it directly, use `pipenv install [-d]` to modify `Pipfile` and
-# `Pipfile.lock` and then regenerate `requirements*.txt`.
-################################################################################
-
+-i https://pypi.org/simple/
 alabaster==0.7.12
 babel==2.6.0
-certifi==2018.11.29
+certifi==2019.3.9
 chardet==3.0.4
 docutils==0.14
-idna==2.7
+idna==2.8
 imagesize==1.1.0
 jinja2==2.10
-markupsafe==1.1.0
-packaging==18.0
+markupsafe==1.1.1
+packaging==19.0
 pygments==2.3.1
-pyparsing==2.3.0
-pytz==2018.7
+pyparsing==2.3.1
+pytz==2018.9
 requests==2.21.0
 six==1.12.0
 snowballstemmer==1.2.1
 sphinx-tabs==1.1.10
-sphinx==1.8.2
+sphinx==1.8.5
 sphinxcontrib-websupport==1.1.0
 urllib3==1.24.1
