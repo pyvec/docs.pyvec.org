@@ -58,17 +58,17 @@ Pokud se něco nepovedlo, podrobnosti lze zjistit na `této stránce  <https://r
 Závislosti
 ----------
 
-Projekt využívá `pipenv <https://docs.pipenv.org/>`_, ale ReadTheDocs jej zatím nepodporují (`rtfd/readthedocs.org#3181 <https://github.com/rtfd/readthedocs.org/issues/3181>`_). Proto je nutné vždy při změně závislostí zavolat ``pipenv run requirements`` a tím vytvořit i soubor ``requirements.txt``, kterému ReadTheDocs rozumí.
+Projekt využívá `pipenv <https://docs.pipenv.org/>`_, ale ReadTheDocs jej zatím nepodporují (`rtfd/readthedocs.org#3181 <https://github.com/rtfd/readthedocs.org/issues/3181>`_). Proto je nutné vždy při změně závislostí zavolat ``pipenv lock --requirements > requirements.txt`` a tím vytvořit i soubor ``requirements.txt``, kterému ReadTheDocs rozumí.
 
 Nejnovější verze Pythonu, jakou ReadTheDocs podporují, je 3.6. Z toho důvodu ji vyžaduje i tento projekt. Nastavení je v souboru ``readthedocs.yml`` (`dokumentace <https://docs.readthedocs.io/en/latest/yaml-config.html>`_).
 
 Continuous Integration
 ----------------------
 
-Na repozitáři je zapojený `Travis CI <https://travis-ci.org/>`_. Kontrolka:
+Na repozitáři je zapojeno `CircleCI <https://circleci.com/>`_. Kontrolka:
 
-.. image:: https://travis-ci.org/pyvec/guide.svg?branch=master
-    :target: https://travis-ci.org/pyvec/guide
+.. image:: https://circleci.com/gh/pyvec/guide/tree/master.svg?style=svg
+    :target: https://circleci.com/gh/honzajavorek/cojeapi/tree/master
     :alt: Continuous Integration Status
 
-Travis CI je pouze informativní a nezabrání tomu, aby se ``master`` větev dostala do ReadTheDocs.
+CircleCI je pouze informativní a nezabrání tomu, aby se ``master`` větev dostala do ReadTheDocs.
