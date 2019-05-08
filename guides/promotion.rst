@@ -72,7 +72,7 @@ Milníky propagace konference
 Existuje tabulka, ve které se nachází všechno o konferenci, tzv. “Battle Plan”. Na záložce “Timeline” je časová osa toho, jak budou probíhat přípravy konference. Z hlediska propagace jsou nejdůležitější následující události:
 
 Vyhlášení konání konference (datum, místo)
-   Vytvoření FB události, atd. Nahánění prvních early-adopters, cílem je, aby si lidi udělali značku ve svém kalendáři a na datum si nic neplánovali. Je potřeba datum zadat do kalendáře na `pycon.org <https://www.pycon.org/>`__ (viz :ref:`níže <pycon-org-calendar>`), aby si datum nevybraly jiné blízké konference.
+   Vytvoření FB události, atd. Nahánění prvních early-adopters, cílem je, aby si lidi udělali značku ve svém kalendáři a na datum si nic neplánovali. Je potřeba datum zadat do kalendáře na `pycon.org <https://pycon.org/>`__ (viz :ref:`níže <pycon-org-calendar>`), aby si datum nevybraly jiné blízké konference.
 
 Otevření CfP / uzavření CfP
    Co nejvíce lidí namotivovat, aby poslali přihlášku na přednášku nebo workshop do otevřeného CfP. Plošná oslovení nefungují, lepší je nacházet konkrétní lidi a psát jim, zvát je, apod. Je potřeba opravdu hodně přihlášek, toto je nejtěžší kus práce.
@@ -114,7 +114,7 @@ Komunikační kanály
 Kalendář na PyCon.org
 ~~~~~~~~~~~~~~~~~~~~~
 
-Na `pycon.org <https://www.pycon.org/>`__ je kalendář, kam je potřeba co nejdříve zadat datum konference. Dělá se to `posláním e-mailu <https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event>`__. Pozor, je nutné použít danou šablonu.
+Na `pycon.org <https://pycon.org/>`__ je kalendář, kam je potřeba co nejdříve zadat datum konference. Dělá se to `posláním e-mailu <https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event>`__. Pozor, je nutné použít danou šablonu.
 
 Pokud tam konference nebude, je pravděpodobné, že si datum vybere i jiná konference. Bude-li v nedalekém místě, může z toho být `mrzení <https://twitter.com/mariocj89/status/1100488632064856064>`__ v podobě nechtěného přetahování speakerů a návštěvníků.
 
@@ -274,7 +274,7 @@ Pokud zrovna neobjíždím konference a nesleduji zahraniční články z oboru,
 Jiné konference a cestování speakerů
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Co znamená "projít jiné konference"? Znamená to zjistit, jaké další Python konference se teď konaly nebo budou konat v Evropě. Pomoci může například `seznam na pycon.org <https://www.pycon.org/>`__ Je dobré vědět, jestli se PyCon CZ koná souběžně s jinou konferencí (jednou se to stalo s PyCon DE a to bylo velké mrzení, jelikož k nám nechtěl přijet nikdo z Německa) nebo těsně před/po jiné blízké (Německo, Rakousko, Polsko, Slovensko) či velké (EuroPython) konferenci. Z toho pak vyvozuji závěry. Evropský speaker, který přijede do Polska týden před PyCon CZ asi nebude mít problém se stavit i u nás. Americký speaker, který má letět týden po PyCon CZ na EuroPython si možná rád odskočí dát přednášku do ČR a můžeme mu zkusit napsat.
+Co znamená "projít jiné konference"? Znamená to zjistit, jaké další Python konference se teď konaly nebo budou konat v Evropě. Pomoci může například `seznam na pycon.org <https://pycon.org/>`__ Je dobré vědět, jestli se PyCon CZ koná souběžně s jinou konferencí (jednou se to stalo s PyCon DE a to bylo velké mrzení, jelikož k nám nechtěl přijet nikdo z Německa) nebo těsně před/po jiné blízké (Německo, Rakousko, Polsko, Slovensko) či velké (EuroPython) konferenci. Z toho pak vyvozuji závěry. Evropský speaker, který přijede do Polska týden před PyCon CZ asi nebude mít problém se stavit i u nás. Americký speaker, který má letět týden po PyCon CZ na EuroPython si možná rád odskočí dát přednášku do ČR a můžeme mu zkusit napsat.
 
 Do CfP se jinak moc nevyplatí mířit na speakery za oceánem, pokud nemají cestu kolem - ti se obecně zvou spíš separátně jako keynote speakeři. Není to ale absolutní pravidlo - `Honza <http://honzajavorek.cz>`__ omylem napsal `člověku, protože si nevšiml, že je z Texasu <https://twitter.com/vanl>`__, a ten prostě neváhal a přiletěl.
 
