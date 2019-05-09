@@ -3,7 +3,7 @@
 
 set -e
 
-add_slash_re='s#pypi.org/simple/?$#pypi.org/simple/#'
+add_slash_re='s#pypi.org/simple/*$#pypi.org/simple/#'
 remove_comment_re='s# *;.*##'
 
 cat requirements.txt | sed -e "$add_slash_re" | sed -e "$remove_comment_re" > normalized-requirements.txt
