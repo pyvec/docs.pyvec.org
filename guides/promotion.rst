@@ -114,7 +114,9 @@ Komunikační kanály
 Kalendář na PyCon.org
 ~~~~~~~~~~~~~~~~~~~~~
 
-Na `pycon.org <https://pycon.org/>`__ je kalendář, kam je potřeba co nejdříve zadat datum konference. Dělá se to `posláním e-mailu <https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event>`__. Pozor, je nutné použít danou šablonu.
+Na `pycon.org <https://pycon.org/>`__ je kalendář, kam je potřeba co nejdříve zadat datum konference. Dělá se to přidáním řádku do CSV souboru v `repozitáři na GitHubu <https://github.com/python-organizers/conferences>`__.
+
+Kromě toho existuje `Python Events Calendar <https://wiki.python.org/moin/PythonEventsCalendar>`__. Aktuálně není jasné, jestli se změny v CSV výše promítnou i do něj. Proto radši navíc `pošli e-mail <https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event>`__ i sem. Pozor, je nutné použít danou šablonu.
 
 Pokud tam konference nebude, je pravděpodobné, že si datum vybere i jiná konference. Bude-li v nedalekém místě, může z toho být `mrzení <https://twitter.com/mariocj89/status/1100488632064856064>`__ v podobě nechtěného přetahování speakerů a návštěvníků.
 
