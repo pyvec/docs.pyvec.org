@@ -178,6 +178,7 @@ epub_exclude_files = ['search.html']
 
 linkcheck_ignore = ['http://127.0.0.1:8000']
 sphinx_tabs_valid_builders = ['linkcheck']
+sphinx_tabs_nowarn = True  # https://github.com/djungelorm/sphinx-tabs/issues/39
 
 
 # -- Options for todo extension ----------------------------------------------
