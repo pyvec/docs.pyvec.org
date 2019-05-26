@@ -10,9 +10,9 @@ IS_READTHEDOCS = os.environ.get('READTHEDOCS') == 'True'
 
 # -- Project information -----------------------------------------------------
 
-project = 'Příručka pro\u00a0pořadatele Python\u00a0akcí'
-copyright = '2015, Pyvec'
-author = 'Pyvec'
+project = 'Dokumentace\u00a0české Python\u00a0komunity'
+copyright = '2015, Pyvec, z.s.'
+author = 'Pyvec, z.s.'
 
 # The short X.Y version
 version = ''
@@ -102,7 +102,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'pyvec-guide-doc'
+htmlhelp_basename = 'pyvec-doc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -129,7 +129,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'pyvec-guide.tex', project, author, 'manual'),
+    (master_doc, 'pyvec.tex', project, author, 'manual'),
 ]
 
 
@@ -138,7 +138,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'pyvec-guide', project, [author], 1)
+    (master_doc, 'pyvec', project, [author], 1)
 ]
 
 
@@ -148,7 +148,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'pyvec-guide', project, author, 'pyvec-guide', project,
+    (master_doc, 'pyvec', project, author, 'pyvec', project,
      'Miscellaneous'),
 ]
 
@@ -187,3 +187,9 @@ sphinx_tabs_nowarn = True
 
 # If true, `todo` and `todoList` produce output, else they produce nothing.
 todo_include_todos = True
+
+
+# -- Setting up extensions ------------------------------------------------
+
+def setup(app):
+    app.add_javascript('redirect.js')

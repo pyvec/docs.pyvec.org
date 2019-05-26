@@ -1,7 +1,7 @@
 .. _contributing:
 
-Jak přispívat do příruček?
-==========================
+Jak přispívat?
+==============
 
 Našli jste chybu? Chtěli byste něco doplnit? Následující odstavce popisují, jak lze materiály upravovat a návrhy na změny posílat autorům.
 
@@ -55,6 +55,11 @@ Na GitHubu jsou pouze zdrojové texty. Po každé změně ve větvi ``master`` n
 
 Pokud se něco nepovedlo, podrobnosti lze zjistit na `této stránce  <https://readthedocs.org/projects/pyvec-guide/builds/>`_, která je ovšem přístupná jen administrátorům.
 
+Pyvec Guide
+-----------
+
+Tento projekt se původně jmenoval ``pyvec-guide`` a proto se tak jmenuje i projekt na ReadTheDocs. Projekt nemá smysl přejmenovávat, když máme nyní doménu ``docs.pyvec.org``, akorát bychom rozbili staré odkazy. JavaScript ``_static/redirect.js`` zajišťuje, že staré odkazy se přesměrují.
+
 Závislosti
 ----------
 
@@ -67,8 +72,8 @@ Continuous Integration
 
 Na repozitáři je zapojeno `CircleCI <https://circleci.com/>`_. Kontrolka:
 
-.. image:: https://circleci.com/gh/pyvec/guide/tree/master.svg?style=svg
-    :target: https://circleci.com/gh/honzajavorek/cojeapi/tree/master
+.. image:: https://circleci.com/gh/pyvec/docs.pyvec.org/tree/master.svg?style=svg
+    :target: https://circleci.com/gh/pyvec/docs.pyvec.org/tree/master
     :alt: Continuous Integration Status
 
 CircleCI je pouze informativní a nezabrání tomu, aby se ``master`` větev dostala do ReadTheDocs.
