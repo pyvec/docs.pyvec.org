@@ -122,9 +122,11 @@ VI. Zánik členství
 6.2.
 """"	
 V případě dobrovolného vystoupení člena, končí členství ve spolku dnem doručení písemného oznámení o ukončení členství výboru, není-li v oznámení o ukončení členství uvedeno jinak.
+
 6.3.
 """"
-O vyloučení člena ze spolku rozhoduje výbor. Členství ve spolku končí dnem doručení písemného rozhodnutí výboru o vyloučení člena ze spolku vyloučenému členovi, není-li v rozhodnutí uvedeno jinak. Do 15 (patnácti) dnů od doručení rozhodnutí o vyloučení je člen oprávněn navrhnout, aby rozhodnutí o jeho vyloučení přezkoumala členská schůze. Vyloučený člen je oprávněn do 3 (tří) měsíců od doručení konečného rozhodnutí o vyloučení ze spolku podat návrh soudu, aby rozhodl o neplatnosti vyloučení, jinak toto právo zaniká.  
+O vyloučení člena ze spolku rozhoduje výbor. Členství ve spolku končí dnem doručení písemného rozhodnutí výboru o vyloučení člena ze spolku vyloučenému členovi, není-li v rozhodnutí uvedeno jinak. Do 15 (patnácti) dnů od doručení rozhodnutí o vyloučení je člen oprávněn navrhnout, aby rozhodnutí o jeho vyloučení přezkoumala členská schůze. Vyloučený člen je oprávněn do 3 (tří) měsíců od doručení konečného rozhodnutí o vyloučení ze spolku podat návrh soudu, aby rozhodl o neplatnosti vyloučení, jinak toto právo zaniká. 
+
 6.4.
 """"
 Člen, jehož členství ve spolku zaniklo, nemá nárok na vrácení jakýchkoliv uhrazených členských příspěvků ani na jiné majetkové vypořádání.
@@ -195,15 +197,19 @@ Do působnosti výboru náleží:
     j)	volit a odvolat předsedu,
     k)	volit z členů výboru pokladníka a odvolat jej,
     l)	navrhovat vnitřní směrnice
+    
 9.3.
 """"
 Výbor má 5 (pět) členů. Funkční období člena výboru jsou 3 (tři) roky. Spolek zastupuje navenek buď předseda výboru samostatně nebo společně dva členové výboru. 
+
 9.4.
 """"
 Členové výboru tvoří kolektivní orgán. Výbor se schází dle potřeby. 
+
 9.5.
 """"
 Výbor je usnášeníschopný, pokud se jednání výboru účastní více než polovina všech jeho členů a zároveň je přítomen předseda, nejde-li o volbu předsedy. Rozhodnutí výboru je přijato, pokud pro něj hlasovala nadpoloviční většina přítomných členů. Při rovnosti hlasů je rozhodující hlas předsedy. V případě, že se výbor z důvodu ukončení členství některého člena stane neúplným, mají jeho zbývající členové povinnost do 30 (třiceti) dnů svolat členskou schůzi, která zvolí chybějící členy výboru. Neklesl-li počet členů výboru pod polovinu, mohou tito zbývající členové výboru kooptovat náhradní členy výboru, kteří budou ve výboru do nejbližšího zasedání členské schůze, která chybějící členy výboru zvolí.
+
 9.6.
 """"
 Výbor může jednat a přijímat svá rozhodnutí také mimo zasedání, a to korespondenčně buď prostřednictvím poštovních služeb, nebo elektronicky prostřednictvím e-mailu. Veškerá korespondence v rámci jednání výboru mimo zasedání se v případě pochybností považuje za doručenou třetím pracovním dnem po odeslání poštou nebo následující pracovní den po odeslání elektronicky e-mailem. 
