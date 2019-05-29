@@ -8,7 +8,7 @@ Našli jste chybu? Chtěli byste něco doplnit? Následující odstavce popisuj�
 Rychlé úpravy bez instalace
 ---------------------------
 
-Abyste něco změnili v textech, nemusíte nic instalovat. Obsah lze upravovat online přes `repozitář na GitHubu <https://github.com/pyvec/guide>`_ pomocí ikony s tužkou v pravém horním rohu u každého souboru.
+Abyste něco změnili v textech, nemusíte nic instalovat. Obsah lze upravovat online přes `repozitář na GitHubu <https://github.com/pyvec/docs.pyvec.org>`_ pomocí ikony s tužkou v pravém horním rohu u každého souboru.
 
 Instalace
 ---------
