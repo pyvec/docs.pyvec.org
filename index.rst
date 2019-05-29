@@ -16,6 +16,7 @@ Obsah
    guides/django-girls
    guides/high-school-class
    guides/promotion
+   operations/bylaws
 
 .. toctree::
    :hidden:
