@@ -13,7 +13,7 @@ linkcheck = "sphinx-build -nW -b linkcheck . _build"
 # Pinning packages with ~= unless their version starts with 0.,
 # then pinning each version strictly with ==
 sphinx = "~=2.1.1"
-sphinx-tabs = "~=1.1.10"
+sphinx-tabs = "~=1.1.11"
 
 [dev-packages]
 # Pinning packages with ~= unless their version starts with 0.,
