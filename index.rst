@@ -10,13 +10,8 @@ Obsah
 .. toctree::
    :maxdepth: 2
 
-   guides/meetup
-   guides/beginners-course
-   guides/pyladies-runs
-   guides/django-girls
-   guides/high-school-class
-   guides/promotion
-   operations/bylaws
+   guides/index
+   operations/index
 
 .. toctree::
    :hidden:
