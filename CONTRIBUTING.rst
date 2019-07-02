@@ -1,7 +1,7 @@
 .. _contributing:
 
-Jak přispívat?
-==============
+Jak přispívat do této dokumentace
+=================================
 
 Našli jste chybu? Chtěli byste něco doplnit? Následující odstavce popisují, jak lze materiály upravovat a návrhy na změny posílat autorům.
 
