@@ -7,6 +7,8 @@
 Obsah
 -----
 
+.. _main-toc:
+
 .. toctree::
    :maxdepth: 2
 

@@ -1,7 +1,7 @@
 Podpora komunitních aktivit
 ===========================
 
-Pyvec nikomu neříká, co má dělat. Pomáhá těm, kteří se o něco snaží — je to servisní organizace. Má pod palcem `síť kontaktů <http://pyvec.slack.com/>`__, `finanční zdroje <https://www.fio.cz/scgi-bin/hermes/dz-transparent.cgi?ID_ucet=2600260438>`__, :ref:`know-how <navody>`, atd., kterými podporuje dobrovolníky s nápady a odhodláním. Pyvec primárně podporuje projekty, které jsou `otevřené <https://cs.wikipedia.org/wiki/Otev%C5%99en%C3%BD_software>`__ a `inkluzivní <https://cs.wikipedia.org/wiki/Inkluze_(sociologie)>`__.
+Pyvec nikomu neříká, co má dělat. Pomáhá těm, kteří se o něco snaží — je to servisní organizace. Má pod palcem `síť kontaktů <http://pyvec.slack.com/>`__, `finanční zdroje <https://www.fio.cz/scgi-bin/hermes/dz-transparent.cgi?ID_ucet=2600260438>`__, know-how, atd., kterými podporuje dobrovolníky s nápady a odhodláním. Pyvec primárně podporuje projekty, které jsou `otevřené <https://cs.wikipedia.org/wiki/Otev%C5%99en%C3%BD_software>`__ a `inkluzivní <https://cs.wikipedia.org/wiki/Inkluze_(sociologie)>`__.
 
 Dotazy pište na info@pyvec.org nebo v kanálu `#pyvec <https://pyvec.slack.com/messages/C12MP1GDB/>`__ na :ref:`Slacku <slack>`.
 
@@ -59,7 +59,8 @@ Pište na info@pyvec.org nebo v kanálu `#coc <https://pyvec.slack.com/messages/
 Návody
 ------
 
-Pod hlavičkou Pyvce postupně vznikají návody jak organizovat konkrétní akce nebo jak dělat určitou činnost, jež je v komunitě potřeba. Všechny jsou `otevřené <https://cs.wikipedia.org/wiki/Otev%C5%99en%C3%BD_software>`__ a najdete je v sekci :ref:`navody`. Chcete-li přidat svůj návod, koukněte na :ref:`contributing`
+Pod hlavičkou Pyvce postupně vznikají návody jak organizovat konkrétní akce nebo jak dělat určitou činnost, jež je v komunitě potřeba. Všechny jsou `otevřené <https://cs.wikipedia.org/wiki/Otev%C5%99en%C3%BD_software>`__ a najdete je :ref:`na těchto stránkách <main-toc>`.
+Chcete-li přidat svůj návod, koukněte na :ref:`contributing`
 
 
 Finanční podpora
