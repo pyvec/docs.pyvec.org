@@ -1,7 +1,7 @@
 Podpora komunitních aktivit
 ===========================
 
-Pyvec nikomu neříká, co má dělat. Pomáhá těm, kteří se o něco snaží — je to servisní organizace. Má pod palcem `síť kontaktů <http://pyvec.slack.com/>`__, `finanční zdroje <https://www.fio.cz/scgi-bin/hermes/dz-transparent.cgi?ID_ucet=2600260438>`__, know-how, atd., kterými podporuje dobrovolníky s nápady a odhodláním. Pyvec primárně podporuje projekty, které jsou `otevřené <https://cs.wikipedia.org/wiki/Otev%C5%99en%C3%BD_software>`__ a `inkluzivní <https://cs.wikipedia.org/wiki/Inkluze_(sociologie)>`__.
+Pyvec nikomu neříká, co má dělat. Pomáhá těm, kteří se o něco snaží — je to servisní organizace. Má pod palcem `síť kontaktů <http://pyvec.slack.com/>`__, `finanční zdroje <https://ib.fio.cz/ib/transparent?a=2600260438>`__, know-how, atd., kterými podporuje dobrovolníky s nápady a odhodláním. Pyvec primárně podporuje projekty, které jsou `otevřené <https://cs.wikipedia.org/wiki/Otev%C5%99en%C3%BD_software>`__ a `inkluzivní <https://cs.wikipedia.org/wiki/Inkluze_(sociologie)>`__.
 
 Dotazy pište na info@pyvec.org nebo v kanálu `#pyvec <https://pyvec.slack.com/messages/C12MP1GDB/>`__ na :ref:`Slacku <slack>`.
 
