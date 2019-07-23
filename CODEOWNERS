@@ -1,0 +1,3 @@
+# See https://github.blog/2017-07-06-introducing-code-owners/
+operations/bylaws.rst           @pyvec/board
+operations/meeting-notes.rst    @pyvec/board
