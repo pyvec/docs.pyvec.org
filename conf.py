@@ -176,7 +176,10 @@ epub_exclude_files = ['search.html']
 
 # -- Extension configuration -------------------------------------------------
 
-linkcheck_ignore = ['http://127.0.0.1:8000']
+linkcheck_ignore = [
+    r'http://127.0.0.1:\d+',  # localhost
+    r'https://docs.google.com/.+',  # links to non-public documents
+]
 sphinx_tabs_valid_builders = ['linkcheck']
 
 # workaround for https://github.com/djungelorm/sphinx-tabs/issues/39

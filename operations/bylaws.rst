@@ -3,7 +3,7 @@
 Stanovy
 =======
 
-.. contents:: Table of Contents
+.. contents::
     :depth: 3
 
 Pyvec, z.s.
@@ -202,6 +202,8 @@ Návrh musí obsahovat alespoň návrh usnesení, podklady potřebné pro jeho p
 
 Výbor oznámí členům spolku písemně nebo jiným vhodným způsobem výsledek hlasování, a pokud bylo usnesení přijato, oznámí jim i celý obsah přijatého usnesení. Neučiní-li to bez zbytečného odkladu, může oznámení učinit na náklady spolku ten, kdo usnesení navrhl.
 
+.. _vybor:
+
 IX. Výbor
 ^^^^^^^^^
 
@@ -237,6 +239,8 @@ Výbor má 5 (pět) členů. Funkční období člena výboru jsou 3 (tři) roky
 """"
 
 Členové výboru tvoří kolektivní orgán. Výbor se schází dle potřeby.
+
+.. _usnasenischopnost-vyboru:
 
 9.5.
 """"
