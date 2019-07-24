@@ -43,7 +43,7 @@ Jak se stát členem
 
 #. Výbor by ti měl potvrdit přijetí přihlášky. Výbor bude následně o tvé přihlášce hlasovat. Záleží na vytíženosti členů výboru, ale nemělo by to nejspíš trvat déle než týden nebo dva.
 #. Výbor odpoví a obeznámí tě s výsledkem hlasování. Měl by uveřejnit zápis do :ref:`meeting-notes` a přidat tě na Slacku do kanálu `#pyvec-members <https://pyvec.slack.com/messages/GL0H589SQ/>`__.
-#. Jakmile je zápis z hlasování veřejně, můžeš jej spolu s emaily použít jako důkaz o svém přijetí za člena a doklad svého existujícího členství.
+#. Jakmile je zápis z hlasování zveřejněn, můžeš jej spolu s emaily použít jako důkaz o svém přijetí za člena a doklad svého existujícího členství.
 #. Pyvec nemá zaveden členský poplatek, takže od této chvíle se stačí řídit :ref:`stanovami <stanovy>`.
 
 Přijetí nového člena
@@ -59,7 +59,7 @@ Přijetí nového člena
 #. Čeká se, dokud členové výboru odhlasují tak, že jsou :ref:`usnášeníschopní <usnasenischopnost-vyboru>`, tzn. musí odhlasovat minimálně předseda a další dva členové výboru.
 #. Po hlasování někdo z výboru odpoví na email (opět pro dohledatelnost) jak to dopadlo a pokud byla osoba přijata, zapíše ji do `tabulky <https://docs.google.com/spreadsheets/d/1n8hzBnwZ5ANkUCvwEy8rWsXlqeAAwu-5JBodT5OJx_I/edit#gid=0>`__ a přidá do kanálu `#pyvec-members <https://pyvec.slack.com/messages/GL0H589SQ/>`__.
 #. Hlasování musí být zdokumentováno jako :ref:`zapis-e-hlasovani`.
-#. Jakmile je zápis z hlasování veřejně, nový člen jej může spolu s emaily použít jako důkaz o svém přijetí za člena a doklad svého existujícího členství.
+#. Jakmile je zápis z hlasování zveřejněn, nový člen jej může spolu s emaily použít jako důkaz o svém přijetí za člena a doklad svého existujícího členství.
 
 .. _zapis-e-hlasovani:
 
@@ -86,8 +86,6 @@ Zápis z jednorázového elektronického hlasování
       * ČLEN VÝBORU: ano
 
       OSOBA byla D. M. přijata za člena spolku.
-
-      .. image:: ../_static/voting/YYYY-MM-DDTHH-MM-SS.png
 
       .. image:: ../_static/voting/YYYY-MM-DDTHH-MM-SS.png
 
