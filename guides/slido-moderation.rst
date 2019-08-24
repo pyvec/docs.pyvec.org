@@ -60,46 +60,48 @@ How to moderate
 Question examples
 -----------------
 
-* ``The speaker put no effort into the talk and just read everything``
+   The speaker put no effort into the talk and just read everything
 
-  It doesn't matter whether the comment is true or not. Sli.do is not a way to
-  submit feedback to the talk (and even if it was it can be expressed in a nicer
-  way). This question should not be approved.
+It doesn't matter whether the comment is true or not. Sli.do is not a way to
+submit feedback to the talk (and even if it was it can be expressed in a nicer
+way). This question should not be approved.
 
-* ``Are you seeing a girl?``
+   Are you seeing a girl?
 
-  How is this related to the talk, and how is it appropriate to ask a speaker
-  during the conference at all? This is not Tinder and *personal questions
-  should not be approved*.
+How is this related to the talk, and how is it appropriate to ask a speaker
+during the conference at all? This is not Tinder and *personal questions
+should not be approved*.
 
-* ``You have a nice beard``
+   You have a nice beard
 
-  Inappropriate and shouldn't be approved, no further explanation needed.
+Inappropriate and shouldn't be approved, no further explanation needed.
 
-* ``<speaker talks about teaching Python> How did you get to learn Python?``
+   <speaker talks about teaching Python> How did you get to learn Python?
 
-  While this is borderline personal question it's is still on topic for this
-  talk as it's about learning and getting people to learn; and should be
-  approved
+While this is borderline personal question it's is still on topic for this
+talk as it's about learning and getting people to learn; and should be
+approved
 
-* ``<speaker talks about a technical thing> Do you know library XYZ which does
-  something similar?``
+   <speaker talks about a technical thing> Do you know library XYZ which does
+   something similar?
 
-  Straightforward question that's on topic that definitely should be approved.
+Straightforward question that's on topic that definitely should be approved.
 
-* ``Nice talk``
+   Nice talk
 
-  This is a comment that doesn't have any value and shouldn't be approved.
+This is a comment that doesn't have any value and shouldn't be approved.
 
-* ``Nice talk! I have one comment, you mentioned project ABC didn't support
-  Python3 but they actually added the support a few months ago``
+   Nice talk! I have one comment, you mentioned project ABC didn't support
+   Python3 but they actually added the support a few months ago
 
-  While it's a comment and not a question, it should be approved as it politely
-  points out something the audience should know that's related to the talk.
+While it's a comment and not a question, it should be approved as it politely
+points out something the audience should know that's related to the talk.
 
 
-  .. note:: As you can see in the examples it's usually pretty clear if the
-            question is appropriate or not. General rule of thumb is to not let
-            through rude and dismissive comments and let through the rest. In
-            case you aren't sure if the question is OK feel free to ask other
-            organizers!
+.. note::
+
+   As you can see in the examples it's usually pretty clear if the
+   question is appropriate or not. General rule of thumb is to not let
+   through rude and dismissive comments and let through the rest. In
+   case you aren't sure if the question is OK feel free to ask other
+   organizers!
