@@ -195,4 +195,5 @@ todo_include_todos = True
 # -- Setting up extensions ------------------------------------------------
 
 def setup(app):
+    app.add_css_file('custom.css')
     app.add_javascript('redirect.js')
