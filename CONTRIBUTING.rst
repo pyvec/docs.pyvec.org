@@ -13,7 +13,7 @@ Abyste něco změnili v textech, nemusíte nic instalovat. Obsah lze upravovat o
 Instalace
 ---------
 
-Když toho upravujete víc, nebo máte zálusk na nějaké složitější kejkle, je lepší mít materiály nainstalované na svém počítači. Projekt využívá Python 3.6 a `pipenv <https://docs.pipenv.org/>`_.
+Když toho upravujete víc, nebo máte zálusk na nějaké složitější kejkle, je lepší mít materiály nainstalované na svém počítači. Projekt vyžaduje Python 3.6 a `pipenv <https://docs.pipenv.org/>`_.
 
 .. tabs::
 
@@ -21,21 +21,23 @@ Když toho upravujete víc, nebo máte zálusk na nějaké složitější kejkle
 
         #. Nainstalujte si Python 3.6
         #. `Nainstalujte si Pipenv <https://pipenv.readthedocs.io/en/latest/install/#installing-pipenv>`__
-        #. ``git clone ...``
+        #. ``git clone https://github.com/pyvec/docs.pyvec.org.git``
+        #. ``cd docs.pyvec.org``
         #. ``pipenv install --dev``
 
     .. group-tab:: macOS
 
-        Na macOS je problém sehnat Python 3.6, `Homebrew <https://brew.sh/>`_ vám totiž pomocí ``brew install python3`` nainstaluje novější verzi. Použijte `pyenv <https://github.com/pyenv/pyenv>`_:
+        Na macOS je problém sehnat Python 3.6, `Homebrew <https://brew.sh/>`_ vám totiž pomocí ``brew install python3`` nainstaluje nejnovější verzi. Použijte `pyenv <https://github.com/pyenv/pyenv>`_:
 
-        1. ``brew install pyenv``
-        2. ``pyenv install 3.6.6``
+        #. ``brew install pyenv``
+        #. ``pyenv install 3.6.6``
 
         Potom pokračujte jako ve standardní instalaci, akorát je třeba napovědět, který Python chcete použít:
 
-        3. `Nainstalujte si Pipenv <https://pipenv.readthedocs.io/en/latest/install/#installing-pipenv>`__
-        4. ``git clone ...``
-        5. ``pipenv install --dev --python="$(pyenv root)/versions/3.6.6/bin/python"``
+        #. `Nainstalujte si Pipenv <https://pipenv.readthedocs.io/en/latest/install/#installing-pipenv>`__
+        #. ``git clone https://github.com/pyvec/docs.pyvec.org.git``
+        #. ``cd docs.pyvec.org``
+        #. ``pipenv install --dev --python="$(pyenv root)/versions/3.6.6/bin/python"``
 
 Běžná práce
 -----------
