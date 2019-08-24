@@ -15,7 +15,7 @@ Vybrat den a místo, stanovit start a konec kurzu
 Weby
 ----
 
-* Vytvořit nový kurz na `naucse.python.cz <https://naucse.python.cz>`_, poskládat si lekce dle vlastní potřeby. Postup je sepsán v `návodu přímo na naucse.python.cz <https://naucse.python.cz/course/meta/meta/local-run/>`_.
+* Vytvořit nový kurz na `naucse.python.cz <https://naucse.python.cz>`_, poskládat si lekce dle vlastní potřeby. Postup je sepsán v `návodu přímo na naucse.python.cz <https://naucse.python.cz/course/meta/meta/local-run/>`_. (Poznámka: V případě kurzu s více organizátory je vhodné dělat nový kurz z forku PyLadiesCZ)
 * Vytvořit nový kurz na `pyladies.cz meetups <https://github.com/PyLadiesCZ/pyladies.cz/tree/master/meetups>`_.
 * Aktualizovat kouče a organizátory (neaktivní zakomentovat, doplnit nové) v `teams <https://github.com/PyLadiesCZ/pyladies.cz/tree/master/teams>`_.
 * Fotky lidí se přidávají do `img <https://github.com/PyLadiesCZ/pyladies.cz/tree/master/static/img>`_, musí být malé (v kB) a čtveraté
@@ -26,7 +26,7 @@ Weby
 Registrace
 ----------
 
-* Nachystat si formulář přihlášky, nezapomenout na GDPR (`vzor pro inspiraci <https://github.com/PyLadiesCZ/Resources/tree/master/Forms>`_)
+* Nachystat si formulář přihlášky, nezapomenout na GDPR (`vzor pro inspiraci <https://github.com/PyLadiesCZ/Resources/tree/master/Forms>`_), co se týče GDPR: zavedli jsme jako poslední povinnou otázku přihlášky: "Souhlasím se zpracováním osobních údajů, viz http://goo.gl/hdEDjo"
 * Spuštění registrace - napsat o tom informaci do `news <https://github.com/PyLadiesCZ/pyladies.cz/blob/master/news.yml>`_ na web
 * Obeslat mailem info pro všechny zájemce ze společného mailing listu
 * Přidat odkaz na registrační formulář do `meetups <https://github.com/PyLadiesCZ/pyladies.cz/tree/master/meetups>`_
