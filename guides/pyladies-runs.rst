@@ -28,9 +28,9 @@ Registrace
 
 * Nachystat si formulář přihlášky, nezapomenout na GDPR (`vzor pro inspiraci <https://github.com/PyLadiesCZ/Resources/tree/master/Forms>`_), co se týče GDPR: zavedli jsme jako poslední povinnou otázku přihlášky: "Souhlasím se zpracováním osobních údajů, viz http://goo.gl/hdEDjo"
 * Spuštění registrace - napsat o tom informaci do `news <https://github.com/PyLadiesCZ/pyladies.cz/blob/master/news.yml>`_ na web
-* Obeslat mailem info pro všechny zájemce ze společného mailing listu
+* Obeslat mailem info pro všechny zájemce ze společného mailing listu (z formuláře Chci se stát PyLady - dostupný na Google Drive PyLadies)
 * Přidat odkaz na registrační formulář do `meetups <https://github.com/PyLadiesCZ/pyladies.cz/tree/master/meetups>`_
-* V průběhu registrací ještě zkontrolovat, zda se někdo nezapsal na mailing list a nevšiml si spuštěné registrace
+* V průběhu registrací ještě zkontrolovat, zda se někdo nezapsal na mailing list Chci se stát PyLady a nevšiml si spuštěné registrace
 
 
 Po skončení registrací
