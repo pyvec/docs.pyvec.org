@@ -28,7 +28,8 @@ Jak se stát členem
       Souhlasím se zněním stanov a souhlasím se zpracováním následujících
       osobních údajů pro účely členství ve spolku:
 
-      JMÉNO PŘÍJMENÍ
+      JMÉNO PŘÍJMENÍ (oficiální)
+      PŘEZDÍVKA (je-li známější než jméno, nebo jméno v neoficiální podobě - např. Honza místo Jan)
       DATUM NAROZENÍ
       POŠTOVNÍ DORUČOVACÍ ADRESA
       EMAILOVÁ ADRESA (je-li jiná než ze které se posílá email)
