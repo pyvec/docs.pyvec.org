@@ -10,7 +10,7 @@ Jak se stát členem
 ------------------
 
 #. Přečti si :ref:`stanovy`.
-#. Napiš email podle následující šablony a s předmětem **Žádost o členství ve spolku** jej pošli na info@pyvec.org:
+#. Napiš e-mail podle následující šablony a s předmětem **Žádost o členství ve spolku** jej pošli na info@pyvec.org:
 
    .. code-block:: text
 
@@ -31,7 +31,7 @@ Jak se stát členem
       JMÉNO PŘÍJMENÍ
       DATUM NAROZENÍ
       POŠTOVNÍ DORUČOVACÍ ADRESA
-      EMAILOVÁ ADRESA (je-li jiná než ze které se posílá email)
+      E-MAILOVÁ ADRESA (je-li jiná než ze které se posílá e-mail)
       Twitter: URL (nepovinné)
       GitHub: URL (nepovinné)
       LinkedIn: URL (nepovinné)
@@ -43,13 +43,13 @@ Jak se stát členem
 
 #. Výbor by ti měl potvrdit přijetí přihlášky. Výbor bude následně o tvé přihlášce hlasovat. Záleží na vytíženosti členů výboru, ale nemělo by to nejspíš trvat déle než týden nebo dva.
 #. Výbor odpoví a obeznámí tě s výsledkem hlasování. Měl by uveřejnit zápis do :ref:`meeting-notes` a přidat tě na Slacku do kanálu `#pyvec-members <https://pyvec.slack.com/messages/GL0H589SQ/>`__.
-#. Jakmile je zápis z hlasování zveřejněn, můžeš jej spolu s emaily použít jako důkaz o svém přijetí za člena a doklad svého existujícího členství.
+#. Jakmile je zápis z hlasování zveřejněn, můžeš jej spolu s e-maily použít jako důkaz o svém přijetí za člena a doklad svého existujícího členství.
 #. Pyvec nemá zaveden členský poplatek, takže od této chvíle se stačí řídit :ref:`stanovami <stanovy>`.
 
 Přijetí nového člena
 --------------------
 
-#. Osoba žádající o členství napíše email na info@pyvec.org. Tím vznikne doklad o jeho žádosti (ten email, který je možné v případě potřeby dohledat).
+#. Osoba žádající o členství napíše e-mail na info@pyvec.org. Tím vznikne doklad o jeho žádosti (ten e-mail, který je možné v případě potřeby dohledat).
 #. V kanále `#pyvec-board <https://pyvec.slack.com/messages/G32A3QKAR/>`__ někdo nadnese:
 
    .. code-block:: text
@@ -57,9 +57,9 @@ Přijetí nového člena
       @board hlasujeme o přijetí XYZ za člena Pyvce, dejte :+1: pokud souhlasíte
 
 #. Čeká se, dokud členové výboru odhlasují tak, že jsou :ref:`usnášeníschopní <usnasenischopnost-vyboru>`, tzn. musí odhlasovat minimálně předseda a další dva členové výboru.
-#. Po hlasování někdo z výboru odpoví na email (opět pro dohledatelnost) jak to dopadlo a pokud byla osoba přijata, zapíše ji do `tabulky <https://docs.google.com/spreadsheets/d/1n8hzBnwZ5ANkUCvwEy8rWsXlqeAAwu-5JBodT5OJx_I/edit#gid=0>`__ a přidá do kanálu `#pyvec-members <https://pyvec.slack.com/messages/GL0H589SQ/>`__.
+#. Po hlasování někdo z výboru odpoví na e-mail (opět pro dohledatelnost) jak to dopadlo a pokud byla osoba přijata, zapíše ji do `tabulky <https://docs.google.com/spreadsheets/d/1n8hzBnwZ5ANkUCvwEy8rWsXlqeAAwu-5JBodT5OJx_I/edit#gid=0>`__ a přidá do kanálu `#pyvec-members <https://pyvec.slack.com/messages/GL0H589SQ/>`__.
 #. Hlasování musí být zdokumentováno jako :ref:`zapis-e-hlasovani`.
-#. Jakmile je zápis z hlasování zveřejněn, nový člen jej může spolu s emaily použít jako důkaz o svém přijetí za člena a doklad svého existujícího členství.
+#. Jakmile je zápis z hlasování zveřejněn, nový člen jej může spolu s e-maily použít jako důkaz o svém přijetí za člena a doklad svého existujícího členství.
 
 .. _zapis-e-hlasovani:
 
@@ -75,7 +75,7 @@ Zápis z jednorázového elektronického hlasování
       D. M. YYYY - elektronické hlasování výboru
       ------------------------------------------
 
-      Dne D. M. OSOBA požádala emailem o přijetí za člena do spolku.
+      Dne D. M. OSOBA požádala e-mailem o přijetí za člena do spolku.
       Výbor o tomto jednorázově elektronicky hlasoval od D. M. do D. M., kdy bylo
       hlasování uzavřeno s následujícím výsledkem:
 
