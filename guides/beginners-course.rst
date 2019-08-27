@@ -177,7 +177,7 @@ Podle toho si vytvoř časový rozvrh, ať na nic nezapomeneš:
 Tabulka koučů
 -------------
 
-Je vhodné si připravit tabulku, kterou lze všem koučům nasdílet online a mohou v ní současně upravovat kdy který z nich může na lekci přijít. Nám se při organizování kuzů vyplatilo používání Google Tabulek, které lze nastavit na přístup na konkrétní emailové adresy či jen i anonymnim osobam, které mají odkaz. Koučové tak nutně nemusí mít Gmail, dají si odkaz někam, kde ho budou mít na očích a organizace se tím velmi zjednodušuje.
+Je vhodné si připravit tabulku, kterou lze všem koučům nasdílet online a mohou v ní současně upravovat kdy který z nich může na lekci přijít. Nám se při organizování kuzů vyplatilo používání Google Tabulek, které lze nastavit na přístup na konkrétní e-mailové adresy či jen i anonymnim osobam, které mají odkaz. Koučové tak nutně nemusí mít Gmail, dají si odkaz někam, kde ho budou mít na očích a organizace se tím velmi zjednodušuje.
 
 
 Příklad takové tabulky

@@ -40,7 +40,7 @@ Po skončení registrací
 
   * V Praze dělíme přihlášené na přijaté, nepřijaté, příliš dobré
   * Těm příliš dobrým nabízíme možnost se připojit v průběhu kurzu, ale moc se to v praxi neosvědčilo
-  * Pro všechny je nachystaná `šablona emailu s odpovědí <https://github.com/PyLadiesCZ/Resources/tree/master/text_template>`_
+  * Pro všechny je nachystaná `šablona e-mailu s odpovědí <https://github.com/PyLadiesCZ/Resources/tree/master/text_template>`_
 
 * Nachystat si na `Google Drive <https://drive.google.com/drive/folders/0B8lWC4m8bQgYZ0FpNHZJQTF1dTA>`_ tabulku s harmonogramem lekcí a rozeslat koučům link.
 
