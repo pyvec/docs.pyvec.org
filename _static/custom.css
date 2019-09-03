@@ -1,0 +1,6 @@
+.rst-content blockquote {
+  margin-left: 0;
+  padding: 24px 12px 1px 24px;
+  border-left: 0.5rem solid #bbb;
+  background: #eee;
+}
