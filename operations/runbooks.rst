@@ -9,6 +9,8 @@ Jak řešit situace
 Jak se stát členem
 ------------------
 
+**Pro koho je tento návod:** uchazeč(ka) o členství v Pyvci
+
 #. Přečti si :ref:`stanovy`.
 #. Napiš e-mail podle následující šablony a s předmětem **Žádost o členství ve spolku** jej pošli na info@pyvec.org:
 
@@ -49,6 +51,8 @@ Jak se stát členem
 Přijetí nového člena
 --------------------
 
+**Pro koho je tento návod:** výbor
+
 #. Osoba žádající o členství napíše e-mail na info@pyvec.org. Tím vznikne doklad o jeho žádosti (ten e-mail, který je možné v případě potřeby dohledat).
 #. V kanále `#pyvec-board <https://pyvec.slack.com/messages/G32A3QKAR/>`__ někdo nadnese:
 
@@ -65,6 +69,8 @@ Přijetí nového člena
 
 Zápis z jednorázového elektronického hlasování
 ----------------------------------------------
+
+**Pro koho je tento návod:** výbor
 
 #. Udělej dokumentační screenshot(y) hlasování v kanále `#pyvec-board <https://pyvec.slack.com/messages/G32A3QKAR/>`__ tak, aby šlo poznat, jak kdo hlasoval. Toto je důležité, protože na Slacku lze hlasování (klidně i omylem) zpětně změnit.
 #. Ulož screenshot(y) do složky ``_static/voting`` v této dokumentaci (:ref:`jak? <contributing>`), soubory pojmenuj podle šablony ``YYYY-MM-DDTHH-MM-SS.png``.
