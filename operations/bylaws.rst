@@ -1,15 +1,12 @@
 .. _stanovy:
 
-Stanovy
-=======
+Stanovy Pyvec, z.s.
+===================
+
+Úplné znění ze dne 20. 3. 2019.
 
 .. contents::
-    :depth: 3
-
-Pyvec, z.s.
------------
-
-(Úplné znění ze dne 20.3. 2019)
+    :depth: 2
 
 I. Název, forma a sídlo
 ^^^^^^^^^^^^^^^^^^^^^^^
@@ -35,12 +32,12 @@ III. Formy činnosti spolku
 
 Formami činnosti spolku jsou zejména:
 
-    a)	podpora, propagace a organizace aktivit, které přispívají k povědomí veřejnosti o programovacím jazyce Python,
-    b)	podpora, propagace a organizace aktivit, jejichž účelem je výuka programování s použitím programovacího jazyka Python,
-    c)	podpora komunitního života programátorů a programátorek,
-    d)	podpora, propagace a organizace dobrovolnické činnosti programátorů a programátorek,
-    e)	tvorba a správa zdarma veřejně přístupných materiálů podporujících výše zmíněné aktivity,
-    f)	získávání finančních a jiných zdrojů pro výše zmíněné aktivity.
+a)	podpora, propagace a organizace aktivit, které přispívají k povědomí veřejnosti o programovacím jazyce Python,
+b)	podpora, propagace a organizace aktivit, jejichž účelem je výuka programování s použitím programovacího jazyka Python,
+c)	podpora komunitního života programátorů a programátorek,
+d)	podpora, propagace a organizace dobrovolnické činnosti programátorů a programátorek,
+e)	tvorba a správa zdarma veřejně přístupných materiálů podporujících výše zmíněné aktivity,
+f)	získávání finančních a jiných zdrojů pro výše zmíněné aktivity.
 
 3.2.
 """"
@@ -88,11 +85,11 @@ V. Práva a povinnosti člena
 
 Každý člen spolku má právo:
 
-    a)	podílet se na veškeré činnosti spolku a účastnit se členské schůze,
-    b)	volit členy výboru spolku a být zvolen za člena výboru spolku,
-    c)	být informován o činnosti spolku,
-    d)	předkládat návrhy, připomínky a náměty k činnosti spolku,
-    e)	zastupovat spolek v záležitostech, ke kterým byl výborem pověřen a nakládat s majetkovými hodnotami v rozsahu tohoto pověření.
+a)	podílet se na veškeré činnosti spolku a účastnit se členské schůze,
+b)	volit členy výboru spolku a být zvolen za člena výboru spolku,
+c)	být informován o činnosti spolku,
+d)	předkládat návrhy, připomínky a náměty k činnosti spolku,
+e)	zastupovat spolek v záležitostech, ke kterým byl výborem pověřen a nakládat s majetkovými hodnotami v rozsahu tohoto pověření.
 
 5.2.
 """"
@@ -114,13 +111,13 @@ Za člena, který je právnickou osobou, jedná její statutární orgán či ji
 
 Každý člen spolku je povinen:
 
-    a)	dodržovat stanovy,
-    b)	aktivně hájit zájmy spolku, dodržovat vnitřní směrnice a dohody a nepodnikat žádné kroky, které by byly v rozporu se zájmy spolku,
-    c)	řádně hospodařit se svěřenými hodnotami a majetkem spolku,
-    d)	řádně hradit členský příspěvek, bylo-li o této povinnosti členskou schůzí rozhodnuto,
-    e)	poskytovat informace o svém hospodaření se svěřenými hodnotami a majetkem spolku a předkládat účetní dokumenty,
-    f)	jednat za spolek pouze v rámci pověření výboru a nakládat s majetkovými hodnotami pouze v rozsahu tohoto pověření,
-    g)	sdělovat výboru pravdivé osobní údaje pro zápis do seznamu členů a jakékoliv změny těchto údajů.
+a)	dodržovat stanovy,
+b)	aktivně hájit zájmy spolku, dodržovat vnitřní směrnice a dohody a nepodnikat žádné kroky, které by byly v rozporu se zájmy spolku,
+c)	řádně hospodařit se svěřenými hodnotami a majetkem spolku,
+d)	řádně hradit členský příspěvek, bylo-li o této povinnosti členskou schůzí rozhodnuto,
+e)	poskytovat informace o svém hospodaření se svěřenými hodnotami a majetkem spolku a předkládat účetní dokumenty,
+f)	jednat za spolek pouze v rámci pověření výboru a nakládat s majetkovými hodnotami pouze v rozsahu tohoto pověření,
+g)	sdělovat výboru pravdivé osobní údaje pro zápis do seznamu členů a jakékoliv změny těchto údajů.
 
 VI. Zánik členství
 ^^^^^^^^^^^^^^^^^^
@@ -130,10 +127,10 @@ VI. Zánik členství
 
 Členství ve spolku zaniká následujícími způsoby:
 
-    a)	dobrovolným vystoupením člena,
-    b)	úmrtím člena nebo prohlášením člena za mrtvého, je-li členem fyzická osoba,
-    c)	zánikem člena, je-li členem právnická osoba,
-    d)	vyloučením člena, k němuž může dojít z důvodu opakovaného porušení povinností člena, vyplývajících z těchto stanov, které člen nenapraví ani v dodatečné přiměřené lhůtě, je-li taková náprava možná a/nebo v případě neomluvené neúčasti člena na 3 (třech) po sobě jdoucích členských schůzích.
+a)	dobrovolným vystoupením člena,
+b)	úmrtím člena nebo prohlášením člena za mrtvého, je-li členem fyzická osoba,
+c)	zánikem člena, je-li členem právnická osoba,
+d)	vyloučením člena, k němuž může dojít z důvodu opakovaného porušení povinností člena, vyplývajících z těchto stanov, které člen nenapraví ani v dodatečné přiměřené lhůtě, je-li taková náprava možná a/nebo v případě neomluvené neúčasti člena na 3 (třech) po sobě jdoucích členských schůzích.
 
 6.2.
 """"
@@ -166,17 +163,17 @@ VIII. Členská schůze
 
 Členská schůze je tvořena shromážděním všech členů spolku a je nejvyšším orgánem spolku. Členská schůze přijímá rozhodnutí, která jsou pro existenci a činnost spolku zásadní. Do působnosti členské schůze náleží:
 
-    a)	určovat hlavní zaměření spolku,
-    b)	rozhodovat o změně stanov,
-    c)	rozhodovat o povinnosti členů k úhradě členského příspěvku, jeho výši a splatnosti,
-    d)	schvalovat zprávu o činnosti spolku a zprávu o hospodaření spolku za předcházející období,
-    e)	schvalovat rozpočet a určit koncepci činnosti spolku na další období,
-    f)	volit a odvolávat členy výboru a schvalovat jejich odměny,
-    g)	hodnotit činnost dalších orgánů spolku i jejich členů,
-    h)	rozhodnout o zrušení nebo přeměně spolku,
-    i)	rozhodovat o návrhu člena na přezkoumání rozhodnutí výboru o jeho vyloučení,
-    j)	rozhodovat o dalších otázkách, které si vyhradila,
-    k)	schvalovat vnitřní směrnice.
+a)	určovat hlavní zaměření spolku,
+b)	rozhodovat o změně stanov,
+c)	rozhodovat o povinnosti členů k úhradě členského příspěvku, jeho výši a splatnosti,
+d)	schvalovat zprávu o činnosti spolku a zprávu o hospodaření spolku za předcházející období,
+e)	schvalovat rozpočet a určit koncepci činnosti spolku na další období,
+f)	volit a odvolávat členy výboru a schvalovat jejich odměny,
+g)	hodnotit činnost dalších orgánů spolku i jejich členů,
+h)	rozhodnout o zrušení nebo přeměně spolku,
+i)	rozhodovat o návrhu člena na přezkoumání rozhodnutí výboru o jeho vyloučení,
+j)	rozhodovat o dalších otázkách, které si vyhradila,
+k)	schvalovat vnitřní směrnice.
 
 8.2.
 """"
@@ -217,18 +214,18 @@ Výbor řídí činnost spolku.
 
 Do působnosti výboru náleží:
 
-    a)	svolávat členskou schůzi,
-    b)	zpracovat zprávu o činnosti spolku a zprávu o hospodaření spolku za předcházející období a předkládat tyto zprávy ke schválení členské schůzi,
-    c)	zpracovat návrh rozpočtu a předkládat jej ke schválení členské schůzi,
-    d)	dohlížet na řádnou péči o majetek a veškerou hospodářskou činnost spolku,
-    e)	vést evidenci hospodaření spolku a zajišťovat plnění zákonných (daňových, apod.) povinností spolku,
-    f)	přijímat zaměstnance a ukončovat jejich pracovní poměr,
-    g)	přijímat členy a rozhodovat o jejich vyloučení,
-    h)	pověřovat jednotlivé členy zajišťováním určitých záležitostí či určité agendy v rámci činnosti spolku a určovat rozsah majetkových hodnot (finanční limit), se kterými bude tento člen v rámci pověření oprávněn samostatně nakládat,
-    i)	rozhodovat o pracovních záležitostech zaměstnanců spolku a dobrovolných spolupracovníků.
-    j)	volit a odvolat předsedu,
-    k)	volit z členů výboru pokladníka a odvolat jej,
-    l)	navrhovat vnitřní směrnice
+a)	svolávat členskou schůzi,
+b)	zpracovat zprávu o činnosti spolku a zprávu o hospodaření spolku za předcházející období a předkládat tyto zprávy ke schválení členské schůzi,
+c)	zpracovat návrh rozpočtu a předkládat jej ke schválení členské schůzi,
+d)	dohlížet na řádnou péči o majetek a veškerou hospodářskou činnost spolku,
+e)	vést evidenci hospodaření spolku a zajišťovat plnění zákonných (daňových, apod.) povinností spolku,
+f)	přijímat zaměstnance a ukončovat jejich pracovní poměr,
+g)	přijímat členy a rozhodovat o jejich vyloučení,
+h)	pověřovat jednotlivé členy zajišťováním určitých záležitostí či určité agendy v rámci činnosti spolku a určovat rozsah majetkových hodnot (finanční limit), se kterými bude tento člen v rámci pověření oprávněn samostatně nakládat,
+i)	rozhodovat o pracovních záležitostech zaměstnanců spolku a dobrovolných spolupracovníků.
+j)	volit a odvolat předsedu,
+k)	volit z členů výboru pokladníka a odvolat jej,
+l)	navrhovat vnitřní směrnice
 
 9.3.
 """"
@@ -267,15 +264,15 @@ Výbor vede seznam členů spolku. Seznam členů bude veden v elektronické pod
 
 V seznamu členů se u každého člena uvádějí následující údaje:
 
-    a)	u fyzické osoby: jméno, příjmení, datum narození, poštovní doručovací adresa, e-mailová adresa, okruh záležitostí, ve kterých je člen oprávněn v rámci pověření spolek zastupovat (je-li takové pověření),
-    b)	u právnické osoby: název, identifikační číslo, poštovní doručovací adresa, jméno, příjmení a e-mailová adresa zástupce, okruh záležitostí, ve kterých je člen oprávněn v rámci pověření spolek zastupovat (je-li takové pověření).
+a)	u fyzické osoby: jméno, příjmení, datum narození, poštovní doručovací adresa, e-mailová adresa, okruh záležitostí, ve kterých je člen oprávněn v rámci pověření spolek zastupovat (je-li takové pověření),
+b)	u právnické osoby: název, identifikační číslo, poštovní doručovací adresa, jméno, příjmení a e-mailová adresa zástupce, okruh záležitostí, ve kterých je člen oprávněn v rámci pověření spolek zastupovat (je-li takové pověření).
 
 10.3.
 """""
 Část údajů ze seznamu členů může být zveřejněna na webových stránkách spolku, a to následující údaje:
 
-    a)	jméno a příjmení člena – fyzické osoby a okruh záležitostí, ve kterých je tento člen oprávněn v rámci pověření spolek zastupovat (je-li takové pověření),
-    b)	název a identifikační číslo člena – právnické osoby a okruh záležitostí, ve kterých je tento člen oprávněn v rámci pověření spolek zastupovat (je-li takové pověření).
+a)	jméno a příjmení člena – fyzické osoby a okruh záležitostí, ve kterých je tento člen oprávněn v rámci pověření spolek zastupovat (je-li takové pověření),
+b)	název a identifikační číslo člena – právnické osoby a okruh záležitostí, ve kterých je tento člen oprávněn v rámci pověření spolek zastupovat (je-li takové pověření).
 
 10.4.
 """""
@@ -289,12 +286,12 @@ XI. Majetek a hospodaření spolku
 """""
 Zdrojem majetku spolku jsou zejména:
 
-    a)	sponzorské příspěvky,
-    b)	dary,
-    c)	příjmy případně dosahované v souvislosti s hlavní činností, zejména výtěžky ze společenských aktivit,
-    d)	dotace a příspěvky ze státního rozpočtu nebo jiných veřejných rozpočtů, granty apod.,
-    e)	příjmy z vedlejší hospodářské činnosti provozované k podpoře hlavní činnosti,
-    f)	členské příspěvky, jsou-li zavedeny.
+a)	sponzorské příspěvky,
+b)	dary,
+c)	příjmy případně dosahované v souvislosti s hlavní činností, zejména výtěžky ze společenských aktivit,
+d)	dotace a příspěvky ze státního rozpočtu nebo jiných veřejných rozpočtů, granty apod.,
+e)	příjmy z vedlejší hospodářské činnosti provozované k podpoře hlavní činnosti,
+f)	členské příspěvky, jsou-li zavedeny.
 
 11.2.
 """""
