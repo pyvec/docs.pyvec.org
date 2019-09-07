@@ -1,3 +1,5 @@
+.. _smernice:
+
 Neziskovka Pyvec, z.s.
 ======================
 

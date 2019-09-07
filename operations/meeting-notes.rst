@@ -1,4 +1,4 @@
-.. _meeting-notes:
+.. _zapisy:
 
 Zápisy ze schůzí
 ================
