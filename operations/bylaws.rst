@@ -68,7 +68,7 @@ IV. Členství
 4.4.
 """"
 
-Členství ve spolku vzniká ke dni rozhodnutí :ref:`výboru <Výbor>` o přijetí za člena. Žádost o členství ve spolku musí být podána v písemné formě, a to e-mailem na adresu spolku: info@pyvec.org, která je zveřejněna na `webových stránkách spolku`_ nebo poštou na korespondenční adresu spolku, která je zveřejněna na `webových stránkách spolku`_.
+Členství ve spolku vzniká ke dni rozhodnutí :ref:`výboru <vybor>` o přijetí za člena. Žádost o členství ve spolku musí být podána v písemné formě, a to e-mailem na adresu spolku: info@pyvec.org, která je zveřejněna na `webových stránkách spolku`_ nebo poštou na korespondenční adresu spolku, která je zveřejněna na `webových stránkách spolku`_.
 
 4.5.
 """"
