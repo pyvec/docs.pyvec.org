@@ -7,9 +7,6 @@ Není to ovšem příkaz - tvůrci a správci komunitních webů nechť se svobo
 
 Výhodou společné architektury je především komunitní spravovatelnost. Jakmile několik webů funguje na stejném principu, stačí si přečíst tento návod, zorientovat se v použitých technologiích, a mohu bez větších obtíží přispívat do kteréhokoliv z nich.
 
-.. note::
-   V zásadě se v tomto návodu jedná o pokus textem popsat evoluci toho, co se pokusila kódem zachytit `elsa <https://github.com/pyvec/elsa/>`__.
-
 Problémy s Django nebo Flask
 ----------------------------
 
@@ -44,7 +41,7 @@ Jenže potom chcete přispět do nějakého komunitního webu, uděláte ``git c
 
 Stahování dat můžeme vyčlenit do nějakého "build" skriptu. Ten bude potřebovat všechny autorizační tokeny, stáhne data, a uloží je na disk např. do JSON souboru. Ten nebude v Gitu, protože jde o dynamická data, ale webová stránka si je bude moci načíst stejně jako jiná statická data. Hurá! Onen "build" skript můžeme pustit doma a ve vlaku už pracujeme pouze s uloženými JSON soubory. Požadavek na stránku je okamžitý a když dojde na nejhorší, můžeme si nějaký ten JSON soubor vytvořit i ručně. Docílíme i lepší testovatelnosti kódu - funkce z "build" skriptu se budou nejspíše izolovat a testovat jednodušeji, než když je vše ve Flasku zabalené jako HTTP požadavek/odpověď.
 
-Jenže najednou máme vlastně celou mašinerii s Flaskem tak nějak zbytečně. Ono z toho webového frameworku totiž zas tak mnoho použít nemůžeme (např. "redirect") a zbude nám z toho spíš takový šablonovací systém, který zbytečně spustí hromadu kódu na to, aby z JSON souboru vytvořil HTML soubor.
+Jenže najednou máme vlastně celou mašinerii s Flaskem tak nějak zbytečně. Ono z toho webového frameworku totiž zas tak mnoho použít nemůžeme (např. "redirect") a zbude nám z toho spíš takový šablonovací systém, který zbytečně spustí hromadu kódu na to, aby z JSON souboru vytvořil HTML soubor. Navíc jsme opustili konvence. Nikde není jasně řečeno, jak má fungovat "build" skript, ve které složce mají být jaké soubory, apod. Na pěti komunitních webech velmi pravdepodobně docílíme pěti mírně odlišných řešení, což lidem brání se svým přispíváním plynule přeskakovat z projektu na projekt.
 
 Dalším problémem je frontend. Všichni sice víme, jak to má většina Pythonistů s frontendem, ale holt jednou děláme webové stránky, tak je frontend potřeba.
 
@@ -54,6 +51,9 @@ Dalším problémem je frontend. Všichni sice víme, jak to má většina Pytho
 Dnešní moderní frontend znamená instalaci balíčků přes `npm <https://www.npmjs.com/>`__, nějaký bundler (např. `Webpack <https://webpack.js.org/>`__), nějaké CSS pre/post-procesory, apod. A to nemluvím o tom, že po roce 2015 se prakticky všichni, kteří přicházejí do frontendu jako začátečníci, učí především `React <https://reactjs.org/>`__ a vše kolem toho (mimochodem, `React Girls <https://www.reactgirls.com/>`__ založila absolventka PyLadies). Ať chceme nebo ne, frontend dnes znamená React. Jestliže si chceme frontend dělat sami, měli bychom se React aspoň trochu naučit. Jestliže chceme, aby nám někdo s frontendem na našich komunitních webovkách dobrovolně pomohl, musí být ty webovky připraveny tak, aby na nich někdo mohl moderní frontendový stack použít.
 
 To ale s Frozen-Flask zase tak moc dobře nejde. Můžeme sice nějak použít bundler, ale HTML stále bude `Jinja2 <https://palletsprojects.com/p/jinja/>`__, což dnes už frontenďákům nic neříká, a vývoj webu bude na dnešní standardy zcela předpotopní ("to jako musím udělat refresh? kde máte hot reloading?"). Možná by to šlo nějak poslepovat lepící páskou, ale Python balíčky zabývající se integrací s frontendem jsou většinou neudržované a nikdo znalý dnešního frontendu s nimi nebude umět pracovat.
+
+.. note::
+   Rychlý průlet tím, jak jsme se od jQuery dostali do současného stavu, nabízí článek `Modern JavaScript Explained For Dinosaurs <https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70>`__.
 
 Řešení: JAM stack
 -----------------
