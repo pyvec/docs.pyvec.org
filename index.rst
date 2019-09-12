@@ -19,6 +19,7 @@ Obsah
    guides/high-school-class
    guides/promotion
    guides/slido-moderation
+   guides/website
 
    operations/index
 
