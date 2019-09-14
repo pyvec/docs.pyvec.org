@@ -45,8 +45,10 @@ Jenže najednou máme vlastně celou mašinerii s Flaskem tak nějak zbytečně.
 
 Dalším problémem je frontend. Všichni sice víme, jak to má většina Pythonistů s frontendem, ale holt jednou děláme webové stránky, tak je frontend potřeba.
 
-.. image:: ../_static/images/frontend.png
+.. figure:: ../_static/images/frontend.png
     :align: center
+
+    Mem vytvořený z `tohoto slavného Red Meat stripu <http://www.fuxoft.cz/redmeat/strip--slunce.jpg.htm>`__
 
 Dnešní moderní frontend znamená instalaci balíčků přes `npm <https://www.npmjs.com/>`__, nějaký bundler (např. `Webpack <https://webpack.js.org/>`__), nějaké CSS pre/post-procesory, apod. A to nemluvím o tom, že po roce 2015 se prakticky všichni, kteří přicházejí do frontendu jako začátečníci, učí především `React <https://reactjs.org/>`__ a vše kolem toho (mimochodem, `React Girls <https://www.reactgirls.com/>`__ založila absolventka PyLadies). Ať chceme nebo ne, frontend dnes znamená React. Jestliže si chceme frontend dělat sami, měli bychom se React aspoň trochu naučit. Jestliže chceme, aby nám někdo s frontendem na našich komunitních webovkách dobrovolně pomohl, musí být ty webovky připraveny tak, aby na nich někdo mohl moderní frontendový stack použít.
 
