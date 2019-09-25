@@ -30,7 +30,8 @@ Jak se stát členem
       Souhlasím se zněním stanov a souhlasím se zpracováním následujících
       osobních údajů pro účely členství ve spolku:
 
-      JMÉNO PŘÍJMENÍ
+      JMÉNO (jak se představuješ lidem, ideálně i s příjmením - např. Honza Javorek)
+      OBČANSKÉ JMÉNO (jméno a příjmení na oficiální dokumenty - např. Jan Javorek)
       DATUM NAROZENÍ
       POŠTOVNÍ DORUČOVACÍ ADRESA
       E-MAILOVÁ ADRESA (je-li jiná než ze které se posílá e-mail)
