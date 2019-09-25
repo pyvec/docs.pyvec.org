@@ -1,3 +1,5 @@
+.. _podpora:
+
 Podpora komunitních aktivit
 ===========================
 

@@ -12,6 +12,7 @@ Jak se stát členem
 **Pro koho je tento návod:** uchazeč(ka) o členství v Pyvci
 
 #. Přečti si :ref:`stanovy`.
+#. Přečti si :ref:`jak Pyvec pomáhá <podpora>`.
 #. Napiš e-mail podle následující šablony a s předmětem **Žádost o členství ve spolku** jej pošli na info@pyvec.org:
 
    .. code-block:: text
@@ -44,7 +45,7 @@ Jak se stát členem
       Zásluh nemusí být moc, ani nemusí být žádného těžkého kalibru. Nejedná se o členství za zásluhy ani o poměřování, jde spíše o **představení se**, aby výbor věděl, s kým má tu čest. Komunita je celorepubliková a pro členy výboru nemusí být jednoduché mít přehled o všech aktivních lidech ve všech regionech.
 
 #. Výbor by ti měl potvrdit přijetí přihlášky. Výbor bude následně o tvé přihlášce hlasovat. Záleží na vytíženosti členů výboru, ale nemělo by to nejspíš trvat déle než týden nebo dva.
-#. Výbor odpoví a obeznámí tě s výsledkem hlasování. Měl by uveřejnit zápis do :ref:`meeting-notes` a přidat tě na Slacku do kanálu `#pyvec-members <https://pyvec.slack.com/messages/GL0H589SQ/>`__.
+#. Výbor odpoví a obeznámí tě s výsledkem hlasování. Měl by uveřejnit zápis do :ref:`zapisy` a přidat tě na Slacku do kanálu `#pyvec-members <https://pyvec.slack.com/messages/GL0H589SQ/>`__.
 #. Jakmile je zápis z hlasování zveřejněn, můžeš jej spolu s e-maily použít jako důkaz o svém přijetí za člena a doklad svého existujícího členství.
 #. Pyvec nemá zaveden členský poplatek, takže od této chvíle se stačí řídit :ref:`stanovami <stanovy>`.
 
@@ -74,7 +75,7 @@ Zápis z jednorázového elektronického hlasování
 
 #. Udělej dokumentační screenshot(y) hlasování v kanále `#pyvec-board <https://pyvec.slack.com/messages/G32A3QKAR/>`__ tak, aby šlo poznat, jak kdo hlasoval. Toto je důležité, protože na Slacku lze hlasování (klidně i omylem) zpětně změnit.
 #. Ulož screenshot(y) do složky ``_static/voting`` v této dokumentaci (:ref:`jak? <contributing>`), soubory pojmenuj podle šablony ``YYYY-MM-DDTHH-MM-SS.png``.
-#. Na začátek stránky :ref:`meeting-notes` přidej zápis podle následující šablony:
+#. Na začátek stránky :ref:`zapisy` přidej zápis podle následující šablony:
 
    .. code-block:: rst
 

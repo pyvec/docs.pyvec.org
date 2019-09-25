@@ -454,7 +454,7 @@ Tipy
 Původ názvu Pyvo
 ^^^^^^^^^^^^^^^^
 
-Název *Pyvo* vymyslel `Rastislav Turek <http://turek.co/>`__ někdy v roce 2011. Založil skupinu `Pyonieri <https://www.facebook.com/groups/pyonieri/>`__ a odstartoval v Bratislavě srazy Pyvo, které byly ale prakticky od začátku spojené s `Rubyslavou <http://rubyslava.sk/>`__. Když Honza Javorek zakládal Python sraz v Brně, název se svolením převzal. Později se rozšířil i do Prahy (kde přejmenovali Django CS / Pyvec srazy na Pyvo) a do Ostravy, kde už se to jako Pyvo rovnou založilo. Mezitím se Rubyslava stala srazem pro programátory všeho druhu a Pyvo v Bratislavě jako samostatný projekt úplně zaniklo. Až později bylo nahrazeno komunitou kolem `PyCon SK <https://www.pycon.sk/>`__ a jejich srazy.
+Název *Pyvo* vymyslel `Rastislav Turek <https://turek.co/>`__ někdy v roce 2011. Založil skupinu `Pyonieri <https://www.facebook.com/groups/pyonieri/>`__ a odstartoval v Bratislavě srazy Pyvo, které byly ale prakticky od začátku spojené s `Rubyslavou <http://rubyslava.sk/>`__. Když Honza Javorek zakládal Python sraz v Brně, název se svolením převzal. Později se rozšířil i do Prahy (kde přejmenovali Django CS / Pyvec srazy na Pyvo) a do Ostravy, kde už se to jako Pyvo rovnou založilo. Mezitím se Rubyslava stala srazem pro programátory všeho druhu a Pyvo v Bratislavě jako samostatný projekt úplně zaniklo. Až později bylo nahrazeno komunitou kolem `PyCon SK <https://www.pycon.sk/>`__ a jejich srazy.
 
 
 .. _srazy-pyvec:
