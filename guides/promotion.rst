@@ -57,7 +57,7 @@ Vedoucí
    Člen týmu si může vzít na starost i úkol, který neví jak zpracovat - to je v pořádku. Vedoucí všechno vysvětlí, naučí, a zapíše sem.
 
 Přístupy
-   Členové týmu by měli být na `Pyvec Slacku <https://pyvec.slack.com/>`__ v místnosti ``#pyconcz-media`` a v týmu ``@pyconcz-media-team``, ve Facebookové skupine `Pyonýři <https://www.facebook.com/groups/pyonieri/>`__, měli by být nastavení jako spoluorganizátoři Facebookové události pro konferenci (příspěvky od organizátorů se zobrazují viditelněji), měli by mít přístup do Twitter účtu `@pyconcz <https://twitter.com/pyconcz>`__ přes `TweetDeck Teams <https://blog.twitter.com/official/en_us/a/2015/introducing-tweetdeck-teams.html>`__, a měli by umět posílat e-maily do skupiny `django-cs <https://groups.google.com/group/django-cs/>`__ a `konference py.cz <https://www.py.cz/mailman/listinfo/python>`__.
+   Členové týmu by měli být na `Pyvec Slacku <https://pyvec.slack.com/>`__ v místnosti ``#pyconcz-media`` a v týmu ``@pyconcz-media-team``, ve Facebookové skupine `Pyonýři <https://www.facebook.com/groups/pyonieri/>`__, měli by být nastavení jako spoluorganizátoři Facebookové události pro konferenci (příspěvky od organizátorů se zobrazují viditelněji), měli by mít přístup do Twitter účtu `@pyconcz <https://twitter.com/pyconcz>`__ přes `TweetDeck Teams <https://blog.twitter.com/official/en_us/a/2015/introducing-tweetdeck-teams.html>`__, a měli by umět posílat e-maily do skupiny `django-cs <https://groups.google.com/forum/#!forum/django-cs>`__ a `konference py.cz <https://www.py.cz/mailman/listinfo/python>`__.
 
 Úkoly od spoluorganizátorů
    Pokud na Slacku přijde úkol ("zpropagujte datum konference") a v Media týmu je víc lidí, je dobré na Slack napsat "jdu na to", pokud to jdu udělat, aby ostatní z týmu věděli, že už to nemusí řešit. Případně "budu na to mít čas dnes večer" (třeba to někdo zvládne i dřív) nebo "udělám Facebook" (někdo jiný si vezme Twitter).
@@ -251,7 +251,7 @@ Je zásadní nikomu **neslibovat, že bude přednášku mít** a důkladně vysv
 Plošné bombardování
 ^^^^^^^^^^^^^^^^^^^
 
-Když je otevřeno CfP, je dobré to dát plošně vědět, protože existuje pár lidí, kterým toto oznámení stačí a následně něco do CfP pošlou. Není dobré se tím ale vyčerpávat, protože zas tak moc těch lidí není. Nezapomínat na e-mailové skupiny jako `django-cs <https://groups.google.com/group/django-cs/>`__ a `konference py.cz <https://www.py.cz/mailman/listinfo/python>`__, kde jsou také lidé, kteří na toto mohou reagovat.
+Když je otevřeno CfP, je dobré to dát plošně vědět, protože existuje pár lidí, kterým toto oznámení stačí a následně něco do CfP pošlou. Není dobré se tím ale vyčerpávat, protože zas tak moc těch lidí není. Nezapomínat na e-mailové skupiny jako `django-cs <https://groups.google.com/forum/#!forum/django-cs>`__ a `konference py.cz <https://www.py.cz/mailman/listinfo/python>`__, kde jsou také lidé, kteří na toto mohou reagovat.
 
 Agregátory na Twitteru
 ^^^^^^^^^^^^^^^^^^^^^^
