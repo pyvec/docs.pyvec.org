@@ -314,7 +314,7 @@ Lze projít `nejúspěšnější Open Source projekty na GitHubu <https://github
 Probíhající události
 ^^^^^^^^^^^^^^^^^^^^
 
-Zjistíme si na `meetup.com <https://www.meetup.com/>`__ a `konfery.cz <http://konfery.cz/>`__, jaké relevantní (Python, Ruby, databáze, API, ...) meetupy probíhají v ČR a v Evropě během našeho CfP. Najdeme si jejich Twitter účet, oficiální Twitter hashtag, Facebookovou událost, apod. Na čas jejich konání naplánujeme zprávu, která poprosí organizátory o šíření zprávy o našem CfP, popřípadě pozve účastníky, aby na našem CfP participovali. Pokud je událost vícedenní, tweetujeme každý den. Reálné příklady:
+Zjistíme si na `meetup.com <https://www.meetup.com/>`__ a `konfery.cz <https://konfery.cz/>`__, jaké relevantní (Python, Ruby, databáze, API, ...) meetupy probíhají v ČR a v Evropě během našeho CfP. Najdeme si jejich Twitter účet, oficiální Twitter hashtag, Facebookovou událost, apod. Na čas jejich konání naplánujeme zprávu, která poprosí organizátory o šíření zprávy o našem CfP, popřípadě pozve účastníky, aby na našem CfP participovali. Pokud je událost vícedenní, tweetujeme každý den. Reálné příklady:
 
 - `Rusko <https://twitter.com/honzajavorek/status/963462774960599040>`__
 - `Německo <https://twitter.com/honzajavorek/status/963837746266636288>`__
