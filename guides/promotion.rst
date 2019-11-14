@@ -42,9 +42,9 @@ Související: `Bus factor <https://en.wikipedia.org/wiki/Bus_factor>`__, `Padaw
 Slack
 ~~~~~
 
-Media tým má na `Pyvec Slacku <https://pyvec.slack.com/>`__ svou místnost, ``#pyconcz-media``, kde se radí a kam může kdokoliv přijít s méně urgentními věcmi. Tým má i sůj handle, ``@pyconcz-media-team``, jenž může kdokoliv z ostatních organizátorů použít, pokud chce vyvolat tým k akci a zadat mu práci.
+Media tým má na `Pyvec Slacku <https://pyvec.slack.com/>`__ svou místnost, ``#pyconcz-media``, kde se radí a kam může kdokoliv přijít s méně urgentními věcmi. Tým má i svůj handle, ``@pyconcz-media-team``, jenž může kdokoliv z ostatních organizátorů použít, pokud chce vyvolat tým k akci a zadat mu práci.
 
-Existuje i tajný kanál ``pyconcz-media-private``, který vznikl především proto, že si Media tým chtěl nasdílet nějaké e-mailové adresy privátní cestou.
+Existuje i tajný kanál ``#pyconcz-media-private``, který vznikl především proto, že si Media tým chtěl nasdílet nějaké e-mailové adresy privátní cestou.
 
 
 Organizace práce
@@ -332,7 +332,7 @@ Můžeme poprosit organizátory spřátelených nebo prostě blízkých konferen
 
 Je potřeba během CfP zaúkolovat lidi na jednotlivých Pyvech nebo PyLadies kurzech apod., aby přítomným řekli o CfP. Je bohužel potřeba jim to připomenout v den konání. Pokud mají událost na FB nebo Twitter hashtag, můžeme se ještě vetřít i přes sociální sítě během konání události. Zvláště na PyLadies atd. je dobré, aby člověk na místě zmínil a vysvětlil, že do CfP lze přijmout i nováčky v přednášení nebo v Pythonu.
 
-Lze projít archiv `pyvo.cz <http://pyvo.cz/>` za poslední rok ve všech městech a zkusit napsat přednášejícím, zda nechtějí své přednáškové umění povýšit na konferenční. Lze napsat lektorům z PyLadies kurzů, zda nechtějí mít přednášku na téma vzdělávání. Lze napsat organizátorkám kurzů, zda nechtějí podat na konferenci `komunitní zprávu o tom, jak v ČR kurzy PyLadies fungují a jak se rozrůstají <https://www.youtube.com/watch?v=l___hGXy598>`__.
+Lze projít archiv `pyvo.cz <https://pyvo.cz/>`_ za poslední rok ve všech městech a zkusit napsat přednášejícím, zda nechtějí své přednáškové umění povýšit na konferenční. Lze napsat lektorům z PyLadies kurzů, zda nechtějí mít přednášku na téma vzdělávání. Lze napsat organizátorkám kurzů, zda nechtějí podat na konferenci `komunitní zprávu o tom, jak v ČR kurzy PyLadies fungují a jak se rozrůstají <https://www.youtube.com/watch?v=l___hGXy598>`__.
 
 Firmy
 ^^^^^
