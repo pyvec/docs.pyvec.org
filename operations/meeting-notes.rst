@@ -8,6 +8,19 @@ Zápisy jsou řazeny od nejnovějších po nejstarší. Zápisy schůzí před r
 .. contents::
    :depth: 2
 
+28. 9. 2019 - elektronické hlasování výboru
+-------------------------------------------
+
+Dne 8. 9. Radka Planková požádala emailem o přijetí za člena do spolku.
+Výbor o tomto elektronicky hlasoval 28. 9., kdy bylo hlasování uzavřeno s následujícím výsledkem:
+
+* Jiří Bartoň: ano
+* Martin Bílek: ano
+* Jan Javorek: ano
+* Jakub Vysoký: ano
+* Aleš Zoulek: ano
+
+Petr Viktorin byl 28. 9. přijat za člena spolku.
 
 6. 9. 2019 - elektronické hlasování výboru
 ------------------------------------------
