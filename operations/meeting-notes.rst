@@ -27,12 +27,6 @@ Výbor o těchto přihláškách jednorázově elektronicky hlasoval od 3. 8. do
 
 Všichni zmínění byli 6. 9. přijati za členy spolku.
 
-.. image:: ../_static/voting/2019-09-06T19-54-58.png
-
-.. image:: ../_static/voting/2019-09-06T19-55-10.png
-
-.. image:: ../_static/voting/2019-09-06T19-55-24.png
-
 
 31. 8. 2019 - elektronické hlasování výboru
 -------------------------------------------
@@ -64,20 +58,6 @@ Ostatní
 
 Všichni zmínění byli 3. 9. přijati za členy spolku.
 
-.. image:: ../_static/voting/2019-09-03T20-59-39.png
-
-.. image:: ../_static/voting/2019-09-03T20-59-32.png
-
-.. image:: ../_static/voting/2019-09-03T20-59-21.png
-
-.. image:: ../_static/voting/2019-09-03T20-59-12.png
-
-.. image:: ../_static/voting/2019-09-03T20-58-58.png
-
-.. image:: ../_static/voting/2019-09-03T20-58-40.png
-
-.. image:: ../_static/voting/2019-09-03T20-58-28.png
-
 
 2. 7. 2019 - elektronické hlasování výboru
 ------------------------------------------
@@ -93,5 +73,3 @@ hlasování uzavřeno s následujícím výsledkem:
 * Aleš Zoulek: ano
 
 Petr Viktorin byl 12. 7. přijat za člena spolku.
-
-.. image:: ../_static/voting/2019-07-12T18-28-31.png

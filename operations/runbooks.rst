@@ -74,8 +74,6 @@ Zápis z jednorázového elektronického hlasování
 
 **Pro koho je tento návod:** výbor
 
-#. Udělej dokumentační screenshot(y) hlasování v kanále `#pyvec-board <https://pyvec.slack.com/messages/G32A3QKAR/>`__ tak, aby šlo poznat, jak kdo hlasoval. Toto je důležité, protože na Slacku lze hlasování (klidně i omylem) zpětně změnit.
-#. Ulož screenshot(y) do složky ``_static/voting`` v této dokumentaci (:ref:`jak? <contributing>`), soubory pojmenuj podle šablony ``YYYY-MM-DDTHH-MM-SS.png``.
 #. Na začátek stránky :ref:`zapisy` přidej zápis podle následující šablony:
 
    .. code-block:: rst
@@ -95,6 +93,6 @@ Zápis z jednorázového elektronického hlasování
 
       OSOBA byla D. M. přijata za člena spolku.
 
-      .. image:: ../_static/voting/YYYY-MM-DDTHH-MM-SS.png
+   Pokud nějaký člen rady nehlasoval, tak není potřeba jej vůbec uvádět.
 
 #. Pošli Pull Request s touto změnou. Před jeho přijetím by měl být schválen alespoň jedním dalším členem výboru (můžeš nastavit tým `@pyvec/board <https://github.com/orgs/pyvec/teams/board>`__ v *reviewers*).
