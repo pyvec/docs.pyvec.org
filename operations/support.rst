@@ -3,9 +3,9 @@
 Podpora komunitních aktivit
 ===========================
 
-Pyvec nikomu neříká, co má dělat. Pomáhá těm, kteří se o něco snaží — je to servisní organizace. Má pod palcem `síť kontaktů <http://pyvec.slack.com/>`__, `finanční zdroje <https://ib.fio.cz/ib/transparent?a=2600260438>`__, know-how, atd., kterými podporuje dobrovolníky s nápady a odhodláním. Pyvec primárně podporuje projekty, které jsou `otevřené <https://cs.wikipedia.org/wiki/Otev%C5%99en%C3%BD_software>`__ a `inkluzivní <https://cs.wikipedia.org/wiki/Inkluze_(sociologie)>`__.
+Pyvec nikomu neříká, co má dělat. Pomáhá těm, kteří se o něco snaží — je to servisní organizace. Má pod palcem `síť kontaktů <http://pyvec.slack.com/>`__, :ref:`finanční zdroje <financni-podpora>`, know-how, atd., kterými podporuje dobrovolníky s nápady a odhodláním. Pyvec primárně podporuje projekty, které jsou `otevřené <https://cs.wikipedia.org/wiki/Otev%C5%99en%C3%BD_software>`__ a `inkluzivní <https://cs.wikipedia.org/wiki/Inkluze_(sociologie)>`__.
 
-Dotazy pište na info@pyvec.org nebo v kanálu `#pyvec <https://pyvec.slack.com/messages/C12MP1GDB/>`__ na :ref:`Slacku <slack>`.
+Dotazy pište na info@pyvec.org nebo do kanálu `#pyvec <https://pyvec.slack.com/messages/C12MP1GDB/>`__ na :ref:`Slacku <slack>`.
 
 
 .. _slack:
@@ -45,7 +45,7 @@ Pro přístup pište na info@pyvec.org nebo v kanálu `#gsuite <https://pyvec.sl
 Poradenství ohledně GDPR
 ------------------------
 
-`GDPR <https://cs.wikipedia.org/wiki/Obecn%C3%A9_na%C5%99%C3%ADzen%C3%AD_o_ochran%C4%9B_osobn%C3%ADch_%C3%BAdaj%C5%AF>`__ už jsme museli řešit pro několik akcí, takže jsme schopni vám poskytnout základní poradenství. Kdyby bylo potřeba, zajistíme i právní servis.
+`GDPR <https://cs.wikipedia.org/wiki/Obecn%C3%A9_na%C5%99%C3%ADzen%C3%AD_o_ochran%C4%9B_osobn%C3%ADch_%C3%BAdaj%C5%AF>`__ už jsme museli řešit pro několik webů a akcí, takže jsme schopni vám poskytnout základní poradenství. Kdyby bylo potřeba, zajistíme i právní servis.
 
 Pište co potřebujete na info@pyvec.org nebo v kanálu `#gdpr <https://pyvec.slack.com/messages/CA1JN88HH/>`__ na :ref:`Slacku <slack>`.
 
@@ -62,13 +62,16 @@ Návody
 ------
 
 Pod hlavičkou Pyvce postupně vznikají návody jak organizovat konkrétní akce nebo jak dělat určitou činnost, jež je v komunitě potřeba. Všechny jsou `otevřené <https://cs.wikipedia.org/wiki/Otev%C5%99en%C3%BD_software>`__ a najdete je :ref:`na těchto stránkách <main-toc>`.
-Chcete-li přidat svůj návod, koukněte na :ref:`contributing`
+Chcete-li přidat svůj návod, koukněte na :ref:`contributing`.
 
 
 Finanční podpora
 ----------------
 
-.. todo::
-   Tuto sekci připravujeme.
+Přes Pyvec tečou peníze české Python komunity. Poskytujeme tyto hlavní služby:
+
+- :ref:`Otočení sponzorských peněz <otoceni-penez>`
+- :ref:`Granty <granty>`
+- :ref:`Paušální granty <pausalni-granty>`
 
 Pište na info@pyvec.org nebo diskutujte v kanálu `#money <https://pyvec.slack.com/messages/C9E81JFS5/>`__ na :ref:`Slacku <slack>`.
