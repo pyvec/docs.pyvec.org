@@ -8,6 +8,17 @@ Zápisy jsou řazeny od nejnovějších po nejstarší. Zápisy schůzí před r
 .. contents::
    :depth: 2
 
+21. 11. 2019 - elektronické hlasování výboru
+--------------------------------------------
+
+Dne 18. 11. Zuzana Javorková požádala o grant do výše 10 000 Kč na tisk triček pro PyLadies. Výbor o tomto elektronicky hlasoval 21. 11., kdy bylo hlasování uzavřeno s následujícím výsledkem:
+
+* Martin Bílek: ano
+* Jan Javorek: ano
+* Aleš Zoulek: ano
+
+Grant byl schválen.
+
 28. 9. 2019 - elektronické hlasování výboru
 -------------------------------------------
 
