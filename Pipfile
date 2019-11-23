@@ -14,10 +14,10 @@ linkcheck = "sphinx-build -nW -b linkcheck . _build"
 sphinx = "*"
 sphinx-tabs = "*"
 sphinxemoji = "*"
+sphinx-rtd-theme = "*"
 
 [dev-packages]
 sphinx-autobuild = "*"
-sphinx-rtd-theme = "*"
 pylama = "*"
 
 [requires]
