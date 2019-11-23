@@ -12,7 +12,7 @@ pipenv lock --requirements | sed -e "$add_slash_re" | sed -e "$remove_comment_re
 if ! diff normalized-requirements.txt just-locked-requirements.txt
 then
   rm *-requirements.txt
-  help_url='https://pyvec-guide.readthedocs.io/CONTRIBUTING.html#zavislosti'
+  help_url='https://docs.pyvec.org/CONTRIBUTING.html#zavislosti'
   echo ""
   echo ""
   echo "The requirements.txt file is not up to date. Run" \
