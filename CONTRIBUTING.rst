@@ -89,9 +89,9 @@ Na repozitáři je zapojeno `CircleCI <https://circleci.com/>`_. Kontrolka:
 
 CircleCI je pouze informativní a nezabrání tomu, aby se ``master`` větev dostala do ReadTheDocs.
 
-now.sh
-------
+Zkušební prostředí
+------------------
 
-Aby bylo možné si prohlédnout změny provedené na projektu i vizuálně, je na repozitáři zapojeno automatické nasazování na `now.sh <https://now.sh>`_ pod Pull Requesty. Toto nasazování je pouze informativní a nesouvisí nijak s tím, jak se potom ``master`` větev dostane do ReadTheDocs.
+Aby bylo možné si prohlédnout změny provedené na projektu i vizuálně, je na repozitáři zapojeno automatické nasazování na `now.sh <https://now.sh>`_ pod Pull Requesty. Toto nasazování je pouze informativní a přestože se provádí i pro větev ``master``, nesouvisí nijak s tím, jak se ``master`` dostává do ReadTheDocs.
 
 A jak to funguje? now.sh se podívá do souboru ``now.json``, který mu řekne, aby spustil Bash skript ``now.sh`` a potom naservíroval soubory ve složce ``_build``.
