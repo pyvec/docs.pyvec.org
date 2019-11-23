@@ -16,3 +16,11 @@ article ul:last-child {
 .rst-content .tab ul:last-child {
   margin-bottom: 0;
 }
+
+/*
+  Fixing strange behavior of the RTD theme
+*/
+.rst-content .section ol li ul,
+.rst-content ol.arabic li ul {
+  margin-bottom: 12px;
+}

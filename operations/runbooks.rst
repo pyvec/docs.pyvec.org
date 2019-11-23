@@ -3,11 +3,19 @@ Jak řešit situace
 
 .. contents::
    :depth: 2
+   :local:
+   :backlinks: none
+
+
+
+Návody pro kohokoliv
+--------------------
+
 
 .. _jak-clenstvi:
 
 Jak se stát členem
-------------------
+^^^^^^^^^^^^^^^^^^
 
 **Pro koho je tento návod:** uchazeč(ka) o členství v Pyvci
 
@@ -50,8 +58,44 @@ Jak se stát členem
 #. Jakmile je zápis z hlasování zveřejněn, můžeš jej spolu s e-maily použít jako důkaz o svém přijetí za člena a doklad svého existujícího členství.
 #. Pyvec nemá zaveden členský poplatek, takže od této chvíle se stačí řídit :ref:`stanovami <stanovy>`.
 
+
+.. _proplaceni:
+
+Jak si nechat něco proplatit
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Pro koho je tento návod:** kdokoliv využívající :ref:`finančních služeb Pyvce <financni-sluzby>`
+
+#. Přečtu si jak správně využívat :ref:`finančních služeb Pyvce <financni-sluzby>`.
+
+#. Při nákupech uchovávám účtenky nebo faktury. Faktura musí mít tyto náležitosti:
+
+   - musí být vystavena na **Pyvec, z.s.**
+   - musí mít správnou **fakturační** adresu Pyvce (tzn. Drtinova) jak je uvedena `dole na webu <https://pyvec.org/>`_
+
+   .. hint::
+      Pokud se podepisuje nějaká smlouva a podepisuje ji někdo za Pyvec, musí u jeho jména figurovat opět název a adresa Pyvce, ne adresa k němu domů.
+
+#. Fakturu nebo účtenku dopravím :term:`pokladníkovi <Pokladník>` (tzn. Martin Bílek) jedním z následujících způsobů:
+
+   - papírovou fakturu nebo účtenku pošlu poštou, osobně donesu nebo po někom pošlu na **korespondenční** adresu Pyvce (tzn. Ječná) jak je uvedena `dole na webu <https://pyvec.org/>`_
+   - elektronickou fakturu nebo účtenku přepošlu na info@pyvec.org
+   - papírovou účtenku mohu naskenovat nebo **dobře a kvalitně** vyfotit (tak dobře, aby šla zase vytisknout a založit do účetnictví) a takto ji poslat na info@pyvec.org
+
+#. K účetnímu dokladu poskytnu na info@pyvec.org následující:
+
+   - pod jakou **skupinu** výdaj spadá (PyLadies, PyCon CZ, Pyvo v Brně, ...)
+   - **co to je** za věc (pokud není zřejmé z dokladu) a **k čemu slouží** ("*...při každém workshopu konaném v Hospodě na Mýtince potřebujeme prodlužovačku, takže jsme se rozhodli ji koupit*")
+   - na jaké **číslo účtu** mají být proplaceny peníze
+
+   Tyto informace sděluji **e-mailem** (ne ústně, ne na papíře, ne na :ref:`Slacku <slack>`), aby byly dohledatelné na jednom místě.
+
+
+Návody pro výbor
+----------------
+
 Přijetí nového člena
---------------------
+^^^^^^^^^^^^^^^^^^^^
 
 **Pro koho je tento návod:** výbor
 
@@ -67,10 +111,11 @@ Přijetí nového člena
 #. Hlasování musí být zdokumentováno jako :ref:`zapis-e-hlasovani`.
 #. Jakmile je zápis z hlasování zveřejněn, nový člen jej může spolu s e-maily použít jako důkaz o svém přijetí za člena a doklad svého existujícího členství.
 
+
 .. _zapis-e-hlasovani:
 
 Zápis z jednorázového elektronického hlasování
-----------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Pro koho je tento návod:** výbor
 

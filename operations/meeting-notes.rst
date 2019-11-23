@@ -5,8 +5,9 @@ Zápisy ze schůzí
 
 Zápisy jsou řazeny od nejnovějších po nejstarší. Zápisy schůzí před rokem 2019 jsou v `tomto dokumentu <https://docs.google.com/document/d/1fNOqEpoddNOB52PG-tCT6Yzw3AqHZnDE6jY08zuEywE/edit>`__.
 
-.. contents::
-   :depth: 2
+.. contents:: Zápisy
+   :depth: 1
+   :local:
 
 21. 11. 2019 - elektronické hlasování výboru
 --------------------------------------------

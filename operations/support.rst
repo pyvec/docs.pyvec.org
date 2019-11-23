@@ -7,6 +7,11 @@ Pyvec nikomu neříká, co má dělat. Pomáhá těm, kteří se o něco snaží
 
 Dotazy pište na info@pyvec.org nebo do kanálu `#pyvec <https://pyvec.slack.com/messages/C12MP1GDB/>`__ na :ref:`Slacku <slack>`.
 
+.. contents:: Oblasti podpory
+   :depth: 1
+   :local:
+   :backlinks: none
+
 
 .. _slack:
 
@@ -18,6 +23,22 @@ Pyvec provozuje diskusi `pyvec.slack.com <https://pyvec.slack.com/>`__ určenou 
 Pro přístup pište na info@pyvec.org, ideálně s popisem toho, co pro Python v ČR děláte nebo dělat chcete. Jakmile se dostanete dovnitř, představte se ostatním v kanálu `#introductions <https://pyvec.slack.com/messages/C4Q1K2724/>`__.
 
 
+Finanční podpora
+----------------
+
+Přes Pyvec tečou peníze české Python komunity, ať už jde o otočení sponzorských peněz nebo o přispívání na komunitní projekty pomocí grantů. Všechno najdete detailně sepsané na samostatné stránce :ref:`financni-podpora`.
+
+Pište na info@pyvec.org nebo diskutujte v kanálu `#money <https://pyvec.slack.com/messages/C9E81JFS5/>`__ na :ref:`Slacku <slack>`.
+
+
+Návody
+------
+
+Pod hlavičkou Pyvce postupně vznikají návody jak organizovat konkrétní akce nebo jak dělat určitou činnost, jež je v komunitě potřeba. Všechny jsou `otevřené <https://cs.wikipedia.org/wiki/Otev%C5%99en%C3%BD_software>`__ a najdete je :ref:`na těchto stránkách <main-toc>`.
+
+Chcete-li přidat svůj návod, koukněte na :ref:`contributing`.
+
+
 Domény
 ------
 
@@ -25,6 +46,8 @@ Máme účet na `domena.cz <https://www.domena.cz/>`__, kde pro českou Python k
 
 Pište na info@pyvec.org nebo v kanálu `#domeny <https://pyvec.slack.com/messages/C6ZMKC50E/>`__ na :ref:`Slacku <slack>`.
 
+
+.. _gsuite:
 
 GSuite
 ------
@@ -56,22 +79,3 @@ Poradenství ohledně inkluzivity akcí
 Pyvec se snaží, aby jím podporované akce byly inkluzivní a přístupné pro co největší škálu lidí. Jestliže v tomto tématu tápete, rádi vám vysvětlíme základy problematiky a poskytneme rady na konkrétní kroky, které můžete udělat, aby vaše akce byla přístupnější.
 
 Pište na info@pyvec.org nebo v kanálu `#coc <https://pyvec.slack.com/messages/CC2UMSC0M/>`__ na :ref:`Slacku <slack>`.
-
-
-Návody
-------
-
-Pod hlavičkou Pyvce postupně vznikají návody jak organizovat konkrétní akce nebo jak dělat určitou činnost, jež je v komunitě potřeba. Všechny jsou `otevřené <https://cs.wikipedia.org/wiki/Otev%C5%99en%C3%BD_software>`__ a najdete je :ref:`na těchto stránkách <main-toc>`.
-Chcete-li přidat svůj návod, koukněte na :ref:`contributing`.
-
-
-Finanční podpora
-----------------
-
-Přes Pyvec tečou peníze české Python komunity. Poskytujeme tyto hlavní služby:
-
-- :ref:`Otočení sponzorských peněz <otoceni-penez>`
-- :ref:`Granty <granty>`
-- :ref:`Paušální granty <pausalni-granty>`
-
-Pište na info@pyvec.org nebo diskutujte v kanálu `#money <https://pyvec.slack.com/messages/C9E81JFS5/>`__ na :ref:`Slacku <slack>`.
