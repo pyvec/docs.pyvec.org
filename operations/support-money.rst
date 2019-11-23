@@ -27,7 +27,7 @@ Přes Pyvec tečou peníze české Python komunity. Poskytujeme tyto hlavní slu
 Otočení sponzorských peněz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Jestliže na svou věc seženete sponzora, Pyvec mu pošle fakturu na potřebnou částku a peníze od sponzora uloží na svůj transparentní účet. Z těchto peněz vám věc oproti účetnímu dokladu :ref:`proplatí <proplaceni>`, a to bez nutnosti schvalování :term:`výborem <Výbor>`. Pokud z peněz něco zbude, zůstanou na účtu Pyvce pro :ref:`granty <granty>`. Příklad:
+Jestliže na svou věc seženete sponzora, Pyvec mu pošle fakturu na potřebnou částku a peníze od sponzora uloží na svůj transparentní účet. Z těchto peněz vám věc oproti účetnímu dokladu :ref:`proplatí <jak-proplatit>`, a to bez nutnosti schvalování :term:`výborem <Výbor>`. Pokud z peněz něco zbude, zůstanou na účtu Pyvce pro :ref:`granty <granty>`. Příklad:
 
    Jiřík každý měsíc :ref:`organizuje Python sraz <srazy>` v Zeleném Údolí. V Zeleném Údolí je bohužel jen jediný vhodný podnik, kde lze sraz konat, a to Hospoda na Mýtince. Ta si za akce účtuje pronájem 500 Kč za večer. Jiřík sežene sponzora srazu, místní firmu Červený Klobouk, a.s., která zaplatí pronájem na celý rok. Jiřík s touto dohodou seznámí Pyvec a poprosí jej, aby transakci vyřešil. Pyvec pošle Červenému Klobouku fakturu na 6000 Kč. Jiřík každý měsíc nájem zaplatí ze svého, doklad pošle Pyvci, a ten mu jej proplatí. Když to Jiříka přestane bavit, řekne Hospodě na Mýtince, aby rovnou poslala Pyvci fakturu za několik měsíců, a Pyvec ji proplatí.
 
@@ -41,7 +41,7 @@ Na příkladu je vidět hned několik výhod tohoto modelu:
 - Jiřík má za sebou právní entitu, která je schopna přijímat nebo vydávat faktury a má transparentní účet.
 
 .. note::
-   Pyvec může věci :ref:`proplácet <proplaceni>` jen oproti účetnímu dokladu, tzn. účtence nebo faktuře. Pokud vám sponzor pošle více peněz než nakonec bylo potřeba, nelze vám je jen tak vyplatit. Můžete je ale v budoucnu čerpat na další věci pomocí :ref:`grantů <granty>`.
+   Pyvec může věci :ref:`proplácet <jak-proplatit>` jen oproti účetnímu dokladu, tzn. účtence nebo faktuře. Pokud vám sponzor pošle více peněz než nakonec bylo potřeba, nelze vám je jen tak vyplatit. Můžete je ale v budoucnu čerpat na další věci pomocí :ref:`grantů <granty>`.
 
 
 .. _granty:
@@ -60,10 +60,10 @@ Pokud na svou věc nemáte sponzora, můžete požádat Pyvec o grant. Pyvec dis
 
 #. :term:`Výbor` žádost zváží a odhlasuje, zda ji schválí nebo zamítne. Toto se děje pro všechny žádosti minimálně jednou za měsíc na schůzi výboru, ale v závislosti na vytíženosti členů výboru se to může zvládnout i rychleji.
 #. Výbor vás seznámí s výsledkem hlasování. Pokud žádost zamítne, měl by udat důvod, proč se tak stalo.
-#. Zaplatíte věc ze svého a účetní doklady si necháte proplatit Pyvcem podle :ref:`tohoto návodu na proplácení <proplaceni>`. Pokud by šlo o velkou částku na fakturu, domluvíte se s Pyvcem, aby ji zaplatil rovnou.
+#. Zaplatíte věc ze svého a účetní doklady si necháte proplatit Pyvcem podle :ref:`tohoto návodu na proplácení <jak-proplatit>`. Pokud by šlo o velkou částku na fakturu, domluvíte se s Pyvcem, aby ji zaplatil rovnou.
 
    .. note::
-      Pyvec může věci :ref:`proplácet <proplaceni>` jen oproti účetnímu dokladu, tzn. účtence nebo faktuře. Pokud vám byl udělen grant 4000 Kč, je tím míněno "proplatíme účetní doklady do výše 4000 Kč".
+      Pyvec může věci :ref:`proplácet <jak-proplatit>` jen oproti účetnímu dokladu, tzn. účtence nebo faktuře. Pokud vám byl udělen grant 4000 Kč, je tím míněno "proplatíme účetní doklady do výše 4000 Kč".
 
 #. Napíšete článek na `komunitní blog <https://blog.python.cz/>`__ (repo `zde <https://github.com/pyvec/blog.python.cz>`__), kde sepíšete (případně vyfotíte) výslednou věc. Jak se to povedlo, komu to pomohlo, jakou měli radost, co se naučili, apod.
 
@@ -90,7 +90,7 @@ Granty mohou být :ref:`jednorázové <granty>` nebo paušální. Ty paušální
 
    Lumír je hlavním organizátorem kurzů pro začátečníky v Zeleném Údolí. Kurzy se konají pravidelně každý půlrok a při jejich organizaci je potřeba tu koupit lístečky, tu prodlužovačku, tam zase malé občerstvení. Nejsou to velké výdaje, takže je Lumír platí sám, ale když se v prosinci podíval do prasátka, zjistil, že v součtu to vlastně bylo dost peněz. Rozhodne se tedy požádat Pyvec o paušální grant.
 
-Postup získání grantu je :ref:`stejný jako u jednorázových <granty>`, akorát s tím rozdílem, že nežádáte o jednorázové peníze, ale o pravidelnou částku na měsíc. Opět platí, že Pyvec může věci :ref:`proplácet <proplaceni>` jen oproti účetnímu dokladu, tzn. účtence nebo faktuře. Grant 200 Kč/měsíc, je tedy míněn "proplatíme účetní doklady do výše 200 Kč měsíčně". Po získání paušálního grantu **nemusíte psát článek na blog**. (Ale můžete!) Příklad:
+Postup získání grantu je :ref:`stejný jako u jednorázových <granty>`, akorát s tím rozdílem, že nežádáte o jednorázové peníze, ale o pravidelnou částku na měsíc. Opět platí, že Pyvec může věci :ref:`proplácet <jak-proplatit>` jen oproti účetnímu dokladu, tzn. účtence nebo faktuře. Grant 200 Kč/měsíc, je tedy míněn "proplatíme účetní doklady do výše 200 Kč měsíčně". Po získání paušálního grantu **nemusíte psát článek na blog**. (Ale můžete!) Příklad:
 
    Lumír do `#money <https://pyvec.slack.com/messages/C9E81JFS5/>`__ napíše:
 
@@ -109,7 +109,7 @@ Pyvec disponuje dvěma účty:
 
 PayPal máme především kvůli prodeji lístků a vyplácení *Financial Aid* při organizaci konference `PyCon CZ <https://cz.pycon.org>`_, ale řešíme přes něj i jiné mezinárodní platby, např. sponzorské dary od `PSF <https://www.python.org/psf/>`_. Vše ostatní je na transparentním účtu.
 
-Pyvec k Fio účtu disponuje debetní kartou, ale zatím se jejímu použítí spíše bráníme. Pokud jsou někde potřeba např. pravidelné platby kartou (např. při vedení účtu na `meetup.com <https://www.meetup.com/>`_), je z hlediska zabezpečení lepší, když tam dá člověk svoji kartu a peníze si poté nechá :ref:`proplatit <proplaceni>` standardním způsobem.
+Pyvec k Fio účtu disponuje debetní kartou, ale zatím se jejímu použítí spíše bráníme. Pokud jsou někde potřeba např. pravidelné platby kartou (např. při vedení účtu na `meetup.com <https://www.meetup.com/>`_), je z hlediska zabezpečení lepší, když tam dá člověk svoji kartu a peníze si poté nechá :ref:`proplatit <jak-proplatit>` standardním způsobem.
 
 
 Hospodaření Pyvce

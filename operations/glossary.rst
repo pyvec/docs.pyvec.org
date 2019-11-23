@@ -20,7 +20,7 @@ Slovníček
       :term:`Výborem <Výbor>` schválený text popisující vnitřní pravidla pro fungování spolku. Pružnější než :term:`stanovy <Stanovy>`. Směrnici může navrhnout kdokoliv. Směrnice Pyvce jsou :ref:`zde <smernice>`.
 
    Pokladník
-      Člen :term:`výboru <Výbor>`, který byl zvolen aby se staral o finanční transakce a daně spolku. Pokud zvolen není, náleží tato zodpovědnost předsedovi spolku. Pokladník a jeho zodpovědnost jsou :ref:`popsány ve stanovách <pokladnik>`.
+      Člen :term:`výboru <Výbor>`, který byl zvolen aby se staral o finanční transakce a daně spolku. Pokud zvolen není, náleží tato zodpovědnost předsedovi spolku. Pokladník a jeho hlavní zodpovědnosti jsou :ref:`popsány ve stanovách <pokladnik>`. Vedlejší zodpovědností je, aby :term:`účetní <Účetní>` neměla práci na Pyvci jako nekonečnou šifrovací hru. Pokladníkem se člověk stane především přečtením :ref:`všeho ohledně financí <financni-podpora>` a :ref:`návodů pro pokladníka <navody-pokladnik>`.
 
    Účetní
       Externě najímaný člověk, který nám dělá kompletní finanční a daňovou evidenci. Za tuto práci platíme. V současné době využíváme toho, že předseda Pyvce má firmu `Fragaria <https://fragaria.cz/>`_ a tak prostě posílá jejich paní účetní kromě podkladů pro účetvnictví firmy i podklady pro účetnictví Pyvce.

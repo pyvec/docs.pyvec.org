@@ -17,7 +17,9 @@ Návody pro kohokoliv
 Jak se stát členem
 ^^^^^^^^^^^^^^^^^^
 
-**Pro koho je tento návod:** uchazeč(ka) o členství v Pyvci
++------------------------------+---------------------------------------------+
+| **Pro koho je tento návod:** | uchazeč(ka) o členství v Pyvci              |
++------------------------------+---------------------------------------------+
 
 #. Přečti si :ref:`stanovy`.
 #. Přečti si :ref:`jak Pyvec pomáhá <podpora>`.
@@ -59,12 +61,14 @@ Jak se stát členem
 #. Pyvec nemá zaveden členský poplatek, takže od této chvíle se stačí řídit :ref:`stanovami <stanovy>`.
 
 
-.. _proplaceni:
+.. _jak-proplatit:
 
 Jak si nechat něco proplatit
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Pro koho je tento návod:** kdokoliv využívající :ref:`finančních služeb Pyvce <financni-sluzby>`
++------------------------------+-----------------------------------------------------------------------+
+| **Pro koho je tento návod:** | kdokoliv využívající :ref:`finančních služeb Pyvce <financni-sluzby>` |
++------------------------------+-----------------------------------------------------------------------+
 
 #. Přečtu si jak správně využívat :ref:`finančních služeb Pyvce <financni-sluzby>`.
 
@@ -88,6 +92,16 @@ Jak si nechat něco proplatit
    - **co to je** za věc (pokud není zřejmé z dokladu) a **k čemu slouží** ("*...při každém workshopu konaném v Hospodě na Mýtince potřebujeme prodlužovačku, takže jsme se rozhodli ji koupit*")
    - na jaké **číslo účtu** mají být proplaceny peníze
 
+   .. code-block:: text
+
+      Ahoj,
+
+      prosím o proplacení faktury v příloze. Spadá pod SKUPINA.
+      Jedná se o VĚC, kterou jsme pořídili abychom vyřešili DŮVOD.
+      Peníze prosím proplatit na ČÍSLO ÚČTU.
+
+      Díky!
+
    Tyto informace sděluji **e-mailem** (ne ústně, ne na papíře, ne na :ref:`Slacku <slack>`), aby byly dohledatelné na jednom místě.
 
 
@@ -97,7 +111,9 @@ Návody pro výbor
 Přijetí nového člena
 ^^^^^^^^^^^^^^^^^^^^
 
-**Pro koho je tento návod:** výbor
++------------------------------+-----------+
+| **Pro koho je tento návod:** | výbor     |
++------------------------------+-----------+
 
 #. Osoba žádající o členství napíše e-mail na info@pyvec.org. Tím vznikne doklad o jeho žádosti (ten e-mail, který je možné v případě potřeby dohledat).
 #. V kanále `#pyvec-board <https://pyvec.slack.com/messages/G32A3QKAR/>`__ někdo nadnese:
@@ -117,7 +133,9 @@ Přijetí nového člena
 Zápis z jednorázového elektronického hlasování
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Pro koho je tento návod:** výbor
++------------------------------+-----------+
+| **Pro koho je tento návod:** | výbor     |
++------------------------------+-----------+
 
 #. Na začátek stránky :ref:`zapisy` přidej zápis podle následující šablony:
 
@@ -141,3 +159,94 @@ Zápis z jednorázového elektronického hlasování
    Pokud nějaký člen rady nehlasoval, tak není potřeba jej vůbec uvádět.
 
 #. Pošli Pull Request s touto změnou. Před jeho přijetím by měl být schválen alespoň jedním dalším členem výboru (můžeš nastavit tým `@pyvec/board <https://github.com/orgs/pyvec/teams/board>`__ v *reviewers*).
+
+
+.. _navody-pokladnik:
+
+Návody pro pokladníka
+---------------------
+
+.. _proplaceni:
+
+Proplácení účetních dokladů
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
++------------------------------+---------------------------------------------+
+| **Pro koho je tento návod:** | :term:`pokladník <Pokladník>`, předseda     |
++------------------------------+---------------------------------------------+
+
+#. Někdo využívá :ref:`finančních služeb Pyvce <financni-sluzby>` a krok za krokem následuje návod :ref:`jak-proplatit`. Na Pyvec přijde účetní doklad k proplacení a e-mail s dalšími detaily:
+
+   - pod jakou **skupinu** výdaj spadá
+   - **co to je** za věc a **k čemu slouží**
+   - na jaké **číslo účtu** mají být proplaceny peníze
+
+#. Přihlásíš se do `Fio banky <https://ib.fio.cz/ib/login>`_ a odešleš platbu, přičemž využiješ detaily z e-mailu:
+
+   -  číslo účtu
+   -  do zprávy napíšeš:
+
+      .. code-block:: text
+
+         SKUPINA: proplacení účtu za VĚC
+
+#. Propiskou napíšeš na papírový doklad slovo **PYVEC** aby se odlišil od dokladů firmy `Fragaria <https://fragaria.cz/>`_ a dáš jej do šuplíku číslo 2 ve `Fragarii <https://fragaria.cz/>`_, odkud se doklady automagicky odesílají k :term:`účetní <Účetní>`.
+
+.. note::
+
+   Ideálně je každý účetní doklad vyřízen samostatnou platbou. Cílem je, aby :term:`účetní <Účetní>` mohla z výpisu snadno evidovat co k čemu patří.
+
+   Pokud je toho víc, třeba při proplácení účtenek z `PyCon CZ <https://cz.pycon.org>`_, sloučíš platby podle čísla účtu kam se mají proplatit peníze, poznamenáš to do zprávy k platbě a papírové doklady se sepnou sponkou s poznámkou, že byly proplaceny dohromady.
+
+
+Vystavení faktury
+^^^^^^^^^^^^^^^^^
+
++------------------------------+---------------------------------------------+
+| **Pro koho je tento návod:** | :term:`pokladník <Pokladník>`, předseda     |
++------------------------------+---------------------------------------------+
+
+#. Někdo Pyvci oznámí "domluvila jsem, že nám `PSF <https://www.python.org/psf/>`_ pošle milion korun jako sponzorský dar"
+#. Zjisti:
+
+   - pod jakou **skupinu** příjem spadá (PyLadies, PyCon CZ, Pyvo v Brně, ...)
+   - na jakou **částku**
+   - na jaké **fakturační údaje**
+
+#. Napiš e-mail a pošli jej naší :term:`účetní <Účetní>`:
+
+   .. code-block:: text
+
+      Dobrý den,
+
+      prosím o vystavení faktury za Pyvec na částku ČÁSTKA.
+      Účetní středisko je SKUPINA. Fakturační údaje:
+
+      FAKTURAČNÍ ÚDAJE
+
+      Děkuji
+
+   Fakturační neposílá jako odkaz někam na internet, ale vloží je přímo do e-mailu jako text.
+#. :term:`Účetní` odpoví připravenou fakturou. :term:`Pokladník` nebo člověk z prvního bodu ji doručí plátci.
+
+.. note::
+
+   Pokud víš, že budeš vystavovat deset faktur, tak neposíláš deset e-mailů, ale připravíš si informace a potom o vystavení všech požádáš jednou zprávou.
+
+
+Příprava podkladů pro účetní závěrku
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
++------------------------------+---------------------------------------------+
+| **Pro koho je tento návod:** | :term:`pokladník <Pokladník>`, předseda     |
++------------------------------+---------------------------------------------+
+
+#. Když se blíží konec roku, :term:`účetní <Účetní>` se ozve, že by potřebovala doklady pro účetní závěrku.
+#. Získej doklady za věci placené v tomto roce od těch, kdo je ještě nedodali, a věci :ref:`proplať <proplaceni>`.
+#. Stáhni výpisy z PayPalu a pošli je :term:`účetní <Účetní>`. Výpisy z transparentního účtu si stahuje sama. Účetní doklady, které jsme jí za celý rok poslali, musí sedět s tím, co je ve výpisech. Když něčemu nerozumí, napíše a doptá se.
+#. :term:`Účetní` pošle zpět účetní závěrku a všechno k daňovému přiznání.
+
+   .. note::
+      Účetní závěrky máme zatím rozházené po e-mailech a :ref:`Google Drive <gsuite>`. Toto bychom chtěli do budoucna vylepšit a závěrky podle :ref:`stanov <stanovy>` nechávat schvalovat členskou schůzí a zveřejňovat je.
+
+#. Nějaké z těch papírů (:term:`účetní <Účetní>` napíše jaké) podepíše předseda a pošle na finanční úřad.
