@@ -4,7 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [scripts]
-serve = "sphinx-autobuild . _build"
+build = "sphinx-build -nW -b html . _build"  # for previews on now.sh
+serve = "sphinx-autobuild . _build"          # for local development
 lint = "pylama"
 lint-requirements = "_scripts/lint_requirements.sh"
 linkcheck = "sphinx-build -nW -b linkcheck . _build"
