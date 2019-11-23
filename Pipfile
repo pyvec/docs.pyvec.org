@@ -10,18 +10,14 @@ lint-requirements = "_scripts/lint_requirements.sh"
 linkcheck = "sphinx-build -nW -b linkcheck . _build"
 
 [packages]
-# Pinning packages with ~= unless their version starts with 0.,
-# then pinning each version strictly with ==
-sphinx = "~=2.2.1"
-sphinx-tabs = "~=1.1.13"
-sphinxemoji = "==0.1.4"
+sphinx = "*"
+sphinx-tabs = "*"
+sphinxemoji = "*"
 
 [dev-packages]
-# Pinning packages with ~= unless their version starts with 0.,
-# then pinning each version strictly with ==
-sphinx-autobuild = "==0.7.1"
-sphinx-rtd-theme = "==0.4.3"
-pylama = "~=7.7.1"
+sphinx-autobuild = "*"
+sphinx-rtd-theme = "*"
+pylama = "*"
 
 [requires]
 python_version = "3.7"  # ReadTheDocs runtime
