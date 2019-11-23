@@ -34,6 +34,7 @@ extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.githubpages',
     'sphinx_tabs.tabs',
+    'sphinxemoji.sphinxemoji',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -192,7 +193,13 @@ sphinx_tabs_nowarn = True
 todo_include_todos = True
 
 
-# -- Setting up extensions ------------------------------------------------
+# -- Options for the emoji extension -----------------------------------------
+
+# Ensures consistent emoji style on all computers, operating systems, browsers
+sphinxemoji_style = 'twemoji'
+
+
+# -- Setting up extensions ---------------------------------------------------
 
 def setup(app):
     app.add_css_file('custom.css')

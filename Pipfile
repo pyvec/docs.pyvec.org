@@ -14,6 +14,7 @@ linkcheck = "sphinx-build -nW -b linkcheck . _build"
 # then pinning each version strictly with ==
 sphinx = "~=2.2.1"
 sphinx-tabs = "~=1.1.13"
+sphinxemoji = "==0.1.4"
 
 [dev-packages]
 # Pinning packages with ~= unless their version starts with 0.,
