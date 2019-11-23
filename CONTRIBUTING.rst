@@ -32,7 +32,7 @@ Když toho upravujete víc, nebo máte zálusk na nějaké složitější kejkle
         #. Koukněte se, jakou verzi Pythonu máte: ``python3 --version``
         #. Jestliže máte verzi 3.7, pokračujte jako ve standardní instalaci. Pokud máte jinou verzi, pokračujte následujícími body -- použijte `pyenv <https://github.com/pyenv/pyenv>`_ k doinstalování verze 3.7.
         #. Nainstalujte pyenv: ``brew install pyenv``
-        #. Bohužel si pyenv neumí domyslet celé číslo verze, pokud mu dáme jen 3.7. Zjistěte tedy `v tomto seznamu na python.org <https://www.python.org/downloads/mac-osx/>`_, jaká je poslední vydaná verze Pythonu 3.7 (např. 3.7.5).
+        #. Bohužel si pyenv neumí domyslet celé číslo verze, pokud mu dáme jen 3.7. Zjistěte tedy nejdříve pomocí ``pyenv install 3.7``, jaká je poslední vydaná verze Pythonu 3.7 (např. 3.7.5).
         #. Použijte zjištěnou verzi a nainstalujte Python 3.7: ``pyenv install 3.7.5``
 
         Potom pokračujete jako ve standardní instalaci, akorát je třeba napovědět, který Python chcete použít:
