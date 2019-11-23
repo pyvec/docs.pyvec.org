@@ -13,38 +13,42 @@ Abyste něco změnili v textech, nemusíte nic instalovat. Obsah lze upravovat o
 Instalace
 ---------
 
-Když toho upravujete víc, nebo máte zálusk na nějaké složitější kejkle, je lepší mít materiály nainstalované na svém počítači. Projekt vyžaduje Python 3.6 a `pipenv <https://pipenv.kennethreitz.org/>`_.
+Když toho upravujete víc, nebo máte zálusk na nějaké složitější kejkle, je lepší mít materiály nainstalované na svém počítači. Projekt vyžaduje Python 3.7 a `pipenv <https://pipenv.kennethreitz.org/>`_.
 
 .. tabs::
 
     .. group-tab:: Standardní instalace
 
-        #. Nainstalujte si Python 3.6
-        #. `Nainstalujte si Pipenv <https://pipenv.readthedocs.io/en/latest/install/#installing-pipenv>`__
-        #. ``git clone https://github.com/pyvec/docs.pyvec.org.git``
-        #. ``cd docs.pyvec.org``
-        #. ``pipenv install --dev``
+        #. Nainstalujte Python 3.7
+        #. `Nainstalujte pipenv <https://pipenv.readthedocs.io/en/latest/install/#installing-pipenv>`_
+        #. Stáhněte projekt: ``git clone https://github.com/pyvec/docs.pyvec.org.git``
+        #. Vejděte do projektu: ``cd docs.pyvec.org``
+        #. Nainstalujte projekt: ``pipenv install --dev``
 
     .. group-tab:: macOS
 
-        Na macOS je problém sehnat Python 3.6, `Homebrew <https://brew.sh/>`_ vám totiž pomocí ``brew install python3`` nainstaluje nejnovější verzi. Použijte `pyenv <https://github.com/pyenv/pyenv>`_:
+        `Homebrew <https://brew.sh/>`_ vám standardně nainstaluje nejnovější Python, což nemusí nutně být Python 3.7. Následující návod ukazuje, jak z toho ven.
 
-        #. ``brew install pyenv``
-        #. ``pyenv install 3.6.6``
+        #. Koukněte se, jakou verzi Pythonu máte: ``python3 --version``
+        #. Jestliže máte verzi 3.7, pokračujte jako ve standardní instalaci. Pokud máte jinou verzi, pokračujte následujícími body -- použijte `pyenv <https://github.com/pyenv/pyenv>`_ k doinstalování verze 3.7.
+        #. Nainstalujte pyenv: ``brew install pyenv``
+        #. Bohužel si pyenv neumí domyslet celé číslo verze, pokud mu dáme jen 3.7. Zjistěte tedy `v tomto seznamu na python.org <https://www.python.org/downloads/mac-osx/>`_, jaká je poslední vydaná verze Pythonu 3.7 (např. 3.7.5).
+        #. Použijte zjištěnou verzi a nainstalujte Python 3.7: ``pyenv install 3.7.5``
 
-        Potom pokračujte jako ve standardní instalaci, akorát je třeba napovědět, který Python chcete použít:
+        Potom pokračujete jako ve standardní instalaci, akorát je třeba napovědět, který Python chcete použít:
 
-        #. `Nainstalujte si Pipenv <https://pipenv.readthedocs.io/en/latest/install/#installing-pipenv>`__
-        #. ``git clone https://github.com/pyvec/docs.pyvec.org.git``
-        #. ``cd docs.pyvec.org``
-        #. ``pipenv install --dev --python="$(pyenv root)/versions/3.6.6/bin/python"``
+        #. `Nainstalujte pipenv <https://pipenv.readthedocs.io/en/latest/install/#installing-pipenv>`_
+        #. Stáhněte projekt: ``git clone https://github.com/pyvec/docs.pyvec.org.git``
+        #. Vejděte do projektu: ``cd docs.pyvec.org``
+        #. Nainstalujte: ``pipenv install --dev --python="$(pyenv root)/versions/3.7.5/bin/python"``
 
 Běžná práce
 -----------
 
-#. ``pipenv run serve``
+#. Spusťte projekt: ``pipenv run serve``
 #. Otevřete si v prohlížeči `<http://127.0.0.1:8000>`_
 #. V editoru upravujete texty a v prohlížeči si kontrolujete výsledek
+#. Projekt zastavíte v terminálu pomocí :kbd:`Ctrl+C`
 
 Emoji
 -----
@@ -72,7 +76,7 @@ Závislosti
 
 Projekt využívá `pipenv <https://pipenv.kennethreitz.org/>`_, ale ReadTheDocs jej zatím nepodporují (`rtfd/readthedocs.org#3181 <https://github.com/readthedocs/readthedocs.org/issues/3181>`_). Proto je nutné vždy při změně závislostí zavolat ``pipenv lock --requirements > requirements.txt`` a tím vytvořit i soubor ``requirements.txt``, kterému ReadTheDocs rozumí.
 
-Nejnovější verze Pythonu, jakou ReadTheDocs podporují, je 3.6. Z toho důvodu ji vyžaduje i tento projekt. Nastavení je v souboru ``readthedocs.yml`` (`dokumentace <https://docs.readthedocs.io/en/latest/config-file/v1.html>`_).
+Nejnovější verze Pythonu, jakou ReadTheDocs podporují, je 3.7. Z toho důvodu ji vyžaduje i tento projekt. Nastavení je v souboru ``.readthedocs.yml`` (`dokumentace <https://docs.readthedocs.io/en/latest/config-file/v2.html>`_).
 
 Continuous Integration
 ----------------------
