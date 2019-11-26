@@ -21,7 +21,7 @@ Pro přístup pište na info@pyvec.org, ideálně s popisem toho, co pro Python 
 Domény
 ------
 
-Máme účet na `domena.cz <https://www.domena.cz/>`__, kde pro českou Python komunitu spravujeme a platíme domény jako pyvec.org, pyvo.cz, nebo pyladies.cz. Pokud zvažujete rozjetí komunitního projektu pod novou doménou, apelujeme na vás, abyste nás kontaktovali a nechali Pyvec doménu registrovat. Pozdější převody domén na Pyvec jsou komplikované a zdlouhavé.
+Máme účet na `domena.cz <https://www.domena.cz/>`__, kde pro českou Python komunitu spravujeme a platíme domény jako pyvec.org, pyvo.cz, nebo pyladies.cz. Celý přehled je na stránce :ref:`domeny`. Pokud zvažujete rozjetí komunitního projektu pod novou doménou, apelujeme na vás, abyste nás kontaktovali a nechali Pyvec doménu registrovat. Pozdější převody domén na Pyvec jsou komplikované a zdlouhavé.
 
 Pište na info@pyvec.org nebo v kanálu `#domeny <https://pyvec.slack.com/messages/C6ZMKC50E/>`__ na :ref:`Slacku <slack>`.
 
