@@ -23,7 +23,7 @@ Aktuální stav domén spravovaných českou Python komunitou.
 +------------------------+-------------------+------------------+--------------------+-------------+---------------+------------------------------------------------------------------------------------------------------+
 | |:white_check_mark:|   | `pyladies.cz`_    | Honza Javorek    | Pyvec, z.s.        | IGNUM       | IGNUM (Pyvec) |                                                                                                      |
 +------------------------+-------------------+------------------+--------------------+-------------+---------------+------------------------------------------------------------------------------------------------------+
-| |:construction:|       | `pycon.cz`_       | Radek Šimko      | Pyvec, z.s.        | IGNUM       | AWS           | DNS je stále na AWS Tomáše Ehrlicha, návod jak to zmigrovat je `zde <aws-dns>`_.                     |
+| |:construction:|       | `pycon.cz`_       | Radek Šimko      | Pyvec, z.s.        | IGNUM       | AWS           | DNS je stále na AWS Tomáše Ehrlicha, návod jak to zmigrovat je `v diskusi na Slacku`_.               |
 +------------------------+-------------------+------------------+--------------------+-------------+---------------+------------------------------------------------------------------------------------------------------+
 | |:white_check_mark:|   | `pyworking.cz`_   | Pyvec, z.s.      | Pyvec, z.s.        | IGNUM       | IGNUM (Pyvec) |                                                                                                      |
 +------------------------+-------------------+------------------+--------------------+-------------+---------------+------------------------------------------------------------------------------------------------------+
@@ -42,7 +42,7 @@ Aktuální stav domén spravovaných českou Python komunitou.
 .. _pyworking.cz: https://www.nic.cz/whois/domain/pyworking.cz/
 .. _pyvo.cz: https://www.nic.cz/whois/domain/pyvo.cz/
 
-.. _aws-dns: https://pyvec.slack.com/archives/C6ZMKC50E/p1574335038001900
+.. _v diskusi na Slacku: https://pyvec.slack.com/archives/C6ZMKC50E/p1574335038001900
 
 
 Přístup do účtu Pyvce na `domena.cz <https://domena.cz>`__ mají:
