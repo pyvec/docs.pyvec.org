@@ -3,6 +3,15 @@ Jak založit nový běh PyLadies
 
 Co nachystat/naklikat na start nového kurzu PyLadies?
 
+Seznámit se s PyLadies komunitou a formou kurzů
+-----------------------------------------------  
+
+* Kontaktovat některou ze současných organizátorek, požádat o předání know-how a zkonzultovat své přestavy o kurzu (Pozn.: může ušetřit spoustu budoucích problémů)
+* Zajít se podívat na hodinu do některého z běžících kurzů 
+ 
+  
+
+
 
 Vybrat den a místo, stanovit start a konec kurzu
 ------------------------------------------------
