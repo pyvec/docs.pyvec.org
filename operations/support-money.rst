@@ -49,7 +49,7 @@ Na příkladu je vidět hned několik výhod tohoto modelu:
 Granty
 ^^^^^^
 
-Pokud na svou věc nemáte sponzora, můžete požádat Pyvec o grant. Pyvec disponuje penězi, které na jeho účtě zbyly z nevyčerpaných sponzorských darů, z neurčených darů od náhodných lidí nebo firem, a z přebytků hospodaření konference `PyCon CZ <https://cz.pycon.org/>`__.
+Pokud na svou věc nemáte sponzora, můžete požádat Pyvec o grant. Pyvec disponuje penězi, které na jeho účtě zbyly z nevyčerpaných sponzorských darů, z neurčených darů od náhodných lidí nebo firem a z přebytků hospodaření konference `PyCon CZ <https://cz.pycon.org/>`__.
 
 #. Na e-mail info@pyvec.org nebo do kanálu `#money <https://pyvec.slack.com/messages/C9E81JFS5/>`__ na :ref:`Slacku <slack>` napište žádost o peníze. Pokud píšete na Slacku, přidejte mention na ``@board``, ať si toho všimnou členové :term:`výboru <Výbor>`. Snažte se v žádosti zodpovědět následující:
 
