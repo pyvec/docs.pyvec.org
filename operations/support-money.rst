@@ -119,7 +119,7 @@ Aktuální stav hospodaření Pyvce lze zjistit z každoročních účetních uz
 
 Naše :term:`účetní <Účetní>` nemá jiné API než e-mail, takže nelze stav hospodaření zjišťovat v reálném čase a např. jej transparentně zobrazovat na webu.
 
-Účetnictví Pyvce eviduje každou z podporovaných aktivit jako samostatné účetní středisko, což odborný termín pro pomyslnou "pojmenovanou obálku na peníze". Obálky umožňují rozlišit kolik peněz proteklo např. přes organizaci `PyCon CZ <https://cz.pycon.org>`_ nebo přes `PyLadies <https://pyladies.cz/>`_. Tyto obálky a jejich stav nijak zásadně neovlivňují způsob jakým udělujeme granty (tzn. nevadí, pokud je obálka v mínusu).
+Účetnictví Pyvce eviduje každou z podporovaných aktivit jako samostatné účetní středisko, což je odborný termín pro pomyslnou "pojmenovanou obálku na peníze". Obálky umožňují rozlišit kolik peněz proteklo např. přes organizaci `PyCon CZ <https://cz.pycon.org>`_ nebo přes `PyLadies <https://pyladies.cz/>`_. Tyto obálky a jejich stav nijak zásadně neovlivňují způsob jakým udělujeme granty (tzn. nevadí, pokud je obálka v mínusu).
 
 .. note::
    Účetní závěrky máme zatím rozházené po e-mailech a :ref:`Google Drive <gsuite>`. Toto bychom chtěli do budoucna vylepšit a závěrky podle :ref:`stanov <stanovy>` nechávat schvalovat členskou schůzí a zveřejňovat je.
