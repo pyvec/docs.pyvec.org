@@ -17,9 +17,9 @@ Návody pro kohokoliv
 Jak se stát členem
 ^^^^^^^^^^^^^^^^^^
 
-+------------------------------+---------------------------------------------+
-| **Pro koho je tento návod:** | uchazeč(ka) o členství v Pyvci              |
-+------------------------------+---------------------------------------------+
++------------------------------+-------------------------------------------------+
+| **Pro koho je tento návod:** | |:raising_hand:| uchazeč(ka) o členství v Pyvci |
++------------------------------+-------------------------------------------------+
 
 #. Přečti si :ref:`stanovy`.
 #. Přečti si :ref:`jak Pyvec pomáhá <podpora>`.
@@ -66,9 +66,9 @@ Jak se stát členem
 Jak si nechat něco proplatit
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-+------------------------------+-----------------------------------------------------------------------+
-| **Pro koho je tento návod:** | kdokoliv využívající :ref:`finančních služeb Pyvce <financni-sluzby>` |
-+------------------------------+-----------------------------------------------------------------------+
++------------------------------+---------------------------------------------------------------------------------------+
+| **Pro koho je tento návod:** | |:money_mouth:| kdokoliv využívající :ref:`finančních služeb Pyvce <financni-sluzby>` |
++------------------------------+---------------------------------------------------------------------------------------+
 
 #. Přečtu si jak správně využívat :ref:`finančních služeb Pyvce <financni-sluzby>`.
 
@@ -111,9 +111,9 @@ Návody pro výbor
 Přijetí nového člena
 ^^^^^^^^^^^^^^^^^^^^
 
-+------------------------------+-----------+
-| **Pro koho je tento návod:** | výbor     |
-+------------------------------+-----------+
++------------------------------+-----------------+
+| **Pro koho je tento návod:** | |:crown:| výbor |
++------------------------------+-----------------+
 
 #. Osoba žádající o členství napíše e-mail na info@pyvec.org. Tím vznikne doklad o jeho žádosti (ten e-mail, který je možné v případě potřeby dohledat).
 #. V kanále `#pyvec-board <https://pyvec.slack.com/messages/G32A3QKAR/>`__ někdo nadnese:
@@ -133,9 +133,9 @@ Přijetí nového člena
 Zápis z jednorázového elektronického hlasování
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-+------------------------------+-----------+
-| **Pro koho je tento návod:** | výbor     |
-+------------------------------+-----------+
++------------------------------+-----------------+
+| **Pro koho je tento návod:** | |:crown:| výbor |
++------------------------------+-----------------+
 
 #. Na začátek stránky :ref:`zapisy` přidej zápis podle následující šablony:
 
@@ -171,9 +171,9 @@ Návody pro pokladníka
 Proplácení účetních dokladů
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-+------------------------------+---------------------------------------------+
-| **Pro koho je tento návod:** | :term:`pokladník <Pokladník>`, předseda     |
-+------------------------------+---------------------------------------------+
++------------------------------+------------------------------------------------------+
+| **Pro koho je tento návod:** | |:moneybag:| :term:`pokladník <Pokladník>`, předseda |
++------------------------------+------------------------------------------------------+
 
 #. Někdo využívá :ref:`finančních služeb Pyvce <financni-sluzby>` a krok za krokem následuje návod :ref:`jak-proplatit`. Na Pyvec přijde účetní doklad k proplacení a e-mail s dalšími detaily:
 
@@ -202,9 +202,9 @@ Proplácení účetních dokladů
 Vystavení faktury
 ^^^^^^^^^^^^^^^^^
 
-+------------------------------+---------------------------------------------+
-| **Pro koho je tento návod:** | :term:`pokladník <Pokladník>`, předseda     |
-+------------------------------+---------------------------------------------+
++------------------------------+------------------------------------------------------+
+| **Pro koho je tento návod:** | |:moneybag:| :term:`pokladník <Pokladník>`, předseda |
++------------------------------+------------------------------------------------------+
 
 #. Někdo Pyvci oznámí "domluvila jsem, že nám `PSF <https://www.python.org/psf/>`_ pošle milion korun jako sponzorský dar"
 #. Zjisti:
@@ -237,9 +237,9 @@ Vystavení faktury
 Příprava podkladů pro účetní závěrku
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-+------------------------------+---------------------------------------------+
-| **Pro koho je tento návod:** | :term:`pokladník <Pokladník>`, předseda     |
-+------------------------------+---------------------------------------------+
++------------------------------+------------------------------------------------------+
+| **Pro koho je tento návod:** | |:moneybag:| :term:`pokladník <Pokladník>`, předseda |
++------------------------------+------------------------------------------------------+
 
 #. Když se blíží konec roku, :term:`účetní <Účetní>` se ozve, že by potřebovala doklady pro účetní závěrku.
 #. Získej doklady za věci placené v tomto roce od těch, kdo je ještě nedodali, a věci :ref:`proplať <proplaceni>`.
