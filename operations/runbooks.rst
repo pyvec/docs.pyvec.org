@@ -70,7 +70,7 @@ Jak si nechat něco proplatit
 | **Pro koho je tento návod:** | |:money_mouth:| kdokoliv využívající :ref:`finančních služeb Pyvce <financni-sluzby>` |
 +------------------------------+---------------------------------------------------------------------------------------+
 
-#. Přečtu si jak správně využívat :ref:`finančních služeb Pyvce <financni-sluzby>`.
+#. Přečtu si, jak správně využívat :ref:`finančních služeb Pyvce <financni-sluzby>`.
 
 #. Při nákupech uchovávám účtenky nebo faktury. Faktura musí mít tyto náležitosti:
 
@@ -78,7 +78,7 @@ Jak si nechat něco proplatit
    - musí mít správnou **fakturační** adresu Pyvce (tzn. Drtinova) jak je uvedena `dole na webu <https://pyvec.org/>`_
 
    .. hint::
-      Pokud se podepisuje nějaká smlouva a podepisuje ji někdo za Pyvec, musí u jeho jména figurovat opět název a adresa Pyvce, ne adresa k němu domů.
+      Pokud se podepisuje nějaká smlouva a podepisuje ji někdo za Pyvec, musí u jejich jména figurovat opět název a adresa Pyvce, ne adresa k němu domů.
 
 #. Fakturu nebo účtenku dopravím :term:`pokladníkovi <Pokladník>` (tzn. Martin Bílek) jedním z následujících způsobů:
 
@@ -88,7 +88,7 @@ Jak si nechat něco proplatit
 
 #. K účetnímu dokladu poskytnu na info@pyvec.org následující:
 
-   - pod jakou **skupinu** výdaj spadá (PyLadies, PyCon CZ, Pyvo v Brně, ...)
+   - pod jakou **skupinu** výdaj spadá (PyLadies, PyCon CZ, Pyvo v Brně...)
    - **co to je** za věc (pokud není zřejmé z dokladu) a **k čemu slouží** ("*...při každém workshopu konaném v Hospodě na Mýtince potřebujeme prodlužovačku, takže jsme se rozhodli ji koupit*")
    - na jaké **číslo účtu** mají být proplaceny peníze
 
@@ -194,9 +194,9 @@ Proplácení účetních dokladů
 
 .. note::
 
-   Ideálně je každý účetní doklad vyřízen samostatnou platbou. Cílem je, aby :term:`účetní <Účetní>` mohla z výpisu snadno evidovat co k čemu patří.
+   Ideálně je každý účetní doklad vyřízen samostatnou platbou. Cílem je, aby :term:`účetní <Účetní>` mohla z výpisu snadno evidovat, co k čemu patří.
 
-   Pokud je toho víc, třeba při proplácení účtenek z `PyCon CZ <https://cz.pycon.org>`_, sloučíš platby podle čísla účtu kam se mají proplatit peníze, poznamenáš to do zprávy k platbě a papírové doklady se sepnou sponkou s poznámkou, že byly proplaceny dohromady.
+   Pokud je toho víc, třeba při proplácení účtenek z `PyCon CZ <https://cz.pycon.org>`_, sloučíš platby podle čísla účtu, kam se mají proplatit peníze, poznamenáš to do zprávy k platbě a papírové doklady se sepnou sponkou s poznámkou, že byly proplaceny dohromady.
 
 
 Vystavení faktury
@@ -226,7 +226,7 @@ Vystavení faktury
 
       Děkuji
 
-   Fakturační neposílá jako odkaz někam na internet, ale vloží je přímo do e-mailu jako text.
+   Fakturační údaje neposíláš jako odkaz někam na internet, ale vložíš je přímo do e-mailu jako text.
 #. :term:`Účetní` odpoví připravenou fakturou. :term:`Pokladník` nebo člověk z prvního bodu ji doručí plátci.
 
 .. note::

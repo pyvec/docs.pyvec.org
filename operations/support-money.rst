@@ -41,7 +41,7 @@ Na příkladu je vidět hned několik výhod tohoto modelu:
 - Jiřík má za sebou právní entitu, která je schopna přijímat nebo vydávat faktury a má transparentní účet.
 
 .. note::
-   Pyvec může věci :ref:`proplácet <jak-proplatit>` jen oproti účetnímu dokladu, tzn. účtence nebo faktuře. Pokud vám sponzor pošle více peněz než nakonec bylo potřeba, nelze vám je jen tak vyplatit. Můžete je ale v budoucnu čerpat na další věci pomocí :ref:`grantů <granty>`.
+   Pyvec může věci :ref:`proplácet <jak-proplatit>` jen oproti účetnímu dokladu, tzn. účtence nebo faktuře. Pokud vám sponzor pošle více peněz, než nakonec bylo potřeba, nelze vám je jen tak vyplatit. Můžete je ale v budoucnu čerpat na další věci pomocí :ref:`grantů <granty>`.
 
 
 .. _granty:
@@ -65,20 +65,20 @@ Pokud na svou věc nemáte sponzora, můžete požádat Pyvec o grant. Pyvec dis
    .. note::
       Pyvec může věci :ref:`proplácet <jak-proplatit>` jen oproti účetnímu dokladu, tzn. účtence nebo faktuře. Pokud vám byl udělen grant 4000 Kč, je tím míněno "proplatíme účetní doklady do výše 4000 Kč".
 
-#. Napíšete článek na `komunitní blog <https://blog.python.cz/>`__ (repo `zde <https://github.com/pyvec/blog.python.cz>`__), kde sepíšete (případně vyfotíte) výslednou věc. Jak se to povedlo, komu to pomohlo, jakou měli radost, co se naučili, apod.
+#. Napíšete článek na `komunitní blog <https://blog.python.cz/>`__ (`repozitář <https://github.com/pyvec/blog.python.cz>`__), kde sepíšete (případně vyfotíte) výslednou věc. Jak se to povedlo, komu to pomohlo, jakou měli radost, co se naučili apod.
 
    Příspěvek na blogu je **podmínkou** jednorázových grantů. Články nám pomáhají získávat peníze od sponzorů a informují komunitu o tom, co děláme. Pokud použijete grant a článek nenapíšete, nedostanete další grant.
 
    .. note::
-      Nemusíte válčit se systémem, na kterém blog běží. Článek napište v čem chcete, třeba v `Google Docs <https://docs.google.com/>`__, a lidi, kteří se kolem blogu motají, vám to do něj rádi pomohou vpravit.
+      Nemusíte válčit se systémem, na kterém blog běží. Článek napište v čem chcete, třeba v `Google Docs <https://docs.google.com/>`__, a lidi, kteří se kolem blogu motají, vám ho do něj rádi pomohou vpravit.
 
 Příklad:
 
    Zuzka by chtěla natisknout třička pro `PyLadies <https://pyladies.cz/>`__. Na tričkách nechce loga sponzorů, takže sponzory nehledá, požádá Pyvec o grant. Do `#money <https://pyvec.slack.com/messages/C9E81JFS5/>`__ napíše:
 
-   *@board Ahoj, jsem organizátorka PyLadies. Rádi bychom natiskli trička. Podle toho, jaký bude zájem, budeme potřebovat 10 až 30 000 Kč. Trička jsou jedinou odměnou dobrovolníkům, posilují soudržnost mezi organizátory i absolventkami kurzů a zároveň šíří povědomí o PyLadies, když v nich lidi chodí po světě.*
+   *@board Ahoj, jsem organizátorka PyLadies v Zeleném Údolí. Rádi bychom natiskli PyLadies trička. Podle toho, jaký bude zájem, budeme potřebovat 10 až 30 000 Kč. Trička jsou jedinou odměnou dobrovolníkům, posilují soudržnost mezi organizátory i absolventkami kurzů a zároveň šíří povědomí o PyLadies, když v nich lidi chodí po světě. Jde o trička pro všechna města, jsme domluvené s organizátorkami z Modrého Města i Žlutého Vrchu.*
 
-   Výbor o tomto zahlasuje a odepíše, že grant bude přidělen. Následně Zuzka zjistí od lidí počty a velikosti triček, zadá zakázku firmě Tričkománie, s.r.o. a nechá u ní vystavit fakturu na Pyvec. Nakonec je to za 26 000 Kč. Protože jde o velkou částku, kterou Zuzka platit ze svého nechce, fakturu zaplatí přímo Pyvec. Když už je dost triček mezi lidma, Zuzka udělá pár fotek na mobil a napíše pár vět na `blog <https://blog.python.cz/>`__. Pro zajímavost přihodí i dvě čísla, kolik triček se vytisklo a jak rychle se rozdaly.
+   Výbor o tomto zahlasuje a odepíše, že grant bude přidělen. Následně Zuzka zjistí od lidí počty a velikosti triček, zadá zakázku firmě Tričkománie, s.r.o. a nechá u ní vystavit fakturu na Pyvec. Nakonec je to za 26 000 Kč. Protože jde o velkou částku, kterou Zuzka platit ze svého nechce a/nebo nemůže, fakturu zaplatí přímo Pyvec. Když už je dost triček mezi lidmi, Zuzka udělá pár fotek na mobil a napíše pár vět na `blog <https://blog.python.cz/>`__. Pro zajímavost přihodí i dvě čísla, kolik triček se vytisklo a jak rychle se rozdaly.
 
 
 .. _pausalni-granty:
@@ -90,7 +90,7 @@ Granty mohou být :ref:`jednorázové <granty>` nebo paušální. Ty paušální
 
    Lumír je hlavním organizátorem kurzů pro začátečníky v Zeleném Údolí. Kurzy se konají pravidelně každý půlrok a při jejich organizaci je potřeba tu koupit lístečky, tu prodlužovačku, tam zase malé občerstvení. Nejsou to velké výdaje, takže je Lumír platí sám, ale když se v prosinci podíval do prasátka, zjistil, že v součtu to vlastně bylo dost peněz. Rozhodne se tedy požádat Pyvec o paušální grant.
 
-Postup získání grantu je :ref:`stejný jako u jednorázových <granty>`, akorát s tím rozdílem, že nežádáte o jednorázové peníze, ale o pravidelnou částku na měsíc. Opět platí, že Pyvec může věci :ref:`proplácet <jak-proplatit>` jen oproti účetnímu dokladu, tzn. účtence nebo faktuře. Grant 200 Kč/měsíc, je tedy míněn "proplatíme účetní doklady do výše 200 Kč měsíčně". Po získání paušálního grantu **nemusíte psát článek na blog**. (Ale můžete!) Příklad:
+Postup získání grantu je :ref:`stejný jako u jednorázových <granty>`, jen s tím rozdílem, že nežádáte o jednorázové peníze, ale o pravidelnou částku na měsíc. Opět platí, že Pyvec může věci :ref:`proplácet <jak-proplatit>` jen oproti účetnímu dokladu, tzn. účtence nebo faktuře. Grant 200 Kč/měsíc, je tedy míněn "proplatíme účetní doklady do výše 200 Kč měsíčně". Po získání paušálního grantu **nemusíte psát článek na blog**. (Ale můžete!) Příklad:
 
    Lumír do `#money <https://pyvec.slack.com/messages/C9E81JFS5/>`__ napíše:
 
@@ -119,7 +119,7 @@ Aktuální stav hospodaření Pyvce lze zjistit z každoročních účetních uz
 
 Naše :term:`účetní <Účetní>` nemá jiné API než e-mail, takže nelze stav hospodaření zjišťovat v reálném čase a např. jej transparentně zobrazovat na webu.
 
-Účetnictví Pyvce eviduje každou z podporovaných aktivit jako samostatné účetní středisko, což je odborný termín pro pomyslnou "pojmenovanou obálku na peníze". Obálky umožňují rozlišit kolik peněz proteklo např. přes organizaci `PyCon CZ <https://cz.pycon.org>`_ nebo přes `PyLadies <https://pyladies.cz/>`_. Tyto obálky a jejich stav nijak zásadně neovlivňují způsob jakým udělujeme granty (tzn. nevadí, pokud je obálka v mínusu).
+Účetnictví Pyvce eviduje každou z podporovaných aktivit jako samostatné účetní středisko, což je odborný termín pro pomyslnou "pojmenovanou obálku na peníze". Obálky umožňují rozlišit, kolik peněz proteklo např. přes organizaci `PyCon CZ <https://cz.pycon.org>`_ nebo přes `PyLadies <https://pyladies.cz/>`_. Tyto obálky a jejich stav nijak zásadně neovlivňují způsob jakým udělujeme granty (tzn. nevadí, pokud je obálka v mínusu).
 
 .. note::
    Účetní závěrky máme zatím rozházené po e-mailech a :ref:`Google Drive <gsuite>`. Toto bychom chtěli do budoucna vylepšit a závěrky podle :ref:`stanov <stanovy>` nechávat schvalovat členskou schůzí a zveřejňovat je.
