@@ -19,6 +19,8 @@ I. Název, forma a sídlo
 
 Spolek s názvem Pyvec, z.s. (dále jen “spolek”) je právnickou osobou založenou v souladu se zákonem č. 89/2012 Sb., občanský zákoník, v platném znění. Sídlo spolku je v Praze. Spolek se zakládá na dobu neurčitou.
 
+.. _ucel-spolku:
+
 II. Účel spolku
 ^^^^^^^^^^^^^^^
 
@@ -26,6 +28,8 @@ II. Účel spolku
 """"
 
 Spolek je dobrovolným, nevládním, neziskovým svazkem osob. Účelem spolku je propagace programovacího jazyka `Python`_ a `Open Source`_ technologií a podpora, rozvoj a rozšiřování komunity osob se zájmem o programovací jazyk Python v České republice.
+
+.. _formy-cinnosti-spolku:
 
 III. Formy činnosti spolku
 ^^^^^^^^^^^^^^^^^^^^^^^^^^

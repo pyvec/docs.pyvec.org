@@ -181,6 +181,7 @@ Proplácení účetních dokladů
    - **co to je** za věc a **k čemu slouží**
    - na jaké **číslo účtu** mají být proplaceny peníze
 
+#. Ověříš, že se něco takového projednávalo a schválilo. Ověříš, jestli sedí částky.
 #. Přihlásíš se do `Fio banky <https://ib.fio.cz/ib/login>`_ a odešleš platbu, přičemž využiješ detaily z e-mailu:
 
    -  číslo účtu

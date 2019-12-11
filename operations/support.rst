@@ -26,7 +26,7 @@ Pro přístup pište na info@pyvec.org, ideálně s popisem toho, co pro Python 
 Finanční podpora
 ----------------
 
-Přes Pyvec tečou peníze české Python komunity, ať už jde o otočení sponzorských peněz nebo o přispívání na komunitní projekty pomocí grantů. Všechno najdete detailně sepsané na samostatné stránce :ref:`financni-podpora`.
+Přes Pyvec tečou peníze české Python komunity, ať už jde o otočení sponzorských peněz nebo o přispívání na komunitní projekty pomocí :ref:`grantů <granty>`. Všechno najdete detailně sepsané na samostatné stránce :ref:`financni-podpora`.
 
 Pište na info@pyvec.org nebo diskutujte v kanálu `#money <https://pyvec.slack.com/messages/C9E81JFS5/>`__ na :ref:`Slacku <slack>`.
 

@@ -49,7 +49,7 @@ Na příkladu je vidět hned několik výhod tohoto modelu:
 Granty
 ^^^^^^
 
-Pokud na svou věc nemáte sponzora, můžete požádat Pyvec o grant. Pyvec disponuje penězi, které na jeho účtě zbyly z nevyčerpaných sponzorských darů, z neurčených darů od náhodných lidí nebo firem a z přebytků hospodaření konference `PyCon CZ <https://cz.pycon.org/>`__.
+Pokud na svou věc nemáte sponzora, můžete požádat Pyvec o grant. Pyvec disponuje penězi, které na jeho účtě zbyly z nevyčerpaných sponzorských darů, z neurčených darů a z přebytků hospodaření konference `PyCon CZ <https://cz.pycon.org/>`__. Slovo grant může někoho děsit, ale v našem podání to není nic byrokratického. Grant můžete žádat na libovolnou záležitost, která souvisí s misí Pyvce (viz stanovy: :ref:`ucel-spolku` a :ref:`formy-cinnosti-spolku`), ať už jde o stovky nebo desetitisíce korun: nájmy, trička, samolepky, projektor, ...
 
 #. Na e-mail info@pyvec.org nebo do kanálu `#money <https://pyvec.slack.com/messages/C9E81JFS5/>`__ na :ref:`Slacku <slack>` napište žádost o peníze. Pokud píšete na Slacku, přidejte mention na ``@board``, ať si toho všimnou členové :term:`výboru <Výbor>`. Snažte se v žádosti zodpovědět následující:
 
@@ -58,7 +58,12 @@ Pokud na svou věc nemáte sponzora, můžete požádat Pyvec o grant. Pyvec dis
    - Na jakou věc to je?
    - Proč? (čemu tím prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)
 
-#. :term:`Výbor` žádost zváží a odhlasuje, zda ji schválí nebo zamítne. Toto se děje pro všechny žádosti minimálně jednou za měsíc na schůzi výboru, ale v závislosti na vytíženosti členů výboru se to může zvládnout i rychleji.
+#. :term:`Výbor` žádost zváží a odhlasuje, zda ji schválí nebo zamítne. Toto se děje pro všechny žádosti minimálně jednou za měsíc na schůzi výboru, ale v závislosti na vytíženosti členů výboru se to může zvládnout i rychleji. Výbor se rozhoduje na základě mnoha faktorů, např.:
+
+   - Souvisí záležitost s misí Pyvce? (viz stanovy: :ref:`ucel-spolku` a :ref:`formy-cinnosti-spolku`)
+   - Neudělá nám to díru do hospodaření?
+   - Jaký je poměr přínosu k ceně?
+
 #. Výbor vás seznámí s výsledkem hlasování. Pokud žádost zamítne, měl by udat důvod, proč se tak stalo.
 #. Zaplatíte věc ze svého a účetní doklady si necháte proplatit Pyvcem podle :ref:`tohoto návodu na proplácení <jak-proplatit>`. Pokud by šlo o velkou částku na fakturu, domluvíte se s Pyvcem, aby ji zaplatil rovnou.
 
