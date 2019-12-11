@@ -210,7 +210,7 @@ Vystavení faktury
 #. Někdo Pyvci oznámí "domluvila jsem, že nám `PSF <https://www.python.org/psf/>`_ pošle milion korun jako sponzorský dar"
 #. Zjisti:
 
-   - pod jakou **skupinu** příjem spadá (PyLadies, PyCon CZ, Pyvo v Brně, ...)
+   - pod jakou **skupinu** příjem spadá (PyLadies, PyCon CZ, Pyvo v Brně...)
    - na jakou **částku**
    - na jaké **fakturační údaje**
 
