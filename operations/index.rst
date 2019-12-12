@@ -10,8 +10,9 @@ kolem `programovacího jazyka Python <https://python.cz>`__. Její cíle jsou fo
    :maxdepth: 1
 
    support
-   meeting-notes
+   support-money
    runbooks
    domains
+   meeting-notes
    bylaws
    glossary

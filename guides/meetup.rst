@@ -1,3 +1,5 @@
+.. _srazy:
+
 Jak pořádat Python sraz (Pyvo)
 ==============================
 

@@ -19,6 +19,8 @@ I. Název, forma a sídlo
 
 Spolek s názvem Pyvec, z.s. (dále jen “spolek”) je právnickou osobou založenou v souladu se zákonem č. 89/2012 Sb., občanský zákoník, v platném znění. Sídlo spolku je v Praze. Spolek se zakládá na dobu neurčitou.
 
+.. _ucel-spolku:
+
 II. Účel spolku
 ^^^^^^^^^^^^^^^
 
@@ -26,6 +28,8 @@ II. Účel spolku
 """"
 
 Spolek je dobrovolným, nevládním, neziskovým svazkem osob. Účelem spolku je propagace programovacího jazyka `Python`_ a `Open Source`_ technologií a podpora, rozvoj a rozšiřování komunity osob se zájmem o programovací jazyk Python v České republice.
+
+.. _formy-cinnosti-spolku:
 
 III. Formy činnosti spolku
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -266,7 +270,7 @@ g)  přijímat členy a rozhodovat o jejich vyloučení,
 h)  pověřovat jednotlivé členy zajišťováním určitých záležitostí či určité agendy v rámci činnosti spolku a určovat rozsah majetkových hodnot (finanční limit), se kterými bude tento člen v rámci pověření oprávněn samostatně nakládat,
 i)  rozhodovat o pracovních záležitostech zaměstnanců spolku a dobrovolných spolupracovníků.
 j)  volit a odvolat předsedu,
-k)  volit z členů výboru pokladníka a odvolat jej,
+k)  volit z členů výboru :term:`pokladníka <Pokladník>` a odvolat jej,
 l)  navrhovat :term:`vnitřní směrnice`
 
 9.3.
@@ -354,10 +358,12 @@ f)  členské příspěvky, jsou-li zavedeny.
     .. note::
         Členské příspěvky zavedeny nejsou.
 
+.. _pokladnik:
+
 11.2.
 """""
 
-Spolek prostředky vynakládá výhradně na úkony spojené s předmětem činnosti spolku, řádně podložené účetními doklady. Za evidenci hospodaření spolku a zajištění plnění daňových povinností spolku je odpovědný :ref:`výbor <vybor>`, který může touto činností pověřit některého svého člena jako pokladníka. Není-li pokladník zvolen, zastává tuto funkci předseda výboru. S výsledky hospodaření seznamuje výbor spolku členy spolku na :ref:`členské schůzi <clenska-schuze>`.
+Spolek prostředky vynakládá výhradně na úkony spojené s předmětem činnosti spolku, řádně podložené účetními doklady. Za evidenci hospodaření spolku a zajištění plnění daňových povinností spolku je odpovědný :ref:`výbor <vybor>`, který může touto činností pověřit některého svého člena jako :term:`pokladníka <Pokladník>`. Není-li pokladník zvolen, zastává tuto funkci předseda výboru. S výsledky hospodaření seznamuje výbor spolku členy spolku na :ref:`členské schůzi <clenska-schuze>`.
 
 11.3.
 """""
