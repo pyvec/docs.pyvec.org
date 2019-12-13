@@ -20,6 +20,41 @@ Dne 18. 11. Zuzana Javorková požádala o grant do výše 10 000 Kč na tisk tr
 
 Grant byl schválen.
 
+23. 10. 2019 - pyvec board schuze
+---------------------------------
+
+javor: zvazi, zda by nechtel pilotovat pozici "pracuj pro python". treba i
+placenou.
+
+javor se sejde s bilkem na tema jake je financni api pyvce, napr pro pycon.
+
+prijimani clenu: mame popsano v docs.pyvec.org, ale nemame zdokumentovano
+posledni prijimani.
+
+pull-requesty by mela schvalovat rada.
+
+volba clenu rady, neexistuje proces. funkcni obdobi 5 let. ve slacku se javor
+ptal, jak to delaji treba hasici (nebo jine spolky).
+
+zalozit trello pro radu!
+
+odted budou schuzky cally -> pristi 14/11 15:15 ales udelal hangout. javor
+a bilek se sejdou driv, mozna obed.
+
+posta v hubu -> bude na to task. clenska schuze annually -> bude task. vyrocni
+zprava -> bude task.
+
+penize v pyvci:
+
+* pycon vs pyladies vs pyvo-brno obalky.
+* ted muze na slacku do #money, vic info neni.
+*  honza predstavil mini grantiky, alesovi dava smysl.
+* formular na venek? jak velke jsou obalky? martin to vi.
+* pyvec je legalni entita. pycon neni obalka.
+* pyladies si k nam muzou dat penize, ale zase si je berou.
+* pycon ma nove orgy kazde dva roky.
+* formular na grantiky -> staci aby to bylo github issue!
+
 28. 9. 2019 - elektronické hlasování výboru
 -------------------------------------------
 
