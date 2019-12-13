@@ -20,6 +20,44 @@ Dne 18. 11. Zuzana Javorková požádala o grant do výše 10 000 Kč na tisk tr
 
 Grant byl schválen.
 
+14. 11. 2019 - pyvec board schuze
+---------------------------------
+
+od ted bude vzdycky do priste agenda jako karticka v trellu
+
+martin s honzou vyresil financni api pyvce, je to v nejakem dokumentu, pak by se to melo pretvorit jinam
+
+honza mluvil o grantu od nekoho do pyvec, resilo se to v #money, pokud by to vyslo slo by do obalky pyladies
+
+grantiky>
+nekdo v #money pozada o penize, pokud existuje sparovatelna platba od sponzora, penize jdou rovnou
+(priklad zadost o penize na tricka pro pyladies a sponzor posle penize na tricka pro pyladies)
+
+nekdo pozada o grant na neco a v obalce penize nema, nebo je i v minusu, pak hlasuje board
+(priklad projektor pro pyvo)
+
+mini vydaje jdou vicemene rovnou, ale schvaluje se taky.
+(priklad bianco sek na 500,- mesicne na pastelky a spol)
+
+nic z tohoto neni zdokumentovane a neni formalizovane, ale vice mene se tak uz deje. je potreba zrychlit hlasovani
+a nastavit, kde se granty drzi, napr: github issue s sablonou.
+
+zapisy pujdou rovnou jako pull-request do docs.pyvec.org, vsechno je open-source a pravda a laska, takze nemusime
+nic filtrovat, maximalne se to v ramci prijmuti pull requestu vyhodi, kdyby se resilo neco hodne private, ale vlastne
+se nam jeste nic takoveho nestalo.
+
+jakub dodela prijmuti radky -> elektronicka schuze.
+
+ales nas posloucha, ale druhou rukou jisti dceru na stene. ale dostava ukoly v trellu.
+
+ales posle pozvanku na 11/12 na 15:15
+
+jirka se odpojil a zbytek boardu probiral tajne veci :D
+
+jakub otestuje jak velka pruda je pridavat veci na docs.pyvec.org, jinak zapis muze docasne sedet jako comment v karticce.
+
+hlasovani bude pokracovat ve slacku, ale asi neni potreba delat screenshot. je to pruda navic a pull request schvaluje nekdo druhy.
+
 23. 10. 2019 - pyvec board schuze
 ---------------------------------
 
