@@ -9,6 +9,76 @@ Zápisy jsou řazeny od nejnovějších po nejstarší. Zápisy schůzí před r
    :depth: 1
    :local:
 
+11. 12. 2019 - pyvec board schuze
+---------------------------------
+
+chybi jirka (aby otestoval zapis), ales je v mekaci
+
+agenda [1]
+[1] https://trello.com/c/8j5NJSeS/20-1112-1515
+
+vypovezeni av firme za pycon
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ostravska av firma co delala videa na pyconu
+dostali zalohu (cca 1/2 finalni castky)
+lumir to resi mesice, zatim nendodali nic (ani promo videa, ani zaznamy)
+uz jim napsal, ze se smlpuva vypovi
+tyka se to ucetnictvi pyvce
+chybi nam danovy doklad na alespon tu zalohu (coz zni jako fer odmena za to, co uz udelali)
+honza cetl mail od lumira pro av firmu
+17500 je zaloha
+mozna se na doklad vykasleme, protoze budeme muset resit ucetnictvi jinak
+lumir to ma na starosti
+za pyvec cil: neblokovat lumira
+do budoucna: bylo by dobry aby tohle bylo reseny ve smlouve dopredu, aby zdrojova videa byla nase, abychom je mela k dispozici, atd, atd..
+honza pise vsechno lumirovi do kanalu na slacku
+
+financni api pyvce
+^^^^^^^^^^^^^^^^^^
+honza napsal, martin necetl, je to v pull-requestech
+honza pichnul do par lidi, at mu to prectou (napr miro)
+je potreba precist i formalni spravnost, takze musi martin ~ je to dlouhy!
+
+pyladies tricka
+^^^^^^^^^^^^^^^
+v ramci slacku se domluvilo, pyladies pyvec prispeje asi 10k
+
+filip valder - olomouc
+^^^^^^^^^^^^^^^^^^^^^^
+sponzoring pyvo v olomouci. filip zarizuje penize od nekoho, tyhle penize se posilaji do nejake skoly za najem.
+pyvec - standardni prutokac. takze se informujeme navzajem.
+my nikoho moc v olomouci nezname, jenom honza tam jednou byl.
+najem cca 80kc/h, takze by to pri nejhorsim nemelo bolet.
+
+znak prahy pro pyvec
+^^^^^^^^^^^^^^^^^^^^
+prisel dopis od prahy, ze muzeme pouzivat erb
+honza preda mirovi
+martin pousti z hlavy
+
+pyvec swag
+^^^^^^^^^^
+pullitry? nebo neco dalsiho?
+stary pycon pullitr delal honza javorek
+tomas ehrlich doda, kde se to tenkrat delalo
+mozna dobry napad na revshare s pyvama a prodavat
+
+trello issues
+^^^^^^^^^^^^^
+mame novy sloupec v trello "ke schvaleni"
+tam davat vsechno z "todo" a behem callu hazet do "done"
+jakub udelal priklad s issue pridanim noveho clena
+(z cehoz jeste neudelal 2 issues na samotne pridavani)
+
+priste?
+^^^^^^^
+pristi rok 2020
+15/1 15:15
+vschini pro, nikdo se nezdrzel
+martin udelal event.
+
+
+
 21. 11. 2019 - elektronické hlasování výboru
 --------------------------------------------
 
