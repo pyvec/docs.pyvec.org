@@ -20,40 +20,57 @@ Dne 18. 11. Zuzana Javorková požádala o grant do výše 10 000 Kč na tisk tr
 
 Grant byl schválen.
 
-23. 10. 2019 - pyvec board schuze
----------------------------------
+23. 10. 2019 - Schůze výboru
+----------------------------
 
-javor: zvazi, zda by nechtel pilotovat pozici "pracuj pro python". treba i
-placenou.
+:term:`Výbor` se sešel v ??? v následujícím složení:
 
-javor se sejde s bilkem na tema jake je financni api pyvce, napr pro pycon.
+* Martin Bílek
+* Jan Javorek
+* Aleš Zoulek
+* ... ?
 
-prijimani clenu: mame popsano v docs.pyvec.org, ale nemame zdokumentovano
-posledni prijimani.
+**Úkol**: Javorek zváží, zda by nechtěl pilotovat pozici "Pracuj pro python".
+Treba i placenou.
 
-pull-requesty by mela schvalovat rada.
+..
+    Co to znamená? Chtěl by pracovat pro Python, nebo řešit zaměstnance?
 
-volba clenu rady, neexistuje proces. funkcni obdobi 5 let. ve slacku se javor
-ptal, jak to delaji treba hasici (nebo jine spolky).
+**Úkol**: Javorek se sejde s Bílkem na téma jak poskytuje Pyvce finanční podporu
+např pro PyCon CZ. Poznámky
+[které byly v době zveřejnění zápisu :ref:`již zpracovány <financni-podpora>`]:
 
-zalozit trello pro radu!
+    * pycon vs pyladies vs pyvo-brno obálky.
+    * ted muze na slacku do #money, vic info neni.
+    * honza predstavil mini grantiky, alesovi dava smysl.
+    * formular na venek? jak velke jsou obalky? martin to vi.
+    * pyvec je legalni entita. pycon neni obalka.
+    * pyladies si k nam muzou dat penize, ale zase si je berou.
+    * pycon ma nove orgy kazde dva roky.
+    * formular na grantiky -> staci aby to bylo github issue!
 
-odted budou schuzky cally -> pristi 14/11 15:15 ales udelal hangout. javor
-a bilek se sejdou driv, mozna obed.
+**Úkol**: Přijímání členů máme :ref:`popsáno v docs.pyvec.org <jak-clenstvi>`,
+ale je potřeba zdokumentovat poslední přijímání z 28. 9. 2019.
 
-posta v hubu -> bude na to task. clenska schuze annually -> bude task. vyrocni
-zprava -> bude task.
+**Úkol**: Nastavit proces pro volbu členů rady.
+Zatím je zdokumentováno jen to, že funkční období je 5 let.
+Ve Slacku se Javorek ptal, jak to delají třeba hasiči (nebo jiné spolky).
 
-penize v pyvci:
+**Úkol**: Založit pro radu na `Trello <https://trello.com/>`_ přehled úkolů,
+které není vhodné sdílet s celým spolkem či širší komunitou.
+Aktuální seznam úkolů je:
 
-* pycon vs pyladies vs pyvo-brno obalky.
-* ted muze na slacku do #money, vic info neni.
-*  honza predstavil mini grantiky, alesovi dava smysl.
-* formular na venek? jak velke jsou obalky? martin to vi.
-* pyvec je legalni entita. pycon neni obalka.
-* pyladies si k nam muzou dat penize, ale zase si je berou.
-* pycon ma nove orgy kazde dva roky.
-* formular na grantiky -> staci aby to bylo github issue!
+* Vybírat poštu v Hubu
+* Uspořádat výroční členskou schůzi
+* Vydat výroční zprávu
+
+**Schváleno**: Pull requesty do oficiální části docs.pyvec.org by měla
+schvalovat rada.
+
+**Schváleno**: Příští schůze bude 14. 11. 15:15
+Zoulek udělal událost na Hangout.
+Javorek a Bílek se sejdou dřív, možná na oběd.
+
 
 28. 9. 2019 - elektronické hlasování výboru
 -------------------------------------------
