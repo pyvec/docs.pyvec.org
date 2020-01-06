@@ -30,11 +30,20 @@ Grant byl schválen.
 * Aleš Zoulek
 * ... ?
 
-**Úkol**: Javorek zváží, zda by nechtěl pilotovat pozici "Pracuj pro python".
-Treba i placenou.
+**Úkol**: Javorek zváží, zda by nechtěl pilotovat pozici "Pracuj pro python",
+treba i placenou. Jeho slovy:
 
-..
-    Co to znamená? Chtěl by pracovat pro Python, nebo řešit zaměstnance?
+    Bavili jsme se o tom, že abychom mohli řešit zaměstnance, měl by to nejdřív
+    někdo z nás, kdo do komunity vidí, zkusit reálně chvíli dělat a zjistit co
+    je vlastně potřeba, co je náplní práce, a jak tu práci dělat. Protože teď
+    si pod tím každý představuje něco úplně jiného a vlastně ani není jasné,
+    jestli je to potřeba. Až potom můžeme říct tohle je ta náplň a dělá se
+    takto, a najmout člověka, kterému ji vysvětlíme, aby ji dělal.
+    Ostatní z výboru mi navrhovali, ať zvážím, zda bych to nechtěl takto
+    pilotovat já, jelikož do všeho vidím, všechny znám, a nemám teď pracovní
+    poměr, tak by to bylo nejjednodušší. Třeba na měsíc. Já jsem odpoveděl, že
+    o tom můžu uvažovat, ale minimálně v listopadu a prosinci to dělat nechci.
+
 
 **Úkol**: Javorek se sejde s Bílkem na téma jak poskytuje Pyvce finanční podporu
 např pro PyCon CZ. Poznámky
