@@ -23,12 +23,13 @@ Grant byl schválen.
 23. 10. 2019 - Schůze výboru
 ----------------------------
 
-:term:`Výbor` se sešel v ??? v následujícím složení:
+:term:`Výbor` se sešel ve Fragarii v následujícím složení:
 
-* Martin Bílek
-* Jan Javorek
 * Aleš Zoulek
-* ... ?
+* Jakub Vysoký
+* Jan Javorek (online)
+* Jiří Bartoň
+* Martin Bílek
 
 **Úkol**: Javorek zváží, zda by nechtěl pilotovat pozici "Pracuj pro python",
 treba i placenou. Jeho slovy:
