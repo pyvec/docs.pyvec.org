@@ -8,6 +8,10 @@ Finanční podpora
    :local:
    :backlinks: none
 
+.. image:: ../_static/images/money.svg
+   :width: 80%
+   :align: center
+
 
 .. _financni-sluzby:
 
