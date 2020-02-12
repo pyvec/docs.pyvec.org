@@ -55,7 +55,7 @@ Granty
 
 Pokud na svou věc nemáte sponzora, můžete požádat Pyvec o grant. Pyvec disponuje penězi, které na jeho účtě zbyly z nevyčerpaných sponzorských darů, z neurčených darů a z přebytků hospodaření konference `PyCon CZ <https://cz.pycon.org/>`__. Slovo grant může někoho děsit, ale v našem podání to není nic byrokratického. Grant můžete žádat na libovolnou záležitost, která souvisí s misí Pyvce (viz stanovy: :ref:`ucel-spolku` a :ref:`formy-cinnosti-spolku`), ať už jde o stokoruny nebo desetitisíce: nájmy, trička, samolepky, projektor...
 
-#. Na e-mail info@pyvec.org nebo do kanálu `#money <https://pyvec.slack.com/messages/C9E81JFS5/>`__ na :ref:`Slacku <slack>` napište žádost o peníze. Pokud píšete na Slacku, přidejte mention na ``@board``, ať si toho všimnou členové :term:`výboru <Výbor>`. Snažte se v žádosti zodpovědět následující:
+#. Na e-mail info@pyvec.org nebo do kanálu :slack:`#money` na :ref:`Slacku <slack>` napište žádost o peníze. Pokud píšete na Slacku, přidejte mention na ``@board``, ať si toho všimnou členové :term:`výboru <Výbor>`. Snažte se v žádosti zodpovědět následující:
 
    - Kdo jste?
    - Kolik potřebujete? (i kdyby to měl být jen odhad nebo rozmezí)
@@ -83,7 +83,7 @@ Pokud na svou věc nemáte sponzora, můžete požádat Pyvec o grant. Pyvec dis
 
 Příklad:
 
-   Zuzka by chtěla natisknout třička pro `PyLadies <https://pyladies.cz/>`__. Na tričkách nechce loga sponzorů, takže sponzory nehledá, požádá Pyvec o grant. Do `#money <https://pyvec.slack.com/messages/C9E81JFS5/>`__ napíše:
+   Zuzka by chtěla natisknout třička pro `PyLadies <https://pyladies.cz/>`__. Na tričkách nechce loga sponzorů, takže sponzory nehledá, požádá Pyvec o grant. Do :slack:`#money` napíše:
 
    *@board Ahoj, jsem organizátorka PyLadies v Zeleném Údolí. Rádi bychom natiskli PyLadies trička. Podle toho, jaký bude zájem, budeme potřebovat 10 až 30 000 Kč. Trička jsou jedinou odměnou dobrovolníkům, posilují soudržnost mezi organizátory i absolventkami kurzů a zároveň šíří povědomí o PyLadies, když v nich lidi chodí po světě. Jde o trička pro všechna města, jsme domluvené s organizátorkami z Modrého Města i Žlutého Vrchu.*
 
@@ -101,7 +101,7 @@ Granty mohou být :ref:`jednorázové <granty>` nebo paušální. Ty paušální
 
 Postup získání grantu je :ref:`stejný jako u jednorázových <granty>`, jen s tím rozdílem, že nežádáte o jednorázové peníze, ale o pravidelnou částku na měsíc. Opět platí, že Pyvec může věci :ref:`proplácet <jak-proplatit>` jen oproti účetnímu dokladu, tzn. účtence nebo faktuře. Grant 200 Kč/měsíc, je tedy míněn "proplatíme účetní doklady do výše 200 Kč měsíčně". Po získání paušálního grantu **nemusíte psát článek na blog**. (Ale můžete!) Příklad:
 
-   Lumír do `#money <https://pyvec.slack.com/messages/C9E81JFS5/>`__ napíše:
+   Lumír do :slack:`#money` napíše:
 
    *@board Zdar jak sviňa, v Zeleném Údolí děláme kurzy pro začátečníky, dva semestry ročně. Máme u toho malé výdaje, v podstatě kancelářské potřeby. Kurzy prošlo za poslední rok 40 lidí ročně a mají dlouhodobě skvělé ohlasy od účastníků. Pomohlo by nám proplatit 100 Kč měsíčně.*
 

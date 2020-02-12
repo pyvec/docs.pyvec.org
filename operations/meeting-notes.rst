@@ -51,7 +51,7 @@ např pro PyCon CZ. Poznámky
 [které byly v době zveřejnění zápisu :ref:`již zpracovány <financni-podpora>`]:
 
     * pycon vs pyladies vs pyvo-brno obálky.
-    * ted muze na slacku do #money, vic info neni.
+    * ted muze na slacku do :slack:`#money`, vic info neni.
     * honza predstavil mini grantiky, alesovi dava smysl.
     * formular na venek? jak velke jsou obalky? martin to vi.
     * pyvec je legalni entita. pycon neni obalka.
