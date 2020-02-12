@@ -17,7 +17,7 @@ six==1.14.0
 snowballstemmer==2.0.0
 sphinx-rtd-theme==0.4.3
 sphinx-tabs==1.1.13
-sphinx==2.4.0
+sphinx==2.4.1
 sphinxcontrib-applehelp==1.0.1
 sphinxcontrib-devhelp==1.0.1
 sphinxcontrib-htmlhelp==1.0.2
