@@ -108,6 +108,24 @@ Jak si nechat něco proplatit
 Návody pro výbor
 ----------------
 
+Schůze výboru
+^^^^^^^^^^^^^
+
++------------------------------+-----------------+
+| **Pro koho je tento návod:** | |:crown:| výbor |
++------------------------------+-----------------+
+
+#. Na předem domluvený datum a čas je v (Google) kalendáři pozvánka na schůzi výboru pro všechny jeho členy, která má připojený odkaz na `Hangouts <https://hangouts.google.com/>`__ hovor.
+#. V daný čas si členové výboru otevřou `Trello nástěnku s úkoly pro výbor <https://trello.com/b/6GjKGJfq/board>`__ a připojí se na hovor.
+#. Na nástěnce je každá schůze reprezentována kartičkou ve sloupci *Schůze*. V ní je seznam věcí, které by měl výbor projednat. Kromě věcí, které na seznam mohou členové výboru volně přidat během předchozího měsíce má program schůze tyto pevné pravidelné body:
+
+   * Projít, zda není potřeba **něco schválit** (Pull Requesty na `docs.pyvec.org <https://github.com/pyvec/docs.pyvec.org>`__ nebo jinde, granty…). Tento bod zaručuje, že např. žádosti o grant nečekají nikdy déle než měsíc.
+   * Ověřit, zda byla **vybrána pošta** v `Impact Hubu <https://www.hubpraha.cz/d10/>`__, kde má Pyvec sídlo a schránku. Určit "pošťáka" na další měsíc. Tento bod zaručuje, že se ve schránce nenasbírá salát.
+   * Domluvit se **kdy bude další schůze**, vytvořit jí kartičku a poslat novou pozvánku do kalendáře. Tento bod zaručuje, že se výbor sejde i další měsíc.
+
+#. Výbor volitelně kouká po kartičkách ve sloupci *To Do* a zkouší je v rámci možností života dobrovolníků postupně řešit.
+
+
 Přijetí nového člena
 ^^^^^^^^^^^^^^^^^^^^
 
