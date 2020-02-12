@@ -5,78 +5,73 @@ Zápisy ze schůzí
 
 Zápisy jsou řazeny od nejnovějších po nejstarší. Zápisy schůzí před rokem 2019 jsou v `tomto dokumentu <https://docs.google.com/document/d/1fNOqEpoddNOB52PG-tCT6Yzw3AqHZnDE6jY08zuEywE/edit>`__.
 
+Termím :term:`výbor` je zaměnitelný s termínem :term:`board`.
+
 .. contents:: Zápisy
    :depth: 1
    :local:
 
+
 11. 12. 2019 - pyvec board schuze
 ---------------------------------
 
-chybi jirka (aby otestoval zapis), ales je v mekaci
+Chybí Jirka (aby otestoval zápis), Aleš je v Mekáči.
 
-agenda [1]
-[1] https://trello.com/c/8j5NJSeS/20-1112-1515
+agenda: https://trello.com/c/8j5NJSeS/20-1112-1515
 
-vypovezeni av firme za pycon
+vypovězení AV firmě za Pycon
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-ostravska av firma co delala videa na pyconu
-dostali zalohu (cca 1/2 finalni castky)
-lumir to resi mesice, zatim nendodali nic (ani promo videa, ani zaznamy)
-uz jim napsal, ze se smlpuva vypovi
-tyka se to ucetnictvi pyvce
-chybi nam danovy doklad na alespon tu zalohu (coz zni jako fer odmena za to, co uz udelali)
-honza cetl mail od lumira pro av firmu
-17500 je zaloha
-mozna se na doklad vykasleme, protoze budeme muset resit ucetnictvi jinak
-lumir to ma na starosti
-za pyvec cil: neblokovat lumira
-do budoucna: bylo by dobry aby tohle bylo reseny ve smlouve dopredu, aby zdrojova videa byla nase, abychom je mela k dispozici, atd, atd..
-honza pise vsechno lumirovi do kanalu na slacku
+ostravská AV firma co dělala videa na Pyconu. Dostali zálohu (cca 1/2 finální částky).
+Lumír to řeší měsíce, zatím nendodali nic (ani promo videa, ani záznamy).
+Už jim napsal, že se smlouva vypoví.
 
-financni api pyvce
+Týká se to účetnictví Pyvce. Chybí nám daňový doklad na alespoň tu zálohu (což zní jako fér odměna za to, co už udělali).
+Honza četl mail od Lumíra pro AV firmu: 17500 je záloha. Možná se na doklad vykašleme, protože budeme muset řešit účetnictví jinak.
+
+Lumír to má na starosti. Za Pyvec cíl: neblokovat Lumíra.
+Do budoucna: bylo by dobrý aby tohle bylo řešeno ve smlouvě dopředu, aby zdrojová videa byla naše, abychom je měli k dispozici, atd, atd..
+Honza píše všechno Lumírovi do kanálu na Slacku
+
+finanční API Pyvce
 ^^^^^^^^^^^^^^^^^^
-honza napsal, martin necetl, je to v pull-requestech
-honza pichnul do par lidi, at mu to prectou (napr miro)
-je potreba precist i formalni spravnost, takze musi martin ~ je to dlouhy!
+Honza napsal, Martin nečetl, je to v pull-requestech.
+Honza píchnul do pár lidí, ať mu to přečtou (např Miro).
+Je potřeba přečíst i formální správnost, takže musí Martin ~ je to dlouhý!
 
-pyladies tricka
+Pyladies trička
 ^^^^^^^^^^^^^^^
-v ramci slacku se domluvilo, pyladies pyvec prispeje asi 10k
+V rámci slacku se domluvilo, Pyladies Pyvec přispěje asi 10k
 
-filip valder - olomouc
+Filip Valder - Olomouc
 ^^^^^^^^^^^^^^^^^^^^^^
-sponzoring pyvo v olomouci. filip zarizuje penize od nekoho, tyhle penize se posilaji do nejake skoly za najem.
-pyvec - standardni prutokac. takze se informujeme navzajem.
-my nikoho moc v olomouci nezname, jenom honza tam jednou byl.
-najem cca 80kc/h, takze by to pri nejhorsim nemelo bolet.
+Sponzoring pyvo v Olomouci. Filip zařizuje peníze od někoho, tyhle peníze se posílají do nějaké školy za nájem.
 
-znak prahy pro pyvec
+Pyvec - standardní průtokáč. Takže se informujeme navzájem. My nikoho moc v Olomouci neznáme, jenom Honza tam jednou byl.
+
+Nájem cca 80kc/h, takže by to při nejhorším nemělo bolet.
+
+znak Prahy pro Pyvec
 ^^^^^^^^^^^^^^^^^^^^
-prisel dopis od prahy, ze muzeme pouzivat erb
-honza preda mirovi
-martin pousti z hlavy
+Přišel dopis od Prahy, že můžeme používat erb. Honza předá Miroví, Martin pouští z hlavy.
 
-pyvec swag
+Pyvec swag
 ^^^^^^^^^^
-pullitry? nebo neco dalsiho?
-stary pycon pullitr delal honza javorek
-tomas ehrlich doda, kde se to tenkrat delalo
-mozna dobry napad na revshare s pyvama a prodavat
+Půllitry? Nebo něco dalšího? Starý pycon půllitr dělal Honza Javorek.
+Tomáš Ehrlich dodá, kde se to tenkrát dělalo, možná dobrý nápad na revshare s pyvama a prodávat
 
-trello issues
+Trello issues
 ^^^^^^^^^^^^^
-mame novy sloupec v trello "ke schvaleni"
-tam davat vsechno z "todo" a behem callu hazet do "done"
-jakub udelal priklad s issue pridanim noveho clena
-(z cehoz jeste neudelal 2 issues na samotne pridavani)
+Máme nový sloupec v trello "ke schválení". Tam dávat všechno z "todo" a během callu házet do "done".
 
-priste?
+Jakub udělal příklad s issue přidáním nového člena (z čehož ještě neudělal 2 issues na samotné přidávání).
+
+příště?
 ^^^^^^^
-pristi rok 2020
-15/1 15:15
-vschini pro, nikdo se nezdrzel
-martin udelal event.
 
+* příští rok 2020
+* 15/1 15:15
+* všichni pro, nikdo se nezdržel
+* Martin udělal event.
 
 
 21. 11. 2019 - elektronické hlasování výboru
@@ -90,43 +85,51 @@ Dne 18. 11. Zuzana Javorková požádala o grant do výše 10 000 Kč na tisk tr
 
 Grant byl schválen.
 
+
 14. 11. 2019 - pyvec board schuze
 ---------------------------------
 
-od ted bude vzdycky do priste agenda jako karticka v trellu
+Od teď bude vždycky do příště agenda jako kartička v trellu.
 
-martin s honzou vyresil financni api pyvce, je to v nejakem dokumentu, pak by se to melo pretvorit jinam
+Martin s honzou vyřešil finanční API Pyvce, je to v nějakém dokumentu, pak by se to mělo přetvořit jinam.
 
-honza mluvil o grantu od nekoho do pyvec, resilo se to v #money, pokud by to vyslo slo by do obalky pyladies
+Honza mluvil o grantu od někoho do Pyvce, řešilo se to v ``#money``, pokud by to vyšlo šlo by do obálky pyladies.
 
-grantiky>
-nekdo v #money pozada o penize, pokud existuje sparovatelna platba od sponzora, penize jdou rovnou
-(priklad zadost o penize na tricka pro pyladies a sponzor posle penize na tricka pro pyladies)
+grantíky
+^^^^^^^^
+Někdo v ``#money`` požádá o peníze, pokud existuje spárovatelná platba od sponzora, peníze jdou rovnou.
+Příklad: žádost o peníze na trička pro pyladies a sponzor pošle peníze na trička pro pyladies.
 
-nekdo pozada o grant na neco a v obalce penize nema, nebo je i v minusu, pak hlasuje board
-(priklad projektor pro pyvo)
+Někdo požádá o grant na něco a v obálce peníze nemá, nebo je i v mínusu, pak hlasuje board.
+Příklad projektor pro pyvo.
 
-mini vydaje jdou vicemene rovnou, ale schvaluje se taky.
-(priklad bianco sek na 500,- mesicne na pastelky a spol)
+Míní výdaje jdou víceméně rovnou, ale schvaluje se taky.
+Příklad bianco šek na 500,- měsíčně na pastelky a spol.
 
-nic z tohoto neni zdokumentovane a neni formalizovane, ale vice mene se tak uz deje. je potreba zrychlit hlasovani
-a nastavit, kde se granty drzi, napr: github issue s sablonou.
+Nic z tohoto není zdokumentované a není formalizované, ale více méně se tak už děje. Je potřeba zrychlit hlasování.
+a nastavit, kde se granty drží, např: github issue s šablonou.
 
-zapisy pujdou rovnou jako pull-request do docs.pyvec.org, vsechno je open-source a pravda a laska, takze nemusime
-nic filtrovat, maximalne se to v ramci prijmuti pull requestu vyhodi, kdyby se resilo neco hodne private, ale vlastne
-se nam jeste nic takoveho nestalo.
+zápisy
+^^^^^^
+Zápisy půjdou rovnou jako pull-request do docs.pyvec.org, všechno je open-source a pravda a láska, takže nemusíme
+nic filtrovat, maximálně se to v rámci přijmutí pull-requestu vyhodí, kdyby se řešilo něco hodně priváte,
+ale vlastně se nám ještě nic takového nestalo.
 
-jakub dodela prijmuti radky -> elektronicka schuze.
+další
+^^^^^
+Jakub dodělá přijmutí Radky-> elektronická schůze.
 
-ales nas posloucha, ale druhou rukou jisti dceru na stene. ale dostava ukoly v trellu.
+Ales nás poslouchá, ale druhou rukou jisti dceru na stěně. Ale dostává úkoly v Trellu.
 
-ales posle pozvanku na 11/12 na 15:15
+Ales pošle pozvánku na 11/12 na 15:15
 
-jirka se odpojil a zbytek boardu probiral tajne veci :D
+Jirka se odpojil a zbytek boardu probíral tajné věci :D
 
-jakub otestuje jak velka pruda je pridavat veci na docs.pyvec.org, jinak zapis muze docasne sedet jako comment v karticce.
+Jakub otestuje jak velká pruda je přidávat věci na docs.pyvec.org, jinak zápis může dočasně sedět jako comment v kartičce.
 
-hlasovani bude pokracovat ve slacku, ale asi neni potreba delat screenshot. je to pruda navic a pull request schvaluje nekdo druhy.
+Hlasování bude pokračovat ve Slacku, ale asi není potřeba dělat screenshot.
+Je to pruda navíc a pull-request schvaluje někdo druhý.
+
 
 23. 10. 2019 - Schůze výboru
 ----------------------------
@@ -153,13 +156,12 @@ treba i placenou. Jeho slovy:
     poměr, tak by to bylo nejjednodušší. Třeba na měsíc. Já jsem odpoveděl, že
     o tom můžu uvažovat, ale minimálně v listopadu a prosinci to dělat nechci.
 
-
 **Úkol**: Javorek se sejde s Bílkem na téma jak poskytuje Pyvce finanční podporu
 např pro PyCon CZ. Poznámky
 [které byly v době zveřejnění zápisu :ref:`již zpracovány <financni-podpora>`]:
 
     * pycon vs pyladies vs pyvo-brno obálky.
-    * ted muze na slacku do #money, vic info neni.
+    * ted muze na slacku do ``#money``, vic info neni.
     * honza predstavil mini grantiky, alesovi dava smysl.
     * formular na venek? jak velke jsou obalky? martin to vi.
     * pyvec je legalni entita. pycon neni obalka.
@@ -203,6 +205,7 @@ Výbor o tomto elektronicky hlasoval 28. 9., kdy bylo hlasování uzavřeno s n�
 * Aleš Zoulek: ano
 
 Radka Planková byla 28. 9. přijata za členku spolku.
+
 
 6. 9. 2019 - elektronické hlasování výboru
 ------------------------------------------
