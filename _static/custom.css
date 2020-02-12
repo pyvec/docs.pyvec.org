@@ -26,8 +26,8 @@ article ul:last-child {
 }
 
 /*
-  Fixing margin of images
+  Fixing margin of illustrations
 */
-.rst-content img {
+.rst-content .image-reference img {
   margin-bottom: 12px;
 }
