@@ -102,12 +102,12 @@ b)  volit členy :ref:`výboru <vybor>` spolku a být zvolen za člena výboru s
 c)  být informován o činnosti spolku,
 
     .. note::
-        Především skrze :ref:`Slack <slack>`, kanál `#pyvec <https://app.slack.com/client/T12KEU0G4/C12MP1GDB>`__.
+        Především skrze :ref:`Slack <slack>`, kanál :slack:`#pyvec`.
 
 d)  předkládat návrhy, připomínky a náměty k činnosti spolku,
 
     .. note::
-        Především skrze :ref:`Slack <slack>`, kanál `#pyvec <https://app.slack.com/client/T12KEU0G4/C12MP1GDB>`__, nebo e-mailem na adresu spolku: info@pyvec.org.
+        Především skrze :ref:`Slack <slack>`, kanál :slack:`#pyvec`, nebo e-mailem na adresu spolku: info@pyvec.org.
 
 e)  zastupovat spolek v záležitostech, ke kterým byl výborem pověřen a nakládat s majetkovými hodnotami v rozsahu tohoto pověření.
 
@@ -243,7 +243,7 @@ Návrh musí obsahovat alespoň návrh usnesení, podklady potřebné pro jeho p
 Výbor oznámí členům spolku písemně nebo jiným vhodným způsobem výsledek hlasování, a pokud bylo usnesení přijato, oznámí jim i celý obsah přijatého usnesení. Neučiní-li to bez zbytečného odkladu, může oznámení učinit na náklady spolku ten, kdo usnesení navrhl.
 
 .. note::
-    V praxi mají členové pro komunikaci k dispozici i :ref:`Slack <slack>` s “tajným” kanálem `#pyvec-members <https://app.slack.com/client/T12KEU0G4/GL0H589SQ>`__.
+    V praxi mají členové pro komunikaci k dispozici i :ref:`Slack <slack>` s “tajným” kanálem :slack:`#pyvec-members`.
 
 .. _vybor:
 
@@ -298,7 +298,7 @@ Výbor může jednat a přijímat svá rozhodnutí také mimo zasedání, a to k
 Veškerá korespondence mezi členy výboru, která bude odeslána z e-mailové adresy člena výboru, uvedené v seznamu členů, se považuje za korespondenci tohoto člena výboru.
 
 .. note::
-    Poslední věta je tu proto, abychom se vyhnuli ověřeným elektronickým podpisům apod. V praxi výbor komunikuje přes interní e-mail board@pyvec.org a skrze :ref:`Slack <slack>`, “tajný” kanál `#pyvec-board <https://app.slack.com/client/T12KEU0G4/G32A3QKAR>`__.
+    Poslední věta je tu proto, abychom se vyhnuli ověřeným elektronickým podpisům apod. V praxi výbor komunikuje přes interní e-mail board@pyvec.org a skrze :ref:`Slack <slack>`, “tajný” kanál :slack:`#pyvec-board`.
 
 X. Seznam členů
 ^^^^^^^^^^^^^^^

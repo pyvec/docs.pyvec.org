@@ -56,7 +56,7 @@ Jak se stát členem
       Zásluh nemusí být moc, ani nemusí být žádného těžkého kalibru. Nejedná se o členství za zásluhy ani o poměřování, jde spíše o **představení se**, aby výbor věděl, s kým má tu čest. Komunita je celorepubliková a pro členy výboru nemusí být jednoduché mít přehled o všech aktivních lidech ve všech regionech.
 
 #. Výbor by ti měl potvrdit přijetí přihlášky. Výbor bude následně o tvé přihlášce hlasovat. Záleží na vytíženosti členů výboru, ale nemělo by to nejspíš trvat déle než týden nebo dva.
-#. Výbor odpoví a obeznámí tě s výsledkem hlasování. Měl by uveřejnit zápis do :ref:`zapisy` a přidat tě na Slacku do kanálu `#pyvec-members <https://pyvec.slack.com/messages/GL0H589SQ/>`__.
+#. Výbor odpoví a obeznámí tě s výsledkem hlasování. Měl by uveřejnit zápis do :ref:`zapisy` a přidat tě na Slacku do kanálu :slack:`#pyvec-members`.
 #. Jakmile je zápis z hlasování zveřejněn, můžeš jej spolu s e-maily použít jako důkaz o svém přijetí za člena a doklad svého existujícího členství.
 #. Pyvec nemá zaveden členský poplatek, takže od této chvíle se stačí řídit :ref:`stanovami <stanovy>`.
 
@@ -116,14 +116,14 @@ Přijetí nového člena
 +------------------------------+-----------------+
 
 #. Osoba žádající o členství napíše e-mail na info@pyvec.org. Tím vznikne doklad o jeho žádosti (ten e-mail, který je možné v případě potřeby dohledat).
-#. V kanále `#pyvec-board <https://pyvec.slack.com/messages/G32A3QKAR/>`__ někdo nadnese:
+#. V kanále :slack:`#pyvec-board` někdo nadnese:
 
    .. code-block:: text
 
       @board hlasujeme o přijetí XYZ za člena Pyvce, dejte :+1: pokud souhlasíte
 
 #. Čeká se, dokud členové výboru odhlasují tak, že jsou :ref:`usnášeníschopní <usnasenischopnost-vyboru>`, tzn. musí odhlasovat minimálně předseda a další dva členové výboru.
-#. Po hlasování někdo z výboru odpoví na e-mail (opět pro dohledatelnost) jak to dopadlo a pokud byla osoba přijata, zapíše ji do `tabulky <https://docs.google.com/spreadsheets/d/1n8hzBnwZ5ANkUCvwEy8rWsXlqeAAwu-5JBodT5OJx_I/edit#gid=0>`__ a přidá do kanálu `#pyvec-members <https://pyvec.slack.com/messages/GL0H589SQ/>`__.
+#. Po hlasování někdo z výboru odpoví na e-mail (opět pro dohledatelnost) jak to dopadlo a pokud byla osoba přijata, zapíše ji do `tabulky <https://docs.google.com/spreadsheets/d/1n8hzBnwZ5ANkUCvwEy8rWsXlqeAAwu-5JBodT5OJx_I/edit#gid=0>`__ a přidá do kanálu :slack:`#pyvec-members`.
 #. Hlasování musí být zdokumentováno jako :ref:`zapis-e-hlasovani`.
 #. Jakmile je zápis z hlasování zveřejněn, nový člen jej může spolu s e-maily použít jako důkaz o svém přijetí za člena a doklad svého existujícího členství.
 

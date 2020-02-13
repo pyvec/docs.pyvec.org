@@ -51,9 +51,14 @@ Běžná práce
 #. Projekt zastavíte v terminálu pomocí :kbd:`Ctrl+C`
 
 Emoji
------
+^^^^^
 
 Při psaní můžete používat Emoji jako třeba |:cz:| nebo |:snake:|, ale nepište je přímo pomocí Unicode, ale za pomocí značek jako ``|:cz:|`` nebo ``|:snake:|``. Unicode znaky by se zobrazovaly na každém operačním systému jinak, ale tyto značky budou díky rozšíření `emojicodes <https://github.com/sphinx-contrib/emojicodes>`__ přeloženy na obrázky a ty se zobrazí vždy všem stejně. Mrkněte na `seznam podporovaných Emoji <https://sphinxemojicodes.readthedocs.io/>`__. Obrázky jsou z `Twemoji <https://twemoji.twitter.com/>`_.
+
+Slack
+^^^^^
+
+Při psaní lze psát ``:slack:`#pyladies``` nebo i jenom ``:slack:`pyladies```, což vytvoří odkaz na kanál :slack:`#pyladies` na Pyvec Slacku. Funguje to díky vlastnímu rozšíření Sphinxu, které lze najít v souboru ``_extensions/slack.py``.
 
 ReadTheDocs
 -----------
