@@ -24,3 +24,10 @@ article ul:last-child {
 .rst-content ol.arabic li ul {
   margin-bottom: 12px;
 }
+
+/*
+  Fixing margin of illustrations
+*/
+.rst-content .image-reference img {
+  margin-bottom: 12px;
+}

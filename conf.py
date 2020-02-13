@@ -1,11 +1,15 @@
 # Configuration file for the Sphinx documentation builder
 
 import os
+import sys
 
 
 # -- Environment -------------------------------------------------------------
 
 IS_READTHEDOCS = os.environ.get('READTHEDOCS') == 'True'
+
+# Explicitly put the extensions directory to Python path
+sys.path.append(os.path.abspath('_extensions'))
 
 
 # -- Project information -----------------------------------------------------
@@ -35,6 +39,7 @@ extensions = [
     'sphinx.ext.githubpages',
     'sphinx_tabs.tabs',
     'sphinxemoji.sphinxemoji',
+    'slack',
 ]
 
 # Add any paths that contain templates here, relative to this directory.

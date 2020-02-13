@@ -93,11 +93,11 @@ Od teď bude vždycky do příště agenda jako kartička v trellu.
 
 Martin s honzou vyřešil finanční API Pyvce, je to v nějakém dokumentu, pak by se to mělo přetvořit jinam.
 
-Honza mluvil o grantu od někoho do Pyvce, řešilo se to v ``#money``, pokud by to vyšlo šlo by do obálky pyladies.
+Honza mluvil o grantu od někoho do Pyvce, řešilo se to v :slack:`#money`, pokud by to vyšlo šlo by do obálky pyladies.
 
 grantíky
 ^^^^^^^^
-Někdo v ``#money`` požádá o peníze, pokud existuje spárovatelná platba od sponzora, peníze jdou rovnou.
+Někdo v :slack:`#money` požádá o peníze, pokud existuje spárovatelná platba od sponzora, peníze jdou rovnou.
 Příklad: žádost o peníze na trička pro pyladies a sponzor pošle peníze na trička pro pyladies.
 
 Někdo požádá o grant na něco a v obálce peníze nemá, nebo je i v mínusu, pak hlasuje board.
@@ -161,7 +161,7 @@ např pro PyCon CZ. Poznámky
 [které byly v době zveřejnění zápisu :ref:`již zpracovány <financni-podpora>`]:
 
     * pycon vs pyladies vs pyvo-brno obálky.
-    * ted muze na slacku do ``#money``, vic info neni.
+    * ted muze na slacku do :slack:`#money`, vic info neni.
     * honza predstavil mini grantiky, alesovi dava smysl.
     * formular na venek? jak velke jsou obalky? martin to vi.
     * pyvec je legalni entita. pycon neni obalka.

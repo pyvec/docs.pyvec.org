@@ -51,4 +51,4 @@ Přístup do účtu Pyvce na `domena.cz <https://domena.cz>`__ mají:
 - Petr Viktorin
 - Vítek Pliska
 
-Potřebujete-li řešit něco s doménami, pište na info@pyvec.org nebo do kanálu `#domeny <https://pyvec.slack.com/messages/C6ZMKC50E/>`__ na :ref:`Slacku <slack>`.
+Potřebujete-li řešit něco s doménami, pište na info@pyvec.org nebo do kanálu :slack:`#domeny` na :ref:`Slacku <slack>`.
