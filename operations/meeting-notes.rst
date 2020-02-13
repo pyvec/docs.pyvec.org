@@ -117,7 +117,7 @@ ale vlastně se nám ještě nic takového nestalo.
 
 další
 ^^^^^
-Jakub dodělá přijmutí Radky-> elektronická schůze.
+Jakub dodělá přijmutí Radky ``=>`` elektronická schůze.
 
 Ales nás poslouchá, ale druhou rukou jisti dceru na stěně. Ale dostává úkoly v Trellu.
 
