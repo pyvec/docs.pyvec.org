@@ -105,6 +105,29 @@ Jak si nechat něco proplatit
    Tyto informace sděluji **e-mailem** (ne ústně, ne na papíře, ne na :ref:`Slacku <slack>`), aby byly dohledatelné na jednom místě.
 
 
+.. _jak-hlasovani:
+
+Jak hlasovat
+^^^^^^^^^^^^
+
++------------------------------+----------------------------------------+
+| **Pro koho je tento návod:** | |:raising_hand:| členové Pyvce, výbor… |
++------------------------------+----------------------------------------+
+
+Při elektronických hlasováních používáme emotikony s následujícím významem:
+
+* |:+1:| **palec nahoru** = souhlasím, hlasuji pro
+* |:-1:| **palec dolů** = nesouhlasím, hlasuji proti
+* |:eyes:| **oči** = zdržuji se hlasování
+
+Jak používat palce na:
+
+* `Slacku <https://slack.com/intl/en-cz/help/articles/202931348-Use-emoji-and-emoticons>`__
+* `GitHubu <https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/>`__
+
+Na Slacku preferujeme palce bez zabarvení kůže (*skin tone*), tzn. ty základní žluté, aby se výsledek snadněji sčítal. Také do hlasování nemícháme žádné jiné emotikony než výše uvedené. Oči umožňují rozlišit nepřítomnost při hlasování (která ovlivňuje usnášeníschopnost) od zdržení se hlasování.
+
+
 Návody pro výbor
 ----------------
 
