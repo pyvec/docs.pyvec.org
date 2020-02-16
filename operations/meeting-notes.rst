@@ -91,7 +91,7 @@ Grant byl schválen.
 
 Od teď bude vždycky do příště agenda jako kartička v trellu.
 
-Martin s honzou vyřešil finanční API Pyvce, je to v nějakém dokumentu, pak by se to mělo přetvořit jinam.
+Martin s Honzou vyřešil finanční API Pyvce, je to v nějakém dokumentu, pak by se to mělo přetvořit jinam.
 
 Honza mluvil o grantu od někoho do Pyvce, řešilo se to v :slack:`#money`, pokud by to vyšlo šlo by do obálky pyladies.
 
