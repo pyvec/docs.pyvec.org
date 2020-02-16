@@ -17,7 +17,7 @@ Termím :term:`výbor` je zaměnitelný s termínem :term:`board`.
 
 Chybí Jirka (aby otestoval zápis), Aleš je v Mekáči.
 
-agenda: https://trello.com/c/8j5NJSeS/20-1112-1515
+agenda (private board): https://trello.com/c/8j5NJSeS/20-1112-1515
 
 vypovězení AV firmě za Pycon
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
