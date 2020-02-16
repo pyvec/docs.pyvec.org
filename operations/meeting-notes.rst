@@ -52,7 +52,7 @@ Nájem cca 80kc/h, takže by to při nejhorším nemělo bolet.
 
 znak Prahy pro Pyvec
 ^^^^^^^^^^^^^^^^^^^^
-Přišel dopis od Prahy, že můžeme používat erb. Honza předá Miroví, Martin pouští z hlavy.
+Přišel dopis od Prahy, že můžeme používat erb. Honza předá Mirovi, Martin pouští z hlavy.
 
 Pyvec swag
 ^^^^^^^^^^
