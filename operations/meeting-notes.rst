@@ -5,9 +5,74 @@ Zápisy ze schůzí
 
 Zápisy jsou řazeny od nejnovějších po nejstarší. Zápisy schůzí před rokem 2019 jsou v `tomto dokumentu <https://docs.google.com/document/d/1fNOqEpoddNOB52PG-tCT6Yzw3AqHZnDE6jY08zuEywE/edit>`__.
 
+Termím :term:`výbor` je zaměnitelný s termínem :term:`board`.
+
 .. contents:: Zápisy
    :depth: 1
    :local:
+
+
+11. 12. 2019 - pyvec board schuze
+---------------------------------
+
+Chybí Jirka (aby otestoval zápis), Aleš je v Mekáči.
+
+agenda (private board): https://trello.com/c/8j5NJSeS/20-1112-1515
+
+vypovězení AV firmě za Pycon
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ostravská AV firma co dělala videa na Pyconu. Dostali zálohu (cca 1/2 finální částky).
+Lumír to řeší měsíce, zatím nendodali nic (ani promo videa, ani záznamy).
+Už jim napsal, že se smlouva vypoví.
+
+Týká se to účetnictví Pyvce. Chybí nám daňový doklad na alespoň tu zálohu (což zní jako fér odměna za to, co už udělali).
+Honza četl mail od Lumíra pro AV firmu: 17500 je záloha. Možná se na doklad vykašleme, protože budeme muset řešit účetnictví jinak.
+
+Lumír to má na starosti. Za Pyvec cíl: neblokovat Lumíra.
+Do budoucna: bylo by dobrý aby tohle bylo řešeno ve smlouvě dopředu, aby zdrojová videa byla naše, abychom je měli k dispozici, atd, atd..
+Honza píše všechno Lumírovi do kanálu na Slacku
+
+finanční API Pyvce
+^^^^^^^^^^^^^^^^^^
+Honza napsal, Martin nečetl, je to v pull-requestech.
+Honza píchnul do pár lidí, ať mu to přečtou (např Miro).
+Je potřeba přečíst i formální správnost, takže musí Martin ~ je to dlouhý!
+
+Pyladies trička
+^^^^^^^^^^^^^^^
+V rámci slacku se domluvilo, Pyladies Pyvec přispěje asi 10k
+
+Filip Valder - Olomouc
+^^^^^^^^^^^^^^^^^^^^^^
+Sponzoring pyvo v Olomouci. Filip zařizuje peníze od někoho, tyhle peníze se posílají do nějaké školy za nájem.
+
+Pyvec - standardní průtokáč. Takže se informujeme navzájem. My nikoho moc v Olomouci neznáme, jenom Honza tam jednou byl.
+
+Nájem cca 80kc/h, takže by to při nejhorším nemělo bolet.
+
+znak Prahy pro Pyvec
+^^^^^^^^^^^^^^^^^^^^
+Přišel dopis od Prahy, že můžeme používat erb. Honza předá Mirovi, Martin pouští z hlavy.
+
+Pyvec swag
+^^^^^^^^^^
+Půllitry? Nebo něco dalšího? Starý pycon půllitr dělal Honza Javorek.
+Tomáš Ehrlich dodá, kde se to tenkrát dělalo, možná dobrý nápad na revshare s pyvama a prodávat
+
+Trello issues
+^^^^^^^^^^^^^
+Máme nový sloupec v trello "ke schválení". Tam dávat všechno z "todo" a během callu házet do "done".
+
+Jakub udělal příklad s issue přidáním nového člena (z čehož ještě neudělal 2 issues na samotné přidávání).
+
+příště?
+^^^^^^^
+
+* příští rok 2020
+* 15/1 15:15
+* všichni pro, nikdo se nezdržel
+* Martin udělal event.
+
 
 21. 11. 2019 - elektronické hlasování výboru
 --------------------------------------------
@@ -19,6 +84,52 @@ Dne 18. 11. Zuzana Javorková požádala o grant do výše 10 000 Kč na tisk tr
 * Aleš Zoulek: ano
 
 Grant byl schválen.
+
+
+14. 11. 2019 - pyvec board schuze
+---------------------------------
+
+Od teď bude vždycky do příště agenda jako kartička v trellu.
+
+Martin s Honzou vyřešil finanční API Pyvce, je to v nějakém dokumentu, pak by se to mělo přetvořit jinam.
+
+Honza mluvil o grantu od někoho do Pyvce, řešilo se to v :slack:`#money`, pokud by to vyšlo šlo by do obálky pyladies.
+
+grantíky
+^^^^^^^^
+Někdo v :slack:`#money` požádá o peníze, pokud existuje spárovatelná platba od sponzora, peníze jdou rovnou.
+Příklad: žádost o peníze na trička pro pyladies a sponzor pošle peníze na trička pro pyladies.
+
+Někdo požádá o grant na něco a v obálce peníze nemá, nebo je i v mínusu, pak hlasuje board.
+Příklad projektor pro pyvo.
+
+Míní výdaje jdou víceméně rovnou, ale schvaluje se taky.
+Příklad bianco šek na 500,- měsíčně na pastelky a spol.
+
+Nic z tohoto není zdokumentované a není formalizované, ale více méně se tak už děje. Je potřeba zrychlit hlasování.
+a nastavit, kde se granty drží, např: github issue s šablonou.
+
+zápisy
+^^^^^^
+Zápisy půjdou rovnou jako pull-request do docs.pyvec.org, všechno je open-source a pravda a láska, takže nemusíme
+nic filtrovat, maximálně se to v rámci přijmutí pull-requestu vyhodí, kdyby se řešilo něco hodně priváte,
+ale vlastně se nám ještě nic takového nestalo.
+
+další
+^^^^^
+Jakub dodělá přijmutí Radky ``=>`` elektronická schůze.
+
+Ales nás poslouchá, ale druhou rukou jisti dceru na stěně. Ale dostává úkoly v Trellu.
+
+Ales pošle pozvánku na 11/12 na 15:15
+
+Jirka se odpojil a zbytek boardu probíral tajné věci :D
+
+Jakub otestuje jak velká pruda je přidávat věci na docs.pyvec.org, jinak zápis může dočasně sedět jako comment v kartičce.
+
+Hlasování bude pokračovat ve Slacku, ale asi není potřeba dělat screenshot.
+Je to pruda navíc a pull-request schvaluje někdo druhý.
+
 
 23. 10. 2019 - Schůze výboru
 ----------------------------
@@ -44,7 +155,6 @@ treba i placenou. Jeho slovy:
     pilotovat já, jelikož do všeho vidím, všechny znám, a nemám teď pracovní
     poměr, tak by to bylo nejjednodušší. Třeba na měsíc. Já jsem odpoveděl, že
     o tom můžu uvažovat, ale minimálně v listopadu a prosinci to dělat nechci.
-
 
 **Úkol**: Javorek se sejde s Bílkem na téma jak poskytuje Pyvce finanční podporu
 např pro PyCon CZ. Poznámky
@@ -95,6 +205,7 @@ Výbor o tomto elektronicky hlasoval 28. 9., kdy bylo hlasování uzavřeno s n�
 * Aleš Zoulek: ano
 
 Radka Planková byla 28. 9. přijata za členku spolku.
+
 
 6. 9. 2019 - elektronické hlasování výboru
 ------------------------------------------
