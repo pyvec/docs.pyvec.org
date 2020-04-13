@@ -5,7 +5,7 @@ Zápisy ze schůzí
 
 Zápisy jsou řazeny od nejnovějších po nejstarší. Zápisy schůzí před rokem 2019 jsou v `tomto dokumentu <https://docs.google.com/document/d/1fNOqEpoddNOB52PG-tCT6Yzw3AqHZnDE6jY08zuEywE/edit>`__.
 
-Termím :term:`výbor` je zaměnitelný s termínem :term:`board`.
+Termím :term:`výbor <Výbor>` je zaměnitelný s termínem :term:`board <Board>`.
 
 .. contents:: Zápisy
    :depth: 1
