@@ -119,7 +119,7 @@ e)  zastupovat spolek v záležitostech, ke kterým byl výborem pověřen a nak
 5.3.
 """"
 
-:ref:`Výbor <vybor>` může pověřit jednotlivé členy spolku zajišťováním určitých záležitostí či určité agendy v rámci činnosti spolku. Bude-li člen pověřen výborem k zastupování spolku v určitých záležitostech, bude to uvedeno v seznamu členů, případně ve :term:`vnitřní směrnici <vnitřní směrnice>` spolku. V rozsahu tohoto pověření bude příslušný člen spolku oprávněn v rámci těchto záležitostí či této svěřené agendy jednat a zastupovat spolek navenek, případně též nakládat s majetkovými hodnotami (finanční limit) v rozsahu, který bude v tomto pověření obsažen. Tím není odpovědnost výboru za jednání a činnost spolku dotčena ani omezena.
+:ref:`Výbor <vybor>` může pověřit jednotlivé členy spolku zajišťováním určitých záležitostí či určité agendy v rámci činnosti spolku. Bude-li člen pověřen výborem k zastupování spolku v určitých záležitostech, bude to uvedeno v seznamu členů, případně ve :term:`vnitřní směrnici <Vnitřní směrnice>` spolku. V rozsahu tohoto pověření bude příslušný člen spolku oprávněn v rámci těchto záležitostí či této svěřené agendy jednat a zastupovat spolek navenek, případně též nakládat s majetkovými hodnotami (finanční limit) v rozsahu, který bude v tomto pověření obsažen. Tím není odpovědnost výboru za jednání a činnost spolku dotčena ani omezena.
 
 .. note::
     Odstavec výše znamená, že :ref:`výbor <vybor>` může delegovat nějaké své činnosti na vybrané členy, včetně např. nakládání s penězi v rámci předem daného finančního limitu. Přitom ale výbor není zbaven zodpovědnosti za řádné hospodaření spolku.
@@ -135,7 +135,7 @@ Za člena, který je právnickou osobou, jedná její statutární orgán či ji
 Každý člen spolku je povinen:
 
 a)  dodržovat stanovy,
-b)  aktivně hájit zájmy spolku, dodržovat :term:`vnitřní směrnice` a dohody a nepodnikat žádné kroky, které by byly v rozporu se zájmy spolku,
+b)  aktivně hájit zájmy spolku, dodržovat :term:`vnitřní směrnice <Vnitřní směrnice>` a dohody a nepodnikat žádné kroky, které by byly v rozporu se zájmy spolku,
 c)  řádně hospodařit se svěřenými hodnotami a majetkem spolku,
 d)  řádně hradit členský příspěvek, bylo-li o této povinnosti :ref:`členskou schůzí <clenska-schuze>` rozhodnuto,
 
@@ -205,7 +205,7 @@ g)  hodnotit činnost dalších orgánů spolku i jejich členů,
 h)  rozhodnout o zrušení nebo přeměně spolku,
 i)  rozhodovat o návrhu člena na přezkoumání rozhodnutí výboru o jeho vyloučení,
 j)  rozhodovat o dalších otázkách, které si vyhradila,
-k)  schvalovat :term:`vnitřní směrnice`.
+k)  schvalovat :term:`vnitřní směrnice <Vnitřní směrnice>`.
 
 8.2.
 """"
@@ -271,7 +271,7 @@ h)  pověřovat jednotlivé členy zajišťováním určitých záležitostí č
 i)  rozhodovat o pracovních záležitostech zaměstnanců spolku a dobrovolných spolupracovníků.
 j)  volit a odvolat předsedu,
 k)  volit z členů výboru :term:`pokladníka <Pokladník>` a odvolat jej,
-l)  navrhovat :term:`vnitřní směrnice`
+l)  navrhovat :term:`vnitřní směrnice <Vnitřní směrnice>`
 
 9.3.
 """"
