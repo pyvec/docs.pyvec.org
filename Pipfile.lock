@@ -226,10 +226,10 @@
         },
         "sphinxemoji": {
             "hashes": [
-                "sha256:26cd577727b6b40e1ec05f68326099391e77f05fa9b8fdac53f94bd23e6b9188"
+                "sha256:8ee797752745024a62cab00676138cb0ca56ed4656d744c3198fb9992c445ce8"
             ],
             "index": "pypi",
-            "version": "==0.1.5"
+            "version": "==0.1.6"
         },
         "urllib3": {
             "hashes": [
