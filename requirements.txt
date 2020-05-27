@@ -8,12 +8,12 @@ idna==2.9
 imagesize==1.2.0
 jinja2==2.11.2
 markupsafe==1.1.1
-packaging==20.3
+packaging==20.4
 pygments==2.6.1
 pyparsing==2.4.7
-pytz==2019.3
+pytz==2020.1
 requests==2.23.0
-six==1.14.0
+six==1.15.0
 snowballstemmer==2.0.0
 sphinx-rtd-theme==0.4.3
 sphinx-tabs==1.1.13
@@ -24,5 +24,5 @@ sphinxcontrib-htmlhelp==1.0.3
 sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==1.0.3
 sphinxcontrib-serializinghtml==1.1.4
-sphinxemoji==0.1.5
+sphinxemoji==0.1.6
 urllib3==1.25.9
