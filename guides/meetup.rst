@@ -304,7 +304,7 @@ Pokud zrovna nemáte Petra ani vlastní kameru, ale přesto chcete zkusit předn
 Co ukazuje přednášející divákům je možné zachytit pomocí speciální krabičky `ExtremeCap 910 <https://www.avermedia.com/cz/product-detail/CV910>`__, která se zapojí mezi počítač a projektor a nahrává na SD kartu promítaný obraz včetně zvuku z mikrofonu. Jednu takovou krabičku má `Petr Viktorin <http://encukou.cz/>`__, druhou `Ondřej Caletka <https://ondrej.caletka.cz>`__. Alternativou je nahrávání obrazu přímo v jeho počítači pomocí programů jako
 
 - `recordMyDesktop <https://en.wikipedia.org/wiki/RecordMyDesktop>`__
-- `Quick Time <https://support.apple.com/en-us/HT201066#screen>`__
+- `Quick Time <https://support.apple.com/guide/quicktime-player/record-your-screen-qtp97b08e666/10.5/mac/10.15>`__
 - `FFmpeg <https://trac.ffmpeg.org/wiki/Capture/Desktop>`__ (`příklad použití <https://gist.github.com/oskar456/e887539e66af8cd045f1180f1969fab3>`__)
 
 Jedinou překážkou může být neochota přednášejících instalovat si na počítač nějaký nový software. Argumentovat můžeš tím, že *FFmpeg* nejspíš už nainstalovaný stejně mají, *recordMyDesktop* je Open Source a *Quick Time* že je na Macu přímo součástí systému.
