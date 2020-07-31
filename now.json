@@ -1,6 +1,0 @@
-{
-  "version": 2,
-  "builds": [
-    { "src": "now.sh", "use": "@now/static-build", "config": { "distDir": "_build" }}
-  ]
-}

@@ -40,21 +40,7 @@ jobs:
       - *save_cache
       - run:
           name: "Linting code"
-          command: "pipenv run lint"
-
-  requirements-vs-pipfile:
-    docker:
-      - image: "circleci/python:3.7"
-    working_directory: "~/repo"
-    steps:
-      - checkout
-      - *chown
-      - *restore_cache
-      - *pip_install
-      - *save_cache
-      - run:
-          name: "Checking whether requirements.txt and Pipfile are in sync"
-          command: "pipenv run lint-requirements"
+          command: "pylama"
 
   linkcheck:
     docker:
@@ -68,12 +54,11 @@ jobs:
       - *save_cache
       - run:
           name: "Checking external links"
-          command: "pipenv run linkcheck"
+          command: "sphinx-build -nW -b linkcheck . _build"
 
 workflows:
   version: 2
   build:
     jobs:
       - lint
-      - requirements-vs-pipfile
       - linkcheck
