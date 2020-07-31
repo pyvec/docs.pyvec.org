@@ -61,10 +61,10 @@ Nejnovější verze Pythonu, jakou ReadTheDocs podporují, je 3.7. Z toho důvod
 Continuous Integration
 ----------------------
 
-Na repozitáři je zapojeno `CircleCI <https://circleci.com/>`_. Kontrolka:
+Na repozitáři jsou zapojeny `GitHub Actions <https://github.com/pyvec/docs.pyvec.org/actions>`_. Kontrolka:
 
-.. image:: https://circleci.com/gh/pyvec/docs.pyvec.org/tree/master.svg?style=svg
-    :target: https://circleci.com/gh/pyvec/docs.pyvec.org/tree/master
+.. image:: https://github.com/pyvec/docs.pyvec.org/workflows/Main/badge.svg
+    :target: https://github.com/pyvec/docs.pyvec.org/actions
     :alt: Continuous Integration Status
 
-CircleCI je pouze informativní a nezabrání tomu, aby se ``master`` větev dostala do ReadTheDocs.
+CI je pouze informativní a nezabrání tomu, aby se hlavní větev dostala do ReadTheDocs.
