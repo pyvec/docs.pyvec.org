@@ -1,11 +1,9 @@
 -i https://pypi.org/simple/
 
-# packages
 sphinx==3.2.0
 sphinx-tabs==1.1.13
 sphinxemoji==0.1.6
 sphinx-rtd-theme==0.5.0
-
-# dev packages
 sphinx-autobuild==0.7.1
 pylama==7.7.1
+requests==2.24.0

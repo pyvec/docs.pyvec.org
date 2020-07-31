@@ -17,3 +17,12 @@ jobs:
       run: pylama
     - name: Check broken links
       run: sphinx-build -nW -b linkcheck . _build
+    - name: Generate list of grants
+      run: python _scripts/generate_grants.py > ./operations/grants.rst
+    - uses: EndBug/add-and-commit@v4.0.1
+      with:
+        add: ./operations/grants.rst
+        author_name: "GitHub Actions"
+        message: "generate list of grants"
+      env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
