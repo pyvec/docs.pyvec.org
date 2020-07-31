@@ -42,7 +42,7 @@ for issue in res.json():
     })
 
 
-print('.. Tento soubor generuje skript _scripts/generate_grants.py, neupravovat ručně!')
+print('.. Tento soubor je generován skriptem _scripts/generate_grants.py, neupravovat ručně!')
 for grant in grants:
     title = f"{grant['closed_at'].day}. {grant['closed_at'].month}. {grant['closed_at'].year} - elektronické hlasování výboru"
     votes = '\n'.join([
