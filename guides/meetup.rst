@@ -184,7 +184,8 @@ Před každým setkáním v předstihu přidejte informace na `pyvo.cz <https://
 #. Soubor pojmenuj datem konání. Můžeš přidat i nějaký dovětek podle tématu srazu, třeba ``2020-04-15-async-django.yaml``. Obsah uprav podle toho, jak má probíhat další setkání.
 #. Pod editorem vyplň formulář pro vytvoření commitu, zmáčkni zelené tlačítko, hned zmáčkni další zelené tlačítko pro vytvoření Pull Requestu (`příklad <https://github.com/pyvec/pyvo-data/pull/320/files>`__), a je to hotovo!
 
-Pokud váš sraz ještě na `pyvo.cz <https://pyvo.cz>`__ vůbec není, `založ issue na repozitáři webu <https://github.com/pyvec/pyvo.cz/issues/>`__ a někdo, nejspíš `Petr Viktorin <http://encukou.cz/>`__, vás už nasměruje. Jestliže jste už na našem :ref:`Slacku <slack>`, ptejte se v kanálu :slack:`#pyvo`.
+.. note::
+    Pokud něco nefunguje nebo váš sraz na `pyvo.cz <https://pyvo.cz>`__ ještě vůbec není, `založ issue na repozitáři webu <https://github.com/pyvec/pyvo.cz/issues/>`__ a někdo, nejspíš `Petr Viktorin <http://encukou.cz/>`__, vás už nasměruje. Jste-li už na našem :ref:`Slacku <slack>`, volejte o pomoc v kanálu :slack:`#pyvo`.
 
 
 .. _srazy-propagace:
