@@ -18,6 +18,7 @@ Obsah
    guides/django-girls
    guides/high-school-class
    guides/promotion
+   guides/calendar
    guides/slido-moderation
 
    operations/index
