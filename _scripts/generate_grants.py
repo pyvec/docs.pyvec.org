@@ -32,7 +32,6 @@ for issue in res.json():
     labels = [label['name'] for label in issue['labels']]
     grants.append({
         'title': issue['title'],
-        'is_open': issue['state'] == 'open',
         'url': issue['html_url'],
         'is_approved': 'approved' in labels,
         'created_at': to_date(issue['created_at']),
