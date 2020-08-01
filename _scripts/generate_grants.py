@@ -3,6 +3,7 @@ import re
 from datetime import date
 from pathlib import Path
 from textwrap import indent
+from operator import itemgetter
 
 import requests
 from jinja2 import Template
@@ -56,6 +57,7 @@ for issue in res.json():
             'content': reaction['content'],
         } for reaction in reactions],
     })
+grants = sorted(grants, key=itemgetter('closed_at'), reverse=True)
 
 
 tpl_path = Path(__file__).parent.parent / 'operations' / 'grants.rst.template'
