@@ -28,11 +28,16 @@ for issue in res.json():
     res = requests.get(url, headers={'Accept': REACTIONS_API_MEDIA_TYPE,
                                      'Authorization': f'token {GITHUB_TOKEN}'})
     res.raise_for_status()
+    reactions = res.json()
 
     labels = [label['name'] for label in issue['labels']]
     grants.append({
         'title': issue['title'],
         'url': issue['html_url'],
+        'user': {
+            'username': issue['user']['login'],
+            'url': issue['user']['html_url'],
+        },
         'is_approved': 'approved' in labels,
         'created_at': to_date(issue['created_at']),
         'closed_at': to_date(issue['closed_at']),
@@ -40,7 +45,7 @@ for issue in res.json():
             'username': reaction['user']['login'],
             'url': reaction['user']['html_url'],
             'content': reaction['content'],
-        } for reaction in res.json()],
+        } for reaction in reactions],
     })
 
 

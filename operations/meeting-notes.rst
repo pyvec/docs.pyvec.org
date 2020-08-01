@@ -271,3 +271,11 @@ hlasování uzavřeno s následujícím výsledkem:
 * Aleš Zoulek: ano
 
 Petr Viktorin byl 12. 7. přijat za člena spolku.
+
+
+Elektronická hlasování o grantech
+=================================
+
+Od roku 2020 o grantech výbor hlasuje prostřednictvím repozitáře `pyvec/money <https://github.com/pyvec/money>`_.
+
+.. include:: grants.rst
