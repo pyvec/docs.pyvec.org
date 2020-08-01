@@ -25,6 +25,8 @@ Přes Pyvec tečou peníze české Python komunity. Poskytujeme tyto hlavní slu
    :local:
    :backlinks: none
 
+Pokud je vám cokoliv nejasné, ozvěte se v kanálu :slack:`#money` na :ref:`Slacku <slack>`.
+
 
 .. _otoceni-penez:
 
@@ -47,6 +49,8 @@ Na příkladu je vidět hned několik výhod tohoto modelu:
 .. note::
    Pyvec může věci :ref:`proplácet <jak-proplatit>` jen oproti účetnímu dokladu, tzn. účtence nebo faktuře. Pokud vám sponzor pošle více peněz, než nakonec bylo potřeba, nelze vám je jen tak vyplatit. Můžete je ale v budoucnu čerpat na další věci pomocí :ref:`grantů <granty>`.
 
+Na domluvu ohledně otočení sponzorských peněz můžete použít kanál :slack:`#money` na :ref:`Slacku <slack>` nebo založit žádost na `pyvec/money <https://github.com/pyvec/money/>`_ v podobě GitHub issue.
+
 
 .. _granty:
 
@@ -55,26 +59,21 @@ Granty
 
 Pokud na svou věc nemáte sponzora, můžete požádat Pyvec o grant. Pyvec disponuje penězi, které na jeho účtě zbyly z nevyčerpaných sponzorských darů, z neurčených darů a z přebytků hospodaření konference `PyCon CZ <https://cz.pycon.org/>`__. Slovo grant může někoho děsit, ale v našem podání to není nic byrokratického. Grant můžete žádat na libovolnou záležitost, která souvisí s misí Pyvce (viz stanovy: :ref:`ucel-spolku` a :ref:`formy-cinnosti-spolku`), ať už jde o stokoruny nebo desetitisíce: nájmy, trička, samolepky, projektor...
 
-#. Na e-mail info@pyvec.org nebo do kanálu :slack:`#money` na :ref:`Slacku <slack>` napište žádost o peníze. Pokud píšete na Slacku, přidejte mention na ``@board``, ať si toho všimnou členové :term:`výboru <Výbor>`. Snažte se v žádosti zodpovědět následující:
+#. Na repozitáři `pyvec/money <https://github.com/pyvec/money/>`_ založte novou žádost (GitHub issue). Je předvyplněná otázkami, stačí na ně odpovědět.
 
-   - Kdo jste?
-   - Kolik potřebujete? (i kdyby to měl být jen odhad nebo rozmezí)
-   - Na jakou věc to je?
-   - Proč? (čemu tím prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)
-
-#. :term:`Výbor` žádost zváží a odhlasuje, zda ji schválí nebo zamítne. Toto se děje pro všechny žádosti minimálně jednou za měsíc na schůzi výboru, ale v závislosti na vytíženosti členů výboru se to může zvládnout i rychleji. Výbor se rozhoduje na základě mnoha faktorů, např.:
+#. :term:`Výbor` žádost zváží a :ref:`odhlasuje <jak-hlasovani>`, zda ji schválí nebo zamítne, a to pomocí palců přímo na žádosti. Toto se děje pro všechny žádosti minimálně jednou za měsíc na schůzi výboru, ale v závislosti na vytíženosti členů výboru se to může zvládnout i rychleji. Výbor se rozhoduje na základě mnoha faktorů, např.:
 
    - Souvisí záležitost s misí Pyvce? (viz stanovy: :ref:`ucel-spolku` a :ref:`formy-cinnosti-spolku`)
    - Neudělá nám to díru do hospodaření?
    - Jaký je poměr přínosu k ceně?
 
-#. Výbor vás seznámí s výsledkem hlasování. Pokud žádost zamítne, měl by udat důvod, proč se tak stalo.
+#. Výbor vás seznámí s výsledkem hlasování. Pokud žádost zamítne, měl by udat důvod, proč se tak stalo. Na GitHub issue výbor přiřadí `label podle výsledku <https://github.com/pyvec/money/labels>`__, issue zavře a hlavně zamkne.
 #. Zaplatíte věc ze svého a účetní doklady si necháte proplatit Pyvcem podle :ref:`tohoto návodu na proplácení <jak-proplatit>`. Pokud by šlo o velkou částku na fakturu, domluvíte se s Pyvcem, aby ji zaplatil rovnou.
 
    .. note::
       Pyvec může věci :ref:`proplácet <jak-proplatit>` jen oproti účetnímu dokladu, tzn. účtence nebo faktuře. Pokud vám byl udělen grant 4000 Kč, je tím míněno "proplatíme účetní doklady do výše 4000 Kč".
 
-#. Napíšete článek na `komunitní blog <https://blog.python.cz/>`__ (`repozitář <https://github.com/pyvec/blog.python.cz>`__), kde sepíšete (případně vyfotíte) výslednou věc. Jak se to povedlo, komu to pomohlo, jakou měli radost, co se naučili apod.
+#. Napíšete článek na `komunitní blog <https://blog.python.cz/>`__ (`repozitář <https://github.com/pyvec/blog.python.cz>`__), kde sepíšete (případně vyfotíte) výslednou věc. Jak se to povedlo, komu to pomohlo, jakou měli radost, co se naučili apod. (viz `příklad <https://blog.python.cz/Nad%C4%9Blili-jsme-PyLadies-tri%C4%8Dka>`__).
 
    Příspěvek na blogu je **podmínkou** jednorázových grantů. Články nám pomáhají získávat peníze od sponzorů a informují komunitu o tom, co děláme. Pokud použijete grant a článek nenapíšete, nedostanete další grant.
 
@@ -83,9 +82,21 @@ Pokud na svou věc nemáte sponzora, můžete požádat Pyvec o grant. Pyvec dis
 
 Příklad:
 
-   Zuzka by chtěla natisknout třička pro `PyLadies <https://pyladies.cz/>`__. Na tričkách nechce loga sponzorů, takže sponzory nehledá, požádá Pyvec o grant. Do :slack:`#money` napíše:
+   Zuzka by chtěla natisknout třička pro `PyLadies <https://pyladies.cz/>`__. Na tričkách nechce loga sponzorů, takže sponzory nehledá, požádá Pyvec o grant. Na `pyvec/money <https://github.com/pyvec/money/>`_ založí novou žádost a vyplní:
 
-   *@board Ahoj, jsem organizátorka PyLadies v Zeleném Údolí. Rádi bychom natiskli PyLadies trička. Podle toho, jaký bude zájem, budeme potřebovat 10 až 30 000 Kč. Trička jsou jedinou odměnou dobrovolníkům, posilují soudržnost mezi organizátory i absolventkami kurzů a zároveň šíří povědomí o PyLadies, když v nich lidi chodí po světě. Jde o trička pro všechna města, jsme domluvené s organizátorkami z Modrého Města i Žlutého Vrchu.*
+   .. code-block:: text
+
+      **Kdo jste?**
+      Jsem organizátorka PyLadies v Zeleném Údolí.
+
+      **Kolik potřebujete? (aspoň odhad nebo rozmezí)**
+      Podle toho, jaký bude zájem, budeme potřebovat 10 až 30 000 Kč.
+
+      **Na jakou věc to je?**
+      Rádi bychom natiskli PyLadies trička.
+
+      **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
+      Trička jsou jedinou odměnou dobrovolníkům, posilují soudržnost mezi organizátory i absolventkami kurzů a zároveň šíří povědomí o PyLadies, když v nich lidi chodí po světě. Jde o trička pro všechna města, jsme domluvené s organizátorkami z Modrého Města i Žlutého Vrchu.
 
    Výbor o tomto zahlasuje a odepíše, že grant bude přidělen. Následně Zuzka zjistí od lidí počty a velikosti triček, zadá zakázku firmě Tričkománie, s.r.o. a nechá u ní vystavit fakturu na Pyvec. Nakonec je to za 26 000 Kč. Protože jde o velkou částku, kterou Zuzka platit ze svého nechce a/nebo nemůže, fakturu zaplatí přímo Pyvec. Když už je dost triček mezi lidmi, Zuzka udělá pár fotek na mobil a napíše pár vět na `blog <https://blog.python.cz/>`__. Pro zajímavost přihodí i dvě čísla, kolik triček se vytisklo a jak rychle se rozdaly.
 
@@ -101,9 +112,21 @@ Granty mohou být :ref:`jednorázové <granty>` nebo paušální. Ty paušální
 
 Postup získání grantu je :ref:`stejný jako u jednorázových <granty>`, jen s tím rozdílem, že nežádáte o jednorázové peníze, ale o pravidelnou částku na měsíc. Opět platí, že Pyvec může věci :ref:`proplácet <jak-proplatit>` jen oproti účetnímu dokladu, tzn. účtence nebo faktuře. Grant 200 Kč/měsíc, je tedy míněn "proplatíme účetní doklady do výše 200 Kč měsíčně". Po získání paušálního grantu **nemusíte psát článek na blog**. (Ale můžete!) Příklad:
 
-   Lumír do :slack:`#money` napíše:
+   Lumíř na `pyvec/money <https://github.com/pyvec/money/>`_ založí novou žádost:
 
-   *@board Zdar jak sviňa, v Zeleném Údolí děláme kurzy pro začátečníky, dva semestry ročně. Máme u toho malé výdaje, v podstatě kancelářské potřeby. Kurzy prošlo za poslední rok 40 lidí ročně a mají dlouhodobě skvělé ohlasy od účastníků. Pomohlo by nám proplatit 100 Kč měsíčně.*
+   .. code-block:: text
+
+      **Kdo jste?**
+      V Zeleném Údolí děláme kurzy pro začátečníky, dva semestry ročně.
+
+      **Kolik potřebujete? (aspoň odhad nebo rozmezí)**
+      Pomohlo by nám proplatit 100 Kč měsíčně.
+
+      **Na jakou věc to je?**
+      Máme malé výdaje, v podstatě kancelářské potřeby.
+
+      **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
+      Kurzy prošlo za poslední rok 40 lidí ročně a mají dlouhodobě skvělé ohlasy od účastníků.
 
    Výbor o tomto zahlasuje a odepíše, že grant bude přidělen. Následně když Lumír kupuje lístečky, schová si účtenku. Když Věrka, spoluorganizátorka kurzů, bude kupovat prodlužovačku, schová si účtenku taky. Dá ji Lumírovi a ten jí účtenku proplatí ze svého. Takto Lumír nakumuluje účtenky a ke konci roku si nechá všechny proplatit od Pyvce. Pyvec mu bez dalšího schvalování proplatí účtenky do výše 1200 Kč.
 
