@@ -3,7 +3,6 @@ import re
 from datetime import datetime
 from pathlib import Path
 from textwrap import indent
-from xml.etree import ElementTree
 
 import requests
 from jinja2 import Template
