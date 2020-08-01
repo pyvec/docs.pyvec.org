@@ -161,7 +161,7 @@ Přijetí nového člena
 
    .. code-block:: text
 
-      @board hlasujeme o přijetí XYZ za člena Pyvce, dejte :+1: pokud souhlasíte
+      @board hlasujeme o přijetí XYZ za člena Pyvce, dejte :+1: pokud souhlasíte, :-1: pokud ne, :eyes: pokud se chcete zdržet
 
 #. Čeká se, dokud členové výboru odhlasují tak, že jsou :ref:`usnášeníschopní <usnasenischopnost-vyboru>`, tzn. musí odhlasovat minimálně předseda a další dva členové výboru.
 #. Po hlasování někdo z výboru odpoví na e-mail (opět pro dohledatelnost) jak to dopadlo a pokud byla osoba přijata, zapíše ji do `tabulky <https://docs.google.com/spreadsheets/d/1n8hzBnwZ5ANkUCvwEy8rWsXlqeAAwu-5JBodT5OJx_I/edit#gid=0>`__ a přidá do kanálu :slack:`#pyvec-members`.
