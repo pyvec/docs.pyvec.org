@@ -1,3 +1,8 @@
+Elektronická hlasování o grantech
+=================================
+
+Od roku 2020 o grantech :term:`výbor <Výbor>` hlasuje prostřednictvím repozitáře `pyvec/money <https://github.com/pyvec/money>`_. Zde je strojový přepis proběhlých hlasování.
+
 .. Tento soubor je generován skriptem _scripts/generate_grants.py, neupravovat ručně!
 
 {% for grant in grants %}
@@ -7,6 +12,7 @@
 Dne {{ grant.created_at.day }}. {{ grant.created_at.month }}. {{ grant.created_at.year }} požádal uživatel `@{{ grant.user.username }} <{{ grant.user.url }}>`_ o grant `{{ grant.title }} <{{ grant.url }}>`_:
 
 .. code-block:: text
+
 {{ grant.description_indented }}
 
 Výbor o tomto elektronicky hlasoval {{ grant.closed_at.day }}. {{ grant.closed_at.month }}. {{ grant.closed_at.year }}, kdy bylo hlasování uzavřeno s následujícím výsledkem:

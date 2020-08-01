@@ -14,5 +14,6 @@ kolem `programovacího jazyka Python <https://python.cz>`__. Její cíle jsou fo
    runbooks
    domains
    meeting-notes
+   grants
    bylaws
    glossary
