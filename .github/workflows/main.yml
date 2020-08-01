@@ -19,6 +19,8 @@ jobs:
       run: sphinx-build -nW -b linkcheck . _build
     - name: Generate list of grants
       run: python _scripts/generate_grants.py > ./operations/grants.rst
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - if: ${{ github.ref == 'refs/heads/master' }}
       uses: EndBug/add-and-commit@v4.0.1
       with:
@@ -26,4 +28,4 @@ jobs:
         author_name: "GitHub Actions"
         message: "generate list of grants"
       env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
