@@ -1,6 +1,6 @@
 import os
 import re
-from datetime import datetime
+from datetime import date
 from pathlib import Path
 from textwrap import indent
 
@@ -10,10 +10,10 @@ from jinja2 import Template
 
 REACTIONS_API_MEDIA_TYPE = 'application/vnd.github.squirrel-girl-preview'
 GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
+URL = 'https://api.github.com/repos/pyvec/money/issues'
 
 
-url = 'https://api.github.com/repos/pyvec/money/issues'
-res = requests.get(url, headers={'Accept': REACTIONS_API_MEDIA_TYPE,
+res = requests.get(URL, headers={'Accept': REACTIONS_API_MEDIA_TYPE,
                                  'Authorization': f'token {GITHUB_TOKEN}'},
                    params={'per_page': 100, 'state': 'closed'})
 res.raise_for_status()
@@ -21,10 +21,10 @@ res.raise_for_status()
 
 def to_date(iso_datetime_string):
     iso_date_string, _ = iso_datetime_string.split('T')
-    return datetime.strptime(iso_date_string, '%Y-%m-%d').date()
+    return date.fromisoformat(iso_date_string)
 
 
-def process_body(html):
+def remove_comments(html):
     return re.sub(r'<!--[^<]+-->', '', html).strip()
 
 
@@ -36,7 +36,7 @@ for issue in res.json():
     res.raise_for_status()
     reactions = res.json()
 
-    body = process_body(issue['body'])
+    body = remove_comments(issue['body'])
     labels = [label['name'] for label in issue['labels']]
     grants.append({
         'title': issue['title'],
