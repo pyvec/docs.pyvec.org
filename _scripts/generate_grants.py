@@ -1,6 +1,9 @@
 import os
+import re
 from datetime import datetime
 from pathlib import Path
+from textwrap import indent
+from xml.etree import ElementTree
 
 import requests
 from jinja2 import Template
@@ -22,6 +25,10 @@ def to_date(iso_datetime_string):
     return datetime.strptime(iso_date_string, '%Y-%m-%d').date()
 
 
+def process_body(html):
+    return re.sub(r'<!--[^<]+-->', '', html).strip()
+
+
 grants = []
 for issue in res.json():
     url = issue['reactions']['url']
@@ -30,9 +37,12 @@ for issue in res.json():
     res.raise_for_status()
     reactions = res.json()
 
+    body = process_body(issue['body'])
     labels = [label['name'] for label in issue['labels']]
     grants.append({
         'title': issue['title'],
+        'description': body,
+        'description_indented': indent(body, '    '),
         'url': issue['html_url'],
         'user': {
             'username': issue['user']['login'],
