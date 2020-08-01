@@ -24,6 +24,6 @@ Jednorázové akce lze přidat přes Google kalendář `Czech Python Events <htt
 Jak to funguje
 --------------
 
-Sestavení kalendáře se spouští automaticky jednou denně jako `akce GitHubu <https://github.com/pyvec/python.cz/actions>`__. Spouětí se též při každém začlenění změn.
+Sestavení kalendáře se spouští automaticky jednou denně jako `akce GitHubu <https://github.com/pyvec/python.cz/actions>`__. Spouští se též při každém začlenění změn.
 
-Akce z nově přidaného kalendáře se tedy stáhnou okamžitě, v příapdě těch přidanýcj do stávajících kalendářů to může trvat do druhého dne. Chcete-li to uspíšit, řekněte někomu z organizátorů, nebo napište na `info@pyvec.org <mailto:info@pyvec.org>`__, ať sestavení (akci GitHubu) spustí ručně.
+Akce z nově přidaného kalendáře se tedy stáhnou okamžitě, v případě těch přidaných do stávajících kalendářů to může trvat do druhého dne. Chcete-li to uspíšit, řekněte někomu z organizátorů, nebo napište na `info@pyvec.org <mailto:info@pyvec.org>`__, ať sestavení (akci GitHubu) spustí ručně.
