@@ -7,11 +7,21 @@ from operator import itemgetter
 
 import requests
 from jinja2 import Template
+import strictyaml as yaml
 
 
 REACTIONS_API_MEDIA_TYPE = 'application/vnd.github.squirrel-girl-preview'
 GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
 URL = 'https://api.github.com/repos/pyvec/money/issues'
+
+BOARD_HISTORY_SCHEMA = yaml.Seq(yaml.Map({
+    'from': yaml.Datetime(),
+    'members': yaml.MapPattern(yaml.Str(), yaml.Str()),
+}))
+BOARD_HISTORY_PATH = Path(__file__).parent.parent / 'board.yml'
+BOARD_HISTORY = sorted(yaml.load(BOARD_HISTORY_PATH.read_text(),
+                                 BOARD_HISTORY_SCHEMA).data,
+                       key=itemgetter('from'), reverse=True)
 
 
 res = requests.get(URL, headers={'Accept': REACTIONS_API_MEDIA_TYPE,
@@ -29,16 +39,33 @@ def remove_comments(html):
     return re.sub(r'<!--[^<]+-->', '', html).strip()
 
 
+def get_board_member_name(username, voted_at):
+    for board in BOARD_HISTORY:  # sorted from the most recent
+        if voted_at > board['from'].date():
+            return board['members'].get(username)
+    return None
+
+
+def get_votes(reactions, voted_at):
+    for reaction in reactions:
+        username = reaction['user']['login']
+        name = get_board_member_name(username, voted_at)
+        if name:  # else not reaction from a board member
+            yield {'name': name, 'content': reaction['content']}
+
+
 grants = []
 for issue in res.json():
+    voted_at = to_date(issue['closed_at'])
+
     url = issue['reactions']['url']
     res = requests.get(url, headers={'Accept': REACTIONS_API_MEDIA_TYPE,
                                      'Authorization': f'token {GITHUB_TOKEN}'})
     res.raise_for_status()
-    reactions = res.json()
+    votes = list(get_votes(res.json(), voted_at))
 
     labels = [label['name'] for label in issue['labels']]
-    if 'approved' not in labels or 'rejected' not in labels:
+    if 'approved' not in labels and 'rejected' not in labels:
         continue  # skip unlabeled grants, e.g. https://github.com/pyvec/money/issues/1
 
     grants.append({
@@ -50,15 +77,11 @@ for issue in res.json():
             'url': issue['user']['html_url'],
         },
         'is_approved': 'approved' in labels,
-        'created_at': to_date(issue['created_at']),
-        'closed_at': to_date(issue['closed_at']),
-        'votes': [{
-            'username': reaction['user']['login'],
-            'url': reaction['user']['html_url'],
-            'content': reaction['content'],
-        } for reaction in reactions],
+        'filed_at': to_date(issue['created_at']),
+        'voted_at': voted_at,
+        'votes': votes,
     })
-grants = sorted(grants, key=itemgetter('closed_at'), reverse=True)
+grants = sorted(grants, key=itemgetter('voted_at'), reverse=True)
 
 
 tpl_path = Path(__file__).parent.parent / 'operations' / 'grants.rst.template'
