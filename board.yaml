@@ -1,0 +1,20 @@
+# The Pyvec board members in time
+# The current board is first, previous boards are listed in descending order
+# Keys are GitHub handles, values legal names
+# Members start with chairman, others are sorted by GitHub handles
+- from: 2019-08-04
+  members:
+    martinbilek: Martin Bílek
+    aleszoulek: Aleš Zoulek
+    honzajavorek: Jan Javorek
+    kvbik: Jakub Vysoký
+    whiskybar: Jiří Bartoň
+- from: 2012-03-27
+  members:
+    martinbilek: Martin Bílek
+    aleszoulek: Aleš Zoulek
+    czervenka: Robin Gottfried
+    honzakral: Jan Král
+    kvbik: Jakub Vysoký
+    whiskybar: Jiří Bartoň
+    whit: Vítězslav Pliska
