@@ -66,7 +66,8 @@ for issue in res.json():
 
     labels = [label['name'] for label in issue['labels']]
     if 'approved' not in labels and 'rejected' not in labels:
-        continue  # skip unlabeled grants, e.g. https://github.com/pyvec/money/issues/1
+        # skip unlabeled grants, e.g. https://github.com/pyvec/money/issues/1
+        continue
 
     grants.append({
         'title': issue['title'],
