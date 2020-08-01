@@ -58,6 +58,6 @@ for issue in res.json():
     })
 
 
-tpl_path = Path(__file__).parent.parent / 'operations' / 'grants.template.rst'
+tpl_path = Path(__file__).parent.parent / 'operations' / 'grants.rst.template'
 tpl = Template(tpl_path.read_text())
 print(tpl.render(grants=grants))
