@@ -171,6 +171,22 @@ Pokud jste našli opravdu dobré místo a máte pravidelný sraz, domluvte se s 
 Hodí se prozkoumat různá místa ve vašem městě a mít nějaké do zálohy, kdyby to ve vašem oblíbeném z nějakých důvodů nevyšlo.
 
 
+.. _srazy-pyvocz:
+
+Informace na pyvo.cz
+^^^^^^^^^^^^^^^^^^^^
+
+Před každým setkáním v předstihu přidejte informace na `pyvo.cz <https://pyvo.cz>`__. To lze udělat v **5 jednoduchých krocích**:
+
+#. V repozitáři `pyvec/pyvo-data <https://github.com/pyvec/pyvo-data/>`__ ve složce ``series/<MĚSTO>-pyvo/events/`` (`příklad <https://github.com/pyvec/pyvo-data/tree/master/series/praha-pyvo/events>`__) najdi poslední soubor a otevři jej (`příklad <https://github.com/pyvec/pyvo-data/blob/master/series/praha-pyvo/events/2020-07-15.yaml>`__).
+#. Okopíruj si obsah celého souboru do schránky. V pravém horním rohu je tlačítko :kbd:`Raw`, které ti otevře jen samotný obsah tak, že jde okopírovat snadno (`příklad <https://raw.githubusercontent.com/pyvec/pyvo-data/master/series/praha-pyvo/events/2020-07-15.yaml>`__).
+#. V té složce ``events`` vytvoř nový soubor. Na stránce s výpisem obsahu složky je v pravém horním rohu tlačíko :kbd:`Add file`, které ti otevře online editor (`příklad <https://github.com/pyvec/pyvo-data/new/master/series/praha-pyvo/events>`__). Do editoru vlož, co máš okopírované ve schránce.
+#. Soubor pojmenuj datem konání. Můžeš přidat i nějaký dovětek podle tématu srazu, třeba ``2020-04-15-async-django.yaml``. Obsah uprav podle toho, jak má probíhat další setkání.
+#. Pod editorem vyplň formulář pro vytvoření commitu, zmáčkni zelené tlačítko, hned zmáčkni další zelené tlačítko pro vytvoření Pull Requestu (`příklad <https://github.com/pyvec/pyvo-data/pull/320/files>`__), a je to hotovo!
+
+Pokud váš sraz ještě na `pyvo.cz <https://pyvo.cz>`__ vůbec není, `založ issue na repozitáři webu <https://github.com/pyvec/pyvo.cz/issues/>`__ a někdo, nejspíš `Petr Viktorin <http://encukou.cz/>`__, vás už nasměruje. Jestliže jste už na našem :ref:`Slacku <slack>`, ptejte se v kanálu :slack:`#pyvo`.
+
+
 .. _srazy-propagace:
 
 Propagace
