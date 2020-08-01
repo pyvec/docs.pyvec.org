@@ -112,7 +112,7 @@ Granty mohou být :ref:`jednorázové <granty>` nebo paušální. Ty paušální
 
 Postup získání grantu je :ref:`stejný jako u jednorázových <granty>`, jen s tím rozdílem, že nežádáte o jednorázové peníze, ale o pravidelnou částku na měsíc. Opět platí, že Pyvec může věci :ref:`proplácet <jak-proplatit>` jen oproti účetnímu dokladu, tzn. účtence nebo faktuře. Grant 200 Kč/měsíc, je tedy míněn "proplatíme účetní doklady do výše 200 Kč měsíčně". Po získání paušálního grantu **nemusíte psát článek na blog**. (Ale můžete!) Příklad:
 
-   Lumíř na `pyvec/money <https://github.com/pyvec/money/>`_ založí novou žádost:
+   Lumír na `pyvec/money <https://github.com/pyvec/money/>`_ založí novou žádost:
 
    .. code-block:: text
 
