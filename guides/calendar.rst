@@ -2,7 +2,7 @@ Jak funguje kalendář akcí
 =========================
 
 Na webu Python.cz se nachází `kalendář <https://python.cz/akce/>`__ nadcházejících srazů, konferencí
-a dalších akcí české pythonní komunity. Tyto akce se oznamují též na `Slacku <https://pyvec.slack.com/>`__ v kanálech `#calendar <https://pyvec.slack.com/#calendar>`__ (při každé změně) a `#announcements <https://pyvec.slack.com/#announcements>`__ (týdenní souhrn).
+a dalších akcí české pythonní komunity. Tyto akce se oznamují též na `Slacku <https://pyvec.slack.com/>`__ v kanálech :slack:`#calendar` (při každé změně) a :slack:`#announcements` (týdenní souhrn).
 
 Celý kalendář se sestavuje každý den dynamicky z různých zdrojů. Lze si jej též `stáhnout <https://python.cz/events.ics>`__ ve formátu `iCal <https://cs.wikipedia.org/wiki/ICalendar>`__.
 
