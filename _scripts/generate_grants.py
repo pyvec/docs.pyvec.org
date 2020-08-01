@@ -37,12 +37,13 @@ for issue in res.json():
     res.raise_for_status()
     reactions = res.json()
 
-    body = remove_comments(issue['body'])
     labels = [label['name'] for label in issue['labels']]
+    if 'approved' not in labels or 'rejected' not in labels:
+        continue  # skip unlabeled grants, e.g. https://github.com/pyvec/money/issues/1
+
     grants.append({
         'title': issue['title'],
-        'description': body,
-        'description_indented': indent(body, '    '),
+        'description_indented': indent(remove_comments(issue['body']), '    '),
         'url': issue['html_url'],
         'user': {
             'username': issue['user']['login'],
