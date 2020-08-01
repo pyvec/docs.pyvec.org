@@ -1,14 +1,16 @@
 import os
 from datetime import datetime
+from pathlib import Path
 
 import requests
+from jinja2 import Template
 
 
 REACTIONS_API_MEDIA_TYPE = 'application/vnd.github.squirrel-girl-preview'
 GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
 
 
-url = f'https://api.github.com/repos/pyvec/money/issues'
+url = 'https://api.github.com/repos/pyvec/money/issues'
 res = requests.get(url, headers={'Accept': REACTIONS_API_MEDIA_TYPE,
                                  'Authorization': f'token {GITHUB_TOKEN}'},
                    params={'per_page': 100, 'state': 'closed'})
@@ -27,11 +29,12 @@ for issue in res.json():
                                      'Authorization': f'token {GITHUB_TOKEN}'})
     res.raise_for_status()
 
+    labels = [label['name'] for label in issue['labels']]
     grants.append({
         'title': issue['title'],
         'is_open': issue['state'] == 'open',
         'url': issue['html_url'],
-        'is_approved': 'approved' in [label['name'] for label in issue['labels']],
+        'is_approved': 'approved' in labels,
         'created_at': to_date(issue['created_at']),
         'closed_at': to_date(issue['closed_at']),
         'votes': [{
@@ -42,22 +45,6 @@ for issue in res.json():
     })
 
 
-print('.. Tento soubor je generován skriptem _scripts/generate_grants.py, neupravovat ručně!')
-for grant in grants:
-    title = f"{grant['closed_at'].day}. {grant['closed_at'].month}. {grant['closed_at'].year} - elektronické hlasování výboru"
-    votes = '\n'.join([
-        f"* {vote['username']}: {vote['content']}"
-        for vote in grant['votes']
-    ])
-    print(f'''
-{title}
-{'-' * len(title)}
-
-Dne {grant['created_at'].day}. {grant['created_at'].day}. {grant['created_at'].year} vznikl grant.
-Výbor o tomto elektronicky hlasoval {grant['closed_at'].day}. {grant['closed_at'].month}. {grant['closed_at'].year}, kdy bylo hlasování uzavřeno s následujícím výsledkem:
-
-{votes}
-
-Grant {'byl schválen' if grant['is_approved'] else 'nebyl schválen'}.
-    ''')
-    print()
+tpl_path = Path(__file__).parent.parent / 'operations' / 'grants.template.rst'
+tpl = Template(tpl_path.read_text())
+print(tpl.render(grants=grants))
