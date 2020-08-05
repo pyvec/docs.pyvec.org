@@ -17,13 +17,7 @@ Dne {{ grant.filed_at.day }}. {{ grant.filed_at.month }}. {{ grant.filed_at.year
 
 Výbor o tomto elektronicky hlasoval {{ grant.voted_at.day }}. {{ grant.voted_at.month }}. {{ grant.voted_at.year }}, kdy bylo hlasování uzavřeno s následujícím výsledkem:
 {% for vote in grant.votes %}
-* {{ vote.name }}: {% if vote.content == '+1' -%}
-   ano
-{%- elif vote.content == '-1' -%}
-   ne
-{%- elif vote.content == '' -%}
-   zdržel(a) se
-{%- endif -%}
+* {{ vote.name }}: {{ vote.text }}
 {% endfor %}
 
 Grant {{ 'byl schválen' if grant.is_approved else 'nebyl schválen' }}.

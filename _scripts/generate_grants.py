@@ -12,6 +12,7 @@ import strictyaml as yaml
 REACTIONS_API_MEDIA_TYPE = 'application/vnd.github.squirrel-girl-preview'
 GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
 URL = 'https://api.github.com/repos/pyvec/money/issues'
+REACTIONS_MAPPING = {'+1': 'ano', '-1': 'ne', 'eyes': 'zdržel(a) se'}
 
 BOARD_HISTORY_SCHEMA = yaml.Seq(yaml.Map({
     'from': yaml.Datetime(),
@@ -50,7 +51,9 @@ def get_votes(reactions, voted_at):
         username = reaction['user']['login']
         name = get_board_member_name(username, voted_at)
         if name:  # else not reaction from a board member
-            yield {'name': name, 'content': reaction['content']}
+            text = REACTIONS_MAPPING.get(reaction['content'])
+            if text:
+                yield {'name': name, 'text': text}
 
 
 grants = []
