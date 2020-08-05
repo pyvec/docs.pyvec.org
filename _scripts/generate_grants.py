@@ -9,10 +9,12 @@ from jinja2 import Template
 import strictyaml as yaml
 
 
-REACTIONS_API_MEDIA_TYPE = 'application/vnd.github.squirrel-girl-preview'
 GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
-URL = 'https://api.github.com/repos/pyvec/money/issues'
+GITHUB_API_HEADERS = {'Accept': 'application/vnd.github.squirrel-girl-preview',
+                      'Authorization': f'token {GITHUB_TOKEN}'}
+GITHUB_API_URL = 'https://api.github.com/repos/pyvec/money/issues'
 REACTIONS_MAPPING = {'+1': 'ano', '-1': 'ne', 'eyes': 'zdržel(a) se'}
+CONTENT_PATH = Path(__file__).parent.parent
 
 BOARD_HISTORY_SCHEMA = yaml.Seq(yaml.Map({
     'from': yaml.Datetime(),
@@ -22,12 +24,6 @@ BOARD_HISTORY_PATH = Path(__file__).parent.parent / 'board.yml'
 BOARD_HISTORY = sorted(yaml.load(BOARD_HISTORY_PATH.read_text(),
                                  BOARD_HISTORY_SCHEMA).data,
                        key=itemgetter('from'), reverse=True)
-
-
-res = requests.get(URL, headers={'Accept': REACTIONS_API_MEDIA_TYPE,
-                                 'Authorization': f'token {GITHUB_TOKEN}'},
-                   params={'per_page': 100, 'state': 'closed'})
-res.raise_for_status()
 
 
 def to_date(iso_datetime_string):
@@ -56,37 +52,40 @@ def get_votes(reactions, voted_at):
                 yield {'name': name, 'text': text}
 
 
-grants = []
-for issue in res.json():
-    voted_at = to_date(issue['closed_at'])
-
-    url = issue['reactions']['url']
-    res = requests.get(url, headers={'Accept': REACTIONS_API_MEDIA_TYPE,
-                                     'Authorization': f'token {GITHUB_TOKEN}'})
+if __name__ == '__main__':
+    res = requests.get(GITHUB_API_URL, headers=GITHUB_API_HEADERS,
+                       params={'per_page': 100, 'state': 'closed'})
     res.raise_for_status()
-    votes = list(get_votes(res.json(), voted_at))
 
-    labels = [label['name'] for label in issue['labels']]
-    if 'approved' not in labels and 'rejected' not in labels:
-        # skip unlabeled grants, e.g. https://github.com/pyvec/money/issues/1
-        continue
+    grants = []
+    for issue in res.json():
+        voted_at = to_date(issue['closed_at'])
 
-    grants.append({
-        'title': issue['title'],
-        'description': remove_comments(issue['body']),
-        'url': issue['html_url'],
-        'user': {
-            'username': issue['user']['login'],
-            'url': issue['user']['html_url'],
-        },
-        'is_approved': 'approved' in labels,
-        'filed_at': to_date(issue['created_at']),
-        'voted_at': voted_at,
-        'votes': votes,
-    })
-grants = sorted(grants, key=itemgetter('voted_at'), reverse=True)
+        res = requests.get(issue['reactions']['url'],
+                           headers=GITHUB_API_HEADERS)
+        res.raise_for_status()
+        votes = list(get_votes(res.json(), voted_at))
 
+        labels = [label['name'] for label in issue['labels']]
+        if 'approved' not in labels and 'rejected' not in labels:
+            # skip unlabeled, e.g. https://github.com/pyvec/money/issues/1
+            continue
 
-tpl_path = Path(__file__).parent.parent / 'operations' / 'grants.rst.template'
-tpl = Template(tpl_path.read_text())
-print(tpl.render(grants=grants))
+        grants.append({
+            'title': issue['title'],
+            'description': remove_comments(issue['body']),
+            'url': issue['html_url'],
+            'user': {
+                'username': issue['user']['login'],
+                'url': issue['user']['html_url'],
+            },
+            'is_approved': 'approved' in labels,
+            'filed_at': to_date(issue['created_at']),
+            'voted_at': voted_at,
+            'votes': votes,
+        })
+    grants = sorted(grants, key=itemgetter('voted_at'), reverse=True)
+
+    tpl_path = CONTENT_PATH / 'operations' / 'grants.rst.template'
+    tpl = Template(tpl_path.read_text())
+    print(tpl.render(grants=grants))
