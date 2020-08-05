@@ -35,17 +35,18 @@ def remove_comments(html):
     return re.sub(r'<!--[^<]+-->', '', html).strip()
 
 
-def get_board_member_name(username, voted_at):
-    for board in BOARD_HISTORY:  # sorted from the most recent
+def get_board_member_name(username, voted_at, board_history=None):
+    board_history = board_history or BOARD_HISTORY
+    for board in board_history:  # sorted from the most recent
         if voted_at > board['from'].date():
             return board['members'].get(username)
     return None
 
 
-def get_votes(reactions, voted_at):
+def get_votes(reactions, voted_at, board_history=None):
     for reaction in reactions:
         username = reaction['user']['login']
-        name = get_board_member_name(username, voted_at)
+        name = get_board_member_name(username, voted_at, board_history)
         if name:  # else not reaction from a board member
             text = REACTIONS_MAPPING.get(reaction['content'])
             if text:

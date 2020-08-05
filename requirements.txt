@@ -9,3 +9,4 @@ pylama==7.7.1
 requests==2.24.0
 jinja2==2.11.2
 strictyaml==1.0.6
+pytest==6.0.1
