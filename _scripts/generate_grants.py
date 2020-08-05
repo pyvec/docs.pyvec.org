@@ -2,7 +2,6 @@ import os
 import re
 from datetime import date
 from pathlib import Path
-from textwrap import indent
 from operator import itemgetter
 
 import requests
@@ -71,7 +70,7 @@ for issue in res.json():
 
     grants.append({
         'title': issue['title'],
-        'description_indented': indent(remove_comments(issue['body']), '    '),
+        'description': remove_comments(issue['body']),
         'url': issue['html_url'],
         'user': {
             'username': issue['user']['login'],

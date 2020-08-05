@@ -13,7 +13,7 @@ Dne {{ grant.filed_at.day }}. {{ grant.filed_at.month }}. {{ grant.filed_at.year
 
 .. code-block:: text
 
-{{ grant.description_indented }}
+    {{ grant.description|indent(4) }}
 
 Výbor o tomto elektronicky hlasoval {{ grant.voted_at.day }}. {{ grant.voted_at.month }}. {{ grant.voted_at.year }}, kdy bylo hlasování uzavřeno s následujícím výsledkem:
 {% for vote in grant.votes %}
