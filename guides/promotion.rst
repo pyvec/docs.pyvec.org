@@ -339,13 +339,7 @@ Firmy
 
 Známé české a slovenské Python firmy, které jsou v seznamu na `python.cz <https://python.cz/prace/>`__ nebo které sponzorují (či v minulosti sponzorovaly) konferenci, mohou mít zajímavé přednášející.
 
-Lze jim napsat e-mail, nebo si vytipovat jejich lidi na srazech, GitHubu, Twitteru, apod. a oslovit je přímo tam. Reálný příklad konverzace:
-
-.. image:: ../_static/images/cfp-firmy.png
-   :target: ../_static/images/cfp-firmy.png
-   :alt: Reálný příklad konverzace
-   :width: 100px
-   :align: center
+Lze jim napsat e-mail, nebo si vytipovat jejich lidi na srazech, GitHubu, Twitteru, apod. a oslovit je přímo tam.
 
 Akademici
 ^^^^^^^^^
