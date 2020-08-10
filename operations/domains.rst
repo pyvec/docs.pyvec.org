@@ -45,7 +45,7 @@ Aktuální stav domén spravovaných českou Python komunitou.
 .. _v diskusi na Slacku: https://pyvec.slack.com/archives/C6ZMKC50E/p1574335038001900
 
 
-Přístup do účtu Pyvce na `domena.cz <https://domena.cz>`__ mají:
+Přístup do účtu Pyvce na `domena.cz <https://www.domena.cz>`__ mají:
 
 - členové :term:`výboru <Výbor>`
 - Petr Viktorin
