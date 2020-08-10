@@ -68,3 +68,16 @@ Na repozitáři jsou zapojeny `GitHub Actions <https://github.com/pyvec/docs.pyv
     :alt: Continuous Integration Status
 
 CI je pouze informativní a nezabrání tomu, aby se hlavní větev dostala do ReadTheDocs.
+
+.. _generate_grants:
+
+Skript na generování zápisů hlasování o grantech
+------------------------------------------------
+
+V adresáři ``_scripts`` je skript ``generate_grants.py``, který:
+
+* se pomocí `GitHub Actions <https://github.com/pyvec/docs.pyvec.org/actions>`_ jednou denně spustí
+* vygeneruje soubor ``operations/grants.rst`` z dat na `pyvec/money <https://github.com/pyvec/money>`_ a ze šablony ``operations/grants.rst``
+* commitne a pushne jej přes Git do repozitáře.
+
+Hlasování o grantech probíhá :ref:`pomocí reakcí <jak-hlasovani>` na GitHub Issues a tento skript hlasování archivuje sem do dokumentace pro účely jednoduššího vyhledávání, zálohy, kdyby se s `pyvec/money <https://github.com/pyvec/money>`_ něco stalo, a pro nějakou historickou evidenci. Kanonickým zdrojem pravdy ale zůstává hlasování přímo na GitHub Issues, toto je jen automatizovaný přepis.
