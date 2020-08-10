@@ -166,7 +166,7 @@ Před každou konferencí je také potřeba upravit bio (kdy a kde se konference
 Na Twitteru lze naplánovat tweety dopředu přes `TweetDeck <https://tweetdeck.twitter.com/>`__, čehož se při přípravě konference velice hojně využívá. TweetDeck je obecně velkým pomocníkem. Přes `TweetDeck Teams <https://blog.twitter.com/official/en_us/a/2015/introducing-tweetdeck-teams.html>`__ se dá konferenční účet nasdílet dalším lidem bez sdílení hesla. Lze i snadno sledovat mentions, různá klíčová slova, operovat za více účtů najednou, apod.
 
 .. note::
-   Například `Honza Javorek <http://honzajavorek.cz>`__ má ve TweetDecku sloupec s vyhledáváním na následující způsob:
+   Například `Honza Javorek <https://honzajavorek.cz>`__ má ve TweetDecku sloupec s vyhledáváním na následující způsob:
 
    .. code-block:: text
 
@@ -278,7 +278,7 @@ Jiné konference a cestování speakerů
 
 Co znamená "projít jiné konference"? Znamená to zjistit, jaké další Python konference se teď konaly nebo budou konat v Evropě. Pomoci může například `seznam na pycon.org <https://pycon.org/>`__ Je dobré vědět, jestli se PyCon CZ koná souběžně s jinou konferencí (jednou se to stalo s PyCon DE a to bylo velké mrzení, jelikož k nám nechtěl přijet nikdo z Německa) nebo těsně před/po jiné blízké (Německo, Rakousko, Polsko, Slovensko) či velké (EuroPython) konferenci. Z toho pak vyvozuji závěry. Evropský speaker, který přijede do Polska týden před PyCon CZ asi nebude mít problém se stavit i u nás. Americký speaker, který má letět týden po PyCon CZ na EuroPython si možná rád odskočí dát přednášku do ČR a můžeme mu zkusit napsat.
 
-Do CfP se jinak moc nevyplatí mířit na speakery za oceánem, pokud nemají cestu kolem - ti se obecně zvou spíš separátně jako keynote speakeři. Není to ale absolutní pravidlo - `Honza <http://honzajavorek.cz>`__ omylem napsal `člověku, protože si nevšiml, že je z Texasu <https://twitter.com/vanl>`__, a ten prostě neváhal a přiletěl.
+Do CfP se jinak moc nevyplatí mířit na speakery za oceánem, pokud nemají cestu kolem - ti se obecně zvou spíš separátně jako keynote speakeři. Není to ale absolutní pravidlo - `Honza <https://honzajavorek.cz>`__ omylem napsal `člověku, protože si nevšiml, že je z Texasu <https://twitter.com/vanl>`__, a ten prostě neváhal a přiletěl.
 
 S tím souvisí obecně snadnost cestování. Země na východ od nás potřebují spíše granty, země na západ zase spíš přicestují, klidně i letadlem. Speakeři jsou taky jenom lidi, takže se těší na výlet do Prahy (protože je krásná a profláklá po celém světě) nebo do Brna (protože `o něm píšou NYT <https://www.nytimes.com/2017/04/12/travel/cafe-and-cocktail-culture-brno-czech-republic.html>`__ aj.), ale otázka je, jak moc je budeme muset přemlouvat, aby přijeli jinam. S tím souvisí i kvalitní sekce o místě konání na webu, která město dokáže "prodat". Je potřeba mít toto kvůli speakerům v provozu už při CfP, aby věděli, že nepojedou přes půl Evropy nebo světa do nějaké díry. Také je dobré zdůraznit jednoduchost dopravy (např. z Londýna do Ostravy se dá dostat letem do Pardubic a dál Pendolinem).
 
@@ -339,7 +339,7 @@ Firmy
 
 Známé české a slovenské Python firmy, které jsou v seznamu na `python.cz <https://python.cz/prace/>`__ nebo které sponzorují (či v minulosti sponzorovaly) konferenci, mohou mít zajímavé přednášející.
 
-Lze jim napsat e-mail, nebo si vytipovat jejich lidi na srazech, GitHubu, Twitteru, apod. a oslovit je přímo tam. `Reálný příklad konverzace. <../_static/images/cfp-firmy.png>`__
+Lze jim napsat e-mail, nebo si vytipovat jejich lidi na srazech, GitHubu, Twitteru, apod. a oslovit je přímo tam. :download:`Reálný příklad konverzace. <../_static/images/cfp-firmy.png>`
 
 Akademici
 ^^^^^^^^^
