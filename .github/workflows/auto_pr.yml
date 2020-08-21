@@ -1,0 +1,20 @@
+name: Automatic Pull Request
+on:
+  push:
+    branches:
+      - auto-pr/**
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Derive name
+      run: |
+        BRANCH_NAME=$(echo $GITHUB_REF | sed 's#refs/heads/auto-pr/##')
+        ::set-env name=PULL_REQUEST_TITLE::"Automated update: ${BRANCH_NAME}"
+    - uses: vsoch/pull-request-action@1.0.7
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        BRANCH_PREFIX: auto-pr/
+        PULL_REQUEST_BRANCH: master
+        PULL_REQUEST_BODY: "Automated update :robot: See the `.github/workflows` directory for details."
