@@ -22,7 +22,7 @@ jobs:
       uses: EndBug/add-and-commit@v4.4.0
       with:
         add: ./operations/grants.rst
-        ref: refs/heads/auto-pr/grants
+        ref: auto-pr/grants
         force: true
         author_name: "GitHub Actions"
         message: "update the list of grants (generated)"
