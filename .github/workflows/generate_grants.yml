@@ -19,10 +19,10 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Commit changes
-      uses: EndBug/add-and-commit@v4.0.1
+      uses: EndBug/add-and-commit@v4.4.0
       with:
         add: ./operations/grants.rst
-        ref: auto-pr/grants
+        ref: refs/heads/auto-pr/grants
         force: true
         author_name: "GitHub Actions"
         message: "update the list of grants (generated)"
