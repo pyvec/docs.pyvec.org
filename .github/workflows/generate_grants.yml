@@ -27,6 +27,6 @@ jobs:
         commit-message: "update the list of grants (generated)"
         branch: automation/grants
         title: "Automated update of the list of grants"
-        body: |
+        body: >
           Automated update of the list of grants :robot:
           For details, see [the docs](https://docs.pyvec.org/CONTRIBUTING.html#skript-na-generovani-zapisu-hlasovani-o-grantech) :book:
