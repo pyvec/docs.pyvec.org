@@ -148,6 +148,8 @@ Na Facebooku se vyplatí na rozdíl od Twitteru dávat věci i o víkendu, proto
 
 Emoji pomáhají tomu, aby si lidi statusu všimli, ale nemělo by se to s nimi asi úplně přehánět.
 
+.. _twitter-promotion:
+
 Twitter
 ~~~~~~~
 

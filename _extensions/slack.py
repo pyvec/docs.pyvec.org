@@ -4,8 +4,9 @@ from docutils import nodes
 # https://docutils.readthedocs.io/en/sphinx-docs/howto/rst-roles.html
 def slack(name, rawtext, text, lineno, inliner,
           options=None, content=None):
-    url = f"https://pyvec.slack.com/app_redirect?channel={text.lstrip('#')}"
-    node = nodes.reference(rawtext, text, refuri=url, **(options or {}))
+    text = text.lstrip('#')
+    url = f"https://pyvec.slack.com/app_redirect?channel={text}"
+    node = nodes.reference(rawtext, f'#{text}', refuri=url, **(options or {}))
     return [node], []
 
 

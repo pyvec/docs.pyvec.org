@@ -193,8 +193,10 @@ Před každým setkáním v předstihu přidejte informace na `pyvo.cz <https://
 Propagace
 ^^^^^^^^^
 
+Existuje Twitter účet :twitter:`napyvo`, kam lze psát cokoliv v souvislosti s vaším srazem. :ref:`Zažádejte si o přístup <twitter>` a nebojte se tam psát. Nad toto ještě existuje robot `pyvo-twitter <https://github.com/pyvec/pyvo-twitter>`_, který píše na :twitter:`napyvo` automatické zprávy upozorňující na srazy. Upozorňuje ovšem jen na ty srazy, které jsou včas :ref:`potvrzené na pyvo.cz <srazy-pyvocz>`. Jestliže zaznamenáte nějaký problém s robotem, pište do :slack:`#automatizace`.
+
 .. warning::
-    Tato sekce ještě není připravena.
+    Tato sekce ještě není zcela připravena.
 
 ..
     Lanyrd, Facebook Event + Pyonieri, Srazy.info, univerzity, firmy, Twitter... zpravicka na root.cz, zpravicka na   zdrojak, email pozvanka na django-cs / py konference, meetup.com, https://wiki.python.org/moin/PythonEventsCalendar
