@@ -1,9 +1,9 @@
 Elektronická hlasování o grantech
 =================================
 
-Od roku 2020 o grantech :term:`výbor <Výbor>` hlasuje prostřednictvím repozitáře `pyvec/money <https://github.com/pyvec/money>`_. Zde je strojový přepis proběhlých hlasování.
+Od roku 2020 o grantech :term:`výbor <Výbor>` hlasuje prostřednictvím repozitáře `pyvec/money <https://github.com/pyvec/money>`_. Zde je strojový přepis proběhlých hlasování. Kanonickým zdrojem pravdy je hlasování přímo na GitHub Issues. Kdyby něco nesedělo, ověřte `historii tohoto souboru <https://github.com/pyvec/docs.pyvec.org/commits/master/operations/grants.rst>`_ a funkčnost :ref:`přepisů <generate_grants>`.
 
-.. Tento soubor je generován skriptem _scripts/generate_grants.py, neupravovat ručně!
+.. Soubor operations/grants.rst je generován skriptem _scripts/generate_grants.py ze šablony operations/grants.rst.template. Neupravovat ručně!
 
 
 18. 3. 2020 - elektronické hlasování výboru
@@ -30,10 +30,14 @@ Dne 26. 2. 2020 požádal uživatel `@radusaaa <https://github.com/radusaaa>`_ o
 
 Výbor o tomto elektronicky hlasoval 18. 3. 2020, kdy bylo hlasování uzavřeno s následujícím výsledkem:
 
-* Uživatel `@kvbik <https://github.com/kvbik>`_: ano
-* Uživatel `@honzajavorek <https://github.com/honzajavorek>`_: ano
-* Uživatel `@whiskybar <https://github.com/whiskybar>`_: ano
-* Uživatel `@martinbilek <https://github.com/martinbilek>`_: ano
+* Jakub Vysoký: ano
+
+* Jan Javorek: ano
+
+* Jiří Bartoň: ano
+
+* Martin Bílek: ano
+
 
 Grant byl schválen.
 
@@ -61,10 +65,14 @@ Dne 13. 2. 2020 požádal uživatel `@IvaFingerova <https://github.com/IvaFinger
 
 Výbor o tomto elektronicky hlasoval 18. 3. 2020, kdy bylo hlasování uzavřeno s následujícím výsledkem:
 
-* Uživatel `@kvbik <https://github.com/kvbik>`_: ano
-* Uživatel `@honzajavorek <https://github.com/honzajavorek>`_: ano
-* Uživatel `@martinbilek <https://github.com/martinbilek>`_: ano
-* Uživatel `@whiskybar <https://github.com/whiskybar>`_: ano
+* Jakub Vysoký: ano
+
+* Jan Javorek: ano
+
+* Martin Bílek: ano
+
+* Jiří Bartoň: ano
+
 
 Grant byl schválen.
 
