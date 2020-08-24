@@ -1,3 +1,10 @@
+"""
+Sphinx extension which adds a new role :twitter:, which allows you to easily
+make links to twitter.com profiles. Example::
+
+    There's Twitter account :twitter:`napyvo`.
+"""
+
 from docutils import nodes
 
 

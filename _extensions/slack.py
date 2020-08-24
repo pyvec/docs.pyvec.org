@@ -1,3 +1,10 @@
+"""
+Sphinx extension which adds a new role :slack:, which allows you to easily
+make links to pyvec.slack.com Slack channels. Example::
+
+    In any doubt, ask in the :slack:`#pyvo` channel.
+"""
+
 from docutils import nodes
 
 
