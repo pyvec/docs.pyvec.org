@@ -62,8 +62,8 @@ Contributor
 Admin
    Zuzejk nemá vlastní Twitter a chodí přímo přes heslo, dále :twitter:`anezkamll`, :twitter:`honzajavorek`, :twitter:`lumirbalhar`, :twitter:`EnCuKou`
 
-:twitter:`pyvec`
-^^^^^^^^^^^^^^^^
+@pyvec
+^^^^^^
 
 +-------------+---------------------------------------------------------------------------------+
 | **Odkaz:**  | :twitter:`pyvec`                                                                |
