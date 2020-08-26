@@ -3,17 +3,28 @@
 Zápisy ze schůzí
 ================
 
-Zápisy jsou řazeny od nejnovějších po nejstarší. Zápisy schůzí před rokem 2019 jsou v `tomto dokumentu <https://docs.google.com/document/d/1fNOqEpoddNOB52PG-tCT6Yzw3AqHZnDE6jY08zuEywE/edit>`__.
-
-Termím :term:`výbor <Výbor>` je zaměnitelný s termínem :term:`board <Board>`.
+Zápisy jsou řazeny od nejnovějších po nejstarší. Zápisy schůzí před rokem 2019 jsou v `tomto dokumentu <https://docs.google.com/document/d/1fNOqEpoddNOB52PG-tCT6Yzw3AqHZnDE6jY08zuEywE/edit>`__. Termín :term:`výbor <Výbor>` je zaměnitelný s termínem :term:`board <Board>`.
 
 .. contents:: Zápisy
    :depth: 1
    :local:
 
 
-11. 12. 2019 - pyvec board schuze
----------------------------------
+11. 8. 2020 - elektronické hlasování výboru
+-------------------------------------------
+
+Dne 1. 8. Jan Čermák požádal emailem o přijetí za člena do spolku.
+Výbor o tomto elektronicky hlasoval 11. 8., kdy bylo hlasování uzavřeno s následujícím výsledkem:
+
+* Martin Bílek: ano
+* Jan Javorek: ano
+* Jakub Vysoký: ano
+
+Jan Čermák byl 11. 8. přijat za člena spolku.
+
+
+11. 12. 2019 - Schůze výboru
+----------------------------
 
 Chybí Jirka (aby otestoval zápis), Aleš je v Mekáči.
 
@@ -86,8 +97,8 @@ Dne 18. 11. Zuzana Javorková požádala o grant do výše 10 000 Kč na tisk tr
 Grant byl schválen.
 
 
-14. 11. 2019 - pyvec board schuze
----------------------------------
+14. 11. 2019 - Schůze výboru
+----------------------------
 
 Od teď bude vždycky do příště agenda jako kartička v trellu.
 
