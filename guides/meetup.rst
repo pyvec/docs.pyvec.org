@@ -176,16 +176,17 @@ Hodí se prozkoumat různá místa ve vašem městě a mít nějaké do zálohy,
 Informace na pyvo.cz
 ^^^^^^^^^^^^^^^^^^^^
 
-Před každým setkáním v předstihu přidejte informace na `pyvo.cz <https://pyvo.cz>`__. To lze udělat v **5 jednoduchých krocích**:
+Před každým setkáním v předstihu přidejte informace na `pyvo.cz <https://pyvo.cz>`__.
+Každý sraz je zaznamenán v `.yaml` souboru v `repozitáři na GitHubu <https://github.com/pyvec/pyvo-data>`__.
 
-#. V repozitáři `pyvec/pyvo-data <https://github.com/pyvec/pyvo-data/>`__ ve složce ``series/<MĚSTO>-pyvo/events/`` (`příklad <https://github.com/pyvec/pyvo-data/tree/master/series/praha-pyvo/events>`__) najdi poslední soubor a otevři jej (`příklad <https://github.com/pyvec/pyvo-data/blob/master/series/praha-pyvo/events/2020-07-15.yaml>`__).
-#. Okopíruj si obsah celého souboru do schránky. V pravém horním rohu je tlačítko :kbd:`Raw`, které ti otevře jen samotný obsah tak, že jde okopírovat snadno (`příklad <https://raw.githubusercontent.com/pyvec/pyvo-data/master/series/praha-pyvo/events/2020-07-15.yaml>`__).
-#. V té složce ``events`` vytvoř nový soubor. Na stránce s výpisem obsahu složky je v pravém horním rohu tlačíko :kbd:`Add file`, které ti otevře online editor (`příklad <https://github.com/pyvec/pyvo-data/new/master/series/praha-pyvo/events>`__). Do editoru vlož, co máš okopírované ve schránce.
-#. Soubor pojmenuj datem konání. Můžeš přidat i nějaký dovětek podle tématu srazu, třeba ``2020-04-15-async-django.yaml``. Obsah uprav podle toho, jak má probíhat další setkání.
-#. Pod editorem vyplň formulář pro vytvoření commitu, zmáčkni zelené tlačítko, hned zmáčkni další zelené tlačítko pro vytvoření Pull Requestu (`příklad <https://github.com/pyvec/pyvo-data/pull/320/files>`__), a je to hotovo!
+Na stránce pro konkrétní město je odkaz *přidat informace o dalším srazu*,
+který otevře stránku s předvyplněnými informacemi pro další sraz.
+Doplň/odkomentuj co je potřeba a pošli jako Pull Request.
 
-.. note::
-    Pokud něco nefunguje nebo váš sraz na `pyvo.cz <https://pyvo.cz>`__ ještě vůbec není, `založ issue na repozitáři webu <https://github.com/pyvec/pyvo.cz/issues/>`__ a někdo, nejspíš `Petr Viktorin <http://encukou.cz/>`__, vás už nasměruje. Jste-li už na našem :ref:`Slacku <slack>`, volejte o pomoc v kanálu :slack:`#pyvo`.
+Jak na složitějí úpravy (např. založení nového Pyva nebo nového místa konání)?
+Často lze vše potřebné odkoukat z okolních souborů. Vždycky však můžete
+`založit issue <https://github.com/pyvec/pyvo.cz/issues/>`__ s otázkou nebo,
+jste-li už na našem :ref:`Slacku <slack>`, volat o pomoc v kanálu :slack:`#pyvo`.
 
 
 .. _srazy-propagace:
