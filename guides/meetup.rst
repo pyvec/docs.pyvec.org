@@ -176,7 +176,15 @@ Hodí se prozkoumat různá místa ve vašem městě a mít nějaké do zálohy,
 Informace na pyvo.cz
 ^^^^^^^^^^^^^^^^^^^^
 
-Před každým setkáním v předstihu přidejte informace na `pyvo.cz <https://pyvo.cz>`__. To lze udělat v **5 jednoduchých krocích**:
+Před každým setkáním v předstihu přidejte informace na `pyvo.cz <https://pyvo.cz>`__.
+Každý sraz je zaznamenán v `.yaml` souboru v `repozitáři na GitHubu <https://github.com/pyvec/pyvo-data>`__.
+
+Na stránce pro konkrétní město je odkaz *přidat informace o dalším srazu*,
+který otevře stránku s předvyplněnými informacemi pro další sraz.
+Doplň/odkomentuj co je potřeba a pošli jako Pull Request.
+
+
+Případně to lze udělat ručně v 5 krocích:
 
 #. V repozitáři `pyvec/pyvo-data <https://github.com/pyvec/pyvo-data/>`__ ve složce ``series/<MĚSTO>-pyvo/events/`` (`příklad <https://github.com/pyvec/pyvo-data/tree/master/series/praha-pyvo/events>`__) najdi poslední soubor a otevři jej (`příklad <https://github.com/pyvec/pyvo-data/blob/master/series/praha-pyvo/events/2020-07-15.yaml>`__).
 #. Okopíruj si obsah celého souboru do schránky. V pravém horním rohu je tlačítko :kbd:`Raw`, které ti otevře jen samotný obsah tak, že jde okopírovat snadno (`příklad <https://raw.githubusercontent.com/pyvec/pyvo-data/master/series/praha-pyvo/events/2020-07-15.yaml>`__).
