@@ -82,12 +82,7 @@ Podáním přihlášky uchazeč potvrzuje, že se seznámil s obsahem těchto st
 4.6.
 """"
 
-Podáním přihlášky uchazeč bere na vědomí, že spolek zpracovává jeho osobní údaje, a to jméno, příjmení, datum narození, doručovací adresu, e-mailovou adresu, případně další údaje, které uchazeč poskytne spolku za účelem přijetí za člena a které budou uvedeny v seznamu členů a potvrzuje, že se seznámil s informacemi o zpracování osobních údajů členů spolku, které jsou zveřejněny na `webových stránkách spolku`_.
-
-.. note::
-    Tato informace na stránkách zatím chybí - viz `pyvec/pyvec.org#99 <https://github.com/pyvec/pyvec.org/issues/99>`__.
-
-    Pyvec využívá `Google Docs <https://docs.google.com/>`__ pro shromažďování a uchovávání seznamu členů. Data tedy uchovává společnost Google LLC na základě svých `zásad ochrany osobních údajů <https://policies.google.com/privacy?hl=cs>`__. Uživatelský přístup k datům má pouze výbor spolku. Pyvec data uchovává pouze pro účely evidence členství ve spolku a pokud členství zanikne, výbor data o členovi maže.
+Podáním přihlášky uchazeč bere na vědomí, že spolek zpracovává jeho osobní údaje, a to jméno, příjmení, datum narození, doručovací adresu, e-mailovou adresu, případně další údaje, které uchazeč poskytne spolku za účelem přijetí za člena a které budou uvedeny v seznamu členů a potvrzuje, že se seznámil s informacemi o zpracování osobních údajů členů spolku, které `jsou zveřejněny na webových stránkách spolku <https://pyvec.org/cs/zpracovani-osobnich-udaju/>`__.
 
 V. Práva a povinnosti člena
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -309,7 +304,7 @@ X. Seznam členů
 :ref:`Výbor <vybor>` vede seznam členů spolku. Seznam členů bude veden v elektronické podobě s tím, že zápisy a výmazy, týkající se členství osob ve spolku, budou provedeny bez zbytečného odkladu poté, co dojde k rozhodné skutečnosti.
 
 .. note::
-    Pyvec využívá `Google Docs <https://docs.google.com/>`__ pro shromažďování a uchovávání seznamu členů, konkrétně `tuto tabulku <https://docs.google.com/spreadsheets/d/1n8hzBnwZ5ANkUCvwEy8rWsXlqeAAwu-5JBodT5OJx_I/edit#gid=0>`__. Uživatelský přístup k datům má pouze výbor spolku.
+    Pyvec využívá `Google Docs <https://docs.google.com/>`__ pro shromažďování a uchovávání seznamu členů, konkrétně `tuto tabulku <https://docs.google.com/spreadsheets/d/1n8hzBnwZ5ANkUCvwEy8rWsXlqeAAwu-5JBodT5OJx_I/edit#gid=0>`__. Uživatelský přístup k datům má pouze výbor spolku. Viz také `zásady zpracování osobních údajů <https://pyvec.org/cs/zpracovani-osobnich-udaju/>`__.
 
 10.2.
 """""
@@ -327,7 +322,7 @@ a)  jméno a příjmení člena – fyzické osoby a okruh záležitostí, ve kt
 b)  název a identifikační číslo člena – právnické osoby a okruh záležitostí, ve kterých je tento člen oprávněn v rámci pověření spolek zastupovat (je-li takové pověření).
 
 .. note::
-    Toto zatím není realizováno, ale časem třeba bude - viz `pyvec/docs.pyvec.org#11 <https://github.com/pyvec/docs.pyvec.org/issues/11>`__, `pyvec/pyvec.org#22 <https://github.com/pyvec/pyvec.org/issues/22>`__, `pyvec/pyvec.org#19 <https://github.com/pyvec/pyvec.org/issues/19>`__, `pyvec/zapojse#1 <https://github.com/pyvec/zapojse/issues/1#issuecomment-242139241>`__, ...
+    Toto zatím není realizováno, ale časem třeba bude - viz `pyvec/docs.pyvec.org#11 <https://github.com/pyvec/docs.pyvec.org/issues/11>`__, `pyvec/pyvec.org#22 <https://github.com/pyvec/pyvec.org/issues/22>`__, `pyvec/pyvec.org#19 <https://github.com/pyvec/pyvec.org/issues/19>`__, `pyvec/zapojse#1 <https://github.com/pyvec/zapojse/issues/1#issuecomment-242139241>`__…
 
 10.4.
 """""

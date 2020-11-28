@@ -21,7 +21,7 @@ Jak se stát členem
 | **Pro koho je tento návod:** | |:raising_hand:| uchazeč(ka) o členství v Pyvci |
 +------------------------------+-------------------------------------------------+
 
-#. Přečti si :ref:`stanovy`.
+#. Přečti si :ref:`stanovy` (dlouhé, ale důležité čtení) a `zásady zpracování osobních údajů <https://pyvec.org/cs/zpracovani-osobnich-udaju/>`__ (velmi krátké a srozumitelné čtení).
 #. Přečti si :ref:`jak Pyvec pomáhá <podpora>`.
 #. Napiš e-mail podle následující šablony a s předmětem **Žádost o členství ve spolku** jej pošli na info@pyvec.org:
 
@@ -50,10 +50,14 @@ Jak se stát členem
       GitHub: URL (nepovinné)
       LinkedIn: URL (nepovinné)
 
+      Souhlasím s umístěním ve veřejném seznamu členů na pyvec.org: ANO/NE
+
       Díky!
 
    .. note::
       Zásluh nemusí být moc, ani nemusí být žádného těžkého kalibru. Nejedná se o členství za zásluhy ani o poměřování, jde spíše o **představení se**, aby výbor věděl, s kým má tu čest. Komunita je celorepubliková a pro členy výboru nemusí být jednoduché mít přehled o všech aktivních lidech ve všech regionech.
+
+      Souhlas s umístěním ve veřejném seznamu členů můžeš kdykoliv odebrat, stačí napsat na info@pyvec.org.
 
 #. Výbor by ti měl potvrdit přijetí přihlášky. Výbor bude následně o tvé přihlášce hlasovat. Záleží na vytíženosti členů výboru, ale nemělo by to nejspíš trvat déle než týden nebo dva.
 #. Výbor odpoví a obeznámí tě s výsledkem hlasování. Měl by uveřejnit zápis do :ref:`zapisy` a přidat tě na Slacku do kanálu :slack:`#pyvec-members`.
