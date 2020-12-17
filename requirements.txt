@@ -6,7 +6,7 @@ sphinxemoji==0.1.8
 sphinx-rtd-theme==0.5.0
 sphinx-autobuild==2020.9.1
 pylama==7.7.1
-requests==2.25.0
+requests==2.25.1
 jinja2==2.11.2
 strictyaml==1.1.1
 pytest==6.2.1
