@@ -6,6 +6,42 @@ Od roku 2020 o grantech :term:`výbor <Výbor>` hlasuje prostřednictvím repozi
 .. Soubor operations/grants.rst je generován skriptem _scripts/generate_grants.py ze šablony operations/grants.rst.template. Neupravovat ručně!
 
 
+21. 12. 2020 - elektronické hlasování výboru
+--------------------------------------------
+
+Dne 19. 12. 2020 požádal uživatel `@janpipek <https://github.com/janpipek>`_ o grant `PyData listopad 2019 - náklady zahraničního speakera <https://github.com/pyvec/money/issues/5>`_:
+
+.. code-block:: text
+
+    **Kdo jste?**
+
+    Jan Pipek (za PyData Prague)
+
+    **Kolik potřebujete? (aspoň odhad nebo rozmezí)**
+
+    5 587,09 Kč
+
+    **Na jakou věc to je?**
+
+    Náklady zahraničního speakera na meetupu (ubytování + cestovné), Dom Weldon.
+
+    **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
+
+    Původně se mělo jednat o jednoduché otočení sponzorských peněz (PyVec 19.12.2019 proplatil) ale po několikaměsíční prokrastinaci (nejdříve frmol na konci roku, pak vnitrofiremní problémy, pak covid, pak ... v zásadě už jen prokrastinace) ze sponzorské firmy odešel původní jednatel, nadšený podporovatel, a slíbenou částku se mi už nepodařilo vydobýt. Po dohodě s @martinbilek  tedy žádám o zpětné překategorizování jako jednorázový grant.
+
+    Obecně PyData meetupy snad jsou dobrý nápad a tohle byl zatím nejúspěšnější talk, alespoň podle počtu shlédnutí záznamu na Youtube (>6k): https://www.youtube.com/watch?v=dewrzMPPLDU .
+
+Výbor o tomto elektronicky hlasoval 21. 12. 2020, kdy bylo hlasování uzavřeno s následujícím výsledkem:
+
+* Jan Javorek: ano
+
+* Jakub Vysoký: ano
+
+* Martin Bílek: ano
+
+
+Grant byl schválen.
+
 18. 3. 2020 - elektronické hlasování výboru
 --------------------------------------------
 
