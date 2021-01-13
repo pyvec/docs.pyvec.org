@@ -253,7 +253,7 @@ Je zásadní nikomu **neslibovat, že bude přednášku mít** a důkladně vysv
 Plošné bombardování
 ^^^^^^^^^^^^^^^^^^^
 
-Když je otevřeno CfP, je dobré to dát plošně vědět, protože existuje pár lidí, kterým toto oznámení stačí a následně něco do CfP pošlou. Není dobré se tím ale vyčerpávat, protože zas tak moc těch lidí není. Nezapomínat na e-mailové skupiny jako `django-cs <https://groups.google.com/forum/#!forum/django-cs>`__ a `konference py.cz <https://www.py.cz/mailman/listinfo/python>`__, kde jsou také lidé, kteří na toto mohou reagovat.
+Když je otevřeno CfP, je dobré to dát plošně vědět, protože existuje pár lidí, kterým toto oznámení stačí a následně něco do CfP pošlou. Není dobré se tím ale vyčerpávat, protože zas tak moc těch lidí není. Nezapomínat na e-mailové skupiny jako `django-cs <https://groups.google.com/forum/#!forum/django-cs>`__ a `konference py.cz <https://www.py.cz/KonferenceDiskuze>`__, kde jsou také lidé, kteří na toto mohou reagovat.
 
 Agregátory na Twitteru
 ^^^^^^^^^^^^^^^^^^^^^^
