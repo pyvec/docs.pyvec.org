@@ -185,8 +185,9 @@ epub_exclude_files = ['search.html']
 
 linkcheck_ignore = [
     r'http://127.0.0.1:\d+',  # localhost
-    r'https://docs.google.com/.+',  # links to non-public documents
-    r'https://twitter.com/.+',  # Twitter prevents this kind of requests
+    r'https://docs.google.com/.+',  # links to private documents
+    r'https://twitter.com/.+',  # they prevent this kind of requests
+    r'https://(www\.)?buffer.com.*',  # they seem to prevent the CI's IP range
 ]
 sphinx_tabs_valid_builders = ['linkcheck']
 
