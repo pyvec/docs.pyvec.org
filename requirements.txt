@@ -1,7 +1,7 @@
 -i https://pypi.org/simple/
 
 sphinx==3.4.3
-sphinx-tabs==2.0.0
+sphinx-tabs==2.0.1
 sphinxemoji==0.1.8
 sphinx-rtd-theme==0.5.1
 sphinx-autobuild==2020.9.1
