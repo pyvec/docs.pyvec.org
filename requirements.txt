@@ -1,6 +1,6 @@
 -i https://pypi.org/simple/
 
-sphinx==3.5.2
+sphinx==3.5.3
 sphinx-tabs==2.1.0
 sphinxemoji==0.1.8
 sphinx-rtd-theme==0.5.1
