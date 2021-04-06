@@ -311,12 +311,12 @@ PyCon CZ se organizuje od roku 2015 a je velká pravděpodobnost, že lidé, kte
 Open Source
 ^^^^^^^^^^^
 
-Lze projít `nejúspěšnější Open Source projekty na GitHubu <https://github.com/topics/python>`__  a v `jejich contributors <https://github.com/jakubroztocil/httpie/graphs/contributors>`__ identifikovat `lidi, kteří mají na projektu zásadní podíl <https://github.com/jakubroztocil>`__ a přitom by mohli dorazit na PyCon CZ s přednáškou nebo workshopem (tzn. buď je z jejich osobních profilů zřejmé, že běžně lítají po celém světě, nebo jsou někde z Evropy). Pozvat je můžeme e-mailem, ale klidně i `jen tweetem <https://twitter.com/honzajavorek/status/964410268913606659>`__.
+Lze projít `nejúspěšnější Open Source projekty na GitHubu <https://github.com/topics/python>`__  a v `jejich contributors <https://github.com/httpie/httpie/graphs/contributors>`__ identifikovat `lidi, kteří mají na projektu zásadní podíl <https://github.com/jakubroztocil>`__ a přitom by mohli dorazit na PyCon CZ s přednáškou nebo workshopem (tzn. buď je z jejich osobních profilů zřejmé, že běžně lítají po celém světě, nebo jsou někde z Evropy). Pozvat je můžeme e-mailem, ale klidně i `jen tweetem <https://twitter.com/honzajavorek/status/964410268913606659>`__.
 
 Probíhající události
 ^^^^^^^^^^^^^^^^^^^^
 
-Zjistíme si na `meetup.com <https://www.meetup.com/>`__ a `konfery.cz <https://konfery.cz/>`__, jaké relevantní (Python, Ruby, databáze, API, ...) meetupy probíhají v ČR a v Evropě během našeho CfP. Najdeme si jejich Twitter účet, oficiální Twitter hashtag, Facebookovou událost, apod. Na čas jejich konání naplánujeme zprávu, která poprosí organizátory o šíření zprávy o našem CfP, popřípadě pozve účastníky, aby na našem CfP participovali. Pokud je událost vícedenní, tweetujeme každý den. Reálné příklady:
+Zjistíme si na `meetup.com <https://www.meetup.com/>`__ a konfery.cz (zdá se, že tento web během pandemie skončil), jaké relevantní (Python, Ruby, databáze, API, ...) meetupy probíhají v ČR a v Evropě během našeho CfP. Najdeme si jejich Twitter účet, oficiální Twitter hashtag, Facebookovou událost, apod. Na čas jejich konání naplánujeme zprávu, která poprosí organizátory o šíření zprávy o našem CfP, popřípadě pozve účastníky, aby na našem CfP participovali. Pokud je událost vícedenní, tweetujeme každý den. Reálné příklady:
 
 - `Rusko <https://twitter.com/honzajavorek/status/963462774960599040>`__
 - `Německo <https://twitter.com/honzajavorek/status/963837746266636288>`__

@@ -188,6 +188,7 @@ linkcheck_ignore = [
     r'https://docs.google.com/.+',  # links to private documents
     r'https://twitter.com/.+',  # they prevent this kind of requests
     r'https://(www\.)?buffer.com.*',  # they seem to prevent the CI's IP range
+    r'https://cz\.pycon\.org/\d+/.+',  # https://pyvec.slack.com/archives/C4PPZNPDK/p1617716799001200
 ]
 sphinx_tabs_valid_builders = ['linkcheck']
 

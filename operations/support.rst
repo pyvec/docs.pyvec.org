@@ -3,7 +3,7 @@
 Podpora komunitních aktivit
 ===========================
 
-Pyvec nikomu neříká, co má dělat. Pomáhá těm, kteří se o něco snaží — je to servisní organizace. Má pod palcem `síť kontaktů <http://pyvec.slack.com/>`__, :ref:`finanční zdroje <financni-podpora>`, know-how, atd., kterými podporuje dobrovolníky s nápady a odhodláním. Pyvec primárně podporuje projekty, které jsou `otevřené <https://cs.wikipedia.org/wiki/Otev%C5%99en%C3%BD_software>`__ a `inkluzivní <https://cs.wikipedia.org/wiki/Inkluze_(sociologie)>`__.
+Pyvec nikomu neříká, co má dělat. Pomáhá těm, kteří se o něco snaží — je to servisní organizace. Má pod palcem `síť kontaktů <https://pyvec.slack.com/>`__, :ref:`finanční zdroje <financni-podpora>`, know-how, atd., kterými podporuje dobrovolníky s nápady a odhodláním. Pyvec primárně podporuje projekty, které jsou `otevřené <https://cs.wikipedia.org/wiki/Otev%C5%99en%C3%BD_software>`__ a `inkluzivní <https://cs.wikipedia.org/wiki/Inkluze_(sociologie)>`__.
 
 Dotazy pište na info@pyvec.org nebo do kanálu :slack:`#pyvec` na :ref:`Slacku <slack>`.
 
@@ -47,14 +47,14 @@ Máme účet na `domena.cz <https://www.domena.cz/>`__, kde pro českou Python k
 Pište na info@pyvec.org nebo v kanálu :slack:`#domeny` na :ref:`Slacku <slack>`.
 
 
-.. _gsuite:
+.. _google-workspace:
 
-GSuite
-------
+Google Workspace
+----------------
 
-Jako neziskovka máme k dispozici velmi výhodný tarif pro `G Suite <https://gsuite.google.com/>`__, tedy sadu aplikací od Google na vlastní doméně. Z těch je užitečná především emailová schránka. Umíme nastavit, aby fungovaly adresy jako info@pyladies.cz nebo praha@pyladies.cz.
+Jako neziskovka máme k dispozici velmi výhodný tarif pro `Google Workspace <https://workspace.google.com/>`__, tedy sadu aplikací od Google na vlastní doméně. Z těch je užitečná především emailová schránka. Umíme nastavit, aby fungovaly adresy jako info@pyladies.cz nebo praha@pyladies.cz.
 
-Pište co potřebujete na info@pyvec.org nebo v kanálu :slack:`#gsuite` na :ref:`Slacku <slack>`.
+Pište co potřebujete na info@pyvec.org nebo v kanálu :slack:`#google-workspace` na :ref:`Slacku <slack>`.
 
 
 Google Drive
@@ -62,7 +62,7 @@ Google Drive
 
 Máme sdílený Google Drive, kde se to hemží všemi možnými dokumenty potřebnými pro chystání a provoz komunitních akcí a projektů.
 
-Pro přístup pište na info@pyvec.org nebo v kanálu :slack:`#gsuite` na :ref:`Slacku <slack>`.
+Pro přístup pište na info@pyvec.org nebo v kanálu :slack:`#google-workspace` na :ref:`Slacku <slack>`.
 
 
 Poradenství ohledně GDPR

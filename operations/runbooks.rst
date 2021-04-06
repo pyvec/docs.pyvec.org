@@ -293,6 +293,6 @@ Příprava podkladů pro účetní závěrku
 #. :term:`Účetní` pošle zpět účetní závěrku a všechno k daňovému přiznání.
 
    .. note::
-      Účetní závěrky máme zatím rozházené po e-mailech a :ref:`Google Drive <gsuite>`. Toto bychom chtěli do budoucna vylepšit a závěrky podle :ref:`stanov <stanovy>` nechávat schvalovat členskou schůzí a zveřejňovat je.
+      Účetní závěrky máme zatím rozházené po e-mailech a :ref:`Google Drive <google-workspace>`. Toto bychom chtěli do budoucna vylepšit a závěrky podle :ref:`stanov <stanovy>` nechávat schvalovat členskou schůzí a zveřejňovat je.
 
 #. Nějaké z těch papírů (:term:`účetní <Účetní>` napíše jaké) podepíše předseda a pošle na finanční úřad.
