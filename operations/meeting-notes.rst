@@ -13,14 +13,14 @@ Zápisy jsou řazeny od nejnovějších po nejstarší. Zápisy schůzí před r
 11. 8. 2020 - elektronické hlasování výboru
 -------------------------------------------
 
-Dne 1. 8. Jan Čermák požádal emailem o přijetí za člena do spolku.
+Dne 1. 8. Jan Č. požádal emailem o přijetí za člena do spolku.
 Výbor o tomto elektronicky hlasoval 11. 8., kdy bylo hlasování uzavřeno s následujícím výsledkem:
 
 * Martin Bílek: ano
 * Jan Javorek: ano
 * Jakub Vysoký: ano
 
-Jan Čermák byl 11. 8. přijat za člena spolku.
+Jan Č. byl 11. 8. přijat za člena spolku.
 
 
 11. 12. 2019 - Schůze výboru
@@ -53,8 +53,8 @@ Pyladies trička
 ^^^^^^^^^^^^^^^
 V rámci slacku se domluvilo, Pyladies Pyvec přispěje asi 10k
 
-Filip Valder - Olomouc
-^^^^^^^^^^^^^^^^^^^^^^
+Filip V. - Olomouc
+^^^^^^^^^^^^^^^^^^
 Sponzoring pyvo v Olomouci. Filip zařizuje peníze od někoho, tyhle peníze se posílají do nějaké školy za nájem.
 
 Pyvec - standardní průtokáč. Takže se informujeme navzájem. My nikoho moc v Olomouci neznáme, jenom Honza tam jednou byl.
@@ -67,8 +67,8 @@ Přišel dopis od Prahy, že můžeme používat erb. Honza předá Mirovi, Mart
 
 Pyvec swag
 ^^^^^^^^^^
-Půllitry? Nebo něco dalšího? Starý pycon půllitr dělal Honza Javorek.
-Tomáš Ehrlich dodá, kde se to tenkrát dělalo, možná dobrý nápad na revshare s pyvama a prodávat
+Půllitry? Nebo něco dalšího? Starý pycon půllitr dělal Honza J.
+Tomáš E. dodá, kde se to tenkrát dělalo, možná dobrý nápad na revshare s pyvama a prodávat
 
 Trello issues
 ^^^^^^^^^^^^^
@@ -88,7 +88,7 @@ příště?
 21. 11. 2019 - elektronické hlasování výboru
 --------------------------------------------
 
-Dne 18. 11. Zuzana Javorková požádala o grant do výše 10 000 Kč na tisk triček pro PyLadies. Výbor o tomto elektronicky hlasoval 21. 11., kdy bylo hlasování uzavřeno s následujícím výsledkem:
+Dne 18. 11. Zuzana J. požádala o grant do výše 10 000 Kč na tisk triček pro PyLadies. Výbor o tomto elektronicky hlasoval 21. 11., kdy bylo hlasování uzavřeno s následujícím výsledkem:
 
 * Martin Bílek: ano
 * Jan Javorek: ano
@@ -206,7 +206,7 @@ Javorek a Bílek se sejdou dřív, možná na oběd.
 28. 9. 2019 - elektronické hlasování výboru
 -------------------------------------------
 
-Dne 8. 9. Radka Planková požádala emailem o přijetí za členku do spolku.
+Dne 8. 9. Radka P. požádala emailem o přijetí za členku do spolku.
 Výbor o tomto elektronicky hlasoval 28. 9., kdy bylo hlasování uzavřeno s následujícím výsledkem:
 
 * Jiří Bartoň: ano
@@ -215,7 +215,7 @@ Výbor o tomto elektronicky hlasoval 28. 9., kdy bylo hlasování uzavřeno s n�
 * Jakub Vysoký: ano
 * Aleš Zoulek: ano
 
-Radka Planková byla 28. 9. přijata za členku spolku.
+Radka P. byla 28. 9. přijata za členku spolku.
 
 
 6. 9. 2019 - elektronické hlasování výboru
@@ -223,9 +223,9 @@ Radka Planková byla 28. 9. přijata za členku spolku.
 
 O přijetí za členy do spolku emailem požádali:
 
-* Dne 2. 9. Ondřej Caletka,
-* dne 3. 9. Štěpánka Lucinová,
-* dne 4. 9. Zuzana Javorková.
+* Dne 2. 9. Ondřej C.,
+* dne 3. 9. Štěpánka L.,
+* dne 4. 9. Zuzana J.
 
 Výbor o těchto přihláškách jednorázově elektronicky hlasoval od 3. 8. do 6. 9., kdy bylo hlasování uzavřeno. Výsledek hlasování byl pro všechny přijímané členy stejný, následující:
 
@@ -242,14 +242,14 @@ Všichni zmínění byli 6. 9. přijati za členy spolku.
 
 O přijetí za členy do spolku emailem požádali:
 
-* Dne 24. 8. Tomáš Orsava a Miro Hrončok,
-* dne 26. 8. Lumír Balhar a Jaroslav Vysoký,
-* dne 27. 8. Anežka Müller, Iva Fingerová a Bára Drbohlavová.
+* Dne 24. 8. Tomáš O. a Miro H.,
+* dne 26. 8. Lumír B. a Jaroslav V.,
+* dne 27. 8. Anežka M., Iva F. a Bára D.
 
 Výbor o těchto přihláškách jednorázově elektronicky hlasoval od 31. 8. do 3. 9., kdy bylo hlasování uzavřeno s následujícím výsledkem:
 
-Tomáš Orsava
-^^^^^^^^^^^^
+Tomáš O.
+^^^^^^^^
 
 * Jiří Bartoň: ano
 * Martin Bílek: ano
@@ -271,7 +271,7 @@ Všichni zmínění byli 3. 9. přijati za členy spolku.
 2. 7. 2019 - elektronické hlasování výboru
 ------------------------------------------
 
-Dne 2. 6. Petr Viktorin požádal emailem o přijetí za člena do spolku.
+Dne 2. 6. Petr V. požádal emailem o přijetí za člena do spolku.
 Výbor o tomto jednorázově elektronicky hlasoval od 2. 7. do 12. 7., kdy bylo
 hlasování uzavřeno s následujícím výsledkem:
 
@@ -281,4 +281,4 @@ hlasování uzavřeno s následujícím výsledkem:
 * Jakub Vysoký: ano
 * Aleš Zoulek: ano
 
-Petr Viktorin byl 12. 7. přijat za člena spolku.
+Petr V. byl 12. 7. přijat za člena spolku.
