@@ -33,7 +33,7 @@ Admin
    :twitter:`honzajavorek`, :twitter:`lumirbalhar`, :twitter:`hroncok`, :twitter:`EnCuKou`, :twitter:`kvbik`
 
 Contributor
-   :twitter:`janbednarik`, :twitter:`JirkaV`, :twitter:`MartinCurlej`, :twitter:`_apophys_`, :twitter:`krcmar`, :twitter:`tbedrich`, :twitter:`aleszoulek`, :twitter:`lurkingideas`, :twitter:`JiriPsotka`, :twitter:`stibi`
+   :twitter:`janbednarik`, :twitter:`JirkaV`, :twitter:`MartinCurlej`, :twitter:`_apophys_`, :twitter:`krcmar`, :twitter:`tbedrich`, :twitter:`aleszoulek`, :twitter:`lurkingideas`, :twitter:`JiriPsotka`, :twitter:`stibi`, :twitter:`anezkamll`
 
 @pyconcz
 ^^^^^^^^
