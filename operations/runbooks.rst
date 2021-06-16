@@ -129,7 +129,7 @@ Jak používat palce na:
 * `Slacku <https://slack.com/intl/en-cz/help/articles/202931348-Use-emoji-and-emoticons>`__
 * `GitHubu <https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/>`__
 
-Na Slacku preferujeme palce bez zabarvení kůže (*skin tone*), tzn. ty základní žluté, aby se výsledek snadněji sčítal. Také do hlasování nemícháme žádné jiné emotikony než výše uvedené. Oči umožňují rozlišit nepřítomnost při hlasování (která ovlivňuje usnášeníschopnost) od zdržení se hlasování.
+Aby se výsledek snadněji sčítal, nemícháme do hlasování žádné jiné emotikony než výše uvedené. Oči umožňují rozlišit nepřítomnost při hlasování (která ovlivňuje usnášeníschopnost) od zdržení se hlasování.
 
 
 Návody pro výbor
