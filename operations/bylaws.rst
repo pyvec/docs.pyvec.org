@@ -322,7 +322,7 @@ a)  jméno a příjmení člena – fyzické osoby a okruh záležitostí, ve kt
 b)  název a identifikační číslo člena – právnické osoby a okruh záležitostí, ve kterých je tento člen oprávněn v rámci pověření spolek zastupovat (je-li takové pověření).
 
 .. note::
-    Toto zatím není realizováno, ale časem třeba bude - viz `pyvec/docs.pyvec.org#11 <https://github.com/pyvec/docs.pyvec.org/issues/11>`__, `pyvec/pyvec.org#22 <https://github.com/pyvec/pyvec.org/issues/22>`__, `pyvec/pyvec.org#19 <https://github.com/pyvec/pyvec.org/issues/19>`__, `pyvec/zapojse#1 <https://github.com/pyvec/zapojse/issues/1#issuecomment-242139241>`__…
+    Toto je realizováno na `pyvec.org/#members <https://pyvec.org/#members>`__.
 
 10.4.
 """""
