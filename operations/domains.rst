@@ -29,6 +29,8 @@ Aktuální stav domén spravovaných českou Python komunitou.
 +------------------------+-------------------+------------------+--------------------+-------------+---------------+------------------------------------------------------------------------------------------------------+
 | |:white_check_mark:|   | `pyvo.cz`_        | Michal Janík     | Pyvec, z.s.        | IGNUM       | Roští (Pyvec) |                                                                                                      |
 +------------------------+-------------------+------------------+--------------------+-------------+---------------+------------------------------------------------------------------------------------------------------+
+| |:white_check_mark:|   | `pycamp.cz`_      | —                | Pyvec, z.s.        | IGNUM       | —             |                                                                                                      |
++------------------------+-------------------+------------------+--------------------+-------------+---------------+------------------------------------------------------------------------------------------------------+
 
 
 .. _python.cz: https://www.nic.cz/whois/domain/python.cz/
@@ -41,6 +43,7 @@ Aktuální stav domén spravovaných českou Python komunitou.
 .. _pycon.cz: https://www.nic.cz/whois/domain/pycon.cz/
 .. _pyworking.cz: https://www.nic.cz/whois/domain/pyworking.cz/
 .. _pyvo.cz: https://www.nic.cz/whois/domain/pyvo.cz/
+.. _pycamp.cz: https://www.nic.cz/whois/domain/pycamp.cz/
 
 .. _v diskusi na Slacku: https://pyvec.slack.com/archives/C6ZMKC50E/p1574335038001900
 
