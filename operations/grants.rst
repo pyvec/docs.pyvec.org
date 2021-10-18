@@ -6,6 +6,36 @@ Od roku 2020 o grantech :term:`výbor <Výbor>` hlasuje prostřednictvím repozi
 .. Soubor operations/grants.rst je generován skriptem _scripts/generate_grants.py ze šablony operations/grants.rst.template. Neupravovat ručně!
 
 
+18. 10. 2021 - elektronické hlasování výboru
+--------------------------------------------
+
+Dne 25. 8. 2021 požádal uživatel `@tomasbedrich <https://github.com/tomasbedrich>`_ o grant `Prostory pro plzeňské Pyvo 09/2021 <https://github.com/pyvec/money/issues/6>`_:
+
+.. code-block:: text
+
+    **Kdo jste?**
+    Tomáš Bedřich, organizátor plzeňského Pyva
+
+    **Kolik potřebujete? (aspoň odhad nebo rozmezí)**
+    2500 bez DPH
+
+    **Na jakou věc to je?**
+    Pronájem prostor Moving Station pro plzeňské Pyvo 09/2021
+
+    **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
+    Beer Factory zavřeli, HUB 2.0 bohužel nevyhovuje z více hledisek (organizace, akustika, vlhké prostředí). Proto jsme hledali alternativní prostory. Shodli jsme se, že bychom rádi vyzkoušeli Moving Station, jakožto prostor na úrovni a zároveň plzeňské kulturní centrum. Později uvidíme, jestli nám Moving Station bude vyhovovat. Pak bychom buď navázali žádostí o paušální garant, nebo máme nabídku sponzoringu od firmy Lynt.
+
+Výbor o tomto elektronicky hlasoval 18. 10. 2021, kdy bylo hlasování uzavřeno s následujícím výsledkem:
+
+* Jan Javorek: ano
+
+* Martin Bílek: ano
+
+* Jakub Vysoký: ano
+
+
+Grant byl schválen.
+
 21. 12. 2020 - elektronické hlasování výboru
 --------------------------------------------
 
