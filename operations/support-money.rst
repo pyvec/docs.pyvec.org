@@ -35,7 +35,7 @@ Otočení sponzorských peněz
 
 Jestliže na svou věc seženete sponzora, Pyvec mu pošle fakturu na potřebnou částku a peníze od sponzora uloží na svůj transparentní účet. Z těchto peněz vám věc oproti účetnímu dokladu :ref:`proplatí <jak-proplatit>`, a to bez nutnosti schvalování :term:`výborem <Výbor>`. Pokud z peněz něco zbude, zůstanou na účtu Pyvce pro :ref:`granty <granty>`. Příklad:
 
-   Jiřík každý měsíc :ref:`organizuje Python sraz <srazy>` v Zeleném Údolí. V Zeleném Údolí je bohužel jen jediný vhodný podnik, kde lze sraz konat, a to Hospoda na Mýtince. Ta si za akce účtuje pronájem 500 Kč za večer. Jiřík sežene sponzora srazu, místní firmu Červený Klobouk, a.s., která zaplatí pronájem na celý rok. Jiřík s touto dohodou seznámí Pyvec a poprosí jej, aby transakci vyřešil. Pyvec pošle Červenému Klobouku fakturu na 6000 Kč. Jiřík každý měsíc nájem zaplatí (podle :ref:`návodu na proplácení <jak-proplatit>`), doklad pošle Pyvci, a ten mu jej proplatí. Když to Jiříka přestane bavit, řekne Hospodě na Mýtince, aby rovnou poslala Pyvci fakturu za několik měsíců, a Pyvec ji proplatí.
+   Jiřík každý měsíc :ref:`organizuje Python sraz <srazy>` v Zeleném Údolí. V Zeleném Údolí je bohužel jen jediný vhodný podnik, kde lze sraz konat, a to Hospoda na Mýtince. Ta si za akce účtuje pronájem 500 Kč za večer. Jiřík sežene sponzora srazu, místní firmu Červený Klobouk, a.s., která zaplatí pronájem na celý rok. Jiřík s touto dohodou seznámí Pyvec a poprosí jej, aby transakci vyřešil. Pyvec pošle Červenému Klobouku fakturu na 6000 Kč. Jiřík každý měsíc nájem zaplatí podle :ref:`návodu na proplácení <jak-proplatit>`, doklad pošle Pyvci, a ten mu jej proplatí. Když to Jiříka přestane bavit, řekne Hospodě na Mýtince, aby rovnou poslala Pyvci fakturu za několik měsíců, a Pyvec ji proplatí.
 
 Na příkladu je vidět hned několik výhod tohoto modelu:
 
@@ -128,7 +128,7 @@ Postup získání grantu je :ref:`stejný jako u jednorázových <granty>`, jen 
       **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
       Kurzy prošlo za poslední rok 40 lidí ročně a mají dlouhodobě skvělé ohlasy od účastníků.
 
-   Výbor o tomto zahlasuje a odepíše, že grant bude přidělen. Následně když Lumír kupuje lístečky, schová si účtenku (příp. fakturu psanou na Pyvec). Když Věrka, spoluorganizátorka kurzů, bude kupovat prodlužovačku, schová si účtenku taky. Dá ji Lumírovi a ten jí účtenku proplatí ze svého. Takto Lumír nakumuluje účtenky a ke konci roku si nechá všechny proplatit od Pyvce. Pyvec mu bez dalšího schvalování proplatí účtenky do výše 1200 Kč.
+   Výbor o tomto zahlasuje a odepíše, že grant bude přidělen. Následně když Lumír kupuje lístečky, schová si účtenku, případně fakturu psanou na Pyvec. Když Věrka, spoluorganizátorka kurzů, bude kupovat prodlužovačku, schová si účtenku taky. Dá ji Lumírovi a ten jí účtenku proplatí ze svého. Takto Lumír nakumuluje účtenky a ke konci roku si nechá všechny proplatit od Pyvce. Pyvec mu bez dalšího schvalování proplatí účtenky do výše 1200 Kč.
 
 
 Účty Pyvce
