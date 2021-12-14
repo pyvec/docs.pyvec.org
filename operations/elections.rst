@@ -1,7 +1,7 @@
 Volby do výboru
 ===============
 
-Funkční období :term:`výboru <Výbor>` je dle :ref:`stanov <stanovy>`_ tři roky, členové spolku ze svých řad volí pět členů. To se děje na členské schůzi, kterou výbor k této příležitosti svolává.
+Funkční období :term:`výboru <Výbor>` je dle :ref:`stanov <stanovy>` tři roky, členové spolku ze svých řad volí pět členů. To se děje na členské schůzi, kterou výbor k této příležitosti svolává.
 
 Nově zvolený výbor si potom sám volí, kdo z těchto pěti bude předseda a případně kdo bude pokladník (když se nerozhodne volit pokladníka, je jím automaticky předseda).
 
