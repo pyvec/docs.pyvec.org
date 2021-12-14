@@ -69,7 +69,7 @@ Konec voleb
     - aktualizuje role členů v `seznamu členů <https://docs.google.com/spreadsheets/d/1n8hzBnwZ5ANkUCvwEy8rWsXlqeAAwu-5JBodT5OJx_I/edit#gid=0>`__, čímž by se měl aktualizovat i web Pyvce
 - Starý výbor musí zápis zaslat všem členům e-mailem, opět na adresy ze seznamu členů. Toto je poslední oficiální úkol starého výboru.
 - Nový výbor si musí zvolit předsedu (viz dále).
-- Nový výbor dostává první závažný úkol, při kterém jej ideálně stínuje starý výbor a pomáhá mu k jeho dokončení: Kontaktovat právničky spolku, `AK Šichová <https://aksichova.cz/>`__, aby připravily papíry, kodifikovaly výsledek voleb a změnu zanesly do státního rejstříku (úkol není hotov, dokud na `justice.cz <https://www.justice.cz>`__ nejsou u Pyvce vidět nová jména).
+- Nový výbor dostává první závažný úkol, při kterém jej ideálně stínuje starý výbor a pomáhá mu k jeho dokončení: Kontaktovat právničky spolku, `AK Šichová <https://aksichova.cz/>`__, aby připravily papíry, kodifikovaly výsledek voleb a změnu zanesly do státního rejstříku (úkol není hotov, dokud na justice.cz nejsou u Pyvce vidět nová jména).
 
 Volba předsedy
 --------------
