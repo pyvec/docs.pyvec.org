@@ -64,7 +64,7 @@ Konec voleb
 - Po týdnu voleb se uzavře hlasování a starý výbor vyhodnotí hlasy, vyhlásí výsledky přes :slack:`#pyvec-members`.
 - Starý a nový výbor si naplánují meeting, kde se seznámí a dojde k cermoniálu předání moci. Starý výbor předá novému Trello board a zodpoví všechny otázky.
 - Starý výbor zajistí vyhotovení zápisu ze zasedání členské schůze:
-    - Vyhotoví :ref:`zápis do této dokumentace <zapisy>`_,
+    - Vyhotoví :ref:`zápis do této dokumentace <zapisy>`,
     - aktualizuje `soubor board.yml <https://github.com/pyvec/docs.pyvec.org/blob/master/board.yml>`_,
     - aktualizuje role členů v `seznamu členů <https://docs.google.com/spreadsheets/d/1n8hzBnwZ5ANkUCvwEy8rWsXlqeAAwu-5JBodT5OJx_I/edit#gid=0>`__, čímž by se měl aktualizovat i web Pyvce
 - Starý výbor musí zápis zaslat všem členům e-mailem, opět na adresy ze seznamu členů. Toto je poslední oficiální úkol starého výboru.
