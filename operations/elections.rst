@@ -60,13 +60,18 @@ Mechanika voleb
 Konec voleb
 -----------
 
-- Členská schůze přijímá rozhodnutí nadpoloviční většinou hlasů přítomných členů.
 - Po týdnu voleb se uzavře hlasování a starý výbor vyhodnotí hlasy, vyhlásí výsledky přes :slack:`#pyvec-members`.
 - Starý a nový výbor si naplánují meeting, kde se seznámí a dojde k cermoniálu předání moci. Starý výbor předá novému Trello board a zodpoví všechny otázky.
 - Starý výbor zajistí vyhotovení zápisu ze zasedání členské schůze:
     - Vyhotoví :ref:`zápis do této dokumentace <zapisy>`,
     - aktualizuje `soubor board.yml <https://github.com/pyvec/docs.pyvec.org/blob/master/board.yml>`_,
     - aktualizuje role členů v `seznamu členů <https://docs.google.com/spreadsheets/d/1n8hzBnwZ5ANkUCvwEy8rWsXlqeAAwu-5JBodT5OJx_I/edit#gid=0>`__, čímž by se měl aktualizovat i web Pyvce
+- Předat přístupy:
+    - K seznamu členů tak, aby do něj mohl jen nový výbor,
+    - placení sídla Pyvce,
+    - přístup k bankovnímu účtu Pyvce a PayPalu, zrušit bankovní kartu a případně vytvořit novou,
+    - předání papírové dokumentace,
+    - a další (asi nás nenapadne vše předem, budeme měnit a dokumentovat zde za pochodu).
 - Starý výbor musí zápis zaslat všem členům e-mailem, opět na adresy ze seznamu členů. Toto je poslední oficiální úkol starého výboru.
 - Nový výbor si musí zvolit předsedu (viz dále).
 - Nový výbor dostává první závažný úkol, při kterém jej ideálně stínuje starý výbor a pomáhá mu k jeho dokončení: Kontaktovat právničky spolku, `AK Šichová <https://aksichova.cz/>`__, aby připravily papíry, kodifikovaly výsledek voleb a změnu zanesly do státního rejstříku (úkol není hotov, dokud na justice.cz nejsou u Pyvce vidět nová jména).
