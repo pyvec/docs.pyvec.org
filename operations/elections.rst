@@ -34,7 +34,7 @@ Příprava
     Kandidatury lze umístit sem do dokumentace, nebo možná lépe na blog? Dořešit.
 
 .. note::
-    EPS nelimituje kandidáty na přihlášené předem: _Please note that our bylaws do not restrict nominations to people on this list. It is even possible to self-nominate or nominate other candidates at the GA itself. However, in the interest of giving members a better chance to review the candidate list, we’d like to encourage all nominations to be made before the GA._ Dořešit.
+    EPS nelimituje kandidáty na přihlášené předem: *Please note that our bylaws do not restrict nominations to people on this list. It is even possible to self-nominate or nominate other candidates at the GA itself. However, in the interest of giving members a better chance to review the candidate list, we’d like to encourage all nominations to be made before the GA.* Dořešit.
 
 Začátek voleb
 -------------
