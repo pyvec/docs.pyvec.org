@@ -17,4 +17,5 @@ kolem `programovacího jazyka Python <https://python.cz>`__. Její cíle jsou fo
    meeting-notes
    grants
    bylaws
+   elections
    glossary
