@@ -72,7 +72,7 @@ Co předat
 Tento seznam je potřeba průběžně aktualizovat a dokumentovat během toho, jak bude nový výbor narážet na místa, kam jim ještě chybí přístupy:
 
 - Přístupy k seznamu členů tak, aby do něj mohl jen nový výbor,
-- [Trello výboru](https://trello.com/b/6GjKGJfq/board),
+- `Trello výboru <https://trello.com/b/6GjKGJfq/board>`__,
 - placení sídla Pyvce,
 - přístup k bankovnímu účtu Pyvce a PayPalu, zrušit bankovní kartu a případně vytvořit novou,
 - předání papírové dokumentace spolku (šanon).
