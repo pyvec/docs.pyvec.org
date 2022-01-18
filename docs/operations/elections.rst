@@ -23,8 +23,12 @@ Příprava
 - Někdo z výboru vezme e-mailové adresy členů ze `seznamu členů <https://docs.google.com/spreadsheets/d/1n8hzBnwZ5ANkUCvwEy8rWsXlqeAAwu-5JBodT5OJx_I/edit#gid=0>`__ a pošle jim pozvánku na členskou schůzi. Pozvánka musí obsahovat místo, čas a program jednání členské schůze. Kromě toho by měl výbor schůzi oznámit i v kanálu :slack:`#pyvec-members`. (Pro inspiraci, pozvánka na členskou schůzi `EuroPython Society <https://www.europython-society.org/europython-society-general-assembly-2020/>`__.)
 - Výbor dá členům vědět, jak lze podávat nominace, jak kandidovat. Kandidovat do výboru může jakýkoliv člen Pyvce.
 - Ideálně se pokusí členy motivovat k tomu, aby kandidovali, a to komunikací s členy, ukazováním toho, jak výbor pracuje, jak vypadá běžná schůze výboru (např. zveřejněním video nahrávky), apod. Výbor může také neformálně oslovovat vhodné kandidáty a přesvědčovat je, že mají kandidovat.
+- Členové mohou někoho nominovat a tím jej motivovat ke kandidatuře, ale s kandidaturou musí nakonec dotyčný souhlasit, aby byla platná.
 - Přihlášky se oznamují v kanálu :slack:`#pyvec-members`. (Pro inspiraci, `kandidatury do EuroPython Society <https://www.europython-society.org/list-of-eps-board-candidates-for-20192020/>`__.) Seznam kandidátů by bylo dobré zapisovat třeba sem do této stránky, ať je někde přehledný seznam. Pozor na GDPR, kontrolovat v `seznamu členů <https://docs.google.com/spreadsheets/d/1n8hzBnwZ5ANkUCvwEy8rWsXlqeAAwu-5JBodT5OJx_I/edit#gid=0>`__, zda daná osoba může být někde veřejně takto prezentovaná.
 - Neomezujeme kandidáty na ty přihlášené předem. Kandidáti se mohou navrhnout nebo nominovat jiné kandidáty klidně až v průběhu hlasování. Je ale pro hlasující lepší, když se mohou s kandidáty seznámit předem.
+
+.. note::
+    Dořešit, zda se opravdu mohou kandidáti přidávat nebo ubírat v průběhu voleb. Závisí na zvoleném technickém řešení, zda umožňuje měnit hlas v průběhu týdne.
 
 Začátek voleb
 -------------
