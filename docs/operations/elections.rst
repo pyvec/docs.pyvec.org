@@ -12,8 +12,7 @@ Kdy se volí
 -----------
 
 - Předchozí volba: **8.4.2019**
-- Příští volba: **?.?.2022**, předpokládá se termín březen/duben
-- Příprava pro rok 2022 začíná: od 1. ledna
+- Příští volba: **21.3.2022**
 
 Příprava
 --------
