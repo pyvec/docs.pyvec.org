@@ -194,9 +194,6 @@ linkcheck_ignore = [
 ]
 sphinx_tabs_valid_builders = ['linkcheck']
 
-# workaround for https://github.com/djungelorm/sphinx-tabs/issues/39
-sphinx_tabs_nowarn = True
-
 
 # -- Options for todo extension ----------------------------------------------
 
