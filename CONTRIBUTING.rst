@@ -22,7 +22,7 @@ Když toho upravujete víc, nebo máte zálusk na nějaké složitější kejkle
 Běžná práce
 -----------
 
-#. Ve virtuálním prostředí spusťte projekt: ``python -m sphinx-autobuild . _build``
+#. Ve virtuálním prostředí spusťte projekt: ``sphinx-autobuild . _build``
 #. Otevřete si v prohlížeči `<http://127.0.0.1:8000>`_
 #. V editoru upravujete texty a v prohlížeči si kontrolujete výsledek
 #. Projekt zastavíte v terminálu pomocí :kbd:`Ctrl+C`
