@@ -183,13 +183,13 @@ epub_exclude_files = ['search.html']
 # -- Extension configuration -------------------------------------------------
 
 linkcheck_ignore = [
-    r'http://127.0.0.1:\d+',  # localhost
-    r'https://docs.google.com/.+',  # links to private documents
+    r'http://127\.0\.0\.1:\d+',  # localhost
+    r'https://docs\.google\.com/.+',  # links to private documents
 
     # crawling/DDoS protection
-    r'https://twitter.com/.+',
-    r'https://(www\.)?buffer.com.*',
-    r'https://www.nytimes.com/.*',
+    r'https://twitter\.com/.+',
+    r'https://(www\.)?buffer\.com.*',
+    r'https://www\.nytimes\.com/.*',
 
     # see https://pyvec.slack.com/archives/C4PPZNPDK/p1617716799001200
     r'https://cz\.pycon\.org/\d+/.+',
