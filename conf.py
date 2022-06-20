@@ -14,8 +14,8 @@ sys.path.append(os.path.abspath('_extensions'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'Dokumentace\u00a0české Python\u00a0komunity'
-copyright = '2015, Pyvec, z.s.'
+project = 'Dokumentace české Python komunity'
+copyright = '2022, Pyvec, z.s.'
 author = 'Pyvec, z.s.'
 
 # The short X.Y version
