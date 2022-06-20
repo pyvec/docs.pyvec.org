@@ -37,7 +37,6 @@ extensions = [
     'sphinx.ext.doctest',
     'sphinx.ext.todo',
     'sphinx.ext.githubpages',
-    'sphinx_tabs.tabs',
     'sphinxemoji.sphinxemoji',
     'slack',
     'twitter',
@@ -192,7 +191,6 @@ linkcheck_ignore = [
     # https://pyvec.slack.com/archives/C4PPZNPDK/p1617716799001200
     r'https://cz\.pycon\.org/\d+/.+',
 ]
-sphinx_tabs_valid_builders = ['linkcheck']
 
 
 # -- Options for todo extension ----------------------------------------------
