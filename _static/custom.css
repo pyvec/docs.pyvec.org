@@ -6,18 +6,6 @@
 }
 
 /*
-  Workaround for https://github.com/djungelorm/sphinx-tabs/pull/35
-*/
-.rst-content .section ul:last-child,
-.rst-content .toctree-wrapper ul:last-child,
-article ul:last-child {
-  margin-bottom: 24px;
-}
-.rst-content .tab ul:last-child {
-  margin-bottom: 0;
-}
-
-/*
   Fixing strange behavior of the RTD theme
 */
 .rst-content .section ol li ul,
