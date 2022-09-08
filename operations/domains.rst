@@ -13,23 +13,23 @@ Aktuální stav domén spravovaných českou Python komunitou.
 +------------------------+-------------------+------------------+--------------------+-------------+---------------+------------------------------------------------------------------------------------------------------+
 | |:zzz:|                | `py.cz`_          | Jára Altmann     | Jára Altmann       | IGNUM       | ZAGAMMA       | Není pod našimi křídly. Nikdy se nedotáhlo sloučení py.cz s novou komunitou vznikající po roce 2010. |
 +------------------------+-------------------+------------------+--------------------+-------------+---------------+------------------------------------------------------------------------------------------------------+
-| |:white_check_mark:|   | `pyvec.cz`_       | Vítek Pliska     | Pyvec, z.s.        | IGNUM       | IGNUM (Pyvec) |                                                                                                      |
+| |:white_check_mark:|   | `pyvec.cz`_       | Vítek Pliska     | Pyvec, z.s.        | WEDOS       | WEDOS (Pyvec) |                                                                                                      |
 +------------------------+-------------------+------------------+--------------------+-------------+---------------+------------------------------------------------------------------------------------------------------+
-| |:construction:|       | `pyvec.com`_      | Vítek Pliska     | Vítek Pliska       | IGNUM       | IGNUM (Pyvec) | Kontakt bychom měli zmigrovat na Pyvec.                                                              |
+| |:white_check_mark:|   | `pyvec.com`_      | Vítek Pliska     | Pyvec, z.s.        | WEDOS       | WEDOS (Pyvec) |                                                                                                      |
 +------------------------+-------------------+------------------+--------------------+-------------+---------------+------------------------------------------------------------------------------------------------------+
-| |:construction:|       | `pyvec.org`_      | Vítek Pliska     | Vítek Pliska       | IGNUM       | IGNUM (Pyvec) | Kontakt bychom měli zmigrovat na Pyvec.                                                              |
+| |:white_check_mark:|   | `pyvec.org`_      | Vítek Pliska     | Pyvec, z.s.        | WEDOS       | WEDOS (Pyvec) | Narozdíl od ostatních domén je kontaktní email info@pyvec.cz, abychom zabránili deadlocku.           |
 +------------------------+-------------------+------------------+--------------------+-------------+---------------+------------------------------------------------------------------------------------------------------+
-| |:white_check_mark:|   | `pydata.cz`_      | Petr Šimeček     | Pyvec, z.s.        | IGNUM       | IGNUM (Pyvec) |                                                                                                      |
+| |:white_check_mark:|   | `pydata.cz`_      | Petr Šimeček     | Pyvec, z.s.        | WEDOS       | WEDOS (Pyvec) |                                                                                                      |
 +------------------------+-------------------+------------------+--------------------+-------------+---------------+------------------------------------------------------------------------------------------------------+
-| |:white_check_mark:|   | `pyladies.cz`_    | Honza Javorek    | Pyvec, z.s.        | IGNUM       | IGNUM (Pyvec) |                                                                                                      |
+| |:white_check_mark:|   | `pyladies.cz`_    | Honza Javorek    | Pyvec, z.s.        | WEDOS       | WEDOS (Pyvec) |                                                                                                      |
 +------------------------+-------------------+------------------+--------------------+-------------+---------------+------------------------------------------------------------------------------------------------------+
-| |:construction:|       | `pycon.cz`_       | Radek Šimko      | Pyvec, z.s.        | IGNUM       | AWS           | DNS je stále na AWS Tomáše Ehrlicha, návod jak to zmigrovat je `v diskusi na Slacku`_.               |
+| |:white_check_mark:|   | `pycon.cz`_       | Radek Šimko      | Pyvec, z.s.        | WEDOS       | WEDOS (Pyvec) |                                                                                                      |
 +------------------------+-------------------+------------------+--------------------+-------------+---------------+------------------------------------------------------------------------------------------------------+
-| |:white_check_mark:|   | `pyworking.cz`_   | Pyvec, z.s.      | Pyvec, z.s.        | IGNUM       | IGNUM (Pyvec) |                                                                                                      |
+| |:white_check_mark:|   | `pyworking.cz`_   | Pyvec, z.s.      | Pyvec, z.s.        | WEDOS       | WEDOS (Pyvec) |                                                                                                      |
 +------------------------+-------------------+------------------+--------------------+-------------+---------------+------------------------------------------------------------------------------------------------------+
-| |:white_check_mark:|   | `pyvo.cz`_        | Michal Janík     | Pyvec, z.s.        | IGNUM       | Roští (Pyvec) |                                                                                                      |
+| |:white_check_mark:|   | `pyvo.cz`_        | Michal Janík     | Pyvec, z.s.        | WEDOS       | Roští (Pyvec) |                                                                                                      |
 +------------------------+-------------------+------------------+--------------------+-------------+---------------+------------------------------------------------------------------------------------------------------+
-| |:white_check_mark:|   | `pycamp.cz`_      | —                | Pyvec, z.s.        | IGNUM       | —             |                                                                                                      |
+| |:white_check_mark:|   | `pycamp.cz`_      | —                | Pyvec, z.s.        | WEDOS       | —             |                                                                                                      |
 +------------------------+-------------------+------------------+--------------------+-------------+---------------+------------------------------------------------------------------------------------------------------+
 
 
@@ -48,10 +48,4 @@ Aktuální stav domén spravovaných českou Python komunitou.
 .. _v diskusi na Slacku: https://pyvec.slack.com/archives/C6ZMKC50E/p1574335038001900
 
 
-Přístup do účtu Pyvce na `domena.cz <https://www.domena.cz>`__ mají:
-
-- členové :term:`výboru <Výbor>`
-- Petr Viktorin
-- Vítek Pliska
-
-Potřebujete-li řešit něco s doménami, pište na info@pyvec.org nebo do kanálu :slack:`#domeny` na :ref:`Slacku <slack>`.
+Přístup do účtu Pyvce v `administraci WEDOS <https://client.wedos.com>`__ mají členové :term:`výboru <Výbor>`. Potřebujete-li řešit něco s doménami, pište na info@pyvec.org nebo do kanálu :slack:`#domeny` na :ref:`Slacku <slack>`.
