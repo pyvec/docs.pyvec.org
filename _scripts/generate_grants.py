@@ -53,6 +53,11 @@ def get_votes(reactions, voted_at, board_history=None):
                 yield {'name': name, 'text': text}
 
 
+def get_lock_date(events):
+    for event in reversed(events):
+        if event['event'] == 'locked':
+            return to_date(event['created_at'])
+
 if __name__ == '__main__':
     res = requests.get(GITHUB_API_URL, headers=GITHUB_API_HEADERS,
                        params={'per_page': 100, 'state': 'closed'})
@@ -60,17 +65,24 @@ if __name__ == '__main__':
 
     grants = []
     for issue in res.json():
-        voted_at = to_date(issue['closed_at'])
-
-        res = requests.get(issue['reactions']['url'],
-                           headers=GITHUB_API_HEADERS)
-        res.raise_for_status()
-        votes = list(get_votes(res.json(), voted_at))
 
         labels = [label['name'] for label in issue['labels']]
         if 'approved' not in labels and 'rejected' not in labels:
             # skip unlabeled, e.g. https://github.com/pyvec/money/issues/1
             continue
+
+        if issue['locked']:
+            res = requests.get(issue['events_url'],
+                            headers=GITHUB_API_HEADERS)
+            res.raise_for_status()
+            voted_at = get_lock_date(res.json())
+        else:
+            voted_at = to_date(issue['closed_at'])
+
+        res = requests.get(issue['reactions']['url'],
+                           headers=GITHUB_API_HEADERS)
+        res.raise_for_status()
+        votes = list(get_votes(res.json(), voted_at))
 
         grants.append({
             'title': issue['title'],
