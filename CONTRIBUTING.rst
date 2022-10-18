@@ -37,6 +37,8 @@ Slack
 
 Při psaní lze psát ``:slack:`#pyladies``` nebo i jenom ``:slack:`pyladies```, což vytvoří odkaz na kanál :slack:`#pyladies` na Pyvec Slacku. Funguje to díky vlastnímu rozšíření Sphinxu, které lze najít v souboru ``_extensions/slack.py``.
 
+.. _docs-pyvec-rtd:
+
 ReadTheDocs
 -----------
 
