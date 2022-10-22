@@ -40,6 +40,7 @@ extensions = [
     'sphinxemoji.sphinxemoji',
     'slack',
     'twitter',
+    'gh_repo',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
