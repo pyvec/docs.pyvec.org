@@ -65,7 +65,7 @@ Continuous Integration
 
 Na repozitáři jsou zapojeny `GitHub Actions <https://github.com/pyvec/docs.pyvec.org/actions>`_. Kontrolka:
 
-.. image:: https://github.com/pyvec/docs.pyvec.org/workflows/Main/badge.svg
+.. image:: https://github.com/pyvec/docs.pyvec.org/actions/workflows/build.yml/badge.svg
     :target: https://github.com/pyvec/docs.pyvec.org/actions
     :alt: Continuous Integration Status
 
