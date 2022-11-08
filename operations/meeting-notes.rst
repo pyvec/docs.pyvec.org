@@ -3,7 +3,7 @@
 Zápisy ze schůzí
 ================
 
-Zápisy jsou řazeny od nejnovějších po nejstarší. Zápisy schůzí před rokem 2019 jsou v `tomto dokumentu <https://docs.google.com/document/d/1fNOqEpoddNOB52PG-tCT6Yzw3AqHZnDE6jY08zuEywE/edit>`__. Termín :term:`výbor <Výbor>` je zaměnitelný s termínem :term:`board <Board>`.
+Zápisy ze schůzí aktuálního výboru pro funkční období 2022-2025 jsou k nahlédnutí ve `sdíleném dokumentu <https://docs.google.com/document/d/1DN-HNK8rtwjEHViK1iYNKZ1UQ1Dzik5Rz5wNBtZuFdA/edit?usp=sharing>`__. Starší zápisy jsou pak k nalezení níže a jsou řazeny od nejnovějších po nejstarší. Nejstarší zápisy ze schůzí před rokem 2019 jsou v `tomto dokumentu <https://docs.google.com/document/d/1fNOqEpoddNOB52PG-tCT6Yzw3AqHZnDE6jY08zuEywE/edit>`__. Termín :term:`výbor <Výbor>` je zaměnitelný s termínem :term:`board <Board>`.
 
 .. contents:: Zápisy
    :depth: 1
