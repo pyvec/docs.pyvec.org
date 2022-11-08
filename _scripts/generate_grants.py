@@ -58,6 +58,7 @@ def get_lock_date(events):
         if event['event'] == 'locked':
             return to_date(event['created_at'])
 
+
 if __name__ == '__main__':
     res = requests.get(GITHUB_API_URL, headers=GITHUB_API_HEADERS,
                        params={'per_page': 100, 'state': 'closed'})
@@ -73,9 +74,14 @@ if __name__ == '__main__':
 
         if issue['locked']:
             res = requests.get(issue['events_url'],
-                            headers=GITHUB_API_HEADERS)
+                               headers=GITHUB_API_HEADERS,
+                               params={'per_page': 100})
             res.raise_for_status()
-            voted_at = get_lock_date(res.json())
+
+            if res.headers.get('link'):
+                raise NotImplementedError(f"The number of events of issue #{issue['number']} is paginated and this code isn't yet designed to handle this!")
+            else:
+                voted_at = get_lock_date(res.json())
         else:
             voted_at = to_date(issue['closed_at'])
 
