@@ -79,7 +79,8 @@ if __name__ == '__main__':
             res.raise_for_status()
 
             if res.headers.get('link'):
-                raise NotImplementedError(f"The number of events of issue #{issue['number']} is paginated and this code isn't yet designed to handle this!")
+                raise NotImplementedError(f"The number of events of issue #{issue['number']} "
+                                          "is paginated and this code isn't yet designed to handle this!")
             else:
                 voted_at = get_lock_date(res.json())
         else:
