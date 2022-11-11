@@ -6,7 +6,7 @@ Od roku 2020 o grantech :term:`výbor <Výbor>` hlasuje prostřednictvím repozi
 .. Soubor operations/grants.rst je generován skriptem _scripts/generate_grants.py ze šablony operations/grants.rst.template. Neupravovat ručně!
 
 
-18. 10. 2021 - elektronické hlasování výboru
+15. 9. 2021 - elektronické hlasování výboru
 --------------------------------------------
 
 Dne 25. 8. 2021 požádal uživatel `@tomasbedrich <https://github.com/tomasbedrich>`_ o grant `Prostory pro plzeňské Pyvo 09/2021 <https://github.com/pyvec/money/issues/6>`_:
@@ -25,7 +25,7 @@ Dne 25. 8. 2021 požádal uživatel `@tomasbedrich <https://github.com/tomasbedr
     **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
     Beer Factory zavřeli, HUB 2.0 bohužel nevyhovuje z více hledisek (organizace, akustika, vlhké prostředí). Proto jsme hledali alternativní prostory. Shodli jsme se, že bychom rádi vyzkoušeli Moving Station, jakožto prostor na úrovni a zároveň plzeňské kulturní centrum. Později uvidíme, jestli nám Moving Station bude vyhovovat. Pak bychom buď navázali žádostí o paušální garant, nebo máme nabídku sponzoringu od firmy Lynt.
 
-Výbor o tomto elektronicky hlasoval 18. 10. 2021, kdy bylo hlasování uzavřeno s následujícím výsledkem:
+Výbor o tomto elektronicky hlasoval 15. 9. 2021, kdy bylo hlasování uzavřeno s následujícím výsledkem:
 
 * Jan Javorek: ano
 
@@ -72,7 +72,43 @@ Výbor o tomto elektronicky hlasoval 21. 12. 2020, kdy bylo hlasování uzavřen
 
 Grant byl schválen.
 
-18. 3. 2020 - elektronické hlasování výboru
+16. 12. 2020 - elektronické hlasování výboru
+--------------------------------------------
+
+Dne 16. 12. 2020 požádal uživatel `@kvbik <https://github.com/kvbik>`_ o grant `Python Community Sprint Msene Lazne 2020 <https://github.com/pyvec/money/issues/4>`_:
+
+.. code-block:: text
+
+    **Kdo jste?**
+
+    Jakub Vysoky, clen Pyvec, spolu organizator prazskeho Pyva 
+
+    **Kolik potřebujete? (aspoň odhad nebo rozmezí)**
+
+    Do 15tis Kc. (jidlo a piti na 3-4 dny pro 20-30 lidi)
+
+    **Na jakou věc to je?**
+
+    Letni edice Python komunitniho Sprintu ve Msenych-laznich v srpen 2020. 
+
+    **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
+
+    Organizujeme vikendovy sraz pro vsechny organizatory a organizatorky Python akci v Ceske Python komunite. Planuji se akce, ktere budou (pycon.cz/pyladies/pyva), dokumentuji se akce ktere byly (pycon.cz/pyladies/pyva), sepisuje se ruzna dokumentace (naucse/odevzdavatko), zpracovavaji se issues (zapojse/pyvec/money) a zkratka sprintuje se na vsech moznych ukolech, ke kterym se behem roku nedojde cas.
+
+Výbor o tomto elektronicky hlasoval 16. 12. 2020, kdy bylo hlasování uzavřeno s následujícím výsledkem:
+
+* Jan Javorek: ano
+
+* Martin Bílek: ano
+
+* Jakub Vysoký: zdržel(a) se
+
+* Aleš Zoulek: ano
+
+
+Grant byl schválen.
+
+1. 8. 2020 - elektronické hlasování výboru
 --------------------------------------------
 
 Dne 26. 2. 2020 požádal uživatel `@radusaaa <https://github.com/radusaaa>`_ o grant `Grant pro pražské PyLadies - jarní běh 2020 <https://github.com/pyvec/money/issues/3>`_:
@@ -94,7 +130,7 @@ Dne 26. 2. 2020 požádal uživatel `@radusaaa <https://github.com/radusaaa>`_ o
     **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
     Organizujeme dva běhy začátečnických kurzů viz https://pyladies.cz/praha/. Součástí kurzů jsou i dva sobotní celodenní pyworkingy a závěrečný hackathon.
 
-Výbor o tomto elektronicky hlasoval 18. 3. 2020, kdy bylo hlasování uzavřeno s následujícím výsledkem:
+Výbor o tomto elektronicky hlasoval 1. 8. 2020, kdy bylo hlasování uzavřeno s následujícím výsledkem:
 
 * Jakub Vysoký: ano
 
@@ -107,7 +143,7 @@ Výbor o tomto elektronicky hlasoval 18. 3. 2020, kdy bylo hlasování uzavřeno
 
 Grant byl schválen.
 
-18. 3. 2020 - elektronické hlasování výboru
+1. 8. 2020 - elektronické hlasování výboru
 --------------------------------------------
 
 Dne 13. 2. 2020 požádal uživatel `@IvaFingerova <https://github.com/IvaFingerova>`_ o grant `Meetup.com subscription fee pr PyWorking <https://github.com/pyvec/money/issues/2>`_:
@@ -129,7 +165,7 @@ Dne 13. 2. 2020 požádal uživatel `@IvaFingerova <https://github.com/IvaFinger
     Tu je výpis z účtu:
     [Meetup_platby.pdf](https://github.com/pyvec/money/files/4197644/Meetup_platby.pdf)
 
-Výbor o tomto elektronicky hlasoval 18. 3. 2020, kdy bylo hlasování uzavřeno s následujícím výsledkem:
+Výbor o tomto elektronicky hlasoval 1. 8. 2020, kdy bylo hlasování uzavřeno s následujícím výsledkem:
 
 * Jakub Vysoký: ano
 
