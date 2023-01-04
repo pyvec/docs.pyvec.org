@@ -6,6 +6,115 @@ Od roku 2020 o grantech :term:`výbor <Výbor>` hlasuje prostřednictvím repozi
 .. Soubor operations/grants.rst je generován skriptem _scripts/generate_grants.py ze šablony operations/grants.rst.template. Neupravovat ručně!
 
 
+1. 12. 2022 - elektronické hlasování výboru
+--------------------------------------------
+
+Dne 22. 11. 2022 požádal uživatel `@clytaemnestra <https://github.com/clytaemnestra>`_ o grant `Pražské Pyvo - pronájem projektoru a audiotechniky <https://github.com/pyvec/money/issues/9>`_:
+
+.. code-block:: text
+
+    **Kdo jste?**
+    spoluorganizátorka pražského Pyva
+
+
+    **Kolik potřebujete? (aspoň odhad nebo rozmezí)**
+    726 Kč
+
+    **Na jakou věc to je?**
+    pronájem projektoru + audiotechniky
+
+    **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
+    na přednášky a lightning talky
+
+Výbor o tomto elektronicky hlasoval 1. 12. 2022, kdy bylo hlasování uzavřeno s následujícím výsledkem:
+
+* Anežka Müller: ano
+
+* Jan Čermák: ano
+
+* Jan Javorek: ano
+
+* Barbora Drbohlavová: ano
+
+
+Grant byl schválen.
+
+13. 10. 2022 - elektronické hlasování výboru
+--------------------------------------------
+
+Dne 27. 8. 2022 požádal uživatel `@kvbik <https://github.com/kvbik>`_ o grant `Python Community Sprint Msene Lazne 2022 <https://github.com/pyvec/money/issues/8>`_:
+
+.. code-block:: text
+
+    **Kdo jste?**
+
+    Jakub Vysoky, clen Pyvec, zakladatel prazskeho Pyva
+
+    **Kolik potřebujete? (aspoň odhad nebo rozmezí)**
+
+    Cca 15tis Kc. (jidlo a piti na 3-4 dny pro ~20 lidi)
+
+    **Na jakou věc to je?**
+
+    Letni edice Python komunitniho Sprintu ve Msenych-laznich: 25.-28. 8. 2021.
+
+    **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
+
+    Organizujeme vikendovy sraz pro vsechny organizatory a organizatorky Python akci v Ceske Python komunite. Planuji se akce, ktere budou (pycon.cz/pyladies/pyva), dokumentuji se akce ktere byly (pycon.cz/pyladies/pyva), sepisuje se ruzna dokumentace (naucse/odevzdavatko), zpracovavaji se issues (zapojse/pyvec/money) a zkratka sprintuje se na vsech moznych ukolech, ke kterym se behem roku nedojde cas.
+
+Výbor o tomto elektronicky hlasoval 13. 10. 2022, kdy bylo hlasování uzavřeno s následujícím výsledkem:
+
+* Jan Čermák: ano
+
+* Jakub Vysoký: zdržel(a) se
+
+* Anežka Müller: ano
+
+* Jan Javorek: ano
+
+
+Grant byl schválen.
+
+13. 10. 2022 - elektronické hlasování výboru
+--------------------------------------------
+
+Dne 27. 8. 2022 požádal uživatel `@kvbik <https://github.com/kvbik>`_ o grant `Python Community Sprint Msene Lazne 2021 <https://github.com/pyvec/money/issues/7>`_:
+
+.. code-block:: text
+
+    **Kdo jste?**
+
+    Jakub Vysoky, clen Pyvec, zakladatel prazskeho Pyva
+
+    **Kolik potřebujete? (aspoň odhad nebo rozmezí)**
+
+    13560,- (jidlo a piti na 4 dny pro cca 20 lidi)
+
+    **Na jakou věc to je?**
+
+    Letni edice Python komunitniho Sprintu ve Msenych-laznich: 19.-22. 8. 2021.
+
+    **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
+
+    Organizujeme vikendovy sraz pro vsechny organizatory a organizatorky Python akci v Ceske Python komunite. Planuji se akce, ktere budou (pycon.cz/pyladies/pyva), dokumentuji se akce ktere byly (pycon.cz/pyladies/pyva), sepisuje se ruzna dokumentace (naucse/odevzdavatko), zpracovavaji se issues (zapojse/pyvec/money) a zkratka sprintuje se na vsech moznych ukolech, ke kterym se behem roku nedojde cas.
+
+    Tohle issue zakladam retrospektivne. Uctenky jsem sice loni poslal Martinovi, ale kolem voleb jsme nedoresili zbytek. Letos do ucetnictvi muzu poslat treba fakturu, nebo cokoliv bude davat smysl.
+
+Výbor o tomto elektronicky hlasoval 13. 10. 2022, kdy bylo hlasování uzavřeno s následujícím výsledkem:
+
+* Jan Čermák: ano
+
+* Jakub Vysoký: zdržel(a) se
+
+* Anežka Müller: ano
+
+* Jan Javorek: ano
+
+* Barbora Drbohlavová: ano
+
+
+Grant byl schválen.
+
 15. 9. 2021 - elektronické hlasování výboru
 --------------------------------------------
 
