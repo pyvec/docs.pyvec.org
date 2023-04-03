@@ -6,6 +6,40 @@ Od roku 2020 o grantech :term:`výbor <Výbor>` hlasuje prostřednictvím repozi
 .. Soubor operations/grants.rst je generován skriptem _scripts/generate_grants.py ze šablony operations/grants.rst.template. Neupravovat ručně!
 
 
+2. 4. 2023 - elektronické hlasování výboru
+--------------------------------------------
+
+Dne 27. 2. 2023 požádal uživatel `@Zuzanita <https://github.com/Zuzanita>`_ o grant `Trička pro PyLadies <https://github.com/pyvec/money/issues/10>`_:
+
+.. code-block:: text
+
+    **Kdo jste?**
+    Organizátoři PyLadies - podává Zuzana Pokorná za všechny 
+
+    **Kolik potřebujete? (aspoň odhad nebo rozmezí)**
+    25 000 Kč z toho bude část vrácena z příspěvků jednotlivců na trička
+
+    **Na jakou věc to je?**
+    Trička PyLadies pro účastnice/účastníky, koučky/koučky a organizátorky/organizátory
+
+    **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
+    Propagace PyLadies a jejich kurzů, radost všech výše uvedených
+
+Výbor o tomto elektronicky hlasoval 2. 4. 2023, kdy bylo hlasování uzavřeno s následujícím výsledkem:
+
+* Jan Javorek: ano
+
+* Jan Čermák: ano
+
+* Anežka Müller: ano
+
+* Jakub Vysoký: ano
+
+* Barbora Drbohlavová: ano
+
+
+Grant byl schválen.
+
 1. 12. 2022 - elektronické hlasování výboru
 --------------------------------------------
 
