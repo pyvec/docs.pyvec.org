@@ -52,3 +52,4 @@ Přístup k Roští mají:
 * Stařenka
 * Petr Messner
 * Aleš Zoulek
+* Mia Bajić
