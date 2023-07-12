@@ -45,7 +45,7 @@ Contributor
 +-------------+---------------------------------------------------------------------------------+
 
 Admin
-   :twitter:`anezkamll`, :twitter:`BaraDrb`, :twitter:`honzajavorek`, :twitter:`lumirbalhar`, :twitter:`EnCuKou`
+   :twitter:`anezkamll`, :twitter:`BaraDrb`, :twitter:`honzajavorek`, :twitter:`lumirbalhar`, :twitter:`EnCuKou`, :twitter:`ankafarka`, :twitter:`pavlamadr`
 
 Contributor
    :twitter:`DariaGrudzien`
