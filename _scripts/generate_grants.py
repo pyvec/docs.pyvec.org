@@ -107,6 +107,6 @@ if __name__ == '__main__':
         })
     grants = sorted(grants, key=itemgetter('voted_at'), reverse=True)
 
-    tpl_path = CONTENT_PATH / 'operations' / 'grants.rst.template'
+    tpl_path = CONTENT_PATH / 'operations' / 'grants.rst.jinja'
     tpl = Template(tpl_path.read_text())
     print(tpl.render(grants=grants))
