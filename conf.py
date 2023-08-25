@@ -77,7 +77,7 @@ pygments_style = 'monokai'
 # a list of builtin themes.
 if IS_READTHEDOCS:
     # equals to default RTD theme
-    html_theme = 'default'
+    pass
 else:
     # emulates the default RTD theme for local development
     html_theme = 'sphinx_rtd_theme'
