@@ -6,8 +6,6 @@ import sys
 
 # -- Environment -------------------------------------------------------------
 
-IS_READTHEDOCS = os.environ.get('READTHEDOCS') == 'True'
-
 # Explicitly put the extensions directory to Python path
 sys.path.append(os.path.abspath('_extensions'))
 
@@ -15,7 +13,7 @@ sys.path.append(os.path.abspath('_extensions'))
 # -- Project information -----------------------------------------------------
 
 project = 'Dokumentace české Python komunity'
-copyright = '2022, Pyvec, z.s.'
+copyright = '2023, Pyvec, z.s.'
 author = 'Pyvec, z.s.'
 
 # The short X.Y version
@@ -75,13 +73,7 @@ pygments_style = 'monokai'
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-if IS_READTHEDOCS:
-    # equals to default RTD theme
-    pass
-else:
-    # emulates the default RTD theme for local development
-    html_theme = 'sphinx_rtd_theme'
-
+html_theme = 'sphinx_rtd_theme'
 html_logo = '_static/images/org-i.svg'
 
 # Theme options are theme-specific and customize the look and feel of a theme
