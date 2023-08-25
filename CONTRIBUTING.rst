@@ -27,6 +27,13 @@ Běžná práce
 #. V editoru upravujete texty a v prohlížeči si kontrolujete výsledek
 #. Projekt zastavíte v terminálu pomocí :kbd:`Ctrl+C`
 
+Markdown
+^^^^^^^^
+
+Původně byla dokumentace psaná v reStructuredText. Nyní ale podporuje i Markdown. Asi zatím nebudeme přepisovat původní stránky, ale pokud chce někdo napsat něco nového, a vyhovoval by mu spíš Markdown, nechť klidně použije Markdown.
+
+Kdyby s tím byl nějaký problém, tady je `návod na kombo Sphinx + MyST <https://docs.readthedocs.io/en/stable/guides/migrate-rest-myst.html>`__.
+
 Emoji
 ^^^^^
 
