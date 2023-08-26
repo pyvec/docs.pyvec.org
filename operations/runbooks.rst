@@ -46,6 +46,7 @@ Jak se stát členem
       DATUM NAROZENÍ
       POŠTOVNÍ DORUČOVACÍ ADRESA
       E-MAILOVÁ ADRESA (je-li jiná než ze které se posílá e-mail)
+      Mastodon: @USER@SERVER (nepovinné)
       Twitter: URL (nepovinné)
       GitHub: URL (nepovinné)
       LinkedIn: URL (nepovinné)
