@@ -6,6 +6,127 @@ Od roku 2020 o grantech :term:`výbor <Výbor>` hlasuje prostřednictvím repozi
 .. Soubor operations/grants.rst je generován skriptem _scripts/generate_grants.py ze šablony operations/grants.rst.jinja. Neupravovat ručně!
 
 
+26. 8. 2023 - elektronické hlasování výboru
+--------------------------------------------
+
+Dne 25. 7. 2023 požádal uživatel `@clytaemnestra <https://github.com/clytaemnestra>`_ o grant `Jednorázový grant na PyCon CZ trička na EuroPython <https://github.com/pyvec/money/issues/13>`_:
+
+.. code-block:: text
+
+    **Kdo jste?**
+    PyCon CZ
+
+
+    **Kolik potřebujete? (aspoň odhad nebo rozmezí)**
+    2990
+
+    **Na jakou věc to je?**
+    trička na EuroPython pro stankaře 
+
+    **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
+    promoce PyCon CZ a české komunity
+
+Výbor o tomto elektronicky hlasoval 26. 8. 2023, kdy bylo hlasování uzavřeno s následujícím výsledkem:
+
+* Jan Javorek: ano
+
+* Anežka Müller: ano
+
+* Barbora Drbohlavová: ano
+
+
+Grant byl schválen.
+
+26. 8. 2023 - elektronické hlasování výboru
+--------------------------------------------
+
+Dne 2. 5. 2023 požádal uživatel `@kreneka <https://github.com/kreneka>`_ o grant `Vytvoření faktury pro Heureka Group na sponzoring meetupu PyData Prague #14 <https://github.com/pyvec/money/issues/11>`_:
+
+.. code-block:: text
+
+    **Kdo jste?**
+    Adam Křenek - PyData Prague org team
+
+    **Na jakou věc to je?**
+    Partnerství meetupu PyData Prague #14 a Heureka Group
+
+    **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
+    Z peněz za partnerství zaplatíme zahraničního speakera - letenka a ubytko
+
+    **Částka**
+    10.000 czk
+
+    **Fakturační údaje protistrany**
+    Heureka Group a.s.
+
+    Karolinská 706/3
+    186 00  Praha 8 - Karlín
+    Česká republika
+
+    B 24131 vedená u Městského soudu v Praze
+    IČ: 07822774 DIČ: CZ07822774
+
+    Bankovní účet UniCredit Bank: 2110986041/2700
+    IBAN kód: CZ28 2700 0000 0021 1098 6041
+    SWIFT: BACXCZPP
+
+    **E-mail protistrany**
+    michal.rychlik@heureka.cz
+
+    **Je potřeba podepsat nějakou smlouvu? (sponzorskou, nájemní…)**
+    ne
+
+
+    ---
+
+    _Otočení sponzorských peněz nepodléhá schvalování výborem._
+    _Žádost přímo zpracuje predseda nebo pokladník spolku._
+
+Výbor o tomto elektronicky hlasoval 26. 8. 2023, kdy bylo hlasování uzavřeno s následujícím výsledkem:
+
+
+Grant byl schválen.
+
+26. 6. 2023 - elektronické hlasování výboru
+--------------------------------------------
+
+Dne 13. 6. 2023 požádal uživatel `@befeleme <https://github.com/befeleme>`_ o grant `Jednorázový grant na výrobu samolepek PyLadies <https://github.com/pyvec/money/issues/12>`_:
+
+.. code-block:: text
+
+    **Kdo jste?**
+    Karolina Surma - PyLadies
+
+    **Kolik potřebujete? (aspoň odhad nebo rozmezí)**
+    ~6800 Kč 
+
+    *detailně*
+    hlavička: 6.24 Kč / ks = 2496 Kč
+    logo: 6.78 Kč / ks = 2712 Kč
+    + DPH (21%) + (doprava 350 Kč + DPH)
+
+    **Na jakou věc to je?**
+    Výroba samolepek PyLadies: hlavička ve 4 barvách, logo ve 4 barvách, od každé kombinace 100 ks.
+
+    **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
+    Pro propagační účely: Letos máme v ČR dvě konference: EuroPython a PyCon CZ + při propagaci lokálních eventů. Do offline se vrácí i další programátorské eventy, nejen čistě Pythonní.
+    Jen letos v Brně jsme uspořádaly 6 workshopů a 2 dlouhodobé kurzy. Samolepky budou k dispozici všem PyLadies z Republiky, které o ně požádají.
+
+Výbor o tomto elektronicky hlasoval 26. 6. 2023, kdy bylo hlasování uzavřeno s následujícím výsledkem:
+
+* Jan Javorek: ano
+
+* Jan Čermák: ano
+
+* Anežka Müller: ano
+
+* Jakub Vysoký: ano
+
+* Barbora Drbohlavová: ano
+
+
+Grant byl schválen.
+
 2. 4. 2023 - elektronické hlasování výboru
 --------------------------------------------
 
