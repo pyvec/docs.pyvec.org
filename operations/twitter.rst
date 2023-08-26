@@ -8,7 +8,7 @@ Aktuální stav Twitter účtů spravovaných českou Python komunitou.
 Přístupy
 --------
 
-Přístup k účtům se uděluje pomocí `TweetDeck Teams <https://help.twitter.com/en/using-twitter/tweetdeck-teams>`_, nesdílí se heslo. TweetDeck je nástroj přímo od Twitteru, skrze který lze přistupovat i k jiným účtům a spravovat týmy jednotlivých účtů. Takto přidělené přístupy by měly respektovat i mobilní aplikace. Pokud chcete do nějakého z účtů přístup, řekněte někomu, kdo má funkci Admin. Pokud stačí, aby někdo něco na vaši žádost tvítnul, požádejte kohokoliv, kdo má přístup.
+Přístup k účtům se už bohužel nedá udělit nijak jinak, než sdílením hesla. Pokud chcete do nějakého z účtů přístup, řekněte někomu, kdo má funkci Admin. Pokud stačí, aby někdo něco na vaši žádost tvítnul, požádejte kohokoliv, kdo má přístup.
 
 Jestliže organizujete nějaké `Pyvo <https://pyvo.cz/>`_, nebojte si říct o přístup k účtu :twitter:`napyvo` a psát na něj ohledně svého srazu!
 
@@ -32,8 +32,6 @@ Jestliže organizujete nějaké `Pyvo <https://pyvo.cz/>`_, nebojte si říct o 
 Admin
    :twitter:`honzajavorek`, :twitter:`lumirbalhar`, :twitter:`hroncok`, :twitter:`EnCuKou`, :twitter:`kvbik`
 
-Contributor
-   :twitter:`janbednarik`, :twitter:`JirkaV`, :twitter:`MartinCurlej`, :twitter:`_apophys_`, :twitter:`krcmar`, :twitter:`tbedrich`, :twitter:`aleszoulek`, :twitter:`lurkingideas`, :twitter:`JiriPsotka`, :twitter:`stibi`, :twitter:`anezkamll`
 
 @pyconcz
 ^^^^^^^^
@@ -47,8 +45,6 @@ Contributor
 Admin
    :twitter:`anezkamll`, :twitter:`BaraDrb`, :twitter:`honzajavorek`, :twitter:`lumirbalhar`, :twitter:`EnCuKou`, :twitter:`ankafarka`, :twitter:`pavlamadr`
 
-Contributor
-   :twitter:`DariaGrudzien`
 
 @pyladiescz
 ^^^^^^^^^^^
@@ -86,8 +82,6 @@ Admin
 Admin
    ???
 
-Contributor
-   :twitter:`honzajavorek`, ???
 
 @djangogirlsbrno
 ^^^^^^^^^^^^^^^^
@@ -101,10 +95,7 @@ Contributor
 Admin
    :twitter:`honzajavorek`
 
-Contributor
-   :twitter:`KatiaNakamura`, :twitter:`ThatDocsLady`
-   
-   
+
 @PyDataPrague
 ^^^^^^^^^^^^^
 
@@ -116,9 +107,6 @@ Contributor
 
 Admin
    :twitter:`JanPipek`, :twitter:`pndrej`
-
-Contributor
-   *No-one*
 
 
 @pythoncz
