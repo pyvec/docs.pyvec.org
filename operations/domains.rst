@@ -68,3 +68,4 @@ Děkujeme následujícím lidem, že domény převedli pod Pyvec:
 * Petr Šimeček (`pydata.cz`_)
 * Honza Javorek (`pyladies.cz`_)
 * Michal Janík (`pyvo.cz`_)
+* Radek Šimko (`pycon.cz`_)
