@@ -8,9 +8,12 @@
 /*
   Fixing strange behavior of the RTD theme
 */
-.rst-content .section ol li ul,
-.rst-content ol.arabic li ul {
-  margin-bottom: 12px;
+.rst-content ul {
+  margin-bottom: 12px !important;
+}
+
+.rst-content ul:last-child {
+  margin-bottom: 0 !important;
 }
 
 /*
