@@ -25,8 +25,6 @@ Jak se stát členem
 #. Přečti si :ref:`jak Pyvec pomáhá <podpora>`.
 #. Napiš e-mail podle následující šablony a s předmětem **Žádost o členství ve spolku** jej pošli na info@pyvec.org:
 
-   .. code-block:: text
-
       Ahoj,
 
       žádám o přijetí za člena spolku Pyvec. V komunitě jsem se již
@@ -85,7 +83,7 @@ Jak si nechat něco proplatit
    .. hint::
       Pokud se podepisuje nějaká smlouva a podepisuje ji někdo za Pyvec, musí u jejich jména figurovat opět název a adresa Pyvce, ne adresa k němu domů.
 
-#. Fakturu nebo účtenku dopravím :term:`pokladníkovi <Pokladník>` (tzn. Martin Bílek) jedním z následujících způsobů:
+#. Fakturu nebo účtenku dopravím :term:`pokladníkovi <Pokladník>` jedním z následujících způsobů:
 
    - papírovou fakturu nebo účtenku pošlu poštou, osobně donesu nebo po někom pošlu na **korespondenční** adresu Pyvce (tzn. Ječná) jak je uvedena `dole na webu <https://pyvec.org/>`_
    - elektronickou fakturu nebo účtenku přepošlu na info@pyvec.org
@@ -96,8 +94,6 @@ Jak si nechat něco proplatit
    - pod jakou **skupinu** výdaj spadá (PyLadies, PyCon CZ, Pyvo v Brně...)
    - **co to je** za věc (pokud není zřejmé z dokladu) a **k čemu slouží** ("*...při každém workshopu konaném v Hospodě na Mýtince potřebujeme prodlužovačku, takže jsme se rozhodli ji koupit*")
    - na jaké **číslo účtu** mají být proplaceny peníze
-
-   .. code-block:: text
 
       Ahoj,
 
@@ -143,7 +139,7 @@ Schůze výboru
 | **Pro koho je tento návod:** | |:crown:| výbor |
 +------------------------------+-----------------+
 
-#. Na předem domluvený datum a čas je v (Google) kalendáři pozvánka na schůzi výboru pro všechny jeho členy, která má připojený odkaz na `Hangouts <https://hangouts.google.com/>`__ hovor.
+#. Na předem domluvený datum a čas je v Google Kalendáři pozvánka na schůzi výboru pro všechny jeho členy, která má připojený odkaz na `Google Meet <https://meet.google.com/>`__.
 #. V daný čas si členové výboru otevřou `Trello nástěnku s úkoly pro výbor <https://trello.com/b/6GjKGJfq/board>`__ a připojí se na hovor.
 #. Na nástěnce je každá schůze reprezentována kartičkou ve sloupci *Schůze*. V ní je seznam věcí, které by měl výbor projednat. Kromě věcí, které na seznam mohou členové výboru volně přidat během předchozího měsíce má program schůze tyto pevné pravidelné body:
 
@@ -163,8 +159,6 @@ Přijetí nového člena
 
 #. Osoba žádající o členství napíše e-mail na info@pyvec.org. Tím vznikne doklad o jeho žádosti (ten e-mail, který je možné v případě potřeby dohledat).
 #. V kanále :slack:`#pyvec-board` někdo nadnese:
-
-   .. code-block:: text
 
       @board hlasujeme o přijetí XYZ za člena Pyvce, dejte :+1: pokud souhlasíte, :-1: pokud ne, :eyes: pokud se chcete zdržet
 
@@ -224,8 +218,6 @@ Proplácení účetních dokladů
    -  číslo účtu
    -  do zprávy napíšeš:
 
-      .. code-block:: text
-
          SKUPINA: proplacení účtu za VĚC
 
 #. Propiskou napíšeš na papírový doklad slovo **PYVEC** aby se odlišil od dokladů firmy `Fragaria <https://fragaria.cz/>`_ a dáš jej do šuplíku číslo 2 ve `Fragarii <https://fragaria.cz/>`_, odkud se doklady automagicky odesílají k :term:`účetní <Účetní>`.
@@ -252,8 +244,6 @@ Vystavení faktury
    - na jaké **fakturační údaje**
 
 #. Napiš e-mail a pošli jej naší :term:`účetní <Účetní>`:
-
-   .. code-block:: text
 
       Dobrý den,
 
