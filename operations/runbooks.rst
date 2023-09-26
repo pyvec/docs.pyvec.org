@@ -171,8 +171,6 @@ Přijetí nového člena
 #. Čeká se, dokud členové výboru odhlasují tak, že jsou :ref:`usnášeníschopní <usnasenischopnost-vyboru>`, tzn. musí odhlasovat minimálně předseda a další dva členové výboru.
 #. Po hlasování někdo z výboru odpoví na e-mail (opět pro dohledatelnost) jak to dopadlo:
 
-   .. code-block:: rst
-
       Ahoj,
 
       proběhla schůze výboru Pyvce, kde jsme hlasovali o přijetí nových členů. S radostí ti mohu oznámit, že jsi členem Pyvce! Vítej!
