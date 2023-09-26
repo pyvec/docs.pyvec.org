@@ -42,7 +42,9 @@ Při psaní můžete používat Emoji jako třeba |:cz:| nebo |:snake:|, ale nep
 Slack
 ^^^^^
 
-Při psaní lze psát ``:slack:`#pyladies``` nebo i jenom ``:slack:`pyladies```, což vytvoří odkaz na kanál :slack:`#pyladies` na Pyvec Slacku. Funguje to díky vlastnímu rozšíření Sphinxu, které lze najít v souboru ``_extensions/slack.py``.
+Při psaní lze psát ``:slack:`#pyladies`` nebo i jenom ``:slack:`pyladies``, což vytvoří odkaz na kanál :slack:`#pyladies` na Pyvec Slacku. Funguje to díky vlastnímu rozšíření Sphinxu, které lze najít v souboru ``_extensions/slack.py``.
+
+Všechny odkazy na kanál ``:slack:`#pyvec-board``, ať už je to ``:slack:`#pyvec-board`` nebo ``:slack:`#pyvec-board-2019-2021`` jsou automaticky předělány na odkaz na aktuální tajný kanál výboru. K určení správných roků se využívá soubor ``board.yml``.
 
 .. _docs-pyvec-rtd:
 
@@ -85,8 +87,8 @@ Skript na generování zápisů hlasování o grantech
 
 V adresáři ``_scripts`` je skript ``generate_grants.py``, který:
 
-* se pomocí `GitHub Actions <https://github.com/pyvec/docs.pyvec.org/actions>`_ jednou denně spustí
-* vygeneruje soubor ``operations/grants.rst`` z dat na `pyvec/money <https://github.com/pyvec/money>`_ a ze šablony ``operations/grants.rst``
+* se pomocí `GitHub Actions <https://github.com/pyvec/docs.pyvec.org/actions>`_ jednou denně spustí,
+* vygeneruje soubor ``operations/grants.rst`` z dat na `pyvec/money <https://github.com/pyvec/money>`_ a ze šablony ``operations/grants.rst``,
 * commitne a pushne jej přes Git do repozitáře.
 
-Hlasování o grantech probíhá :ref:`pomocí reakcí <jak-hlasovani>` na GitHub Issues a tento skript hlasování archivuje sem do dokumentace pro účely jednoduššího vyhledávání, zálohy, kdyby se s `pyvec/money <https://github.com/pyvec/money>`_ něco stalo, a pro nějakou historickou evidenci. Kanonickým zdrojem pravdy ale zůstává hlasování přímo na GitHub Issues, toto je jen automatizovaný přepis.
+Hlasování o grantech probíhá :ref:`pomocí reakcí <jak-hlasovani>` na GitHub Issues a tento skript hlasování archivuje sem do dokumentace pro účely jednoduššího vyhledávání, zálohy, kdyby se s `pyvec/money <https://github.com/pyvec/money>`_ něco stalo, a pro nějakou historickou evidenci. Kanonickým zdrojem pravdy ale zůstává hlasování přímo na GitHub Issues, toto je jen automatizovaný přepis. Skript započítává pouze hlasy od členů výboru (podle souboru ``board.yml``).
