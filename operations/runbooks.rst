@@ -183,26 +183,28 @@ Zápis z jednorázového elektronického hlasování
 | **Pro koho je tento návod:** | |:crown:| výbor |
 +------------------------------+-----------------+
 
-Do aktuálního dokumentu v :ref:`zapisy` přidej zápis podle následující šablony:
+#. Na začátek stránky :ref:`zapisy` přidej zápis podle následující šablony:
 
-  .. code-block:: rst
+   .. code-block:: rst
 
-     D. M. YYYY - elektronické hlasování výboru
-     ------------------------------------------
+      D. M. YYYY - elektronické hlasování výboru
+      ------------------------------------------
 
-     Dne D. M. OSOBA požádala e-mailem o přijetí za člena do spolku.
-     Výbor o tomto jednorázově elektronicky hlasoval od D. M. do D. M., kdy bylo
-     hlasování uzavřeno s následujícím výsledkem:
+      Dne D. M. OSOBA požádala e-mailem o přijetí za člena do spolku.
+      Výbor o tomto jednorázově elektronicky hlasoval od D. M. do D. M., kdy bylo
+      hlasování uzavřeno s následujícím výsledkem:
 
-     * ČLEN VÝBORU: ano
-     * ČLEN VÝBORU: ano
-     * ČLEN VÝBORU: ano
-     * ČLEN VÝBORU: ne
-     * ČLEN VÝBORU: ano
+      * ČLEN VÝBORU: ano
+      * ČLEN VÝBORU: ano
+      * ČLEN VÝBORU: ano
+      * ČLEN VÝBORU: ne
+      * ČLEN VÝBORU: ano
 
-     OSOBA byla D. M. přijata za člena spolku.
+      OSOBA byla D. M. přijata za člena spolku.
 
-Pokud nějaký člen rady nehlasoval, tak není potřeba jej vůbec uvádět.
+   Pokud nějaký člen rady nehlasoval, tak není potřeba jej vůbec uvádět.
+
+#. Pošli Pull Request s touto změnou. Před jeho přijetím by měl být schválen alespoň jedním dalším členem výboru (můžeš nastavit tým `@pyvec/board <https://github.com/orgs/pyvec/teams/board>`__ v *reviewers*).
 
 
 .. _navody-pokladnik:
