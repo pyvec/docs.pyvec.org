@@ -169,17 +169,7 @@ Přijetí nového člena
       @board hlasujeme o přijetí XYZ za člena Pyvce, dejte :+1: pokud souhlasíte, :-1: pokud ne, :eyes: pokud se chcete zdržet
 
 #. Čeká se, dokud členové výboru odhlasují tak, že jsou :ref:`usnášeníschopní <usnasenischopnost-vyboru>`, tzn. musí odhlasovat minimálně předseda a další dva členové výboru.
-#. Po hlasování někdo z výboru odpoví na e-mail (opět pro dohledatelnost) jak to dopadlo:
-
-      Ahoj,
-
-      proběhla schůze výboru Pyvce, kde jsme hlasovali o přijetí nových členů. S radostí ti mohu oznámit, že jsi členem Pyvce! Vítej!
-
-      Zápis z naší schůze je k dohledání na https://docs.pyvec.org/operations/meeting-notes.html Zápis a tento e-mail ti slouží jako doklad, že jsi členem.
-
-      PODPIS
-
-#. Pokud byla osoba přijata, zapíšeme ji do `tabulky <https://docs.google.com/spreadsheets/d/1n8hzBnwZ5ANkUCvwEy8rWsXlqeAAwu-5JBodT5OJx_I/edit#gid=0>`__
+#. Pokud byla osoba přijata, zapíšeme ji do `tabulky <https://docs.google.com/spreadsheets/d/1n8hzBnwZ5ANkUCvwEy8rWsXlqeAAwu-5JBodT5OJx_I/edit#gid=0>`__.
 #. Pokud byla osoba přijata, přidáme ji do kanálu :slack:`#pyvec-members`.
 #. Na začátek aktuálního dokumentu v :ref:`zapisy` přidáme zápis podle následující šablony:
 
@@ -196,6 +186,15 @@ Přijetí nového člena
       OSOBA byla D. M. přijata za člena spolku.
 
    Pokud nějaký člen rady nehlasoval, tak není potřeba jej vůbec uvádět.
+#. Odpovíme na e-mail (opět pro dohledatelnost) jak to dopadlo:
+
+      Ahoj,
+
+      proběhla schůze výboru Pyvce, kde jsme hlasovali o přijetí nových členů. S radostí ti mohu oznámit, že jsi členem Pyvce! Vítej!
+
+      Zápis z naší schůze je k dohledání na https://docs.pyvec.org/operations/meeting-notes.html Zápis a tento e-mail ti slouží jako doklad, že jsi členem.
+
+      PODPIS
 #. Jakmile je zápis z hlasování zveřejněn, nový člen jej může spolu s e-maily použít jako důkaz o svém přijetí za člena a doklad svého existujícího členství.
 
 
