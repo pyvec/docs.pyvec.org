@@ -175,24 +175,19 @@ Přijetí nového člena
 
       Ahoj,
 
-      proběhla schůze výboru Pyvce, kde jsme hlasovali o přijetí nových členů.
-      S radostí ti mohu oznámit, že jsi členem Pyvce! Vítej!
+      proběhla schůze výboru Pyvce, kde jsme hlasovali o přijetí nových členů. S radostí ti mohu oznámit, že jsi členem Pyvce! Vítej!
 
-      Zápis z naší schůze je k dohledání na https://docs.pyvec.org/operations/meeting-notes.html
-      Zápis a tento e-mail ti slouží jako doklad, že jsi členem.
+      Zápis z naší schůze je k dohledání na https://docs.pyvec.org/operations/meeting-notes.html Zápis a tento e-mail ti slouží jako doklad, že jsi členem.
+
+      PODPIS
 
 #. Pokud byla osoba přijata, zapíšeme ji do `tabulky <https://docs.google.com/spreadsheets/d/1n8hzBnwZ5ANkUCvwEy8rWsXlqeAAwu-5JBodT5OJx_I/edit#gid=0>`__
 #. Pokud byla osoba přijata, přidáme ji do kanálu :slack:`#pyvec-members`.
 #. Na začátek aktuálního dokumentu v :ref:`zapisy` přidáme zápis podle následující šablony:
 
-   .. code-block:: rst
+      YYYY-MM-DD - elektronické hlasování výboru
 
-      D. M. YYYY - elektronické hlasování výboru
-      ------------------------------------------
-
-      Dne D. M. OSOBA požádala e-mailem o přijetí za člena do spolku.
-      Výbor o tomto jednorázově elektronicky hlasoval od D. M. do D. M., kdy bylo
-      hlasování uzavřeno s následujícím výsledkem:
+      Dne D. M. OSOBA požádala e-mailem o přijetí za člena do spolku. Výbor o tomto jednorázově elektronicky hlasoval od D. M. do D. M., kdy bylo hlasování uzavřeno s následujícím výsledkem:
 
       * ČLEN VÝBORU: ano
       * ČLEN VÝBORU: ano
