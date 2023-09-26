@@ -169,21 +169,21 @@ Přijetí nového člena
       @board hlasujeme o přijetí XYZ za člena Pyvce, dejte :+1: pokud souhlasíte, :-1: pokud ne, :eyes: pokud se chcete zdržet
 
 #. Čeká se, dokud členové výboru odhlasují tak, že jsou :ref:`usnášeníschopní <usnasenischopnost-vyboru>`, tzn. musí odhlasovat minimálně předseda a další dva členové výboru.
-#. Po hlasování někdo z výboru odpoví na e-mail (opět pro dohledatelnost) jak to dopadlo a pokud byla osoba přijata, zapíše ji do `tabulky <https://docs.google.com/spreadsheets/d/1n8hzBnwZ5ANkUCvwEy8rWsXlqeAAwu-5JBodT5OJx_I/edit#gid=0>`__ a přidá do kanálu :slack:`#pyvec-members`.
-#. Hlasování musí být zdokumentováno jako :ref:`zapis-e-hlasovani`.
-#. Jakmile je zápis z hlasování zveřejněn, nový člen jej může spolu s e-maily použít jako důkaz o svém přijetí za člena a doklad svého existujícího členství.
+#. Po hlasování někdo z výboru odpoví na e-mail (opět pro dohledatelnost) jak to dopadlo:
 
+   .. code-block:: rst
 
-.. _zapis-e-hlasovani:
+      Ahoj,
 
-Zápis z jednorázového elektronického hlasování
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      proběhla schůze výboru Pyvce, kde jsme hlasovali o přijetí nových členů.
+      S radostí ti mohu oznámit, že jsi členem Pyvce! Vítej!
 
-+------------------------------+-----------------+
-| **Pro koho je tento návod:** | |:crown:| výbor |
-+------------------------------+-----------------+
+      Zápis z naší schůze je k dohledání na https://docs.pyvec.org/operations/meeting-notes.html
+      Zápis a tento e-mail ti slouží jako doklad, že jsi členem.
 
-#. Na začátek stránky :ref:`zapisy` přidej zápis podle následující šablony:
+#. Pokud byla osoba přijata, zapíšeme ji do `tabulky <https://docs.google.com/spreadsheets/d/1n8hzBnwZ5ANkUCvwEy8rWsXlqeAAwu-5JBodT5OJx_I/edit#gid=0>`__
+#. Pokud byla osoba přijata, přidáme ji do kanálu :slack:`#pyvec-members`.
+#. Na začátek aktuálního dokumentu v :ref:`zapisy` přidáme zápis podle následující šablony:
 
    .. code-block:: rst
 
@@ -203,8 +203,7 @@ Zápis z jednorázového elektronického hlasování
       OSOBA byla D. M. přijata za člena spolku.
 
    Pokud nějaký člen rady nehlasoval, tak není potřeba jej vůbec uvádět.
-
-#. Pošli Pull Request s touto změnou. Před jeho přijetím by měl být schválen alespoň jedním dalším členem výboru (můžeš nastavit tým `@pyvec/board <https://github.com/orgs/pyvec/teams/board>`__ v *reviewers*).
+#. Jakmile je zápis z hlasování zveřejněn, nový člen jej může spolu s e-maily použít jako důkaz o svém přijetí za člena a doklad svého existujícího členství.
 
 
 .. _navody-pokladnik:
