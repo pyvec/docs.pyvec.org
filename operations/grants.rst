@@ -6,6 +6,44 @@ Od roku 2020 o grantech :term:`výbor <Výbor>` hlasuje prostřednictvím repozi
 .. Soubor operations/grants.rst je generován skriptem _scripts/generate_grants.py ze šablony operations/grants.rst.jinja. Neupravovat ručně!
 
 
+7. 12. 2023 - elektronické hlasování výboru
+--------------------------------------------
+
+Dne 29. 8. 2023 požádal uživatel `@kvbik <https://github.com/kvbik>`_ o grant `Python Community Sprint Msene Lazne 2023  <https://github.com/pyvec/money/issues/14>`_:
+
+.. code-block:: text
+
+    **Kdo jste?**
+
+    Jakub Vysoky, člen Pyvec, zakladatel pražského Pyva
+
+    **Kolik potřebujete? (aspoň odhad nebo rozmezí)**
+
+    Cca 15tis Kc. (jídlo a pití na 4 dny pro ~20 lidí)
+
+    **Na jakou věc to je?**
+
+    Letní edice Python komunitního Sprintu ve Mšených-lázních: 24.-27. 8. 2021.
+
+    **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
+
+    Organizujeme tradiční víkendový sraz pro všechny organizátory a organizátorky Python akcí v České Python komunitě. Plánují se aktivity, které budou (pycon.cz/pyladies/pyva), dokumentují se ty, které byly (pycon.cz/pyladies/pyva), sepisuje se různá dokumentace (naucse/odevzdavatko/python.cz), zpracovávají se issues (zapojse/pyvec/money) a zkrátka se sprintuje na všech možných ůkolech, na které se během roku nenajde čas.
+
+Výbor o tomto elektronicky hlasoval 7. 12. 2023, kdy bylo hlasování uzavřeno s následujícím výsledkem:
+
+* Anežka Müller: ano
+
+* Jakub Vysoký: zdržel(a) se
+
+* Jan Javorek: ano
+
+* Barbora Drbohlavová: ano
+
+* Jan Čermák: ano
+
+
+Grant byl schválen.
+
 26. 8. 2023 - elektronické hlasování výboru
 --------------------------------------------
 
