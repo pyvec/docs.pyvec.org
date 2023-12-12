@@ -6,6 +6,39 @@ Od roku 2020 o grantech :term:`výbor <Výbor>` hlasuje prostřednictvím repozi
 .. Soubor operations/grants.rst je generován skriptem _scripts/generate_grants.py ze šablony operations/grants.rst.jinja. Neupravovat ručně!
 
 
+10. 12. 2023 - elektronické hlasování výboru
+--------------------------------------------
+
+Dne 26. 11. 2023 požádal uživatel `@clytaemnestra <https://github.com/clytaemnestra>`_ o grant `Jednorázový grant na dort na Pyvo <https://github.com/pyvec/money/issues/15>`_:
+
+.. code-block:: text
+
+    **Kdo jste?**
+    pražské Pyvo
+
+
+    **Kolik potřebujete? (aspoň odhad nebo rozmezí)**
+    2080
+
+    **Na jakou věc to je?**
+    dort
+
+    **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
+    na kulaté narozeniny Pyva
+
+    Článek bude, až posbírám fotky.
+
+Výbor o tomto elektronicky hlasoval 10. 12. 2023, kdy bylo hlasování uzavřeno s následujícím výsledkem:
+
+* Jan Javorek: ano
+
+* Jan Čermák: ano
+
+* Barbora Drbohlavová: ano
+
+
+Grant byl schválen.
+
 7. 12. 2023 - elektronické hlasování výboru
 --------------------------------------------
 
