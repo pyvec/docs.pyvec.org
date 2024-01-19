@@ -1,5 +1,5 @@
 sphinx==7.2.6
-sphinxemoji==0.3.0
+sphinxemoji==0.3.1
 sphinx-rtd-theme==2.0.0
 sphinx-autobuild==2021.3.14
 pylama==8.4.1
