@@ -3,7 +3,7 @@
 Stanovy Pyvec, z.s.
 ===================
 
-Úplné znění ze dne 20. 3. 2019.
+Úplné znění ze dne 23. 1. 2024.
 
 .. note::
     Vizuálně oddělené poznámky, jako je tato, nejsou oficiální součástí stanov a slouží pouze k lepšímu porozumění právnického textu běžnými smrtelníky. Originální znění stanov je k dispozici na `webových stránkách spolku`_ (dole v patičce) nebo na `justice.cz`_.
@@ -240,6 +240,15 @@ Výbor oznámí členům spolku písemně nebo jiným vhodným způsobem výsled
 .. note::
     V praxi mají členové pro komunikaci k dispozici i :ref:`Slack <slack>` s “tajným” kanálem :slack:`#pyvec-members`.
 
+.. _online-voting-system:
+
+Členská schůze může přijímat svá rozhodnutí per rollam (mimo zasedání) také elektronicky prostřednictvím webového hlasovacího systému, např. Helios. V takovém případě výbor zašle všem členům spolku na e-mailové adresy uvedené v seznamu členů pozvánku k hlasování s uvedením programu hlasování a adresy URL.
+
+Při hlasování prostřednictvím webového hlasovacího sytému je hlasování neveřejné a totožnost každého člena je ověřena prostřednictvím uživatelského jména, uvedeného v seznamu členů. Platnost hlasovacího lístku každého člena odevzdaného v rámci elektronického hlasovacího systému potvrzuje unikátní číselný identifikátor, který systém vygeneruje každému platnému hlasovacímu lístku každého člena, který se tohoto hlasování účastnil. Po skončení hlasování se každý člen může přihlášením do systému seznámit s výsledky hlasování, které jsou zde zveřejněny na online nástěnce.
+
+.. note::
+    Poslední dva odstavce jsou nutné k tomu, aby bylo možné pro hlasování (například volby do :ref:`výboru <vybor>` spolku) používat hlasovací systém `Helios <https://vote.heliosvoting.org>`_ a podobné systémy.
+
 .. _vybor:
 
 IX. Výbor
@@ -283,7 +292,7 @@ Výbor má 5 (pět) členů. Funkční období člena výboru jsou 3 (tři) roky
 9.5.
 """"
 
-Výbor je usnášeníschopný, pokud se jednání výboru účastní více než polovina všech jeho členů a zároveň je přítomen předseda, nejde-li o volbu předsedy. Rozhodnutí výboru je přijato, pokud pro něj hlasovala nadpoloviční většina přítomných členů. Při rovnosti hlasů je rozhodující hlas předsedy. V případě, že se výbor z důvodu ukončení členství některého člena stane neúplným, mají jeho zbývající členové povinnost do 30 (třiceti) dnů svolat členskou schůzi, která zvolí chybějící členy výboru. Neklesl-li počet členů výboru pod polovinu, mohou tito zbývající členové výboru `kooptovat <https://cs.wikipedia.org/wiki/Kooptace>`__ náhradní členy výboru, kteří budou ve výboru do nejbližšího zasedání členské schůze, která chybějící členy výboru zvolí.
+Výbor je usnášeníschopný, pokud se jednání výboru účastní více než polovina všech jeho členů. Rozhodnutí výboru je přijato, pokud pro něj hlasovala nadpoloviční většina přítomných členů. V případě, že se výbor z důvodu ukončení členství některého člena stane neúplným, mají jeho zbývající členové povinnost do 30 (třiceti) dnů svolat členskou schůzi, která zvolí chybějící členy výboru. Neklesl-li počet členů výboru pod polovinu, mohou tito zbývající členové výboru `kooptovat <https://cs.wikipedia.org/wiki/Kooptace>`__ náhradní členy výboru, kteří budou ve výboru do nejbližšího zasedání členské schůze, která chybějící členy výboru zvolí.
 
 9.6.
 """"
@@ -311,8 +320,11 @@ X. Seznam členů
 
 V seznamu členů se u každého člena uvádějí následující údaje:
 
-a)  u fyzické osoby: jméno, příjmení, datum narození, poštovní doručovací adresa, e-mailová adresa, okruh záležitostí, ve kterých je člen oprávněn v rámci pověření spolek zastupovat (je-li takové pověření),
-b)  u právnické osoby: název, identifikační číslo, poštovní doručovací adresa, jméno, příjmení a e-mailová adresa zástupce, okruh záležitostí, ve kterých je člen oprávněn v rámci pověření spolek zastupovat (je-li takové pověření).
+a)  u fyzické osoby: jméno, příjmení, datum narození, poštovní doručovací adresa, e-mailová adresa, uživatelské jméno, okruh záležitostí, ve kterých je člen oprávněn v rámci pověření spolek zastupovat (je-li takové pověření),
+b)  u právnické osoby: název, identifikační číslo, poštovní doručovací adresa, jméno, příjmení a e-mailová adresa zástupce, uživatelské jméno, okruh záležitostí, ve kterých je člen oprávněn v rámci pověření spolek zastupovat (je-li takové pověření).
+
+.. note::
+    Uživatelské jméno je nutné pro ověření totožnosti člena při :ref:`elektronickém hlasování <online-voting-system>`.
 
 10.3.
 """""
