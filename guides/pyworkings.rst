@@ -69,6 +69,11 @@ Jaká je cílová skupina?
 
 Jak vybírat?
 
+    Záleží na omezeních pro účastnictvo.
+    Pokud potřebuješ konkrétní znalosti, pak tomu můžeš přihlášku přizpůsobit a vybrat ty, kdo nejlépe splňují podmínky.
+    Pokud není potřeba nic specifického, například stačí jen žádné nebo mírně pokročilé zkušenosti Pythonu, pak můžeš jít pouze do naplnění kapacity a vzít všechny přihlášené.
+    V každém případě je dobré v přihlášce způsob výběru specifikovat, například pokud jdeš cestou naplnění kapacity, budou lidi vědět, že nemají s přihlášením otálet. 
+
 
 Místo
 ^^^^^
@@ -88,6 +93,17 @@ Placené prostory
     Placené kurzy (nebo lépe, kurzy s nenulovým rozpočtem) se dají pořádat v coworkingovém centru nebo školícím středisku.
     Možností je spousta.
 
+Chci zařizovat na akci občerstvení?
+
+    Pokud plánuješ celodenní workshop, dopředu si rozmysli, jestli chceš na místě mít nějaké obšerstvení. 
+    Je několik cest, kterými se vydat:
+
+    * Pokud se ti podaří domluvit sponzorský prostor, můžeš zkusit vyjednat i sponzoring občerstvení.
+    * Pokud půjdeš cestou vlastního občerstvení, můžeš na místě zorganizovat hromadnou objednávku a dovážku oběda.
+    * Můžeš nechat občerstvení čistě na účastnictvu.
+
+    V každém případě je ale dobré dát všem dopředu vědět, s jakou variantou počítat.
+    
 
 Mentoři
 ^^^^^^^
@@ -111,17 +127,17 @@ Kde sehnat pomocníky?
     Spousta stávajících koučů z PyLadies komunity je také ochotná jednorázově vypomoci a přijet do jiného města.
 
 
-
 Rozvrh
-------
+^^^^^^
+
 Poté, co máš určené téma a lektora či lektorku, vyber si spolu s ním/s ním den D, kdy se má workshop konat.
 Podle toho si vytvoř časový rozvrh, ať na nic nezapomeneš:
 
 * D - 2 měsíce
 
-    * Začít shánět pomocné kouče (pokud je už nemáš potvrzené)
-    * Sehnat a domluvit prostory
-    * Dej vědět organizátorkám z PyLadies komunity na info@pyladies.cz, pomůžou ti s propagací mezi potenciální kouče a účastnice
+    * Začít shánět pomocné kouče (pokud je už nemáš potvrzené).
+    * Sehnat a domluvit prostory.
+    * Dej vědět organizátorkám z PyLadies komunity na info@pyladies.cz, pomůžou ti s propagací mezi potenciální kouče a účastnice.
 
 * D - 1 měsíc
 
@@ -129,53 +145,35 @@ Podle toho si vytvoř časový rozvrh, ať na nic nezapomeneš:
 
 * D - 2 týdny
 
-    * Vybrat účastnictvo
-        * Vybraným poslat mail s radostnou zprávou
-        * Zhruba pět až deset odmítnutých informovat, že jsou náhradníci
-        * Ostatní odmítnutým sdělit že se bohužel nevejdou
-    * Poslat všechny potřebné informace koučkám a koučům
+    * Vybrat účastnictvo:
+        * Vybraným poslat e-mail s radostnou zprávou.
+        * Pokud už přímo nebereš počet lidí s rezervou, doporučujeme několik odmítnutých informovat, že jsou náhradníci.
+        * Ostatní odmítnutým sdělit, že se bohužel nevejdou.
+    * Poslat všechny potřebné informace koučkám a koučům.
 
-    (XXX: šablony na tyhle maily)
+* D - 3 dny
 
-* D - 1 den
-
-    * Poslat účastníkům připomínací mail
-
-* D + zhruba 3 měsíce
-
-    * Plánovaný konec kurzu
+    * Poslat účastnictvu připomínací e-mail
 
 
 Průběh setkání
 --------------
 
-
 V rámci úvodní prezentace by mělo padnout:
 
-    * Trocha historie
-    * Co se naučíme, a co naopak v kurzu nebude
-    * Instrukce pro účastníky – viz barevné papírky níže
-    * Pár instrukcí pro kouče
-    * Představení koučů i účastníků ( je dobré, pokud mohou účastníci kurzu uvést, proč na kurz přišli a co jaká bližší oblast je zajimá. Celé oboustranné představování většinout dost prolomí ledy a kurz budí přátelský dojem)
-    * Co je dobré taky zmínit - viz seznam
-
-.. _usb_flash:
-
-Je dobré mít několik flashek s následujícíma věcma, aby je všichni nestahovali
-najednou:
-
-    * Aktuální kopie materiálů
-    * Instalačky Pythonu (Windows 64-bit, Windows 32-bit, macOS)
-    * Instalačky Atomu (Windows, macOS)
-    * Instalačky Gitu (Windows 64-bit, Windows 32-bit, macOS)
+    * Pokud workshop organizuješ pod hlavičkou PyLadies nebo nějaké jiné organizace, začni nějakým úvodem o ní.
+    * Co se naučíme, a co naopak nebude součástí setkání.
+    * Instrukce pro účastníky – viz barevné papírky níže.
+    * Pár instrukcí pro kouče.
+    * Představení koučů i účastníků, motivace, proč na workshop přišli.
 
 
 Systém barevných papírků
-------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 Osvědčil se nám „papírkový” systém převzatý ze `Software Carpentry`_.
 
-Každý účastník má k dispozici 3 barevné lepící papírky: žlutý, zelený a červený [#f1]_.
+Každý účastník má k dispozici 3 barevné lepící papírky: žlutý, zelený a červený.
 
 Na *žlutý* papírek napíše své jméno (nebo přezdívku), a nalepí ho *vedle*
 počítače – tak, aby koučové na jméno viděli, když přijdou pomoct.
