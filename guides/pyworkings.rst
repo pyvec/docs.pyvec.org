@@ -10,7 +10,7 @@ Před začátkem
 -------------
 
 Než může workshop začít, potřebuješ téma, místo, čas, mentory a účastníky.
-Postupně tě provedeme tím, co se nám obecně při organizaci různorodých worksopů osvědčilo.
+Postupně tě provedeme otázkami, které je dobré si zodpovědět, a tím, co se nám obecně při organizaci různorodých worksopů osvědčilo.
 
 
 Téma
@@ -18,12 +18,15 @@ Téma
 
 V rámci PyWorkingů i jiných workshopů se většina věcí odvíjí od tématu.
 Postupovat se dá různě. 
+
 V ideálním případě máš nabídku na konkrétní téma od konkrétního člověka. 
 Pak potřebuješ určit, jestli bude o takové téma ve tvé komunitě zájem.
 Nebo máš z komunity poptávku po konkrétních tématech, podle kterých budeš shánět lektory.
+
 V každém případě tě čeká sepsat dostatečně konkrétní anotaci workshopu, aby jasně říkala, o čem workshop bude a také nebude.
 Nechceš se dostat do situace, kdy účastníci přijdou se špatnými očekáváními.
-Jakmile máš téma a někoho, kdo to odučí, můžeš podle toho určit délku a cílovou skupinu.
+
+Jakmile máš téma a někoho, kdo workshop povede, můžeš podle toho určit délku a cílovou skupinu.
 
   
 
@@ -42,29 +45,29 @@ Jak dlouho?
     Obecně se dá říct, že workshopy jsou oproti kurzům jednorázové, ale zda budou na dvě hodiny, čtyři hodiny, celý den nebo celý víkend je už na tobě, respektive na tom, kdo workshop povede.
 
   
-Účastníci
-^^^^^^^^^
+Účastníctvo
+^^^^^^^^^^^
 
 Pro kolik lidí chceš workshop uspořádat?
 
     Obecně doporučujeme spíše menší počet účastníků
     Workshopy bývají poměrně intenzivní a menší počet lidí podporuje interaktivitu a také to, že se ti je podaří udržet na stejné vlně po celou dobu setkání.
+
     Počítej s tím, že z přihlášených lidí málokdy dorazí na samotný workshop všichni.
     I vzhledem k tomu, že děláme workshopy zdarma, stává se, že lidé nedorazí i bez omluvy.
     Počítej zhruba s 10 - 20% neúčastí.
+
     Doporučení: Čím více budeš s účastníky před akcí komunikovat, tím větší je šance, že přijdou nebo že se při neúčasti omluví předem.
 
 Jaká je cílová skupina?
 
-    Urči si
-    Není začátečník jako začátečník.
-    Chceš (jako my) učit lidi, kteří vůbec neumí progrmovat,
-    nebo ty kteří přicházejí z jiného jazyka?
-    Chceš učit vědce? Učitele? Testery? Středoškoláky?
-    Každé omezení cílové skupiny ti umožní kurz lépe přizpůsobit.
+    Další věc závislá na tématu.
+    Dobře definuj, jak velký přehled v tématu účastnice a účastníci potřebují.
+    Jsou třeba nějaké prerekvizity, konkrétní znalosti nebo nějaké vybavení?
+    Nezapomeň vše zmínit v přihlášce.
+    Je dobré, když má každý účastník svůj laptop, který pak používá i mimo lekce.
 
-    Je dobré když má každý účastník svůj laptop, který pak používá
-    i mimo lekce.
+Jak vybírat?
 
 
 Místo
@@ -72,83 +75,65 @@ Místo
 
 Podle toho, kolik plánuješ účastníků, vyber vhodné prostory.
 Potřebuješ prostor s wifi a projektorem.
+Nezapomeň do celkového počtu lidí započítat i mentory*ky a organizátory*ky. 
 
 Sponzorované prostory
 
-    Pro komunitní kurz je dobré se zeptat IT firem, jestli by neposkytly na
-    večer zasedačku. Místo mají občas i školy či studentské unie, univerzity, knihovny.
+    Pro komunitní aktivity je dobré se zeptat IT firem, jestli by neposkytly na daný den zasedačku. 
+    Místo mají občas i školy či studentské unie, univerzity, knihovny.
+    Pokud je prostor takto sponzorovaný, je dobré přidat logo na stránky nebo nějakým způsobem viditelně sponzorovi poděkovat.
 
 Placené prostory
 
-    Placené kurzy (nebo lépe, kurzy s nenulovým rozpočtem) se dají pořádat
-    v coworkingovém centru nebo školícím středisku.
+    Placené kurzy (nebo lépe, kurzy s nenulovým rozpočtem) se dají pořádat v coworkingovém centru nebo školícím středisku.
     Možností je spousta.
 
 
 Mentoři
 ^^^^^^^
 
-Hlavní kouč
+Kdo bude hlavní kouč*ka?
 
-    Na každé lekci by měl být jeden „hlavní kouč”, který lekci řídí
-    a zná příslušné materiály.
-    Materiály jsou prověřené praxí, hlavní kouč se jich samozřejmě nemusí držet doslovně,
-    ale neměl by bez předchozí konzultace či praxe úplně opouštět osvědčenou koncepci lekce.
-    Je dobré, když funkci hlavního kouče po celé trvání kurzu zastává ten stejný
-    člověk, který má pak přehled o tom, co se probralo.
-    Pokud se hlavní koučové střídají, měl by každou lekci vést někdo, kdo
-    byl minimálně na lekci předchozí.
+    Pro každý workshop potřebuješ někoho, kdo je na dané téma odborník a je schopen celý workshop připravit a odlektorovat. 
+    Doporučujeme, aby to byl někdo, o kom (alespoň zprostředkované) víš, jakým způsobem učí.
+    Pokud například připravuješ workshop pro začátečníky či začátečnice bez hlubšich technických znalostí, je třeba, aby tvůj hlavní kouč nebo koučka měli s tímto publikem zkušenost. 
 
-Vedlejší koučové
+Potřebuju někoho na pomoc?
 
-    Ostatní mentoři pomáhají (např. rozdávají papírové materiály),
-    a hlavně řeší konkrétní problémy.
-    V téhle roli nemusí být všichni experti. Naopak, pro účastníka
-    předchozího „běhu” začátečnického kurzu je koučování skvělá příležitost
-    jak si všechno zopakovat, a zjistit kolik se toho naučil :)
+    Určitě ano. 
+    Na každém workshopu doporučujeme mít několik pomocných koučů. 
+    Během workshopu mentoři pomáhají a řeší konkrétní problémy jednotlivých účastnic a účastníků.
+    Doporučujeme zhruba jednoho vedlejšího kouče na 3-5 účastníků, podle obtížnosti tématu.
 
-    Doporučujeme zhruba jednoho vedlejšího kouče na 3-5 účastníků.
-    Ze začátku, na instalaci a nastavení prostředí, je lepší jich pozvat spíš
-    víc; potom nebývá problém když občas někdo odpadne.
+Kde sehnat pomocníky?
 
-    Koučové se dají nabrat na srazech, případně se dají oslovit programátoři
-    v okolních firmách. Není problém, pokud vedlejší kouč v praxi Python nepoužívá.
-    Určitě koučování nabídni i účastníkům předchozích kurzů.
-    V první řadě, látku uslyší znovu a tím si ji oživí. A navíc vysvětlováním a pomáháním s chybami účastníků jim i leccos zpětně dojde.
-    Tuto metodu i samotní programátoři používají při své práci a jde o tzv. `Rubber duck debugging
-    <https://en.wikipedia.org/wiki/Rubber_duck_debugging>`__.
-
-    Spousta stávajících koučů PyLadies je ochotná jednorázově vypomoci a přijet
-    do jiného města
+    Koučové se dají nabrat na lokálních srazech, případně se dají oslovit programátoři v okolních firmách. 
+    Spousta stávajících koučů z PyLadies komunity je také ochotná jednorázově vypomoci a přijet do jiného města.
 
 
 
 Rozvrh
 ------
-Vyber si den D, kdy má kurz začít.
+Poté, co máš určené téma a lektora či lektorku, vyber si spolu s ním/s ním den D, kdy se má workshop konat.
 Podle toho si vytvoř časový rozvrh, ať na nic nezapomeneš:
 
 * D - 2 měsíce
 
-    * Začít shánět kouče (pokud je už nemáš potvrzené)
+    * Začít shánět pomocné kouče (pokud je už nemáš potvrzené)
     * Sehnat a domluvit prostory
-    * Dej vědět organizátorkám PyLadies na info@pyladies.cz, pomůžou ti s propagací mezi
-      potenciální kouče a účastnice
+    * Dej vědět organizátorkám z PyLadies komunity na info@pyladies.cz, pomůžou ti s propagací mezi potenciální kouče a účastnice
 
 * D - 1 měsíc
 
     * Zveřejnit přihlašovací formulář.
 
-      (XXX: Odkaz na vzorovou přihlášku)
-
 * D - 2 týdny
 
-    * Vybrat účastníky
-
+    * Vybrat účastnictvo
         * Vybraným poslat mail s radostnou zprávou
         * Zhruba pět až deset odmítnutých informovat, že jsou náhradníci
         * Ostatní odmítnutým sdělit že se bohužel nevejdou
-    * Informovat kouče
+    * Poslat všechny potřebné informace koučkám a koučům
 
     (XXX: šablony na tyhle maily)
 
