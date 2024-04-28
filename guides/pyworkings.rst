@@ -28,7 +28,6 @@ Nechceš se dostat do situace, kdy účastníci přijdou se špatnými očekáv�
 
 Jakmile máš téma a někoho, kdo workshop povede, můžeš podle toho určit délku a cílovou skupinu.
 
-  
 
 Čas
 ^^^
@@ -95,7 +94,7 @@ Placené prostory
 
 Chci zařizovat na akci občerstvení?
 
-    Pokud plánuješ celodenní workshop, dopředu si rozmysli, jestli chceš na místě mít nějaké obšerstvení. 
+    Pokud plánuješ celodenní workshop, dopředu si rozmysli, jestli chceš na místě mít nějaké občerstvení. 
     Je několik cest, kterými se vydat:
 
     * Pokud se ti podaří domluvit sponzorský prostor, můžeš zkusit vyjednat i sponzoring občerstvení.
@@ -108,7 +107,7 @@ Chci zařizovat na akci občerstvení?
 Mentoři
 ^^^^^^^
 
-Kdo bude hlavní kouč*ka?
+Kdo bude hlavní lektor*ka?
 
     Pro každý workshop potřebuješ někoho, kdo je na dané téma odborník a je schopen celý workshop připravit a odlektorovat. 
     Doporučujeme, aby to byl někdo, o kom (alespoň zprostředkované) víš, jakým způsobem učí.
@@ -130,7 +129,7 @@ Kde sehnat pomocníky?
 Rozvrh
 ^^^^^^
 
-Poté, co máš určené téma a lektora či lektorku, vyber si spolu s ním/s ním den D, kdy se má workshop konat.
+Poté, co máš určené téma a lektora či lektorku, vyber si spolu s ním či s ní den D, kdy se má workshop konat.
 Podle toho si vytvoř časový rozvrh, ať na nic nezapomeneš:
 
 * D - 2 měsíce
@@ -163,7 +162,7 @@ V rámci úvodní prezentace by mělo padnout:
 
     * Pokud workshop organizuješ pod hlavičkou PyLadies nebo nějaké jiné organizace, začni nějakým úvodem o ní.
     * Co se naučíme, a co naopak nebude součástí setkání.
-    * Instrukce pro účastníky – viz barevné papírky níže.
+    * Instrukce pro účastnictvo – viz barevné papírky níže.
     * Pár instrukcí pro kouče.
     * Představení koučů i účastníků, motivace, proč na workshop přišli.
 
@@ -173,52 +172,44 @@ Systém barevných papírků
 
 Osvědčil se nám „papírkový” systém převzatý ze `Software Carpentry`_.
 
-Každý účastník má k dispozici 3 barevné lepící papírky: žlutý, zelený a červený.
+Jednoduchá varianta vypadá takto:
 
-Na *žlutý* papírek napíše své jméno (nebo přezdívku), a nalepí ho *vedle*
-počítače – tak, aby koučové na jméno viděli, když přijdou pomoct.
+* Každý účastník má k dispozici 3 barevné lepící papírky: žlutý, zelený a červený.
 
-*Červený* papírek si účastník nalepí na počítač, když potřebuje pomoc,
-když něco nebylo vysvětleno dost jasně, nebo když se něco pokazilo.
-Papírek by měl přesahovat horní okraj obrazovky, aby byl vidět odkudkoli.
+* Na *žlutý* papírek napíše své jméno (nebo přezdívku), a nalepí ho *vedle* počítače – tak, aby koučové na jméno viděli, když přijdou pomoct.
 
-*Zelený* papírek si naopak účastník nalepí na počítač, když je hotový
-s aktuálním úkolem.
-(Což neznamená že se nudí – může zkusit nějaký vlastní experiment, nebo pomoci
-ostatním.)
+* *Červený* papírek si účastník nalepí na počítač, když potřebuje pomoc, když něco nebylo vysvětleno dost jasně, nebo když se něco pokazilo. Papírek by měl přesahovat horní okraj obrazovky, aby byl vidět odkudkoli.
 
-Koučové sledují místnost.
-Když vidí červený papírek, hbitě přiskočí, vysvětlí nejasnosti a vyřeší problém.
-Když červený papírek nevidí, jdou pomáhat někde, kde ještě nevidí papírek
-zelený.
+* *Zelený* papírek si naopak účastník nalepí na počítač, když je hotový s aktuálním úkolem. (Což neznamená že se nudí – může zkusit nějaký vlastní experiment, nebo pomoci ostatním.)
 
-V momentě kdy je všude „zeleno” (kromě případných větších problémů, kde
-pomáhá kouč) hlavní kouč požádá o sundání papírků, a lekce pokračuje dál.
+* Koučové sledují místnost. Když vidí červený papírek, co nejdříve přijdou pomoci, vysvětlí nejasnosti a vyřeší problém. Když červený papírek nevidí, jdou pomáhat někde, kde ještě nevidí papírek zelený.
 
-Na konci lekce dostanou papírky další roli: na zelený papírek každý účastník
-napíše něco, co se mu líbilo, a na červený něco negativního.
-Hlavní kouč pak papírky vybere, aby měl představu co v příští lekci
-zlepšit.
-(Doporučuji sepsat shrnutí a reakci, jako např. `tady <https://pyladies.cz/v1/notes/2016-brno-jaro/2016-03-14.txt>`__)
+* V momentě kdy je všude „zeleno” (kromě případných větších problémů, kde pomáhá kouč) hlavní kouč požádá o sundání papírků, a lekce pokračuje dál.
+
+Občas přidáváme k základní trojici barev ještě jednou (libovolnou, ale hodně odlišnou), která značí, že daný člověk nepotřebuje pomoc, jen potřebuje delší čas na zpracování úkolu.
 
 
 
 Pravidla chování pro kouče
 --------------------------
 
-Každý vedlejší i hlavní kouč by měl mít na paměti jistá pravidla, aby kurz nepůsobil zmateně a každému účastníkovi se dostalo stejné pomoci. Pro příklad jsme jich pár zkusili a velmi se nám jejich prosazování vyplatilo.
+Každý pomocný kouč by měl mít na paměti jistá pravidla, aby kurz nepůsobil zmateně a každému se dostalo stejné pomoci. 
+Uvádíme ta, která se nám v praxi osvědčila:
 
     * klávesnice každého účastníka je svatá a psát na ní může jen on sám
-    * mluví pomalu a má trpělivost, s úsměvem je vše lepší a lekce budí přátelský dojem
-    * vždy vysvětluje pouze to, co se aktuálně řeší (platí především pro vedlejší kouče), nezdržuje lekci vysvětlováním látky dopředu (to
-      je úkol hlavního kouče)
-    * nekempuje u jednoho účastníka celou lekci, ale snaží se podávat pomoc mezi více účastníky
-    * řešení problému by mělo vzejít od účastníka, vedlejší kouč se jej na řešení snaží navést otázkami, na které účastník sám odpovídá (
-      přímé odhalení řešení pomůže účastníkovi pouze krátkodobě)
-    * snaží se nepoužívat terminologii, kterou účastník zatím nezná
-    * nezlehčuje problémy, které účastník řeší ani je nevhodně nekomentuje, nevzdychá a vyvaruje se demotivujícím hláškám
+    * kouč mluví pomalu a má trpělivost, s úsměvem je vše lepší a lekce budí přátelský dojem
+    * kouč vždy vysvětluje pouze to, co se aktuálně řeší, nezdržuje lekci vysvětlováním látky dopředu (to je úkol hlavního kouče)
+    * kouč nezůstává u jednoho účastníka celou lekci, ale snaží se podávat pomoc mezi více účastníky
+    * řešení problému by mělo vzejít od účastníka, kouč se jej na řešení snaží navést otázkami, na které účastník sám odpovídá (přímé odhalení řešení pomůže účastníkovi pouze krátkodobě)
+    * kouč mluví jednoduše a srozumitelně, snaží se nepoužívat terminologii, kterou účastník zatím nezná
+    * kouč nezlehčuje problémy, které účastník řeší, ani je nevhodně nekomentuje, nevzdychá a vyvaruje se demotivujícím hláškám
 
 
+Závěrem
+--------
 
-.. _CC-BY-SA: https://creativecommons.org/licenses/by-sa/4.0/
+Tento text nejsou pravidla pro uspořádání PyWorkingu nebo jiného tématického workshopu.
+Pouze jsme se pokusili sepsat námi osvědčené metody a postupy, abychom ulehčili práci dalším organizátorkám a organizátorům.
+Ber je pouze jako inspiraci a osvědší-li se ti něco dalšího, příspěvek do dokumentace je vždy vítán!
+
 .. _Software Carpentry: https://software-carpentry.org/
