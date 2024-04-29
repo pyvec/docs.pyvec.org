@@ -44,7 +44,7 @@ Jak dlouho?
     Obecně se dá říct, že workshopy jsou oproti kurzům jednorázové, ale zda budou na dvě hodiny, čtyři hodiny, celý den nebo celý víkend je už na tobě, respektive na tom, kdo workshop povede.
 
   
-Účastníctvo
+Účastnictvo
 ^^^^^^^^^^^
 
 Pro kolik lidí chceš workshop uspořádat?
