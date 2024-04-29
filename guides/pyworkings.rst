@@ -215,6 +215,6 @@ Závěrem
 
 Tento text nejsou pravidla pro uspořádání PyWorkingu nebo jiného tématického workshopu.
 Pouze jsme se pokusili sepsat námi osvědčené metody a postupy, abychom ulehčili práci dalším organizátorkám a organizátorům.
-Ber je pouze jako inspiraci a osvědší-li se ti něco dalšího, příspěvek do dokumentace je vždy vítán!
+Ber je pouze jako inspiraci a osvědčí-li se ti něco dalšího, příspěvek do dokumentace je vždy vítán!
 
 .. _Software Carpentry: https://software-carpentry.org/
