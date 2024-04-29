@@ -35,7 +35,7 @@ Jakmile máš téma a někoho, kdo workshop povede, můžeš podle toho určit d
 Kdy to bude?
 
     Nám se osvědčily workshopy víkendové, zpravidla sobotní, s ohledem na pracující.
-    Pokud chceš dělat workshop kratší než 3 hodiny, je určitě možné zvážit i večery všední den, obecně ale doporučujeme spíše víkend, kdy nebudou lidé unavení po celém dni.  
+    Pokud chceš dělat workshop kratší než 3 hodiny, je určitě možné zvážit i večery ve všední den, obecně ale doporučujeme spíše víkend, kdy nebudou lidé unavení po celém dni.  
     Termínově je dobré se vyhnout víkendům, na které navazují státní svátky, nebo školním prázdninám (pozor, například jarní prázdniny mají různé termíny v různých částech republiky).
 
 Jak dlouho?
