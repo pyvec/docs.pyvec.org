@@ -166,6 +166,11 @@ V rámci úvodní prezentace by mělo padnout:
     * Pár instrukcí pro kouče.
     * Představení koučů i účastníků, motivace, proč na workshop přišli.
 
+Pro inspiraci se hodí `základ slajdů pro Hadí workshop`_ – můžeš si ho jen projít a zkontrolovat jestli jsi na něco nezapomněl/a, nebo ho rovnou zkopírovat a upravit.
+
+.. _základ slajdů pro Hadí workshop: https://docs.google.com/presentation/d/1pM5t3B4Qn-xVsWksDycYvHG5pxJbzmOZwLFPd9lDmGo/edit#slide=id.g43f415b790_0_0
+
+
 
 Systém barevných papírků
 ^^^^^^^^^^^^^^^^^^^^^^^^
