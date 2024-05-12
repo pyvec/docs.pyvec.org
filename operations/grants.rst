@@ -6,6 +6,40 @@ Od roku 2020 o grantech :term:`výbor <Výbor>` hlasuje prostřednictvím repozi
 .. Soubor operations/grants.rst je generován skriptem _scripts/generate_grants.py ze šablony operations/grants.rst.jinja. Neupravovat ručně!
 
 
+11. 5. 2024 - elektronické hlasování výboru
+--------------------------------------------
+
+Dne 23. 4. 2024 požádal uživatel `@frenzymadness <https://github.com/frenzymadness>`_ o grant `Python Community Sprint na Východě 2024 <https://github.com/pyvec/money/issues/19>`_:
+
+.. code-block:: text
+
+    **Kdo jste?**
+
+    Lumír Balhar, člen Pyvce, organizátor Pyva v Ostravě
+
+    **Kolik potřebujete? (aspoň odhad nebo rozmezí)**
+
+    10 000 Kč - odhad na jídlo a pití pro 12 lidí na tři dny.
+
+    **Na jakou věc to je?**
+
+    Jarni edice komunitního sprintu 26. - 28. dubna 2024.
+
+    **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
+
+    Organizujeme tradiční víkendový sraz pro všechny organizátory a organizátorky Python akcí v České Python komunitě. Plánují se aktivity, které budou (pycon.cz/pyladies/pyva), dokumentují se ty, které byly (pycon.cz/pyladies/pyva), sepisuje se různá dokumentace (naucse/odevzdavatko/python.cz), zpracovávají se issues (zapojse/pyvec/money) a zkrátka se sprintuje na všech možných ůkolech, na které se během roku nenajde čas.
+
+Výbor o tomto elektronicky hlasoval 11. 5. 2024, kdy bylo hlasování uzavřeno s následujícím výsledkem:
+
+* Anežka Müller: ano
+
+* Jan Javorek: ano
+
+* Jan Čermák: ano
+
+
+Grant byl schválen.
+
 10. 12. 2023 - elektronické hlasování výboru
 --------------------------------------------
 
