@@ -78,7 +78,8 @@ Jak si nechat něco proplatit
 #. Při nákupech uchovávám účtenky nebo faktury. Faktura musí mít tyto náležitosti:
 
    - musí být vystavena na **Pyvec, z.s.**
-   - musí mít správnou **fakturační** adresu Pyvce (tzn. Drtinova) jak je uvedena `dole na webu <https://pyvec.org/>`_
+   - | musí mít správnou **fakturační** adresu Pyvce (uvedena i `dole na webu <https://pyvec.org/>`_):
+     | Korunní 2569/108, 101 00 Praha 10 – Vinohrady
 
    .. hint::
       Pokud se podepisuje nějaká smlouva a podepisuje ji někdo za Pyvec, musí u jejich jména figurovat opět název a adresa Pyvce, ne adresa k němu domů.
@@ -144,7 +145,6 @@ Schůze výboru
 #. Na nástěnce je každá schůze reprezentována kartičkou ve sloupci *Schůze*. V ní je seznam věcí, které by měl výbor projednat. Kromě věcí, které na seznam mohou členové výboru volně přidat během předchozího měsíce má program schůze tyto pevné pravidelné body:
 
    * Projít, zda není potřeba **něco schválit** (Pull Requesty na `docs.pyvec.org <https://github.com/pyvec/docs.pyvec.org>`__ nebo jinde, granty…). Tento bod zaručuje, že např. žádosti o grant nečekají nikdy déle než měsíc.
-   * Ověřit, zda byla **vybrána pošta** v `Impact Hubu <https://www.hubpraha.cz/d10/>`__, kde má Pyvec sídlo a schránku. Určit "pošťáka" na další měsíc. Tento bod zaručuje, že se ve schránce nenasbírá salát.
    * Domluvit se **kdy bude další schůze**, vytvořit jí kartičku a poslat novou pozvánku do kalendáře. Tento bod zaručuje, že se výbor sejde i další měsíc.
 
 #. Výbor volitelně kouká po kartičkách ve sloupci *To Do* a zkouší je v rámci možností života dobrovolníků postupně řešit.
