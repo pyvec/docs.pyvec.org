@@ -57,7 +57,7 @@ Vedoucí
    Člen týmu si může vzít na starost i úkol, který neví jak zpracovat - to je v pořádku. Vedoucí všechno vysvětlí, naučí, a zapíše sem.
 
 Přístupy
-   Členové týmu by měli být na `Pyvec Slacku <https://pyvec.slack.com/>`__ v místnosti :slack:`#pyconcz-media` a v týmu ``@pyconcz-media-team``, ve Facebookové skupine `Pyonýři <https://www.facebook.com/groups/pyonieri/>`__, měli by být nastavení jako spoluorganizátoři Facebookové události pro konferenci (příspěvky od organizátorů se zobrazují viditelněji), měli by mít přístup do Twitter účtu `@pyconcz <https://twitter.com/pyconcz>`__ přes `TweetDeck Teams <https://blog.twitter.com/official/en_us/a/2015/introducing-tweetdeck-teams.html>`__, a měli by umět posílat e-maily do skupiny `django-cs <https://groups.google.com/forum/#!forum/django-cs>`__ a `konference py.cz <https://www.py.cz/KonferenceDiskuze>`__.
+   Členové týmu by měli být na `Pyvec Slacku <https://pyvec.slack.com/>`__ v místnosti :slack:`#pyconcz-media` a v týmu ``@pyconcz-media-team``, ve Facebookové skupine `Pyonýři <https://www.facebook.com/groups/pyonieri/>`__, měli by být nastavení jako spoluorganizátoři Facebookové události pro konferenci (příspěvky od organizátorů se zobrazují viditelněji), měli by mít přístup do Twitter účtu `@pyconcz <https://twitter.com/pyconcz>`__ a měli by umět posílat e-maily do skupiny `django-cs <https://groups.google.com/forum/#!forum/django-cs>`__ a `konference py.cz <https://www.py.cz/KonferenceDiskuze>`__.
 
 Úkoly od spoluorganizátorů
    Pokud na Slacku přijde úkol ("zpropagujte datum konference") a v Media týmu je víc lidí, je dobré na Slack napsat "jdu na to", pokud to jdu udělat, aby ostatní z týmu věděli, že už to nemusí řešit. Případně "budu na to mít čas dnes večer" (třeba to někdo zvládne i dřív) nebo "udělám Facebook" (někdo jiný si vezme Twitter).
@@ -164,17 +164,6 @@ Emoji pomáhají tomu, aby si lidi statusu všimli, ale nemělo by se to s nimi 
 Velké publikum se dá sehnat tak, že s účtem `@pyconcz <https://twitter.com/pyconcz>`__ followujeme jiné, relevantní účty. Je to trochu followovací spam, ale funguje dobře. Pokud je to relevantní, nevidím v tom problém. Vždy je dobré před konferencí projet, co se kde urodilo nového za účty a co je kde za nové zajímavé lidi kolem Pythonu a nafollowovat je. Hledají se tak, že se na Twitteru přihlásíme za konferenční účet, pak `se nechají vypsat účty, které mají něco společného s Pythonem <https://twitter.com/search?f=users&q=python>`__ a okem se kontroluje, jestli jsou z ČR, případně z přilehlých zemí. Následně se už jen kliká. Také se vyplatí followovat jiné evropské PyCon / PyLadies / Django Girls účty. Pro inspiraci nechť slouží `existující seznam followovaných účtů <https://twitter.com/pyconcz/following>`__.
 
 Před každou konferencí je také potřeba upravit bio (kdy a kde se konference koná), grafika, atd.
-
-Na Twitteru lze naplánovat tweety dopředu přes `TweetDeck <https://tweetdeck.twitter.com/>`__, čehož se při přípravě konference velice hojně využívá. TweetDeck je obecně velkým pomocníkem. Přes `TweetDeck Teams <https://blog.twitter.com/official/en_us/a/2015/introducing-tweetdeck-teams.html>`__ se dá konferenční účet nasdílet dalším lidem bez sdílení hesla. Lze i snadno sledovat mentions, různá klíčová slova, operovat za více účtů najednou, apod.
-
-.. note::
-   Například `Honza Javorek <https://honzajavorek.cz>`__ má ve TweetDecku sloupec s vyhledáváním na následující způsob:
-
-   .. code-block:: text
-
-      (python "konference") OR (django praha) OR (django brno) OR (django ostrava) OR (python praha) OR (python brno) OR (python ostrava) OR (pyvo praha) OR (pyvo brno) OR (pyvo ostrava) OR (pycon brno) OR (pycon praha) OR (pycon ostrava) OR #pyvo OR napyvo OR pyvec OR pyladiescz OR pythoncz OR pyconcz OR djangogirlsbrno OR djangogirlsprg OR (python "školení") OR (python kurz) OR (pycon czech) OR (python czech)
-
-   Díky tomu ví o všem, co se kde šustne.
 
 Konferenční Twitter vystupuje za celý organizační tým - na rozdíl od Facebooku, kde je každý tak nějak aspoň trochu sám za sebe. Oficiální účet tedy neodpovídá na dotazy (viz :ref:`odpovidani-na-dotazy`), jen "vysílá zprávy". Pokud za konferenční účet něčemu dáme retweet nebo like, je to oficiální stanovisko konference a celého týmu za ní, že toto je dobrý tweet/názor/atd. Jestliže má člověk jakoukoliv pochybnost, zda něco náhodou nemůže být nevhodné/urážlivé/necitlivé, je lepší to raději nechat být a neretweetovat a nelajkovat.
 
