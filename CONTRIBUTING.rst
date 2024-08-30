@@ -13,7 +13,7 @@ Abyste něco změnili v textech, nemusíte nic instalovat. Obsah lze upravovat o
 Instalace
 ---------
 
-Když toho upravujete víc, nebo máte zálusk na nějaké složitější kejkle, je lepší mít materiály nainstalované na svém počítači. Projekt vyžaduje Python 3.11.
+Když toho upravujete víc, nebo máte zálusk na nějaké složitější kejkle, je lepší mít materiály nainstalované na svém počítači. Projekt vyžaduje Python 3.12.
 
 #. Stáhněte projekt: ``git clone https://github.com/pyvec/docs.pyvec.org.git``
 #. Vytvořte si a aktivujte virtuální prostředí
@@ -67,7 +67,7 @@ Tento projekt se původně jmenoval ``pyvec-guide`` a proto se tak jmenuje i pro
 Verze Pythonu
 -------------
 
-Nejnovější verze Pythonu, jakou ReadTheDocs podporují, je 3.11. Z toho důvodu ji vyžaduje i tento projekt. Nastavení je v souboru ``.readthedocs.yml`` (`dokumentace <https://docs.readthedocs.io/en/latest/config-file/v2.html>`_).
+Nejnovější verze Pythonu, jakou ReadTheDocs podporují, je 3.12. Z toho důvodu ji vyžaduje i tento projekt. Nastavení je v souboru ``.readthedocs.yml`` (`dokumentace <https://docs.readthedocs.io/en/latest/config-file/v2.html>`_).
 
 Continuous Integration
 ----------------------
