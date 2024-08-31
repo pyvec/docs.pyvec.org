@@ -1,8 +1,7 @@
 from datetime import date, datetime
 
 import pytest
-
-from generate_grants import to_date, remove_comments, get_board_member_name, get_votes
+from generate_grants import get_board_member_name, get_votes, remove_comments, to_date
 
 
 @pytest.fixture

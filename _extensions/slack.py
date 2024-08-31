@@ -8,9 +8,9 @@ make links to pyvec.slack.com Slack channels. Example::
 import functools
 from operator import itemgetter
 from pathlib import Path
-from docutils import nodes
 
 import strictyaml as yaml
+from docutils import nodes
 
 
 BOARD_HISTORY_SCHEMA = yaml.Seq(

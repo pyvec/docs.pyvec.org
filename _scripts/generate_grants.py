@@ -1,12 +1,12 @@
 import os
 import re
 from datetime import date
-from pathlib import Path
 from operator import itemgetter
+from pathlib import Path
 
 import requests
-from jinja2 import Template
 import strictyaml as yaml
+from jinja2 import Template
 
 
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
