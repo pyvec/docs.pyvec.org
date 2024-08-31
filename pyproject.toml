@@ -1,20 +1,5 @@
 [project]
-name = "pyvec-docs"
-version = "0.0.0"
-readme = "README.rst"
 requires-python = "==3.12"
-dependencies = [
-    "sphinx==7.4.7",
-    "sphinxemoji==0.3.1",
-    "sphinx-rtd-theme==2.0.0",
-    "sphinx-autobuild==2024.4.16",
-    "requests==2.32.3",
-    "jinja2==3.1.4",
-    "strictyaml==1.7.3",
-    "pytest==8.3.2",
-    "myst-parser==4.0.0",
-    "pytest-ruff==0.4.1",
-]
 
 [tool.pytest.ini_options]
 testpaths = "_*"
@@ -23,7 +8,6 @@ norecursedirs = "_build _static _templates"
 
 [tool.ruff]
 target-version = "py312"
-# extend-exclude = ["*_legacy"]
 
 [tool.ruff.lint]
 extend-select = ["I"]
