@@ -17,7 +17,7 @@ Když toho upravujete víc, nebo máte zálusk na nějaké složitější kejkle
 
 #. Stáhněte projekt: ``git clone https://github.com/pyvec/docs.pyvec.org.git``
 #. Vytvořte si a aktivujte virtuální prostředí
-#. Nainstalujte do prostředí závislosti: ``python -m pip install -e .``
+#. Nainstalujte do prostředí závislosti: ``python -m pip install -r pyproject.toml``
 
 Běžná práce
 -----------
