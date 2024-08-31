@@ -1,3 +1,11 @@
+# Currently this file is used merely for configuration
+# of tools. For dependencies, see requirements.txt.
+#
+# One day there will be a way how to specify dependencies
+# in pyproject.toml, and then install them by pip without
+# the need for installing this directory as a package
+# on its own, but that day is not today.
+
 [project]
 requires-python = "==3.12"
 
