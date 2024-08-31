@@ -15,7 +15,7 @@ jobs:
       with:
         python-version: "3.12"
     - name: Install dependencies
-      run: python -m pip install .
+      run: python -m pip install -e .
     - name: Generate the list of grants
       run: python _scripts/generate_grants.py > ./operations/grants.rst
       env:
