@@ -162,7 +162,7 @@ Přijetí nového člena
 
       @board hlasujeme o přijetí XYZ za člena Pyvce, dejte :+1: pokud souhlasíte, :-1: pokud ne, :eyes: pokud se chcete zdržet
 
-#. Čeká se, dokud členové výboru odhlasují tak, že jsou :ref:`usnášeníschopní <usnasenischopnost-vyboru>`, tzn. musí odhlasovat minimálně předseda a další dva členové výboru.
+#. Čeká se, dokud členové výboru odhlasují tak, že jsou :ref:`usnášeníschopní <usnasenischopnost-vyboru>`, tzn. musí hlasovat více než polovina členů výboru.
 #. Pokud byla osoba přijata, zapíšeme ji do `tabulky <https://docs.google.com/spreadsheets/d/1n8hzBnwZ5ANkUCvwEy8rWsXlqeAAwu-5JBodT5OJx_I/edit#gid=0>`__.
 #. Pokud byla osoba přijata, přidáme ji do kanálu :slack:`#pyvec-members`.
 #. Na začátek aktuálního dokumentu v :ref:`zapisy` přidáme zápis podle následující šablony:
