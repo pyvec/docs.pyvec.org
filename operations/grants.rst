@@ -6,6 +6,39 @@ Od roku 2020 o grantech :term:`výbor <Výbor>` hlasuje prostřednictvím repozi
 .. Soubor operations/grants.rst je generován skriptem _scripts/generate_grants.py ze šablony operations/grants.rst.jinja. Neupravovat ručně!
 
 
+10. 9. 2024 - elektronické hlasování výboru
+--------------------------------------------
+
+Dne 22. 2. 2024 požádal uživatel `@benabraham <https://github.com/benabraham>`_ o grant `Proplacení meetup.com pro Pyvo Praha <https://github.com/pyvec/money/issues/18>`_:
+
+.. code-block:: text
+
+    **Kdo jste?**
+    Daniel Srb
+
+    **Kolik potřebujete? (aspoň odhad nebo rozmezí)**
+    1291.82 Kč
+    Účty jsou v dolarech, ale tohle mi odešlo z banky.
+
+    **Na jakou věc to je?**
+    Proplacení Meetup.com pro Pyvo Praha za 3 měsíce, kdy jsem to platil ze svého.
+
+    **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
+    Nepřišli jsme o Meetup.
+
+Výbor o tomto elektronicky hlasoval 10. 9. 2024, kdy bylo hlasování uzavřeno s následujícím výsledkem:
+
+* Anežka Müller: ano
+
+* Jan Javorek: ano
+
+* Jan Čermák: ano
+
+* Barbora Drbohlavová: ano
+
+
+Grant byl schválen.
+
 11. 5. 2024 - elektronické hlasování výboru
 --------------------------------------------
 
