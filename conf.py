@@ -138,6 +138,7 @@ linkcheck_ignore = [
     r"https://(www\.)?buffer\.com.*",  # crawling/DDoS protection
     r"https://www\.nytimes\.com/.*",  # crawling/DDoS protection
     r"https://cz\.pycon\.org/\d+/.+",  # see https://pyvec.slack.com/archives/C4PPZNPDK/p1617716799001200
+    r"https://github\.com/[^/]+/[^/]+/commits/.+",  # GitHub aggressively rate-limits these
 ]
 
 
