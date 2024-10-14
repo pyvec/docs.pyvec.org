@@ -6,7 +6,7 @@ Funkční období :term:`výboru <Výbor>` je dle :ref:`stanov <stanovy>` tři r
 Nově zvolený výbor si potom sám volí, kdo z těchto pěti bude předseda a případně kdo bude pokladník (když se nerozhodne volit pokladníka, je jím automaticky předseda).
 
 .. note::
-    Přečíst ještě `PEP 8102 <https://www.python.org/dev/peps/pep-8102/>`__ a případně se inspirovat? Dořešit.
+    Přečíst ještě `PEP 8102 <https://peps.python.org/pep-8102/>`__ a případně se inspirovat? Dořešit.
 
 Kdy se volí
 -----------

@@ -125,7 +125,7 @@ Při elektronických hlasováních používáme emotikony s následujícím výz
 Jak používat palce na:
 
 * `Slacku <https://slack.com/intl/en-cz/help/articles/202931348-Use-emoji-and-emoticons>`__
-* `GitHubu <https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/>`__
+* `GitHubu <https://github.blog/news-insights/product-news/add-reactions-to-pull-requests-issues-and-comments/>`__
 
 Aby se výsledek snadněji sčítal, nemícháme do hlasování žádné jiné emotikony než výše uvedené. Oči umožňují rozlišit nepřítomnost při hlasování (která ovlivňuje usnášeníschopnost) od zdržení se hlasování.
 
@@ -236,7 +236,7 @@ Vystavení faktury
 | **Pro koho je tento návod:** | |:moneybag:| :term:`pokladník <Pokladník>`, předseda |
 +------------------------------+------------------------------------------------------+
 
-#. Někdo Pyvci oznámí "domluvila jsem, že nám `PSF <https://www.python.org/psf/>`_ pošle milion korun jako sponzorský dar"
+#. Někdo Pyvci oznámí "domluvila jsem, že nám `PSF <https://www.python.org/psf-landing/>`_ pošle milion korun jako sponzorský dar"
 #. Zjisti:
 
    - pod jakou **skupinu** příjem spadá (PyLadies, PyCon CZ, Pyvo v Brně...)

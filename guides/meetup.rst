@@ -136,7 +136,7 @@ Projektor lze v nouzi půjčit pro účel srazu z větší firmy, ale musíš se
 Franšíza
 ^^^^^^^^
 
-Zvaž, jestli pro tvé město není Python příliš úzké zaměření srazu. Např. ve Valašském Meziříčí jsou `Tkalci <http://tkalci.cz/>`__, sraz obecnější, o webu a dalších technologiích. V Českých Budějovicích je `Čtvrtkon <https://www.ctvrtkon.cz/>`__, který pravidelně střídá témata z různých oblastí.
+Zvaž, jestli pro tvé město není Python příliš úzké zaměření srazu. Např. ve Valašském Meziříčí jsou `Tkalci <http://tkalci.cz/>`__, sraz obecnější, o webu a dalších technologiích. V Českých Budějovicích je `Čtvrtkon <https://ctvrtkon.cz/>`__, který pravidelně střídá témata z různých oblastí.
 
 V Pyvci přemýšlíme nad tím, jestli bychom nemohli zkusit zavést možnost franšízování značky Pyvo. Že by například Tkalci mohli mít jedno vydání čistě s přednáškami ze světa Pythonu a díky tomu by toto konkrétní setkání mohli prohlásit za Pyvo. Tím by se dostalo do našich kalendářů na `pyvo.cz <https://pyvo.cz>`__ a pomohli bychom jej propagovat na sociálních sítích a i jinde. Také bychom třeba vyslali nějakou delegaci výletníků (přednášejících?).
 
@@ -317,11 +317,11 @@ Při focení a následném sdílení výsledků své práce myslete na to, že n
 Natáčení
 ^^^^^^^^
 
-Pokud máte přednášky, můžete je natočit. To se nejlépe dělá kamerou na stativu, ale takové vybavení má málokdo. Z pravidelných návštěvníků českých Pyv je to především `Petr Viktorin <http://encukou.cz/>`__, který si je pořídil speciálně pro tento účel, objíždí s ním srazy a vše co vidí, to natáčí a následně zpracovává.
+Pokud máte přednášky, můžete je natočit. To se nejlépe dělá kamerou na stativu, ale takové vybavení má málokdo. Z pravidelných návštěvníků českých Pyv je to především `Petr Viktorin <https://encukou.cz/>`__, který si je pořídil speciálně pro tento účel, objíždí s ním srazy a vše co vidí, to natáčí a následně zpracovává.
 
 Pokud zrovna nemáte Petra ani vlastní kameru, ale přesto chcete zkusit přednášky natočit, můžete to zkusit klidně i chytrým telefonem nebo foťákem. Nakonec jde totiž při natáčení přednášejícího stejně především o zvuk. Je dobré přednášky *stříhat rovnou v kameře*, to znamená zapnout kameru těsně před začátkem přednášky a vypnout ji těsně po potlesku. Natáčení více přednášek do jednoho záběru zbytečně přináší víc nároků na následné zpracovávání záznamů.
 
-Co ukazuje přednášející divákům je možné zachytit pomocí speciální krabičky `ExtremeCap 910 <https://www.avermedia.com/cz/product-detail/CV910>`__, která se zapojí mezi počítač a projektor a nahrává na SD kartu promítaný obraz včetně zvuku z mikrofonu. Jednu takovou krabičku má `Petr Viktorin <http://encukou.cz/>`__, druhou `Ondřej Caletka <https://ondrej.caletka.cz>`__. Alternativou je nahrávání obrazu přímo v jeho počítači pomocí programů jako
+Co ukazuje přednášející divákům je možné zachytit pomocí speciální krabičky `ExtremeCap 910 <https://www.avermedia.com/cz/product-detail/CV910>`__, která se zapojí mezi počítač a projektor a nahrává na SD kartu promítaný obraz včetně zvuku z mikrofonu. Jednu takovou krabičku má `Petr Viktorin <https://encukou.cz/>`__, druhou `Ondřej Caletka <https://ondrej.caletka.cz>`__. Alternativou je nahrávání obrazu přímo v jeho počítači pomocí programů jako
 
 - `recordMyDesktop <https://en.wikipedia.org/wiki/RecordMyDesktop>`__
 - `Quick Time <https://support.apple.com/guide/quicktime-player/record-your-screen-qtp97b08e666/10.5/mac/10.15>`__
@@ -347,7 +347,7 @@ V průběhu volné zábavy by bylo fajn, kdyby se k sobě účastníci pořád c
 Knihovnička
 ^^^^^^^^^^^
 
-Existuje tzv. `Knihovnička <https://github.com/pyvec/bookshelf/>`__, do které můžete darovat knihy a z níž si knihy můžete půjčovat. Přestože jsou srazy v různých městech, docela se nám zatím daří knihy distribuovat a poptávky po zapůjčkách uspokojovat (velký dík za to patří především knihovníkovi `Petru Viktorinovi <http://encukou.cz/>`__, jenž s knihami pravidelně objíždí většinu srazů v ČR). Máš-li sraz, tato Knihovnička je jednou z věcí, kterou tam můžeš docela snadno zavést a podpořit tak interakci lidí i přenos vědomostí.
+Existuje tzv. `Knihovnička <https://github.com/pyvec/bookshelf/>`__, do které můžete darovat knihy a z níž si knihy můžete půjčovat. Přestože jsou srazy v různých městech, docela se nám zatím daří knihy distribuovat a poptávky po zapůjčkách uspokojovat (velký dík za to patří především knihovníkovi `Petru Viktorinovi <https://encukou.cz/>`__, jenž s knihami pravidelně objíždí většinu srazů v ČR). Máš-li sraz, tato Knihovnička je jednou z věcí, kterou tam můžeš docela snadno zavést a podpořit tak interakci lidí i přenos vědomostí.
 
 
 Po akci
@@ -379,7 +379,7 @@ Při sdílení myslete na to, že ne každý se rád fotí a ne každý rád vis
 Videa
 ^^^^^
 
-Pokud se ti povedlo natočit nějaká videa (viz :ref:`srazy-nataceni`), buď dej vědět `Petrovi Viktorinovi <http://encukou.cz/>`__ a nebo se pokus o jejich zpracování sám/sama.
+Pokud se ti povedlo natočit nějaká videa (viz :ref:`srazy-nataceni`), buď dej vědět `Petrovi Viktorinovi <https://encukou.cz/>`__ a nebo se pokus o jejich zpracování sám/sama.
 
  1. Připrav prázdný adresář pro každou přednášku. S ti tím pomůže funkce ``videometadata`` nástroje `pyvodb <https://github.com/pyvec/pyvodb>`__:
 
@@ -416,7 +416,7 @@ Pokud se ti povedlo natočit nějaká videa (viz :ref:`srazy-nataceni`), buď de
 
  4. Pokud se vše podařilo, máš v aktuálním adresáři sestříhané video a k němu YAML soubor s metadaty potřebnými pro YouTube. Zkontroluj, jestli video vypadá, jak vypadat má, jestli nejsou překlepy v titulcích a jestli i na konci videa je synchronní obraz a zvuk. Pokud něco není v pořádku, pokus se najít příčinu – nejspíš to bude poškozený nebo špatně ustřižený video soubor.
 
- 5. Pro nahrávání do `kanálu Pyvo na YouTube <https://www.youtube.com/channel/UCaT4I7hjX9iH1YFvNvuu84A>`__ potřebuješ vlastní Google účet. Následně požádáš `Petra Viktorina <http://encukou.cz/>`__, aby tě přidal jako správce. Na YouTube pak budeš moci přepínat mezi svými účty, přičemž jedním z nich bude právě Pyvo. Protože ruční nahrávání je otrava, existuje nástroj `talk-video-uploader <https://github.com/oskar456/talk-video-uploader>`__, který video nahraje za tebe. Při prvním spuštění tě požádá o udělení oprávnění ke konkrétnímu účtu, do kterého následně bude nahrávat všechna videa.
+ 5. Pro nahrávání do `kanálu Pyvo na YouTube <https://www.youtube.com/channel/UCaT4I7hjX9iH1YFvNvuu84A>`__ potřebuješ vlastní Google účet. Následně požádáš `Petra Viktorina <https://encukou.cz/>`__, aby tě přidal jako správce. Na YouTube pak budeš moci přepínat mezi svými účty, přičemž jedním z nich bude právě Pyvo. Protože ruční nahrávání je otrava, existuje nástroj `talk-video-uploader <https://github.com/oskar456/talk-video-uploader>`__, který video nahraje za tebe. Při prvním spuštění tě požádá o udělení oprávnění ke konkrétnímu účtu, do kterého následně bude nahrávat všechna videa.
 
 .. code-block:: shell
 
