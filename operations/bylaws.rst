@@ -395,5 +395,5 @@ Záležitosti neupravené těmito stanovami se řídí obecně platnými právn�
 .. _Open Source: https://cs.wikipedia.org/wiki/Otev%C5%99en%C3%BD_software
 .. _otevřená data: https://cs.wikipedia.org/wiki/Otev%C5%99en%C3%A1_data
 .. _webových stránkách spolku: https://pyvec.org
-.. _Python Software Foundation: https://www.python.org/psf/
+.. _Python Software Foundation: https://www.python.org/psf-landing/
 .. _justice.cz: https://or.justice.cz/ias/ui/rejstrik-$firma?nazev=pyvec

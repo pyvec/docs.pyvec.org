@@ -28,7 +28,7 @@ Tým funguje jako první linie v komunikaci na sociálních sítích. Zatímco e
 
 V případě české Python konference se o e-maily (``info@pycon.cz``) a hromadnou poštu (Mailchimp) staral vždy někdo jiný, ale nemusí to být pravidlem do budoucna, logicky to do zodpovědností propagačního týmu zapadá.
 
-Protože Media tým není tolik vytížený během samotné konference, má na starosti nastavení a hladký průběh otázek z publika řešených přes `Slido <https://www.sli.do/>`__.
+Protože Media tým není tolik vytížený během samotné konference, má na starosti nastavení a hladký průběh otázek z publika řešených přes `Slido <https://www.slido.com/>`__.
 
 
 Složení týmu
@@ -300,7 +300,7 @@ PyCon CZ se organizuje od roku 2015 a je velká pravděpodobnost, že lidé, kte
 Open Source
 ^^^^^^^^^^^
 
-Lze projít `nejúspěšnější Open Source projekty na GitHubu <https://github.com/topics/python>`__  a v `jejich contributors <https://github.com/httpie/httpie/graphs/contributors>`__ identifikovat `lidi, kteří mají na projektu zásadní podíl <https://github.com/jakubroztocil>`__ a přitom by mohli dorazit na PyCon CZ s přednáškou nebo workshopem (tzn. buď je z jejich osobních profilů zřejmé, že běžně lítají po celém světě, nebo jsou někde z Evropy). Pozvat je můžeme e-mailem, ale klidně i `jen tweetem <https://twitter.com/honzajavorek/status/964410268913606659>`__.
+Lze projít `nejúspěšnější Open Source projekty na GitHubu <https://github.com/topics/python>`__  a v `jejich contributors <https://github.com/httpie/cli/graphs/contributors>`__ identifikovat `lidi, kteří mají na projektu zásadní podíl <https://github.com/jakubroztocil>`__ a přitom by mohli dorazit na PyCon CZ s přednáškou nebo workshopem (tzn. buď je z jejich osobních profilů zřejmé, že běžně lítají po celém světě, nebo jsou někde z Evropy). Pozvat je můžeme e-mailem, ale klidně i `jen tweetem <https://twitter.com/honzajavorek/status/964410268913606659>`__.
 
 Probíhající události
 ^^^^^^^^^^^^^^^^^^^^
