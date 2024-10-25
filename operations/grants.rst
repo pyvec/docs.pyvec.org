@@ -6,6 +6,79 @@ Od roku 2020 o grantech :term:`výbor <Výbor>` hlasuje prostřednictvím repozi
 .. Soubor operations/grants.rst je generován skriptem _scripts/generate_grants.py ze šablony operations/grants.rst.jinja. Neupravovat ručně!
 
 
+24. 10. 2024 - elektronické hlasování výboru
+--------------------------------------------
+
+Dne 17. 10. 2024 požádal uživatel `@benabraham <https://github.com/benabraham>`_ o grant `HDMI kabel pro pražské Pyvo <https://github.com/pyvec/money/issues/27>`_:
+
+.. code-block:: text
+
+    **Kdo jste?**
+    Daniel Srb
+
+    **Kolik potřebujete? (aspoň odhad nebo rozmezí)**
+    179 Kč
+
+    **Na jakou věc to je?**
+    HDMI kabel.
+
+    **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
+    Pro připojení laptopů přednášejících na pražském Pyvu (na Věnečku).
+    Ušetří to organizátorům problémy, které měli v minulosti.
+
+    **Kam proplatit?**
+    1029585019/3030
+
+    ![kabel-uctenka](https://github.com/user-attachments/assets/2ef523b7-d8b9-41e0-bc0e-86f3e500f048)
+
+Výbor o tomto elektronicky hlasoval 24. 10. 2024, kdy bylo hlasování uzavřeno s následujícím výsledkem:
+
+* Anežka Müller: ano
+
+* Jakub Vysoký: ano
+
+* Jan Javorek: ano
+
+* Barbora Drbohlavová: ano
+
+
+Grant byl schválen.
+
+2. 10. 2024 - elektronické hlasování výboru
+--------------------------------------------
+
+Dne 1. 9. 2024 požádal uživatel `@kvbik <https://github.com/kvbik>`_ o grant `Python Community Sprint Msene Lazne 2024 <https://github.com/pyvec/money/issues/25>`_:
+
+.. code-block:: text
+
+    **Kdo jste?**
+
+    Jakub Vysoky, člen Pyvec (borad member), spolu-zakladatel pražského Pyva
+
+    **Kolik potřebujete? (aspoň odhad nebo rozmezí)**
+
+    Cca 15tis Kc. (jídlo a pití na 4 dny pro ~20 lidí)
+    Finalni castka: `13280,-`
+
+    **Na jakou věc to je?**
+
+    Letní edice Python komunitního Sprintu ve Mšených-lázních: 29. 8. - 1. 9. 2024.
+
+    **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
+
+    Organizujeme tradiční víkendový sraz pro všechny organizátory a organizátorky Python akcí v České Python komunitě. Plánují se aktivity, které budou (pycon.cz/pyladies/pyva), dokumentují se ty, které byly (pycon.cz/pyladies/pyva), sepisuje se různá dokumentace (naucse/odevzdavatko/python.cz), zpracovávají se issues (zapojse/pyvec/money) a zkrátka se sprintuje na všech možných ůkolech, na které se během roku nenajde čas. Také probíhá lehká uncoference u ohně.
+
+Výbor o tomto elektronicky hlasoval 2. 10. 2024, kdy bylo hlasování uzavřeno s následujícím výsledkem:
+
+* Anežka Müller: ano
+
+* Jan Čermák: ano
+
+* Jan Javorek: ano
+
+
+Grant byl schválen.
+
 10. 9. 2024 - elektronické hlasování výboru
 --------------------------------------------
 
