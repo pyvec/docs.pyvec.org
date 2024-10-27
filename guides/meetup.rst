@@ -404,7 +404,7 @@ Pokud se ti povedlo natočit nějaká videa (viz :ref:`srazy-nataceni`), buď de
 
  2. Do připravených adresářů nahraj soubory s videem – jak z kamery, tak záznamy projekce. Uprav vygenerovaný soubor ``config.yaml``, tak aby obsahoval správný název přednášky, jméno přednášejícího, datum a URL akce, stejně jako odkazy na videosoubory (pokud kamera automaticky dělí záběry do více souborů, nevadí to) a další metadata: jestli byla projekce 4:3 nebo 16:9, jestli jde o lightning talk, v jakém jazyku byla přednáška a v jakém slajdy, atd. Všechny možné volby najdeš v nápovědě níže zmíněného nástroje ``talk-video-maker``.
 
- 3. Nainstaluj `talk-video-maker <https://github.com/encukou/talk-video-maker>`__ a jeho závislosti – `Inkscape <https://inkscape.org/cs/>`__, `FFmpeg <https://www.ffmpeg.org/>`__ a font `Signika Negative <https://fonts.google.com/specimen/Signika+Negative>`__. Tohle s největší pravděpodobností nebude fungovat jinde než na Linuxu. Na wiki projektu je stručný `návod, jak s tím začít <https://github.com/encukou/talk-video-maker/wiki/Jak-s-t%C3%ADm-za%C4%8D%C3%ADt>`__.
+ 3. Nainstaluj `talk-video-maker <https://github.com/encukou/talk-video-maker>`__ a jeho závislosti – `Inkscape <https://inkscape.org/cs/>`__, `FFmpeg <https://ffmpeg.org/>`__ a font `Signika Negative <https://fonts.google.com/specimen/Signika+Negative>`__. Tohle s největší pravděpodobností nebude fungovat jinde než na Linuxu. Na wiki projektu je stručný `návod, jak s tím začít <https://github.com/encukou/talk-video-maker/wiki/Jak-s-t%C3%ADm-za%C4%8D%C3%ADt>`__.
 
 .. code-block:: shell
 
