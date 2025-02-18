@@ -6,6 +6,43 @@ Od roku 2020 o grantech :term:`výbor <Výbor>` hlasuje prostřednictvím repozi
 .. Soubor operations/grants.rst je generován skriptem _scripts/generate_grants.py ze šablony operations/grants.rst.jinja. Neupravovat ručně!
 
 
+18. 2. 2025 - elektronické hlasování výboru
+--------------------------------------------
+
+Dne 17. 2. 2025 požádal uživatel `@anezkamll <https://github.com/anezkamll>`_ o grant `Proplacení účastnických placek Brno Python Pizza (ze sponzorského budgetu akce) <https://github.com/pyvec/money/issues/31>`_:
+
+.. code-block:: text
+
+    **Kdo jste?**
+    Anežka Müller, t.č. organizátorka Brno Python Pizza
+
+    **Kolik potřebujete? (aspoň odhad nebo rozmezí)**
+    1750 Kč
+
+    **Na jakou věc to je?**
+    Účastnické placky Brno Python Pizza
+
+    **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
+    Potřebujem nějaký identifikátor účastnictva, spadá do budgetu akce, sponzorské peníze jdou přes Pyvec
+    Fakturu přikládám.
+
+    Moje číslo účtu: 1577823014/3030
+
+    [faktura_52503198.pdf](https://github.com/user-attachments/files/18827366/faktura_52503198.pdf)
+
+Výbor o tomto elektronicky hlasoval 18. 2. 2025, kdy bylo hlasování uzavřeno s následujícím výsledkem:
+
+* Jakub Vysoký: ano
+
+* Barbora Drbohlavová: ano
+
+* Jan Čermák: ano
+
+* Jan Javorek: ano
+
+
+Grant byl schválen.
+
 24. 10. 2024 - elektronické hlasování výboru
 --------------------------------------------
 
