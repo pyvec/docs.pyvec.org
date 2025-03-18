@@ -6,6 +6,76 @@ Od roku 2020 o grantech :term:`výbor <Výbor>` hlasuje prostřednictvím repozi
 .. Soubor operations/grants.rst je generován skriptem _scripts/generate_grants.py ze šablony operations/grants.rst.jinja. Neupravovat ručně!
 
 
+18. 3. 2025 - elektronické hlasování výboru
+--------------------------------------------
+
+Dne 18. 2. 2025 požádal uživatel `@frenzymadness <https://github.com/frenzymadness>`_ o grant `Python Community Sprint na Východě 2025 <https://github.com/pyvec/money/issues/32>`_:
+
+.. code-block:: text
+
+    **Kdo jste?**
+
+    Lumír Balhar, člen Pyvce, organizátor Pyva v Ostravě, bývalý hlavní organizátor PyConu
+
+    **Kolik potřebujete? (aspoň odhad nebo rozmezí)**
+
+    10 000 Kč - odhad na jídlo a pití pro 12 lidí na tři dny. Loňská edice ze stejného grantu využila cca polovinu.
+
+    **Na jakou věc to je?**
+
+    Jarni edice komunitního sprintu 25. - 27. dubna 2025.
+
+    **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
+
+    Organizujeme tradiční víkendový sraz pro všechny organizátory a organizátorky Python akcí v České Python komunitě. Plánují se aktivity, které budou (PyCamp/PyLadies/Pyva), dokumentují se ty, které byly (PyLadies/Pyva), sepisuje se různá dokumentace (naucse/odevzdavatko/python.cz), zpracovávají se issues (zapojse/pyvec/money) a zkrátka se sprintuje na všech možných ůkolech, na které se během roku nenajde čas.
+
+Výbor o tomto elektronicky hlasoval 18. 3. 2025, kdy bylo hlasování uzavřeno s následujícím výsledkem:
+
+* Anežka Müller: ano
+
+* Jan Javorek: ano
+
+* Jan Čermák: ano
+
+* Jakub Vysoký: ano
+
+* Barbora Drbohlavová: ano
+
+
+Grant byl schválen.
+
+11. 3. 2025 - elektronické hlasování výboru
+--------------------------------------------
+
+Dne 11. 3. 2025 požádal uživatel `@befeleme <https://github.com/befeleme>`_ o grant `Příspěvek na trička <https://github.com/pyvec/money/issues/38>`_:
+
+.. code-block:: text
+
+    **Kdo jste?**
+    Organizátoři PyLadies - podává Karolina Surma za všechny
+
+    **Kolik potřebujete? (aspoň odhad nebo rozmezí)**
+    zhruba 25 000 Kč, z toho bude část vrácena z příspěvků jednotlivců na trička
+
+    **Na jakou věc to je?**
+    Trička PyLadies pro účastnice/účastníky, koučky/koučky a organizátorky/organizátory
+
+    **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
+    Propagace PyLadies a jejich kurzů, radost všech výše uvedených
+
+Výbor o tomto elektronicky hlasoval 11. 3. 2025, kdy bylo hlasování uzavřeno s následujícím výsledkem:
+
+* Anežka Müller: ano
+
+* Barbora Drbohlavová: ano
+
+* Jan Javorek: ano
+
+* Jan Čermák: ano
+
+
+Grant byl schválen.
+
 18. 2. 2025 - elektronické hlasování výboru
 --------------------------------------------
 
