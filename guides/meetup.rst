@@ -361,7 +361,7 @@ Materiály z přednášek
 
 Jako archiv informací o jednotlivých srazech jsme využívali `Lanyrd <https://en.wikipedia.org/wiki/Lanyrd>`__, ale nakonec jsme si na `pyvo.cz <https://pyvo.cz/>`__ udělali vlastní systém s databází `pyvo-data <https://github.com/pyvec/pyvo-data>`__.
 
-Pokud máš nějaké slajdy nebo jiné materiály, je dobré je na stránky vašeho srazu doplnit k popisu přednášek. Může to být skoro cokoliv od odkazu na YouTube s videem z přednášky, po odkazy na slajdy ze služeb jako `Speaker Deck <https://speakerdeck.com/>`__ či `SlideShare <https://www.slideshare.net/>`__. Pokud ti přednášející předá slajdy ve formě souboru, převeď je pokud možno na PDF a nahraj do repozitáře `talks-archive <https://github.com/pyvec/talks-archive>`__. Následně na ně odkazuj ve formátu ``https://pyvec.github.io/talks-archive/<název souboru>``
+Pokud máš nějaké slajdy nebo jiné materiály, je dobré je na stránky vašeho srazu doplnit k popisu přednášek. Může to být skoro cokoliv od odkazu na YouTube s videem z přednášky, po odkazy na slajdy ze služeb jako `Speaker Deck <https://speakerdeck.com/>`__ či `SlideShare <https://www.slideshare.net/>`__. Pokud ti přednášející předá slajdy ve formě souboru, převeď je pokud možno na PDF a nahraj do repozitáře `talks-archive <https://github.com/pyvec/talks-archive>`__.
 
 
 .. _srazy-fotky:
