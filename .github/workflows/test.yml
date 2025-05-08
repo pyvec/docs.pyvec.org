@@ -1,9 +1,9 @@
-name: Build
+name: Test
 on:
   push:
   pull_request:
 jobs:
-  build:
+  test:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
@@ -15,3 +15,5 @@ jobs:
       run: python -m pip install -r requirements.txt
     - name: Test
       run: pytest
+    - name: Build documentation
+      run: sphinx-build -nWaE . _build
