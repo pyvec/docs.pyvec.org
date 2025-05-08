@@ -13,7 +13,7 @@ sys.path.append(os.path.abspath("_extensions"))
 # -- Project information -----------------------------------------------------
 
 project = "Dokumentace české Python komunity"
-copyright = "2023, Pyvec, z.s."
+copyright = "2025, Pyvec, z.s."
 author = "Pyvec, z.s."
 
 # The short X.Y version
@@ -136,18 +136,6 @@ epub_copyright = copyright
 
 # A list of files that should not be packed into the epub file.
 epub_exclude_files = ["search.html"]
-
-
-# -- Extension configuration -------------------------------------------------
-
-linkcheck_ignore = [
-    r"https?://127\.0\.0\.1:\d+",  # localhost
-    r"https://docs\.google\.com.*",  # links to private documents
-    r"https://(www\.)?(twitter|x|facebook|buffer|nytimes)\.com.*",  # crawling/DDoS protection
-    r"https://cz\.pycon\.org/\d+/.+",  # see https://pyvec.slack.com/archives/C4PPZNPDK/p1617716799001200
-    r"https://github\.com/[^/]+/[^/]+/commits/.+",  # GitHub aggressively rate-limits these
-    r"https://pyvec\.slack\.com",  # Slack is not public
-]
 
 
 # -- Options for todo extension ----------------------------------------------
