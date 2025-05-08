@@ -13,16 +13,15 @@ Abyste něco změnili v textech, nemusíte nic instalovat. Obsah lze upravovat o
 Instalace
 ---------
 
-Když toho upravujete víc, nebo máte zálusk na nějaké složitější kejkle, je lepší mít materiály nainstalované na svém počítači. Projekt vyžaduje Python 3.12.
+Když toho upravujete víc, nebo máte zálusk na nějaké složitější kejkle, je lepší mít materiály nainstalované na svém počítači. Bude k tomu potřeba `uv <https://docs.astral.sh/uv/>`_:
 
 #. Stáhněte projekt: ``git clone https://github.com/pyvec/docs.pyvec.org.git``
-#. Vytvořte si a aktivujte virtuální prostředí
-#. Nainstalujte do prostředí závislosti: ``python -m pip install -r requirements.txt``
+#. Nainstalujte: ``uv sync --group=dev``
 
 Běžná práce
 -----------
 
-#. Ve virtuálním prostředí spusťte projekt: ``sphinx-autobuild . _build``
+#. Ve virtuálním prostředí spusťte projekt: ``uv sphinx-autobuild . _build``
 #. Otevřete si v prohlížeči `<http://127.0.0.1:8000>`_
 #. V editoru upravujete texty a v prohlížeči si kontrolujete výsledek
 #. Projekt zastavíte v terminálu pomocí :kbd:`Ctrl+C`
@@ -102,4 +101,4 @@ V adresáři ``_scripts`` je skript ``generate_grants.py``, který:
 * vygeneruje soubor ``operations/grants.rst`` z dat na `pyvec/money <https://github.com/pyvec/money>`_ a ze šablony ``operations/grants.rst``,
 * commitne a pushne jej přes Git do repozitáře.
 
-Hlasování o grantech probíhá :ref:`pomocí reakcí <jak-hlasovani>` na GitHub Issues a tento skript hlasování archivuje sem do dokumentace pro účely jednoduššího vyhledávání, zálohy, kdyby se s `pyvec/money <https://github.com/pyvec/money>`_ něco stalo, a pro nějakou historickou evidenci. Kanonickým zdrojem pravdy ale zůstává hlasování přímo na GitHub Issues, toto je jen automatizovaný přepis. Skript započítává pouze hlasy od členů výboru (podle souboru ``board.yml``).
+Hlasování o grantech probíhá :ref:`pomocí reakcí <jak-hlasovani>` na GitHub Issues a tento skript hlasování archivuje sem do dokumentace pro účely jednoduššího vyhledávání, zálohy, kdyby se s `pyvec/money <https://github.com/pyvec/money>`_ něco stalo, a pro nějakou historickou evidenci. Kanonickým zdrojem pravdy ale zůstává hlasování přímo na GitHub Issues, toto je jen automatizovaný přepis. Skript započítává pouze hlasy od členů výboru (podle souboru ``src/pyvec_docs/board.yml``).

@@ -1,13 +1,6 @@
 # Configuration file for the Sphinx documentation builder
 
 import os
-import sys
-
-
-# -- Environment -------------------------------------------------------------
-
-# Explicitly put the extensions directory to Python path
-sys.path.append(os.path.abspath("_extensions"))
 
 
 # -- Project information -----------------------------------------------------
@@ -32,9 +25,9 @@ extensions = [
     "sphinx.ext.todo",
     "sphinx.ext.githubpages",
     "sphinxemoji.sphinxemoji",
-    "slack",
-    "twitter",
-    "gh_repo",
+    "pyvec_docs.ext.slack",
+    "pyvec_docs.ext.twitter",
+    "pyvec_docs.ext.gh_repo",
     "myst_parser",
 ]
 
@@ -69,6 +62,8 @@ exclude_patterns = [
     ".github",
     ".pytest_cache",
     ".ruff_cache",
+    "src",
+    "tests",
 ]
 
 # The name of the Pygments (syntax highlighting) style to use.
