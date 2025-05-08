@@ -1,5 +1,6 @@
 import pytest
-from slack import slack
+
+from pyvec_docs.ext.slack import slack
 
 
 def test_slack():

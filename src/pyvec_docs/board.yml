@@ -1,7 +1,7 @@
 # The Pyvec board members in time
 # The current board is first, previous boards are listed in descending order
 # Keys are GitHub handles, values legal names
-# Members start with chairman, others are sorted by GitHub handles
+# Members start with chair, others are sorted by GitHub handles
 - from: 2022-04-09
   members:
     baradrb: Barbora Drbohlavová

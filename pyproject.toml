@@ -1,16 +1,30 @@
-# Currently this file is used merely for configuration
-# of tools. For dependencies, see requirements.txt.
-#
-# One day there will be a way how to specify dependencies
-# in pyproject.toml, and then install them by pip without
-# the need for installing this directory as a package
-# on its own, but that day is not today.
-
 [project]
-requires-python = "==3.12"
+name = "pyvec-docs"
+version = "0"
+requires-python = "==3.12.*"
+dependencies = [
+    "jinja2==3.1.5",
+    "myst-parser==4.0.1",
+    "requests==2.32.3",
+    "sphinx-rtd-theme==3.0.2",
+    "sphinx==8.1.3",
+    "sphinxemoji==0.3.1",
+    "strictyaml==1.7.3",
+]
+
+[dependency-groups]
+dev = [
+    "pytest-ruff==0.4.1",
+    "pytest==8.3.4",
+    "sphinx-autobuild==2024.10.3",
+]
+
+[build-system]
+requires = ["uv_build>=0.7.3,<0.8.0"]
+build-backend = "uv_build"
 
 [tool.pytest.ini_options]
-testpaths = "_*"
+testpaths = "tests"
 addopts = "--ff --ruff --ruff-format"
 norecursedirs = "_build _static _templates"
 
