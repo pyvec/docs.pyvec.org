@@ -12,4 +12,4 @@ jobs:
     - name: Test
       run: uv run pytest
     - name: Build documentation
-      run: uv run sphinx-build -nWaE . _build
+      run: uv run sphinx-build -nWaE docs build

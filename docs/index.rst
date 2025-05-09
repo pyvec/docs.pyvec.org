@@ -27,7 +27,7 @@ Obsah
 .. toctree::
    :hidden:
 
-   CONTRIBUTING
+   contributing
 
 Navigace
 --------

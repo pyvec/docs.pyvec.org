@@ -1,6 +1,15 @@
 # Configuration file for the Sphinx documentation builder
 
 import os
+import tomllib
+
+
+# -- Metadata reading --------------------------------------------------------
+
+with open("../pyproject.toml", "rb") as f:
+    pyproject = tomllib.load(f)
+pyproject_version = pyproject["project"]["version"]
+pyproject_name = pyproject["project"]["name"]
 
 
 # -- Project information -----------------------------------------------------
@@ -10,7 +19,7 @@ copyright = "2025, Pyvec, z.s."
 author = "Pyvec, z.s."
 
 # The short X.Y version
-version = ""
+version = pyproject_version
 # The full version, including alpha/beta/rc tags
 release = ""
 
@@ -53,18 +62,7 @@ language = "cs"
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path .
-exclude_patterns = [
-    "_build",
-    "Thumbs.db",
-    ".DS_Store",
-    "venv",
-    ".venv",
-    ".github",
-    ".pytest_cache",
-    ".ruff_cache",
-    "src",
-    "tests",
-]
+exclude_patterns = ["Thumbs.db", ".DS_Store"]
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = "monokai"
@@ -89,7 +87,7 @@ html_static_path = ["_static"]
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = "pyvec-doc"
+htmlhelp_basename = pyproject_name
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -100,7 +98,7 @@ latex_elements = {}
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, "pyvec.tex", project, author, "manual"),
+    (master_doc, pyproject_name + ".tex", project, author, "manual"),
 ]
 
 
@@ -108,7 +106,7 @@ latex_documents = [
 
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
-man_pages = [(master_doc, "pyvec", project, [author], 1)]
+man_pages = [(master_doc, pyproject_name, project, [author], 1)]
 
 
 # -- Options for Texinfo output ----------------------------------------------
@@ -117,7 +115,7 @@ man_pages = [(master_doc, "pyvec", project, [author], 1)]
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, "pyvec", project, author, "pyvec", project, "Miscellaneous"),
+    (master_doc, pyproject_name, project, author, pyproject_name, project, "Miscellaneous"),
 ]
 
 

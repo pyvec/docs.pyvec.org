@@ -21,7 +21,7 @@ Když toho upravujete víc, nebo máte zálusk na nějaké složitější kejkle
 Běžná práce
 -----------
 
-#. Ve virtuálním prostředí spusťte projekt: ``uv sphinx-autobuild . _build``
+#. Ve virtuálním prostředí spusťte projekt: ``uv run sphinx-autobuild docs build``
 #. Otevřete si v prohlížeči `<http://127.0.0.1:8000>`_
 #. V editoru upravujete texty a v prohlížeči si kontrolujete výsledek
 #. Projekt zastavíte v terminálu pomocí :kbd:`Ctrl+C`
@@ -95,7 +95,7 @@ Dokonce by to mělo automaticky zakládat i issue, pokud to najde nějaký probl
 Skript na generování zápisů hlasování o grantech
 ------------------------------------------------
 
-V adresáři ``_scripts`` je skript ``generate_grants.py``, který:
+V adresáři ``scripts`` je skript ``generate_grants.py``, který:
 
 * se pomocí `GitHub Actions <https://github.com/pyvec/docs.pyvec.org/actions>`_ jednou denně spustí,
 * vygeneruje soubor ``operations/grants.rst`` z dat na `pyvec/money <https://github.com/pyvec/money>`_ a ze šablony ``operations/grants.rst``,
