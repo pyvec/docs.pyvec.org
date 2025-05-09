@@ -1,7 +1,7 @@
 Elektronická hlasování o grantech
 =================================
 
-Od roku 2020 o grantech :term:`výbor <Výbor>` hlasuje prostřednictvím repozitáře `pyvec/money <https://github.com/pyvec/money>`_. Zde je strojový přepis proběhlých hlasování. Kanonickým zdrojem pravdy je hlasování přímo na GitHub Issues. Kdyby něco nesedělo, ověřte `historii tohoto souboru <https://github.com/pyvec/docs.pyvec.org/commits/master/operations/grants.rst>`_ a funkčnost :ref:`přepisů <generate_grants>`.
+Od roku 2020 o grantech :term:`výbor <Výbor>` hlasuje prostřednictvím repozitáře `pyvec/money <https://github.com/pyvec/money>`_. Zde je strojový přepis proběhlých hlasování. Kanonickým zdrojem pravdy je hlasování přímo na GitHub Issues. Kdyby něco nesedělo, ověřte `historii tohoto souboru <https://github.com/pyvec/docs.pyvec.org/commits/master/docs/operations/grants.rst>`_ a funkčnost :ref:`přepisů <generate_grants>`.
 
 .. Soubor operations/grants.rst je generován skriptem scripts/generate_grants.py ze šablony operations/grants.rst.jinja. Neupravovat ručně!
 

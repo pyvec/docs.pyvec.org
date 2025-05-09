@@ -5,7 +5,7 @@ from pathlib import Path
 import requests
 from jinja2 import Template
 
-from pyvec_docs.board import BOARD_HISTORY
+from pyvec_docs.board import load_boards
 from pyvec_docs.grants import get_lock_date, get_votes, remove_comments, to_date
 
 
@@ -19,6 +19,8 @@ CONTENT_PATH = Path(__file__).parent.parent / "docs"
 
 
 if __name__ == "__main__":
+    boards = load_boards()
+
     res = requests.get(
         GITHUB_API_URL,
         headers=GITHUB_API_HEADERS,
@@ -54,7 +56,7 @@ if __name__ == "__main__":
 
         res = requests.get(issue["reactions"]["url"], headers=GITHUB_API_HEADERS)
         res.raise_for_status()
-        votes = list(get_votes(res.json(), voted_at, BOARD_HISTORY))
+        votes = list(get_votes(res.json(), voted_at, boards))
 
         grants.append(
             {

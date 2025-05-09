@@ -43,7 +43,7 @@ Slack
 
 Při psaní lze psát ``:slack:`#pyladies`` nebo i jenom ``:slack:`pyladies``, což vytvoří odkaz na kanál :slack:`#pyladies` na Pyvec Slacku. Funguje to díky vlastnímu rozšíření Sphinxu, které lze najít v souboru ``_extensions/slack.py``.
 
-Všechny odkazy na kanál ``:slack:`#pyvec-board``, ať už je to ``:slack:`#pyvec-board`` nebo ``:slack:`#pyvec-board-2019-2021`` jsou automaticky předělány na odkaz na aktuální tajný kanál výboru. K určení správných roků se využívá soubor ``board.yml``.
+Všechny odkazy na kanál ``:slack:`#pyvec-board``, ať už je to ``:slack:`#pyvec-board`` nebo ``:slack:`#pyvec-board-2019-2021`` jsou automaticky předělány na odkaz na aktuální tajný kanál výboru. K určení správných roků se využívá `soubor boards.toml <https://github.com/pyvec/docs.pyvec.org/blob/master/src/pyvec_docs/boards.toml>`_.
 
 .. _docs-pyvec-rtd:
 
@@ -90,6 +90,19 @@ Na repozitáři je zapojená `GitHub Action <https://github.com/lycheeverse/lych
 
 Dokonce by to mělo automaticky zakládat i issue, pokud to najde nějaký problém. V případě, že je potřeba ignorovat nějakou doménu nebo konkrétní odkaz, je možné to udělat v souboru ``lychee.toml``.
 
+.. _generate_boards:
+
+Skript na generování historie výborů
+------------------------------------
+
+V adresáři ``scripts`` je skript ``generate_boards.py``, který:
+
+* se pomocí `GitHub Actions <https://github.com/pyvec/docs.pyvec.org/actions>`_ jednou denně spustí,
+* vygeneruje soubor ``operations/boards.rst`` ze `souboru boards.toml <https://github.com/pyvec/docs.pyvec.org/blob/master/src/pyvec_docs/boards.toml>`_ a ze šablony ``operations/boards.rst``,
+* commitne a pushne jej přes Git do repozitáře.
+
+Výsledná stránka je pouze informační, kanonickým zdrojem pravdy jsou v tomto případě státní registry.
+
 .. _generate_grants:
 
 Skript na generování zápisů hlasování o grantech
@@ -101,4 +114,4 @@ V adresáři ``scripts`` je skript ``generate_grants.py``, který:
 * vygeneruje soubor ``operations/grants.rst`` z dat na `pyvec/money <https://github.com/pyvec/money>`_ a ze šablony ``operations/grants.rst``,
 * commitne a pushne jej přes Git do repozitáře.
 
-Hlasování o grantech probíhá :ref:`pomocí reakcí <jak-hlasovani>` na GitHub Issues a tento skript hlasování archivuje sem do dokumentace pro účely jednoduššího vyhledávání, zálohy, kdyby se s `pyvec/money <https://github.com/pyvec/money>`_ něco stalo, a pro nějakou historickou evidenci. Kanonickým zdrojem pravdy ale zůstává hlasování přímo na GitHub Issues, toto je jen automatizovaný přepis. Skript započítává pouze hlasy od členů výboru (podle souboru ``src/pyvec_docs/board.yml``).
+Hlasování o grantech probíhá :ref:`pomocí reakcí <jak-hlasovani>` na GitHub Issues a tento skript hlasování archivuje sem do dokumentace pro účely jednoduššího vyhledávání, zálohy, kdyby se s `pyvec/money <https://github.com/pyvec/money>`_ něco stalo, a pro nějakou historickou evidenci. Kanonickým zdrojem pravdy ale zůstává hlasování přímo na GitHub Issues, toto je jen automatizovaný přepis. Skript započítává pouze hlasy od členů výboru (podle `souboru boards.toml <https://github.com/pyvec/docs.pyvec.org/blob/master/src/pyvec_docs/boards.toml>`_).

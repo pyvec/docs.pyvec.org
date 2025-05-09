@@ -1,7 +1,8 @@
-from datetime import date, datetime
+from datetime import date
 
 import pytest
 
+from pyvec_docs.board import Board
 from pyvec_docs.grants import (
     get_board_member_name,
     get_votes,
@@ -11,13 +12,25 @@ from pyvec_docs.grants import (
 
 
 @pytest.fixture
-def board_history():
+def boards():
     return [  # sorted!
-        {
-            "from": datetime(2020, 1, 1),
-            "members": {"alice": "Alice", "doubravka": "Doubravka"},
-        },
-        {"from": datetime(2019, 1, 1), "members": {"bobby": "Bob"}},
+        Board(
+            **{
+                "start_on": date(2020, 1, 1),
+                "members": [
+                    {"name": "Alice", "github": "alice"},
+                    {"name": "Doubravka", "github": "doubravka"},
+                ],
+            }
+        ),
+        Board(
+            **{
+                "start_on": date(2019, 1, 1),
+                "members": [
+                    {"name": "Bob", "github": "bobby"},
+                ],
+            }
+        ),
     ]
 
 
@@ -39,7 +52,7 @@ def test_remove_comments():
 
 
 @pytest.mark.parametrize(
-    "username,voted_at,expected",
+    "username, voted_at, expected",
     [
         pytest.param("bobby", date(2019, 8, 30), "Bob", id="bob-board-y"),
         pytest.param("alice", date(2019, 8, 30), None, id="alice-board-n"),
@@ -47,30 +60,30 @@ def test_remove_comments():
         pytest.param("alice", date(2020, 8, 30), "Alice", id="alice-board-y"),
     ],
 )
-def test_get_board_member_name(username, voted_at, board_history, expected):
-    assert get_board_member_name(username, voted_at, board_history) == expected
+def test_get_board_member_name(username, voted_at, boards, expected):
+    assert get_board_member_name(username, voted_at, boards) == expected
 
 
-def test_get_votes_returns_only_board_members_votes(board_history):
+def test_get_votes_returns_only_board_members_votes(boards):
     reactions = [
         {"user": {"login": "bobby"}, "content": "+1"},
         {"user": {"login": "alice"}, "content": "+1"},
         {"user": {"login": "doubravka"}, "content": "+1"},
     ]
 
-    assert list(get_votes(reactions, date(2020, 8, 30), board_history)) == [
+    assert list(get_votes(reactions, date(2020, 8, 30), boards)) == [
         {"name": "Alice", "text": "ano"},
         {"name": "Doubravka", "text": "ano"},
     ]
 
 
-def test_get_votes_returns_only_relevant_emojis(board_history):
+def test_get_votes_returns_only_relevant_emojis(boards):
     reactions = [
         {"user": {"login": "alice"}, "content": "+1"},
         {"user": {"login": "doubravka"}, "content": "heart"},
     ]
 
-    assert list(get_votes(reactions, date(2020, 8, 30), board_history)) == [
+    assert list(get_votes(reactions, date(2020, 8, 30), boards)) == [
         {"name": "Alice", "text": "ano"},
     ]
 
@@ -83,12 +96,12 @@ def test_get_votes_returns_only_relevant_emojis(board_history):
         ("eyes", "zdržel(a) se"),
     ],
 )
-def test_get_votes_understands_all_relevant_emojis(content, board_history, expected):
+def test_get_votes_understands_all_relevant_emojis(content, boards, expected):
     reactions = [
         {"user": {"login": "alice"}, "content": content},
         {"user": {"login": "doubravka"}, "content": "heart"},
     ]
 
-    assert list(get_votes(reactions, date(2020, 8, 30), board_history)) == [
+    assert list(get_votes(reactions, date(2020, 8, 30), boards)) == [
         {"name": "Alice", "text": expected},
     ]

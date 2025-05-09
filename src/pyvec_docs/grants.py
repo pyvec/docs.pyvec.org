@@ -1,6 +1,8 @@
 import re
 from datetime import date
 
+from pyvec_docs.board import Board
+
 
 REACTIONS_MAPPING = {"+1": "ano", "-1": "ne", "eyes": "zdržel(a) se"}
 
@@ -14,17 +16,21 @@ def remove_comments(html):
     return re.sub(r"<!--[^<]+-->", "", html).strip()
 
 
-def get_board_member_name(username, voted_at, board_history):
-    for board in board_history:  # sorted from the most recent
-        if voted_at > board["from"].date():
-            return board["members"].get(username)
+def get_board_member_name(username, voted_at, boards: list[Board]):
+    print(username, voted_at)
+    for board in boards:  # sorted from the most recent
+        if voted_at > board.start_on:
+            for member in board.members:
+                if member.github == username:
+                    return member.name
+            return None
     return None
 
 
-def get_votes(reactions, voted_at, board_history):
+def get_votes(reactions, voted_at, boards: list[Board]):
     for reaction in reactions:
         username = reaction["user"]["login"]
-        name = get_board_member_name(username, voted_at, board_history)
+        name = get_board_member_name(username, voted_at, boards)
         if name:  # else not reaction from a board member
             text = REACTIONS_MAPPING.get(reaction["content"])
             if text:
