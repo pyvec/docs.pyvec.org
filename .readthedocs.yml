@@ -8,5 +8,5 @@ python:
     - method: pip
       path: .
 sphinx:
-  configuration: conf.py
+  configuration: docs/conf.py
   fail_on_warning: true
