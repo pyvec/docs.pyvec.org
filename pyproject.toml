@@ -5,11 +5,11 @@ requires-python = "==3.12.*"
 dependencies = [
     "jinja2==3.1.6",
     "myst-parser==4.0.1",
+    "pydantic==2.11.4",
     "requests==2.32.3",
     "sphinx-rtd-theme==3.0.2",
     "sphinx==8.2.3",
     "sphinxemoji==0.3.1",
-    "strictyaml==1.7.3",
 ]
 
 [dependency-groups]
@@ -26,10 +26,6 @@ build-backend = "uv_build"
 [tool.pytest.ini_options]
 testpaths = "tests"
 addopts = "--ff --ruff --ruff-format"
-norecursedirs = "_build _static _templates"
-
-[tool.ruff]
-target-version = "py312"
 
 [tool.ruff.lint]
 extend-select = ["I"]

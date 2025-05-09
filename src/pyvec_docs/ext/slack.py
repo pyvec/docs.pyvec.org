@@ -9,7 +9,7 @@ import functools
 
 from docutils import nodes
 
-from pyvec_docs.board import BOARD_HISTORY
+from pyvec_docs.board import load_boards
 
 
 # https://docutils.readthedocs.io/en/sphinx-docs/howto/rst-roles.html
@@ -34,8 +34,6 @@ def slack(
 
 
 def setup(app):
-    board_year_from = BOARD_HISTORY[0]["from"].year
-    board_years = (board_year_from, board_year_from + 3)
-
-    app.add_role("slack", functools.partial(slack, pyvec_board_years=board_years))
+    pyvec_board_years = load_boards()[0].years
+    app.add_role("slack", functools.partial(slack, pyvec_board_years=pyvec_board_years))
     return {"version": "1.0", "parallel_read_safe": True}

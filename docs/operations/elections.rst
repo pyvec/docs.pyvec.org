@@ -62,7 +62,7 @@ Předání moci
 - Nový výbor oznámí své zvolení v :slack:`#announcements`.
 - Starý výbor zajistí vyhotovení zápisů ze zasedání členské schůze a z předání moci:
     - Vyhotoví :ref:`zápisy do této dokumentace <zapisy>`,
-    - aktualizuje `soubor board.yml <https://github.com/pyvec/docs.pyvec.org/blob/master/src/pyvec_docs/board.yml>`_,
+    - aktualizuje `soubor boards.toml <https://github.com/pyvec/docs.pyvec.org/blob/master/src/pyvec_docs/boards.toml>`_,
     - aktualizuje role členů v `seznamu členů <https://docs.google.com/spreadsheets/d/1n8hzBnwZ5ANkUCvwEy8rWsXlqeAAwu-5JBodT5OJx_I/edit#gid=0>`__, čímž by se měl aktualizovat i web Pyvce
 - Starý výbor předá novému vše ze seznamu níže.
 

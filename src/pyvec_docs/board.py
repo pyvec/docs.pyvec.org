@@ -1,20 +1,48 @@
-from operator import itemgetter
+import tomllib
+from datetime import date
+from enum import StrEnum
+from functools import cache
+from operator import attrgetter
 from pathlib import Path
 
-import strictyaml as yaml
+from pydantic import BaseModel
 
 
-BOARD_HISTORY_SCHEMA = yaml.Seq(
-    yaml.Map(
-        {
-            "from": yaml.Datetime(),
-            "members": yaml.MapPattern(yaml.Str(), yaml.Str()),
-        }
+BOARDS_CONFIG_PATH = Path(__file__).parent / "boards.toml"
+
+BOARDS_MANDATE_LENGTH = 3
+
+
+class BoardRole(StrEnum):
+    chair = "chair"
+    treasurer = "treasurer"
+
+
+class BoardMember(BaseModel):
+    name: str
+    github: str
+    roles: set[BoardRole] | None = set()
+
+    model_config = {"extra": "forbid", "frozen": True}
+
+
+class Board(BaseModel):
+    start_on: date
+    members: list[BoardMember]
+
+    model_config = {"extra": "forbid", "frozen": True}
+
+    @property
+    def years(self) -> tuple[int, int]:
+        start_year = self.start_on.year
+        return (start_year, start_year + BOARDS_MANDATE_LENGTH)
+
+
+@cache
+def load_boards(path: Path | str = BOARDS_CONFIG_PATH) -> list[Board]:
+    data = tomllib.loads(Path(path).read_text())
+    return sorted(
+        (Board(**board) for board in data["boards"]),
+        key=attrgetter("start_on"),
+        reverse=True,
     )
-)
-BOARD_HISTORY_PATH = Path(__file__).parent / "board.yml"
-BOARD_HISTORY = sorted(
-    yaml.load(BOARD_HISTORY_PATH.read_text(), BOARD_HISTORY_SCHEMA).data,
-    key=itemgetter("from"),
-    reverse=True,
-)
