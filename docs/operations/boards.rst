@@ -8,41 +8,41 @@ Kdyby něco nesedělo, ověřte `historii zdrojáku této stránky <https://gith
 .. Soubor docs/operations/boards.rst je generován skriptem scripts/generate_boards.py ze šablony docs/operations/boards.rst.jinja. Neupravovat ručně!
 
 
-Mandát od 9.4.2022
+Výbor od 9.4.2022
 -------------------------------------------------
 
 .. csv-table::
    :header: "Jméno", "GitHub", "Funkce"
 
-   Barbora Drbohlavová, `@baradrb <https://github.com/baradrb>`_, |:crown:|
-   Anežka Müller, `@anezkamll <https://github.com/anezkamll>`_,
-   Jan Javorek, `@honzajavorek <https://github.com/honzajavorek>`_,
-   Jakub Vysoký, `@kvbik <https://github.com/kvbik>`_,
-   Jan Čermák, `@sairon <https://github.com/sairon>`_, |:moneybag:|
+   Barbora Drbohlavová, `@baradrb <https://github.com/baradrb>`_, |:crown:| 
+   Anežka Müller, `@anezkamll <https://github.com/anezkamll>`_, 
+   Jan Javorek, `@honzajavorek <https://github.com/honzajavorek>`_, 
+   Jakub Vysoký, `@kvbik <https://github.com/kvbik>`_, 
+   Jan Čermák, `@sairon <https://github.com/sairon>`_, |:moneybag:| 
 
-Mandát od 8.4.2019
+Výbor od 8.4.2019
 -------------------------------------------------
 
 .. csv-table::
    :header: "Jméno", "GitHub", "Funkce"
 
-   Martin Bílek, `@martinbilek <https://github.com/martinbilek>`_, |:crown:| |:moneybag:|
-   Aleš Zoulek, `@aleszoulek <https://github.com/aleszoulek>`_,
-   Jan Javorek, `@honzajavorek <https://github.com/honzajavorek>`_,
-   Jakub Vysoký, `@kvbik <https://github.com/kvbik>`_,
-   Jiří Bartoň, `@whiskybar <https://github.com/whiskybar>`_,
+   Martin Bílek, `@martinbilek <https://github.com/martinbilek>`_, |:crown:| |:moneybag:| 
+   Aleš Zoulek, `@aleszoulek <https://github.com/aleszoulek>`_, 
+   Jan Javorek, `@honzajavorek <https://github.com/honzajavorek>`_, 
+   Jakub Vysoký, `@kvbik <https://github.com/kvbik>`_, 
+   Jiří Bartoň, `@whiskybar <https://github.com/whiskybar>`_, 
 
-Mandát od 27.3.2012
+Výbor od 27.3.2012
 -------------------------------------------------
 
 .. csv-table::
    :header: "Jméno", "GitHub", "Funkce"
 
-   Martin Bílek, `@martinbilek <https://github.com/martinbilek>`_, |:crown:| |:moneybag:|
-   Aleš Zoulek, `@aleszoulek <https://github.com/aleszoulek>`_,
-   Robin Gottfried, `@czervenka <https://github.com/czervenka>`_,
-   Jan Král, `@honzakral <https://github.com/honzakral>`_,
-   Jakub Vysoký, `@kvbik <https://github.com/kvbik>`_,
-   Jiří Bartoň, `@whiskybar <https://github.com/whiskybar>`_,
-   Vítězslav Pliska, `@whit <https://github.com/whit>`_,
+   Martin Bílek, `@martinbilek <https://github.com/martinbilek>`_, |:crown:| |:moneybag:| 
+   Aleš Zoulek, `@aleszoulek <https://github.com/aleszoulek>`_, 
+   Robin Gottfried, `@czervenka <https://github.com/czervenka>`_, 
+   Jan Král, `@honzakral <https://github.com/honzakral>`_, 
+   Jakub Vysoký, `@kvbik <https://github.com/kvbik>`_, 
+   Jiří Bartoň, `@whiskybar <https://github.com/whiskybar>`_, 
+   Vítězslav Pliska, `@whit <https://github.com/whit>`_, 
 
