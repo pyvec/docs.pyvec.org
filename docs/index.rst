@@ -1,4 +1,4 @@
-.. include:: README.rst
+.. include:: ../README.rst
 
 .. image:: _static/images/community.svg
     :width: 80%
