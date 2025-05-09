@@ -37,6 +37,7 @@ extensions = [
     "pyvec_docs.ext.slack",
     "pyvec_docs.ext.twitter",
     "pyvec_docs.ext.gh_repo",
+    "pyvec_docs.ext.board_dates",
     "myst_parser",
 ]
 
