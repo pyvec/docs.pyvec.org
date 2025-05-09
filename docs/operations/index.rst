@@ -11,11 +11,11 @@ kolem `programovacího jazyka Python <https://python.cz>`__. Její cíle jsou fo
 
    support
    support-money
-   boards
    runbooks
    domains
    web-apps
    twitter
+   boards
    meeting-notes
    grants
    bylaws
