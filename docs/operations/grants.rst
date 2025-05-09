@@ -339,7 +339,7 @@ Dne 25. 7. 2023 požádal uživatel `@clytaemnestra <https://github.com/clytaemn
     2990
 
     **Na jakou věc to je?**
-    trička na EuroPython pro stankaře
+    trička na EuroPython pro stankaře 
 
     **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
     promoce PyCon CZ a české komunity
@@ -366,7 +366,7 @@ Dne 13. 6. 2023 požádal uživatel `@befeleme <https://github.com/befeleme>`_ o
     Karolina Surma - PyLadies
 
     **Kolik potřebujete? (aspoň odhad nebo rozmezí)**
-    ~6800 Kč
+    ~6800 Kč 
 
     *detailně*
     hlavička: 6.24 Kč / ks = 2496 Kč
@@ -403,7 +403,7 @@ Dne 27. 2. 2023 požádal uživatel `@Zuzanita <https://github.com/Zuzanita>`_ o
 .. code-block:: text
 
     **Kdo jste?**
-    Organizátoři PyLadies - podává Zuzana Pokorná za všechny
+    Organizátoři PyLadies - podává Zuzana Pokorná za všechny 
 
     **Kolik potřebujete? (aspoň odhad nebo rozmezí)**
     25 000 Kč z toho bude část vrácena z příspěvků jednotlivců na trička
@@ -613,7 +613,7 @@ Dne 16. 12. 2020 požádal uživatel `@kvbik <https://github.com/kvbik>`_ o gran
 
     **Kdo jste?**
 
-    Jakub Vysoky, clen Pyvec, spolu organizator prazskeho Pyva
+    Jakub Vysoky, clen Pyvec, spolu organizator prazskeho Pyva 
 
     **Kolik potřebujete? (aspoň odhad nebo rozmezí)**
 
@@ -621,7 +621,7 @@ Dne 16. 12. 2020 požádal uživatel `@kvbik <https://github.com/kvbik>`_ o gran
 
     **Na jakou věc to je?**
 
-    Letni edice Python komunitniho Sprintu ve Msenych-laznich v srpen 2020.
+    Letni edice Python komunitniho Sprintu ve Msenych-laznich v srpen 2020. 
 
     **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
 
@@ -651,13 +651,13 @@ Dne 26. 2. 2020 požádal uživatel `@radusaaa <https://github.com/radusaaa>`_ o
     PyLadies Praha
 
     **Kolik potřebujete? (aspoň odhad nebo rozmezí)**
-    500,- Kč za oba běhy
+    500,- Kč za oba běhy 
 
     **Na jakou věc to je?**
 
     - kancelářské potřeby
 
-    - drobné odměny do soutěží
+    - drobné odměny do soutěží 
 
     **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
     Organizujeme dva běhy začátečnických kurzů viz https://pyladies.cz/praha/. Součástí kurzů jsou i dva sobotní celodenní pyworkingy a závěrečný hackathon.
