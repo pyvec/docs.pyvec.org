@@ -15,7 +15,7 @@ GITHUB_API_HEADERS = {
     "Authorization": f"token {GITHUB_TOKEN}",
 }
 GITHUB_API_URL = "https://api.github.com/repos/pyvec/money/issues"
-CONTENT_PATH = Path(__file__).parent.parent
+CONTENT_PATH = Path(__file__).parent.parent / "docs"
 
 
 if __name__ == "__main__":
