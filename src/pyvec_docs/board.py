@@ -25,6 +25,18 @@ class BoardMember(BaseModel):
 
     model_config = {"extra": "forbid", "frozen": True}
 
+    @property
+    def is_chair(self) -> bool:
+        if self.roles is None:
+            return False
+        return BoardRole.chair in self.roles
+
+    @property
+    def is_treasurer(self) -> bool:
+        if self.roles is None:
+            return False
+        return BoardRole.treasurer in self.roles
+
 
 class Board(BaseModel):
     start_on: date
@@ -42,7 +54,7 @@ class Board(BaseModel):
 def load_boards(path: Path | str = BOARDS_CONFIG_PATH) -> list[Board]:
     data = tomllib.loads(Path(path).read_text())
     return sorted(
-        (Board(**board) for board in data["boards"]),
+        (Board(**board) for board in data["board"]),
         key=attrgetter("start_on"),
         reverse=True,
     )
