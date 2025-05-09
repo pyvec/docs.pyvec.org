@@ -1,9 +1,90 @@
+anezkamll 2025-03-11
+baradrb 2025-03-11
+honzajavorek 2025-03-11
+sairon 2025-03-11
+anezkamll 2025-03-18
+honzajavorek 2025-03-18
+sairon 2025-03-18
+kvbik 2025-03-18
+baradrb 2025-03-18
+kvbik 2025-02-18
+baradrb 2025-02-18
+sairon 2025-02-18
+honzajavorek 2025-02-18
+anezkamll 2024-10-24
+kvbik 2024-10-24
+honzajavorek 2024-10-24
+baradrb 2024-10-24
+anezkamll 2024-10-02
+sairon 2024-10-02
+honzajavorek 2024-10-02
+anezkamll 2024-05-11
+honzajavorek 2024-05-11
+sairon 2024-05-11
+anezkamll 2024-09-10
+honzajavorek 2024-09-10
+sairon 2024-09-10
+baradrb 2024-09-10
+Kobzol 2024-09-10
+honzajavorek 2023-12-10
+sairon 2023-12-10
+baradrb 2023-12-10
+anezkamll 2023-12-07
+kvbik 2023-12-07
+honzajavorek 2023-12-07
+baradrb 2023-12-07
+sairon 2023-12-07
+honzajavorek 2023-08-26
+anezkamll 2023-08-26
+baradrb 2023-08-26
+honzajavorek 2023-06-26
+sairon 2023-06-26
+Aprillion 2023-06-26
+anezkamll 2023-06-26
+kvbik 2023-06-26
+baradrb 2023-06-26
+honzajavorek 2023-04-02
+sairon 2023-04-02
+anezkamll 2023-04-02
+kvbik 2023-04-02
+baradrb 2023-04-02
+anezkamll 2022-12-01
+sairon 2022-12-01
+honzajavorek 2022-12-01
+baradrb 2022-12-01
+sairon 2022-10-13
+kvbik 2022-10-13
+anezkamll 2022-10-13
+honzajavorek 2022-10-13
+sairon 2022-10-13
+kvbik 2022-10-13
+anezkamll 2022-10-13
+honzajavorek 2022-10-13
+baradrb 2022-10-13
+honzajavorek 2021-09-15
+martinbilek 2021-09-15
+kvbik 2021-09-15
+honzajavorek 2020-12-21
+kvbik 2020-12-21
+martinbilek 2020-12-21
+honzajavorek 2020-12-16
+martinbilek 2020-12-16
+kvbik 2020-12-16
+aleszoulek 2020-12-16
+kvbik 2020-08-01
+honzajavorek 2020-08-01
+whiskybar 2020-08-01
+martinbilek 2020-08-01
+kvbik 2020-08-01
+honzajavorek 2020-08-01
+martinbilek 2020-08-01
+whiskybar 2020-08-01
 Elektronická hlasování o grantech
 =================================
 
-Od roku 2020 o grantech :term:`výbor <Výbor>` hlasuje prostřednictvím repozitáře `pyvec/money <https://github.com/pyvec/money>`_. Zde je strojový přepis proběhlých hlasování. Kanonickým zdrojem pravdy je hlasování přímo na GitHub Issues. Kdyby něco nesedělo, ověřte `historii tohoto souboru <https://github.com/pyvec/docs.pyvec.org/commits/master/docs/operations/grants.rst>`_ a funkčnost :ref:`přepisů <generate_grants>`.
+Od roku 2020 o grantech :term:`výbor <Výbor>` hlasuje prostřednictvím repozitáře `pyvec/money <https://github.com/pyvec/money>`_. Zde je strojový přepis proběhlých hlasování. Kanonickým zdrojem pravdy je hlasování přímo na GitHub Issues. Kdyby něco nesedělo, ověřte `historii zdrojáku této stránky <https://github.com/pyvec/docs.pyvec.org/commits/master/docs/operations/grants.rst>`_ a funkčnost :ref:`přepisů <generate_grants>`.
 
-.. Soubor operations/grants.rst je generován skriptem scripts/generate_grants.py ze šablony operations/grants.rst.jinja. Neupravovat ručně!
+.. Soubor docs/operations/grants.rst je generován skriptem scripts/generate_grants.py ze šablony docs/operations/grants.rst.jinja. Neupravovat ručně!
 
 
 18. 3. 2025 - elektronické hlasování výboru
