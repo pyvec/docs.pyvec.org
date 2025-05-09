@@ -6,17 +6,6 @@
 }
 
 /*
-  Fixing strange behavior of the RTD theme
-*/
-.rst-content ul {
-  margin-bottom: 12px !important;
-}
-
-.rst-content ul:last-child {
-  margin-bottom: 0 !important;
-}
-
-/*
   Fixing margin of illustrations
 */
 .rst-content .image-reference img {
