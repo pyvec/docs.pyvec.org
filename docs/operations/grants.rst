@@ -1,9 +1,17 @@
 Elektronická hlasování o grantech
 =================================
 
-Od roku 2020 o grantech :term:`výbor <Výbor>` hlasuje prostřednictvím repozitáře `pyvec/money <https://github.com/pyvec/money>`_. Zde je strojový přepis proběhlých hlasování. Kanonickým zdrojem pravdy je hlasování přímo na GitHub Issues. Kdyby něco nesedělo, ověřte `historii zdrojáku této stránky <https://github.com/pyvec/docs.pyvec.org/commits/master/docs/operations/grants.rst>`_ a funkčnost :ref:`přepisů <generate_files>`.
+Od roku 2020 o grantech :term:`výbor <Výbor>` hlasuje prostřednictvím repozitáře `pyvec/money <https://github.com/pyvec/money>`_.
 
-.. Soubor docs/operations/grants.rst je generován skriptem scripts/generate_grants.py ze šablony docs/operations/grants.rst.jinja. Neupravovat ručně!
+Hlasování o grantech probíhá :ref:`pomocí reakcí <jak-hlasovani>` na GitHub Issues. Hlasování se automaticky archivují sem do dokumentace pro účely jednoduššího vyhledávání, zálohy, kdyby se s `pyvec/money <https://github.com/pyvec/money>`_ něco stalo, a pro nějakou historickou evidenci. Kanonickým zdrojem pravdy ale zůstává hlasování přímo na GitHub Issues, toto je jen přepis. Skript započítává pouze hlasy od členů výboru (podle `souboru boards.toml <https://github.com/pyvec/docs.pyvec.org/blob/master/src/pyvec_docs/boards.toml>`_).
+
+Kdyby něco nesedělo, ověřte `historii zdrojáku této stránky <https://github.com/pyvec/docs.pyvec.org/commits/master/docs/operations/grants.rst>`_ a funkčnost :ref:`přepisů <generate_files>`.
+
+
+
+.. Soubor docs/operations/grants.rst je generován, NEUPRAVOVAT RUČNĚ!
+
+
 
 
 18. 3. 2025 - elektronické hlasování výboru
@@ -339,7 +347,7 @@ Dne 25. 7. 2023 požádal uživatel `@clytaemnestra <https://github.com/clytaemn
     2990
 
     **Na jakou věc to je?**
-    trička na EuroPython pro stankaře
+    trička na EuroPython pro stankaře 
 
     **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
     promoce PyCon CZ a české komunity
@@ -366,7 +374,7 @@ Dne 13. 6. 2023 požádal uživatel `@befeleme <https://github.com/befeleme>`_ o
     Karolina Surma - PyLadies
 
     **Kolik potřebujete? (aspoň odhad nebo rozmezí)**
-    ~6800 Kč
+    ~6800 Kč 
 
     *detailně*
     hlavička: 6.24 Kč / ks = 2496 Kč
@@ -403,7 +411,7 @@ Dne 27. 2. 2023 požádal uživatel `@Zuzanita <https://github.com/Zuzanita>`_ o
 .. code-block:: text
 
     **Kdo jste?**
-    Organizátoři PyLadies - podává Zuzana Pokorná za všechny
+    Organizátoři PyLadies - podává Zuzana Pokorná za všechny 
 
     **Kolik potřebujete? (aspoň odhad nebo rozmezí)**
     25 000 Kč z toho bude část vrácena z příspěvků jednotlivců na trička
@@ -613,7 +621,7 @@ Dne 16. 12. 2020 požádal uživatel `@kvbik <https://github.com/kvbik>`_ o gran
 
     **Kdo jste?**
 
-    Jakub Vysoky, clen Pyvec, spolu organizator prazskeho Pyva
+    Jakub Vysoky, clen Pyvec, spolu organizator prazskeho Pyva 
 
     **Kolik potřebujete? (aspoň odhad nebo rozmezí)**
 
@@ -621,7 +629,7 @@ Dne 16. 12. 2020 požádal uživatel `@kvbik <https://github.com/kvbik>`_ o gran
 
     **Na jakou věc to je?**
 
-    Letni edice Python komunitniho Sprintu ve Msenych-laznich v srpen 2020.
+    Letni edice Python komunitniho Sprintu ve Msenych-laznich v srpen 2020. 
 
     **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
 
@@ -651,13 +659,13 @@ Dne 26. 2. 2020 požádal uživatel `@radusaaa <https://github.com/radusaaa>`_ o
     PyLadies Praha
 
     **Kolik potřebujete? (aspoň odhad nebo rozmezí)**
-    500,- Kč za oba běhy
+    500,- Kč za oba běhy 
 
     **Na jakou věc to je?**
 
     - kancelářské potřeby
 
-    - drobné odměny do soutěží
+    - drobné odměny do soutěží 
 
     **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
     Organizujeme dva běhy začátečnických kurzů viz https://pyladies.cz/praha/. Součástí kurzů jsou i dva sobotní celodenní pyworkingy a závěrečný hackathon.
@@ -709,4 +717,3 @@ Výbor o tomto elektronicky hlasoval 1. 8. 2020, kdy bylo hlasování uzavřeno 
 
 
 Grant byl schválen.
-
