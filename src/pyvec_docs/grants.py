@@ -1,7 +1,7 @@
 import re
 from datetime import date
 
-from pyvec_docs.board import Board
+from pyvec_docs.boards import Board
 
 
 REACTIONS_MAPPING = {"+1": "ano", "-1": "ne", "eyes": "zdržel(a) se"}

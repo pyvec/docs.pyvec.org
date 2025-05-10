@@ -5,7 +5,7 @@ from pathlib import Path
 import requests
 from jinja2 import Template
 
-from pyvec_docs.board import load_boards
+from pyvec_docs.boards import load_boards
 from pyvec_docs.grants import get_lock_date, get_votes, remove_comments, to_date
 
 

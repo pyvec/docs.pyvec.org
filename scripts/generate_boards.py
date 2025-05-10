@@ -2,7 +2,7 @@ from pathlib import Path
 
 from jinja2 import Template
 
-from pyvec_docs.board import load_boards
+from pyvec_docs.boards import load_boards
 
 
 CONTENT_PATH = Path(__file__).parent.parent / "docs"
