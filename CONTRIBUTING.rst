@@ -99,3 +99,5 @@ Některé stránky a soubory se generují automaticky pomocí skriptů. Tyto skr
 
 - Generuje se ``operations/boards.rst`` ze `souboru boards.toml <https://github.com/pyvec/docs.pyvec.org/blob/master/src/pyvec_docs/boards.toml>`_ a ze šablony ``operations/boards.rst``.
 - Generuje se ``operations/grants.rst`` z dat na `pyvec/money <https://github.com/pyvec/money>`_ a ze šablony ``operations/grants.rst``.
+
+Kód pro generování je v ``src/pyvec_docs/cli.py``. Skripty jde pouštět např. ``uv run pyvec-docs gen-boards``, výstup jde do ``stdout``.

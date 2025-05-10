@@ -40,12 +40,7 @@ def watch() -> None:
         sys.exit(1)
 
 
-@main.group()
-def gen() -> None:
-    pass
-
-
-@gen.command(name="grants")
+@main.command()
 @click.option(
     "--template",
     "template_path",
@@ -126,7 +121,7 @@ def gen_grants(
     click.echo(tpl.render(grants=grants))
 
 
-@gen.command(name="boards")
+@main.command()
 @click.option(
     "--template",
     "template_path",

@@ -13,11 +13,11 @@ jobs:
     - name: Install uv
       uses: astral-sh/setup-uv@v6
     - name: Generate the list of grants
-      run: uv run pyvec-docs gen grants > ./docs/operations/grants.rst
+      run: uv run pyvec-docs gen-grants > ./docs/operations/grants.rst
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Generate the list of boards
-      run: uv run pyvec-docs gen boards > ./docs/operations/boards.rst
+      run: uv run pyvec-docs gen-boards > ./docs/operations/boards.rst
     - name: Create PR
       uses: peter-evans/create-pull-request@v7
       with:
