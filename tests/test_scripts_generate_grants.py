@@ -2,7 +2,7 @@ from datetime import date
 
 import pytest
 
-from pyvec_docs.board import Board
+from pyvec_docs.boards import Board
 from pyvec_docs.grants import (
     get_board_member_name,
     get_votes,

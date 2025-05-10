@@ -14,12 +14,12 @@ jobs:
       - name: Install uv
         uses: astral-sh/setup-uv@v6
       - name: Build documentation
-        run: uv run sphinx-build -nWaE docs build
+        run: uv run pyvec-docs build
       - name: Link Checker
         id: lychee
         uses: lycheeverse/lychee-action@v2
         with:
-          args: _build
+          args: build
           fail: false
       - name: Create Issue From File
         if: steps.lychee.outputs.exit_code != 0

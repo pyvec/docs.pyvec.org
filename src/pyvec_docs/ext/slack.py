@@ -9,7 +9,7 @@ import functools
 
 from docutils import nodes
 
-from pyvec_docs.board import load_boards
+from pyvec_docs.boards import load_boards
 
 
 # https://docutils.readthedocs.io/en/sphinx-docs/howto/rst-roles.html

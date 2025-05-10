@@ -4,7 +4,7 @@ from typing import Any
 from sphinx.application import Sphinx
 from sphinx.config import Config
 
-from pyvec_docs.board import BOARDS_MANDATE_LENGTH, load_boards
+from pyvec_docs.boards import BOARDS_MANDATE_LENGTH, load_boards
 
 
 def board_dates(app: Sphinx, config: Config):
