@@ -97,7 +97,8 @@ Generování stránek a souborů
 
 Některé stránky a soubory se generují automaticky pomocí skriptů. Tyto skripty se spouští pomocí `GitHub Actions <https://github.com/pyvec/docs.pyvec.org/actions>`_, konkrétně workflow ``generate.yml``. Tyto skripty se spouští jednou denně a generují soubory, které se pak posílají jako pull requesty do repozitáře, pokud vytvoří nějaké změny.
 
-- Generuje se ``operations/boards.rst`` ze `souboru boards.toml <https://github.com/pyvec/docs.pyvec.org/blob/master/src/pyvec_docs/boards.toml>`_ a ze šablony ``operations/boards.rst``.
-- Generuje se ``operations/grants.rst`` z dat na `pyvec/money <https://github.com/pyvec/money>`_ a ze šablony ``operations/grants.rst``.
+- Generuje se ``docs/operations/boards.rst`` ze `souboru boards.toml <https://github.com/pyvec/docs.pyvec.org/blob/master/src/pyvec_docs/boards.toml>`_ a ze šablony ``operations/boards.rst``.
+- Generuje se ``docs/operations/grants.rst`` z dat na `pyvec/money <https://github.com/pyvec/money>`_ a ze šablony ``operations/grants.rst``.
+- Generuje se ``docs/_static/twemoji.min.js``, abychom Twemoji měli lokálně a nemuseli se spoléhat na CDN.
 
-Kód pro generování je v ``src/pyvec_docs/cli.py``. Skripty jde pouštět např. ``uv run pyvec-docs gen-boards``, výstup jde do ``stdout``.
+Kód pro generování je v ``src/pyvec_docs/cli.py``. Skripty jde pouštět např. ``uv run pyvec-docs gen-boards``.

@@ -142,6 +142,7 @@ todo_include_todos = True
 
 # Ensures consistent emoji style on all computers, operating systems, browsers
 sphinxemoji_style = "twemoji"
+sphinxemoji_source = "_static/twemoji.min.js"
 
 
 # -- Setting up extensions ---------------------------------------------------

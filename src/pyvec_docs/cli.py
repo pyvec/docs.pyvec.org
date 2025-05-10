@@ -48,11 +48,18 @@ def watch() -> None:
     default="docs/operations/grants.rst.jinja",
 )
 @click.option(
+    "--output",
+    "output_path",
+    type=click.Path(path_type=Path),
+    default="docs/operations/grants.rst",
+)
+@click.option(
     "--github-url", type=str, default="https://api.github.com/repos/pyvec/money/issues"
 )
 @click.option("--github-token", type=str, envvar="GITHUB_TOKEN")
 def gen_grants(
     template_path: Path,
+    output_path: Path,
     github_url: str,
     github_token: str,
 ) -> None:
@@ -118,7 +125,7 @@ def gen_grants(
     grants = sorted(grants, key=itemgetter("voted_at"), reverse=True)
 
     tpl = Template(template_path.read_text())
-    click.echo(tpl.render(grants=grants))
+    output_path.write_text(tpl.render(grants=grants))
 
 
 @main.command()
@@ -128,9 +135,35 @@ def gen_grants(
     type=click.Path(exists=True, path_type=Path),
     default="docs/operations/boards.rst.jinja",
 )
+@click.option(
+    "--output",
+    "output_path",
+    type=click.Path(path_type=Path),
+    default="docs/operations/boards.rst",
+)
 def gen_boards(
     template_path: Path,
+    output_path: Path,
 ) -> None:
     boards = load_boards()
     tpl = Template(template_path.read_text())
-    click.echo(tpl.render(boards=boards))
+    output_path.write_text(tpl.render(boards=boards))
+
+
+@main.command()
+@click.option(
+    "--source-url",
+    type=str,
+    default="https://cdn.jsdelivr.net/npm/@twemoji/api@latest/dist/twemoji.min.js",
+)
+@click.option(
+    "--output",
+    "output_path",
+    type=click.Path(path_type=Path),
+    default="docs/_static/twemoji.min.js",
+)
+def gen_twemoji(source_url: str, output_path: Path) -> None:
+    """Download the latest version of twemoji.min.js from CDN of https://github.com/jdecked/twemoji/"""
+    res = requests.get(source_url)
+    res.raise_for_status()
+    output_path.write_bytes(res.content)
