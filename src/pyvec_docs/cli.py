@@ -2,7 +2,6 @@ import subprocess
 import sys
 from operator import itemgetter
 from pathlib import Path
-from typing import cast
 
 import click
 import requests
