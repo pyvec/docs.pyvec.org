@@ -339,7 +339,7 @@ dev = [
 
 [package.metadata]
 requires-dist = [
-    { name = "click", specifier = ">=8.1.8" },
+    { name = "click", specifier = "==8.1.8" },
     { name = "jinja2", specifier = "==3.1.6" },
     { name = "myst-parser", specifier = "==4.0.1" },
     { name = "pydantic", specifier = "==2.11.4" },
