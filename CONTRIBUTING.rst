@@ -21,7 +21,7 @@ Když toho upravujete víc, nebo máte zálusk na nějaké složitější kejkle
 Běžná práce
 -----------
 
-#. Ve virtuálním prostředí spusťte projekt: ``uv run sphinx-autobuild docs build``
+#. Ve virtuálním prostředí spusťte projekt: ``uv run pyvec-docs build``
 #. Otevřete si v prohlížeči `<http://127.0.0.1:8000>`_
 #. V editoru upravujete texty a v prohlížeči si kontrolujete výsledek
 #. Projekt zastavíte v terminálu pomocí :kbd:`Ctrl+C`
@@ -90,28 +90,12 @@ Na repozitáři je zapojená `GitHub Action <https://github.com/lycheeverse/lych
 
 Dokonce by to mělo automaticky zakládat i issue, pokud to najde nějaký problém. V případě, že je potřeba ignorovat nějakou doménu nebo konkrétní odkaz, je možné to udělat v souboru ``lychee.toml``.
 
-.. _generate_boards:
+.. _generate_files:
 
-Skript na generování historie výborů
-------------------------------------
+Generování stránek a souborů
+----------------------------
 
-V adresáři ``scripts`` je skript ``generate_boards.py``, který:
+Některé stránky a soubory se generují automaticky pomocí skriptů. Tyto skripty se spouští pomocí `GitHub Actions <https://github.com/pyvec/docs.pyvec.org/actions>`_, konkrétně workflow ``generate.yml``. Tyto skripty se spouští jednou denně a generují soubory, které se pak posílají jako pull requesty do repozitáře, pokud vytvoří nějaké změny.
 
-* se pomocí `GitHub Actions <https://github.com/pyvec/docs.pyvec.org/actions>`_ jednou denně spustí,
-* vygeneruje soubor ``operations/boards.rst`` ze `souboru boards.toml <https://github.com/pyvec/docs.pyvec.org/blob/master/src/pyvec_docs/boards.toml>`_ a ze šablony ``operations/boards.rst``,
-* commitne a pushne jej přes Git do repozitáře.
-
-Výsledná stránka je pouze informační, kanonickým zdrojem pravdy jsou v tomto případě státní registry.
-
-.. _generate_grants:
-
-Skript na generování zápisů hlasování o grantech
-------------------------------------------------
-
-V adresáři ``scripts`` je skript ``generate_grants.py``, který:
-
-* se pomocí `GitHub Actions <https://github.com/pyvec/docs.pyvec.org/actions>`_ jednou denně spustí,
-* vygeneruje soubor ``operations/grants.rst`` z dat na `pyvec/money <https://github.com/pyvec/money>`_ a ze šablony ``operations/grants.rst``,
-* commitne a pushne jej přes Git do repozitáře.
-
-Hlasování o grantech probíhá :ref:`pomocí reakcí <jak-hlasovani>` na GitHub Issues a tento skript hlasování archivuje sem do dokumentace pro účely jednoduššího vyhledávání, zálohy, kdyby se s `pyvec/money <https://github.com/pyvec/money>`_ něco stalo, a pro nějakou historickou evidenci. Kanonickým zdrojem pravdy ale zůstává hlasování přímo na GitHub Issues, toto je jen automatizovaný přepis. Skript započítává pouze hlasy od členů výboru (podle `souboru boards.toml <https://github.com/pyvec/docs.pyvec.org/blob/master/src/pyvec_docs/boards.toml>`_).
+- Generuje se ``operations/boards.rst`` ze `souboru boards.toml <https://github.com/pyvec/docs.pyvec.org/blob/master/src/pyvec_docs/boards.toml>`_ a ze šablony ``operations/boards.rst``.
+- Generuje se ``operations/grants.rst`` z dat na `pyvec/money <https://github.com/pyvec/money>`_ a ze šablony ``operations/grants.rst``.

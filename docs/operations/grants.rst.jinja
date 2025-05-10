@@ -1,9 +1,17 @@
 Elektronická hlasování o grantech
 =================================
 
-Od roku 2020 o grantech :term:`výbor <Výbor>` hlasuje prostřednictvím repozitáře `pyvec/money <https://github.com/pyvec/money>`_. Zde je strojový přepis proběhlých hlasování. Kanonickým zdrojem pravdy je hlasování přímo na GitHub Issues. Kdyby něco nesedělo, ověřte `historii zdrojáku této stránky <https://github.com/pyvec/docs.pyvec.org/commits/master/docs/operations/grants.rst>`_ a funkčnost :ref:`přepisů <generate_grants>`.
+Od roku 2020 o grantech :term:`výbor <Výbor>` hlasuje prostřednictvím repozitáře `pyvec/money <https://github.com/pyvec/money>`_.
 
-.. Soubor docs/operations/grants.rst je generován skriptem scripts/generate_grants.py ze šablony docs/operations/grants.rst.jinja. Neupravovat ručně!
+Hlasování o grantech probíhá :ref:`pomocí reakcí <jak-hlasovani>` na GitHub Issues. Hlasování se automaticky archivují sem do dokumentace pro účely jednoduššího vyhledávání, zálohy, kdyby se s `pyvec/money <https://github.com/pyvec/money>`_ něco stalo, a pro nějakou historickou evidenci. Kanonickým zdrojem pravdy ale zůstává hlasování přímo na GitHub Issues, toto je jen přepis. Skript započítává pouze hlasy od členů výboru (podle `souboru boards.toml <https://github.com/pyvec/docs.pyvec.org/blob/master/src/pyvec_docs/boards.toml>`_).
+
+Kdyby něco nesedělo, ověřte `historii zdrojáku této stránky <https://github.com/pyvec/docs.pyvec.org/commits/master/docs/operations/grants.rst>`_ a funkčnost :ref:`přepisů <generate>`.
+
+
+
+.. Soubor docs/operations/grants.rst je generován, NEUPRAVOVAT RUČNĚ!
+
+
 
 {% for grant in grants %}
 {{ grant.voted_at.day }}. {{ grant.voted_at.month }}. {{ grant.voted_at.year }} - elektronické hlasování výboru

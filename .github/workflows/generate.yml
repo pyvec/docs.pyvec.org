@@ -1,0 +1,30 @@
+name: Generate
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "0 4 * * *"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Install uv
+      uses: astral-sh/setup-uv@v6
+    - name: Generate the list of grants
+      run: uv run pyvec-docs gen grants > ./docs/operations/grants.rst
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Generate the list of boards
+      run: uv run pyvec-docs gen boards > ./docs/operations/boards.rst
+    - name: Create PR
+      uses: peter-evans/create-pull-request@v7
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        add-paths: |
+          ./docs/operations/
+        commit-message: "update generated files"
+        branch: automation/generate
+        title: "Automated update of generated pages and other files"
+        body: "For details, see [the docs](https://docs.pyvec.org/contributing.html#generovani-stranek-a-souboru) :book:"

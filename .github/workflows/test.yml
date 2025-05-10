@@ -10,6 +10,6 @@ jobs:
     - name: Install uv
       uses: astral-sh/setup-uv@v6
     - name: Test
-      run: uv run pytest
+      run: uv run pyvec-docs test
     - name: Build documentation
-      run: uv run sphinx-build -nWaE docs build
+      run: uv run pyvec-docs build
