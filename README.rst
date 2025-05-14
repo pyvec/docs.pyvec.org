@@ -18,4 +18,4 @@ vygeneruje náhled.
 Kdo chce pracovat na svém stroji, může dokumentaci sestavit do adresáře
 ``build`` pomocí tohoto příkazu::
 
-    uv run python -m sphinx build docs build
+    uv run --locked python -m sphinx build docs build
