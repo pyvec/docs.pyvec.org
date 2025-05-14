@@ -64,6 +64,8 @@ Předání moci
 
 - Starý výbor zodpovídá za Pyvec až do předání moci.
 - Starý a nový výbor si naplánují meeting, kde se seznámí a dojde k ceremoniálu předání moci, k předání přístupů, zodpovězení různých otázek, atd.
+- Tento meeting je oficiální schůze výboru. Zápis ze schůze píše starý
+  výbor do "svého" existujícího dokumentu. (Později se přesune, viz níže.)
 - Nový výbor si mezi sebou musí zvolit předsedu a může zvolit :term:`pokladníka <Pokladník>`. Každý člen výboru má jeden hlas a funkci dostává ten, kdo má nejvíc hlasů.
 - Nový výbor dostává první závažný úkol, při kterém jej ideálně stínuje starý výbor a pomáhá mu k jeho dokončení: Kontaktovat právničku spolku, `AK Šichová <https://aksichova.cz/>`__, aby připravila papíry, kodifikovala výsledek voleb a změnu zanesla do státního rejstříku (úkol není hotov, dokud na justice.cz nejsou u Pyvce vidět nová jména).
 - Nový výbor oznámí své zvolení v :slack:`#announcements`.
@@ -95,3 +97,6 @@ Tento seznam je potřeba průběžně aktualizovat a dokumentovat během toho, j
 - Nový výbor by si měl na Slacku vytvořit svůj privátní kanál, např. :slack:`#pyvec-board-2022-2025`. Každý výbor má svůj, v názvu má roky funkčního období.
 - Přenastavení skupiny ``@board`` na Slacku, aby označovala lidi z nového výboru. Minimálně předseda by měl mít ownera k celému Slacku.
 - Kdo chce, na Slacku si ve svém profilu může nastavit políčko *Pyvec Title* na *Board* nebo *Chair*. Kdo ze starého výboru tam měl *Board*, tak by si tam měl dát *Member*. Ale je otázka, jestli tohle vůbec někdo čte.
+- Vytvořit nový dokument pro :ref:`zápisy ze schůzí <zapisy>` a
+  přesunout do něj zápis z předávací schůze.
+  Ve starém dokumentu zápis nahradit odkazem.
