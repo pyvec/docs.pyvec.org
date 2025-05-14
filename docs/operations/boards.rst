@@ -15,49 +15,105 @@ Kanonickým zdrojem pravdy je ale `výpis na justice.cz <https://or.justice.cz/i
 Výbor od 7.5.2025
 -------------------------------------------------
 
-.. csv-table::
-   :header: "Jméno", "GitHub", "Funkce"
+.. list-table::
+   :header-rows: 1
 
-   Jakub Vysoký, `@kvbik <https://github.com/kvbik>`_, 
-   Jan Čermák, `@sairon <https://github.com/sairon>`_, |:moneybag:| 
-   Karolina Surma, `@befeleme <https://github.com/befeleme>`_, |:crown:| 
-   Petr Viktorin, `@encukou <https://github.com/encukou>`_, 
-   Jakub Červinka, `@JakubDotPy <https://github.com/JakubDotPy>`_, 
+   * * Jméno
+     * GitHub
+     * Funkce
+   * * Jakub Vysoký
+     * `@kvbik <https://github.com/kvbik>`_
+     *
+   * * Jan Čermák
+     * `@sairon <https://github.com/sairon>`_
+     * |:moneybag:|
+   * * Karolina Surma
+     * `@befeleme <https://github.com/befeleme>`_
+     * |:crown:|
+   * * Petr Viktorin
+     * `@encukou <https://github.com/encukou>`_
+     *
+   * * Jakub Červinka
+     * `@JakubDotPy <https://github.com/JakubDotPy>`_
+     *
 
 Výbor od 9.4.2022
 -------------------------------------------------
 
-.. csv-table::
-   :header: "Jméno", "GitHub", "Funkce"
+.. list-table::
+   :header-rows: 1
 
-   Barbora Drbohlavová, `@baradrb <https://github.com/baradrb>`_, |:crown:| 
-   Anežka Müller, `@anezkamll <https://github.com/anezkamll>`_, 
-   Jan Javorek, `@honzajavorek <https://github.com/honzajavorek>`_, 
-   Jakub Vysoký, `@kvbik <https://github.com/kvbik>`_, 
-   Jan Čermák, `@sairon <https://github.com/sairon>`_, |:moneybag:| 
+   * * Jméno
+     * GitHub
+     * Funkce
+   * * Barbora Drbohlavová
+     * `@baradrb <https://github.com/baradrb>`_
+     * |:crown:|
+   * * Anežka Müller
+     * `@anezkamll <https://github.com/anezkamll>`_
+     *
+   * * Jan Javorek
+     * `@honzajavorek <https://github.com/honzajavorek>`_
+     *
+   * * Jakub Vysoký
+     * `@kvbik <https://github.com/kvbik>`_
+     *
+   * * Jan Čermák
+     * `@sairon <https://github.com/sairon>`_
+     * |:moneybag:|
 
 Výbor od 8.4.2019
 -------------------------------------------------
 
-.. csv-table::
-   :header: "Jméno", "GitHub", "Funkce"
+.. list-table::
+   :header-rows: 1
 
-   Martin Bílek, `@martinbilek <https://github.com/martinbilek>`_, |:crown:| |:moneybag:| 
-   Aleš Zoulek, `@aleszoulek <https://github.com/aleszoulek>`_, 
-   Jan Javorek, `@honzajavorek <https://github.com/honzajavorek>`_, 
-   Jakub Vysoký, `@kvbik <https://github.com/kvbik>`_, 
-   Jiří Bartoň, `@whiskybar <https://github.com/whiskybar>`_, 
+   * * Jméno
+     * GitHub
+     * Funkce
+   * * Martin Bílek
+     * `@martinbilek <https://github.com/martinbilek>`_
+     * |:crown:| |:moneybag:|
+   * * Aleš Zoulek
+     * `@aleszoulek <https://github.com/aleszoulek>`_
+     *
+   * * Jan Javorek
+     * `@honzajavorek <https://github.com/honzajavorek>`_
+     *
+   * * Jakub Vysoký
+     * `@kvbik <https://github.com/kvbik>`_
+     *
+   * * Jiří Bartoň
+     * `@whiskybar <https://github.com/whiskybar>`_
+     *
 
 Výbor od 27.3.2012
 -------------------------------------------------
 
-.. csv-table::
-   :header: "Jméno", "GitHub", "Funkce"
+.. list-table::
+   :header-rows: 1
 
-   Martin Bílek, `@martinbilek <https://github.com/martinbilek>`_, |:crown:| |:moneybag:| 
-   Aleš Zoulek, `@aleszoulek <https://github.com/aleszoulek>`_, 
-   Robin Gottfried, `@czervenka <https://github.com/czervenka>`_, 
-   Jan Král, `@honzakral <https://github.com/honzakral>`_, 
-   Jakub Vysoký, `@kvbik <https://github.com/kvbik>`_, 
-   Jiří Bartoň, `@whiskybar <https://github.com/whiskybar>`_, 
-   Vítězslav Pliska, `@whit <https://github.com/whit>`_, 
+   * * Jméno
+     * GitHub
+     * Funkce
+   * * Martin Bílek
+     * `@martinbilek <https://github.com/martinbilek>`_
+     * |:crown:| |:moneybag:|
+   * * Aleš Zoulek
+     * `@aleszoulek <https://github.com/aleszoulek>`_
+     *
+   * * Robin Gottfried
+     * `@czervenka <https://github.com/czervenka>`_
+     *
+   * * Jan Král
+     * `@honzakral <https://github.com/honzakral>`_
+     *
+   * * Jakub Vysoký
+     * `@kvbik <https://github.com/kvbik>`_
+     *
+   * * Jiří Bartoň
+     * `@whiskybar <https://github.com/whiskybar>`_
+     *
+   * * Vítězslav Pliska
+     * `@whit <https://github.com/whit>`_
+     *
