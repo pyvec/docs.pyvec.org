@@ -14,15 +14,16 @@ from pyvec_docs.grants import (
 @pytest.fixture
 def boards():
     return [  # sorted!
-        Board(
+        Board.make(
             **{
                 # No start_on; votes don't count
+                "voted_on": date(2023, 1, 1),
                 "members": [
                     {"name": "Bob", "github": "bobby"},
                 ],
             }
         ),
-        Board(
+        Board.make(
             **{
                 "start_on": date(2020, 1, 1),
                 "members": [
@@ -31,9 +32,10 @@ def boards():
                 ],
             }
         ),
-        Board(
+        Board.make(
             **{
                 "start_on": date(2019, 1, 1),
+                "voted_on": date(2018, 12, 1),
                 "members": [
                     {"name": "Bob", "github": "bobby"},
                 ],
@@ -44,6 +46,14 @@ def boards():
 
 def assert_boards_sorted(boards):
     assert boards == sorted(boards)
+
+
+def assert_voted_on_defaults(boards):
+    assert [b.voted_on for b in boards] == [
+        date(2023, 1, 1),  # explicit
+        date(2020, 1, 1),  # from start_on
+        date(2018, 12, 1),  # explicit
+    ]
 
 
 def test_to_date():

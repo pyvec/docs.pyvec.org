@@ -4,8 +4,13 @@
 #
 # "start_on" should ideally be the date from justice.cz. If missing, the board
 # doesn't officially have power yet.
+#
+# "voted_on" is the day when we voted for the board. If missing, defaults to
+# "start_on" as an approximation.
+
 
 [[board]]
+voted_on = "2025-05-07"
 
 [[board.members]]
 name = "Jakub Vysoký"
