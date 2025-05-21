@@ -18,6 +18,7 @@ def main() -> None:
 
 @main.command()
 def test() -> None:
+    """Run the tests"""
     try:
         subprocess.run(["pytest"], check=True)
     except subprocess.CalledProcessError:
@@ -26,6 +27,7 @@ def test() -> None:
 
 @main.command()
 def build() -> None:
+    """Build the documentation into the build directory"""
     try:
         subprocess.run(["sphinx-build", "-nWaE", "docs", "build"], check=True)
     except subprocess.CalledProcessError:
@@ -34,6 +36,7 @@ def build() -> None:
 
 @main.command()
 def watch() -> None:
+    """Serve documentation on a local webserver, rebuild on changes"""
     try:
         subprocess.run(["sphinx-autobuild", "-nWaE", "docs", "build"], check=True)
     except subprocess.CalledProcessError:
@@ -63,6 +66,7 @@ def gen_grants(
     github_url: str,
     github_token: str,
 ) -> None:
+    """Generate grants.rst (needs authorization token)"""
     github_headers = {
         "Accept": "application/vnd.github.squirrel-girl-preview",
         "Authorization": f"token {github_token}",
@@ -145,6 +149,7 @@ def gen_boards(
     template_path: Path,
     output_path: Path,
 ) -> None:
+    """Generate boards.rst"""
     boards = load_boards()
     tpl = Template(template_path.read_text())
     output_path.write_text(tpl.render(boards=boards))

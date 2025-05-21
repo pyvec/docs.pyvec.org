@@ -16,15 +16,25 @@ Instalace
 Když toho upravujete víc, nebo máte zálusk na nějaké složitější kejkle, je lepší mít materiály nainstalované na svém počítači. Bude k tomu potřeba `uv <https://docs.astral.sh/uv/>`_:
 
 #. Stáhněte projekt: ``git clone https://github.com/pyvec/docs.pyvec.org.git``
-#. Nainstalujte: ``uv sync --group=dev``
+#. Přejděte do něj: ``cd docs.pyvec.org``
+
+.. note::
+
+    O instalaci, včetně správy virtuálního prostředí, se postará
+    ``uv`` automaticky při prvním spuštění.
 
 Běžná práce
 -----------
 
-#. Ve virtuálním prostředí spusťte projekt: ``uv run pyvec-docs build``
+#. Spusťte projekt: ``uv run pyvec-docs watch``
 #. Otevřete si v prohlížeči `<http://127.0.0.1:8000>`_
 #. V editoru upravujete texty a v prohlížeči si kontrolujete výsledek
 #. Projekt zastavíte v terminálu pomocí :kbd:`Ctrl+C`
+
+Další užitečné nástroje, např. na jednorázové sestavení nebo na
+:ref:`generování stránek <generate_files>`,
+najdete spuštěním ``pyvec-docs`` bez podpříkazu: ``uv run pyvec-docs``
+
 
 Markdown
 ^^^^^^^^
