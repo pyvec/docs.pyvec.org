@@ -1,11 +1,11 @@
 # The Pyvec board members in time
-# The current board is first, previous boards are listed in descending order
+# The most recent board is first, previous boards are listed in descending order
 # Each member has a `name`, `github`, and optionally a `roles` array
 #
-# "start_on" should ideally be the date of the hand-over meeting
+# "start_on" should ideally be the date from justice.cz. If missing, the board
+# doesn't officially have power yet.
 
 [[board]]
-start_on = "2025-05-07"
 
 [[board.members]]
 name = "Jakub Vysoký"

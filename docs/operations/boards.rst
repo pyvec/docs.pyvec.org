@@ -12,8 +12,8 @@ Kanonickým zdrojem pravdy je ale `výpis na justice.cz <https://or.justice.cz/i
 
 
 
-Výbor od 7.5.2025
--------------------------------------------------
+Nově zvolený výbor
+------------------
 
 .. list-table::
    :header-rows: 1

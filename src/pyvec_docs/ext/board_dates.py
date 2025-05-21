@@ -4,11 +4,12 @@ from typing import Any
 from sphinx.application import Sphinx
 from sphinx.config import Config
 
-from pyvec_docs.boards import BOARDS_MANDATE_LENGTH, load_boards
+from pyvec_docs.boards import BOARDS_MANDATE_LENGTH, load_current_board
 
 
 def board_dates(app: Sphinx, config: Config):
-    board = load_boards()[0]
+    board = load_current_board()
+    assert board.start_on is not None
 
     board_start = board.start_on
     board_end = board_start + timedelta(days=BOARDS_MANDATE_LENGTH * 365)
