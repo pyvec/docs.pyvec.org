@@ -12,12 +12,29 @@ Kanonickým zdrojem pravdy je ale `výpis na justice.cz <https://or.justice.cz/i
 
 
 {% for board in boards %}
+{%- if board.start_on == None %}
+Nově zvolený výbor
+------------------
+{%- else %}
 Výbor od {{ board.start_on.strftime("%-d.%-m.%Y") }}
 -------------------------------------------------
+{%- endif %}
 
-.. csv-table::
-   :header: "Jméno", "GitHub", "Funkce"
-{% for member in board.members %}
-   {{ member.name }}, `@{{ member.github }} <https://github.com/{{ member.github }}>`_, {% if member.is_chair %}|:crown:| {% endif %}{% if member.is_treasurer %}|:moneybag:| {% endif %}
-{%- endfor %}
+.. list-table::
+   :header-rows: 1
+
+   * * Jméno
+     * GitHub
+     * Funkce
+  {%- for member in board.members %}
+   * * {{ member.name }}
+     * `@{{ member.github }} <https://github.com/{{ member.github }}>`_
+     *
+      {%- if member.is_chair -%}
+         {{- " " -}} |:crown:|
+      {%- endif -%}
+      {%- if member.is_treasurer -%}
+         {{- " " -}} |:moneybag:|
+      {%- endif -%}
+  {% endfor %}
 {% endfor %}
