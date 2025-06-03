@@ -448,7 +448,6 @@ Pokud chceš nabrat nějakou další inspiraci k tomu, jak organizovat Python sr
 Globální zdroje
 ^^^^^^^^^^^^^^^
 
-- E-mailová diskuse `group-organizers <https://mail.python.org/mailman/listinfo/group-organizers>`__
 - `Starting Your Python Users Group <https://wiki.python.org/moin/StartingYourUsersGroup>`__ na python.org
 
 
