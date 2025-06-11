@@ -18,7 +18,7 @@ def remove_comments(html):
 
 def get_board_member_name(username, voted_at, boards: list[Board]):
     for board in boards:  # sorted from the most recent
-        if board.start_on is None:
+        if not board.has_started:
             continue
         if voted_at > board.start_on:
             for member in board.members:

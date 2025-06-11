@@ -37,7 +37,7 @@ Nově zvolený výbor
      * `@JakubDotPy <https://github.com/JakubDotPy>`_
      *
 
-Výbor od 9.4.2022
+Výbor od 1.9.2022
 -------------------------------------------------
 
 .. list-table::
@@ -62,7 +62,7 @@ Výbor od 9.4.2022
      * `@sairon <https://github.com/sairon>`_
      * |:moneybag:|
 
-Výbor od 8.4.2019
+Výbor od 4.5.2019
 -------------------------------------------------
 
 .. list-table::

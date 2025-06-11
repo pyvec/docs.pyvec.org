@@ -2,11 +2,12 @@
 # The most recent board is first, previous boards are listed in descending order
 # Each member has a `name`, `github`, and optionally a `roles` array
 #
-# "start_on" should ideally be the date from justice.cz. If missing, the board
-# doesn't officially have power yet.
+# "voted_on" is the day when we voted for the board. It's approximate, since
+# votes can take longer than a day.
 #
-# "voted_on" is the day when we voted for the board. If missing, defaults to
-# "start_on" as an approximation.
+# "start_on" should ideally be the date from justice.cz.
+# If the board doesn't officially have power yet, leave it out; "voted_on` will
+# be used as default.
 
 
 [[board]]
@@ -36,7 +37,8 @@ github = "JakubDotPy"
 
 
 [[board]]
-start_on = "2022-04-09"
+start_on = "2022-09-01"
+voted_on = "2022-04-09"
 
 [[board.members]]
 name = "Barbora Drbohlavová"
@@ -63,7 +65,8 @@ roles = ["treasurer"]
 
 
 [[board]]
-start_on = "2019-04-08"
+start_on = "2019-05-04"
+voted_on = "2019-04-08"
 
 [[board.members]]
 name = "Martin Bílek"
@@ -90,6 +93,7 @@ github = "whiskybar"
 
 [[board]]
 start_on = "2012-03-27"
+voted_on = "2012-03-27"  # approximation
 
 [[board.members]]
 name = "Martin Bílek"

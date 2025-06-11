@@ -12,12 +12,12 @@ Kanonickým zdrojem pravdy je ale `výpis na justice.cz <https://or.justice.cz/i
 
 
 {% for board in boards %}
-{%- if board.start_on == None %}
-Nově zvolený výbor
-------------------
-{%- else %}
+{%- if board.has_started %}
 Výbor od {{ board.start_on.strftime("%-d.%-m.%Y") }}
 -------------------------------------------------
+{%- else %}
+Nově zvolený výbor
+------------------
 {%- endif %}
 
 .. list-table::
