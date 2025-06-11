@@ -76,13 +76,14 @@ Předání moci
   - aktualizuje role členů v `seznamu členů <https://docs.google.com/spreadsheets/d/1n8hzBnwZ5ANkUCvwEy8rWsXlqeAAwu-5JBodT5OJx_I/edit#gid=0>`__, čímž by se měl aktualizovat i web Pyvce.
 
 - Starý výbor předá novému vše ze seznamu níže.
+- Nový výbor naplánuje termín další schůze. Ideálně vytvoří opakovanou kalendářovou událost na všechny další schůze.
 
 Co předat
 ---------
 
 Tento seznam je potřeba průběžně aktualizovat a dokumentovat během toho, jak bude nový výbor narážet na místa, kam jim ještě chybí přístupy:
 
-- `Trello výboru <https://trello.com/b/6GjKGJfq/board>`__. Nejdřív se musí lidi pozvat do Workspace, potom i do nástěnky. Na nic jiného už Trello nepoužíváme, takže tady lze starý výbor vyházet.
+- `Trello výboru <https://trello.com/b/6GjKGJfq/board>`__. Nejdřív se musí lidi pozvat do Workspace, potom i do nástěnky Board. Potom je třeba předat přiřazené úkoly. Na nic jiného už Trello nepoužíváme, takže tady lze starý výbor vyházet z nástěnky a pak z Workspace.
 - Přístup do datové schránky spolku. Ten by snad měl přijít automaticky po tom, co se nový výbor zapíše do rejstříku.
 - Přenastavit přístupy a skupiny ve `správci hesel <https://hesla.pyvec.org>`_.
 - Přístup k bankovnímu účtu Pyvce, PayPalu, Stripu, apod. Toto je zpravidla možné až když je nový výbor zapsán v rejstříku a je k tomu potřeba jít do banky.
@@ -90,10 +91,13 @@ Tento seznam je potřeba průběžně aktualizovat a dokumentovat během toho, j
 - Telefonní číslo na 2FA do Benevity. Bohužel lze nastavit jen jedno a posílají to pouze přes SMS.
 - Přístupy k `seznamu členů <https://docs.google.com/spreadsheets/d/1n8hzBnwZ5ANkUCvwEy8rWsXlqeAAwu-5JBodT5OJx_I/edit#gid=0>`__ tak, aby do něj mohl jen nový výbor. Nevyhazovat *service account*, díky kterému se členové přes API vypisují na web Pyvce, ale jinak všechny ostatní ano. Jsou tam osobní údaje členů, takže kvůli GDPR tam smí jen výbor.
 - Přístup k celé složce *Spolek* na Google Drive. Z tama není nutné vyhazovat starý výbor, spíš jde o to, aby tam všichni z nového výboru mohli.
+
+  - Speciálně vzpomenout složku ``Účetnictví/<rok>/ke zpracování``.
+
 - Aktualizovat `tým na GitHubu <https://github.com/orgs/pyvec/teams/board>`_. Minimálně předseda by měl mít ownera na GitHubu k organizaci ``@pyvec``.
 - Placení sídla Pyvce.
 - Předání papírové dokumentace spolku (šanon). Už tam asi nic důležitého není a nové věci jsou už digitálně, ale co kdyby.
-- Přenastavení e-mailovů info@pyvec.org a board@pyvec.org. To *info* je externí e-mail pro všechny, kdo píšou Pyvci. Ten *board* se dřív používal jako interní e-mail výboru, ale dnes už se většinou používá Slack.
+- Přenastavení e-mailovů info@pyvec.org a board@pyvec.org. To *info* je externí e-mail pro všechny, kdo píšou Pyvci. Ten *board* se dřív používal jako interní e-mail výboru, ale dnes už se většinou používá Slack. Komunikaci ven posíláme ze soukromých mailů, na které se pošta přeposílá, s ``info@pyvec.org`` v CC.
 - Nový výbor by si měl na Slacku vytvořit svůj privátní kanál, např. :slack:`#pyvec-board-2022-2025`. Každý výbor má svůj, v názvu má roky funkčního období.
 - Přenastavení skupiny ``@board`` na Slacku, aby označovala lidi z nového výboru. Minimálně předseda by měl mít ownera k celému Slacku.
 - Kdo chce, na Slacku si ve svém profilu může nastavit políčko *Pyvec Title* na *Board* nebo *Chair*. Kdo ze starého výboru tam měl *Board*, tak by si tam měl dát *Member*. Ale je otázka, jestli tohle vůbec někdo čte.
