@@ -14,24 +14,51 @@ from pyvec_docs.grants import (
 @pytest.fixture
 def boards():
     return [  # sorted!
-        Board(
+        Board.create(
+            **{
+                # No start_on; votes don't count
+                "voted_on": date(2023, 1, 1),
+                "members": [
+                    {"name": "Bob", "github": "bobby"},
+                ],
+            }
+        ),
+        Board.create(
             **{
                 "start_on": date(2020, 1, 1),
+                "voted_on": date(2019, 12, 1),
                 "members": [
                     {"name": "Alice", "github": "alice"},
                     {"name": "Doubravka", "github": "doubravka"},
                 ],
             }
         ),
-        Board(
+        Board.create(
             **{
                 "start_on": date(2019, 1, 1),
+                "voted_on": date(2018, 12, 1),
                 "members": [
                     {"name": "Bob", "github": "bobby"},
                 ],
             }
         ),
     ]
+
+
+def assert_boards_sorted(boards):
+    assert boards == sorted(boards)
+
+
+def assert_start_on_defaults(boards):
+    assert [b.start_on for b in boards] == [
+        date(2023, 1, 1),  # from voted_on
+        date(2020, 1, 1),  # explicit
+        date(2018, 12, 1),  # explicit
+    ]
+
+
+def assert_started_values(boards):
+    assert [b.start_on for b in boards] == [False, True, True]
 
 
 def test_to_date():

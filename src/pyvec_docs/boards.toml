@@ -1,9 +1,44 @@
 # The Pyvec board members in time
-# The current board is first, previous boards are listed in descending order
+# The most recent board is first, previous boards are listed in descending order
 # Each member has a `name`, `github`, and optionally a `roles` array
+#
+# "voted_on" is the day when we voted for the board. It's approximate, since
+# votes can take longer than a day.
+#
+# "start_on" should ideally be the date from justice.cz.
+# If the board doesn't officially have power yet, leave it out; "voted_on` will
+# be used as default.
+
 
 [[board]]
-start_on = "2022-04-09"
+voted_on = "2025-05-07"
+
+[[board.members]]
+name = "Jakub Vysoký"
+github = "kvbik"
+
+[[board.members]]
+name = "Jan Čermák"
+github = "sairon"
+roles = ["treasurer"]
+
+[[board.members]]
+name = "Karolina Surma"
+github = "befeleme"
+roles = ["chair"]
+
+[[board.members]]
+name = "Petr Viktorin"
+github = "encukou"
+
+[[board.members]]
+name = "Jakub Červinka"
+github = "JakubDotPy"
+
+
+[[board]]
+start_on = "2022-09-01"
+voted_on = "2022-04-09"
 
 [[board.members]]
 name = "Barbora Drbohlavová"
@@ -30,7 +65,8 @@ roles = ["treasurer"]
 
 
 [[board]]
-start_on = "2019-04-08"
+start_on = "2019-05-04"
+voted_on = "2019-04-08"
 
 [[board.members]]
 name = "Martin Bílek"
@@ -57,6 +93,7 @@ github = "whiskybar"
 
 [[board]]
 start_on = "2012-03-27"
+voted_on = "2012-03-27"  # approximation
 
 [[board.members]]
 name = "Martin Bílek"
