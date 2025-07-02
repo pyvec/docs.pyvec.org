@@ -103,5 +103,11 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+# ruff
+.ruff_cache/
+
 # scripts/lint_requirements.sh
 *-requirements.txt
+
+# Lychee
+.lycheecache

@@ -1,0 +1,36 @@
+# Interface
+verbose = "info"
+no_progress = true
+cache = true
+max_cache_age = "10m"
+
+# Stealth
+user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0"
+
+# Prevent 'Too Many Open Files'
+max_concurrency = 32
+
+# Check links inside `<code>` and `<pre>` blocks and Markdown code blocks
+include_verbatim = true
+
+# Check fragments in links
+include_fragments = true
+
+# Add 'Too many requests'
+accept = ["100..=103", "200..=299", "429"]
+
+# Be benevolent
+max_retries = 5
+timeout = 40
+
+# Exclude
+exclude = [
+    "127.0.0.1:8000",
+    "cz.pycon.org/20XX",
+
+    # Anti-scraping protections
+    "docs.google.com",
+    "www.facebook.com",
+    "www.nytimes.com",
+    "accounts.google.com",
+]

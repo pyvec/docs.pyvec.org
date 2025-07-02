@@ -13,29 +13,49 @@ Abyste něco změnili v textech, nemusíte nic instalovat. Obsah lze upravovat o
 Instalace
 ---------
 
-Když toho upravujete víc, nebo máte zálusk na nějaké složitější kejkle, je lepší mít materiály nainstalované na svém počítači. Projekt vyžaduje Python 3.7.
+Když toho upravujete víc, nebo máte zálusk na nějaké složitější kejkle, je lepší mít materiály nainstalované na svém počítači. Bude k tomu potřeba `uv <https://docs.astral.sh/uv/>`_:
 
 #. Stáhněte projekt: ``git clone https://github.com/pyvec/docs.pyvec.org.git``
-#. Vytvořte si a aktivujte virtuální prostředí
-#. Nainstalujte do prostředí závislosti: ``python -m pip install -r requirements.txt``
+#. Přejděte do něj: ``cd docs.pyvec.org``
+
+.. note::
+
+    O instalaci, včetně správy virtuálního prostředí, se postará
+    ``uv`` automaticky při prvním spuštění.
 
 Běžná práce
 -----------
 
-#. Ve virtuálním prostředí spusťte projekt: ``python -m sphinx-autobuild . _build``
+#. Spusťte projekt: ``uv run pyvec-docs watch``
 #. Otevřete si v prohlížeči `<http://127.0.0.1:8000>`_
 #. V editoru upravujete texty a v prohlížeči si kontrolujete výsledek
 #. Projekt zastavíte v terminálu pomocí :kbd:`Ctrl+C`
 
+Další užitečné nástroje, např. na jednorázové sestavení nebo na
+:ref:`generování stránek <generate_files>`,
+najdete spuštěním ``pyvec-docs`` bez podpříkazu: ``uv run pyvec-docs``
+
+
+Markdown
+^^^^^^^^
+
+Původně byla dokumentace psaná v reStructuredText. Nyní ale podporuje i Markdown. Asi zatím nebudeme přepisovat původní stránky, ale pokud chce někdo napsat něco nového, a vyhovoval by mu spíš Markdown, nechť klidně použije Markdown.
+
+Kdyby s tím byl nějaký problém, tady je `návod na kombo Sphinx + MyST <https://docs.readthedocs.io/en/stable/guides/migrate-rest-myst.html>`__.
+
 Emoji
 ^^^^^
 
-Při psaní můžete používat Emoji jako třeba |:cz:| nebo |:snake:|, ale nepište je přímo pomocí Unicode, ale za pomocí značek jako ``|:cz:|`` nebo ``|:snake:|``. Unicode znaky by se zobrazovaly na každém operačním systému jinak, ale tyto značky budou díky rozšíření `emojicodes <https://github.com/sphinx-contrib/emojicodes>`__ přeloženy na obrázky a ty se zobrazí vždy všem stejně. Mrkněte na `seznam podporovaných Emoji <https://sphinxemojicodes.readthedocs.io/>`__. Obrázky jsou z `Twemoji <https://twemoji.twitter.com/>`_.
+Při psaní můžete používat Emoji jako třeba |:cz:| nebo |:snake:|, ale nepište je přímo pomocí Unicode, ale za pomocí značek jako ``|:cz:|`` nebo ``|:snake:|``. Unicode znaky by se zobrazovaly na každém operačním systému jinak, ale tyto značky budou díky rozšíření `emojicodes <https://github.com/sphinx-contrib/emojicodes>`__ přeloženy na obrázky a ty se zobrazí vždy všem stejně. Mrkněte na `seznam podporovaných Emoji <https://sphinxemojicodes.readthedocs.io/>`__. Obrázky jsou z `Twemoji <https://github.com/twitter/twemoji>`_.
 
 Slack
 ^^^^^
 
-Při psaní lze psát ``:slack:`#pyladies``` nebo i jenom ``:slack:`pyladies```, což vytvoří odkaz na kanál :slack:`#pyladies` na Pyvec Slacku. Funguje to díky vlastnímu rozšíření Sphinxu, které lze najít v souboru ``_extensions/slack.py``.
+Při psaní lze psát ``:slack:`#pyladies`` nebo i jenom ``:slack:`pyladies``, což vytvoří odkaz na kanál :slack:`#pyladies` na Pyvec Slacku. Funguje to díky vlastnímu rozšíření Sphinxu, které lze najít v souboru ``_extensions/slack.py``.
+
+Všechny odkazy na kanál ``:slack:`#pyvec-board``, ať už je to ``:slack:`#pyvec-board`` nebo ``:slack:`#pyvec-board-2019-2021`` jsou automaticky předělány na odkaz na aktuální tajný kanál výboru. K určení správných roků se využívá `soubor boards.toml <https://github.com/pyvec/docs.pyvec.org/blob/master/src/pyvec_docs/boards.toml>`_.
+
+.. _docs-pyvec-rtd:
 
 ReadTheDocs
 -----------
@@ -56,28 +76,39 @@ Tento projekt se původně jmenoval ``pyvec-guide`` a proto se tak jmenuje i pro
 Verze Pythonu
 -------------
 
-Nejnovější verze Pythonu, jakou ReadTheDocs podporují, je 3.7. Z toho důvodu ji vyžaduje i tento projekt. Nastavení je v souboru ``.readthedocs.yml`` (`dokumentace <https://docs.readthedocs.io/en/latest/config-file/v2.html>`_).
+Nejnovější verze Pythonu, jakou ReadTheDocs podporují, je 3.12. Z toho důvodu ji vyžaduje i tento projekt. Nastavení je v souboru ``.readthedocs.yml`` (`dokumentace <https://docs.readthedocs.io/en/latest/config-file/v2.html>`_).
 
 Continuous Integration
 ----------------------
 
 Na repozitáři jsou zapojeny `GitHub Actions <https://github.com/pyvec/docs.pyvec.org/actions>`_. Kontrolka:
 
-.. image:: https://github.com/pyvec/docs.pyvec.org/workflows/Main/badge.svg
+.. image:: https://github.com/pyvec/docs.pyvec.org/actions/workflows/test.yml/badge.svg
     :target: https://github.com/pyvec/docs.pyvec.org/actions
-    :alt: Continuous Integration Status
+    :alt: Continuous Integration Status (test)
 
 CI je pouze informativní a nezabrání tomu, aby se hlavní větev dostala do ReadTheDocs.
 
-.. _generate_grants:
+Kontrola rozbitých odkazů
+-------------------------
 
-Skript na generování zápisů hlasování o grantech
-------------------------------------------------
+Na repozitáři je zapojená `GitHub Action <https://github.com/lycheeverse/lychee-action>`_, která jednou denně kontroluje, zda všechny odkazy fungují. Kontrolka:
 
-V adresáři ``_scripts`` je skript ``generate_grants.py``, který:
+.. image:: https://github.com/pyvec/docs.pyvec.org/actions/workflows/check_links.yml/badge.svg
+    :target: https://github.com/pyvec/docs.pyvec.org/actions
+    :alt: Continuous Integration Status (check links)
 
-* se pomocí `GitHub Actions <https://github.com/pyvec/docs.pyvec.org/actions>`_ jednou denně spustí
-* vygeneruje soubor ``operations/grants.rst`` z dat na `pyvec/money <https://github.com/pyvec/money>`_ a ze šablony ``operations/grants.rst``
-* commitne a pushne jej přes Git do repozitáře.
+Dokonce by to mělo automaticky zakládat i issue, pokud to najde nějaký problém. V případě, že je potřeba ignorovat nějakou doménu nebo konkrétní odkaz, je možné to udělat v souboru ``lychee.toml``.
 
-Hlasování o grantech probíhá :ref:`pomocí reakcí <jak-hlasovani>` na GitHub Issues a tento skript hlasování archivuje sem do dokumentace pro účely jednoduššího vyhledávání, zálohy, kdyby se s `pyvec/money <https://github.com/pyvec/money>`_ něco stalo, a pro nějakou historickou evidenci. Kanonickým zdrojem pravdy ale zůstává hlasování přímo na GitHub Issues, toto je jen automatizovaný přepis.
+.. _generate_files:
+
+Generování stránek a souborů
+----------------------------
+
+Některé stránky a soubory se generují automaticky pomocí skriptů. Tyto skripty se spouští pomocí `GitHub Actions <https://github.com/pyvec/docs.pyvec.org/actions>`_, konkrétně workflow ``generate.yml``. Tyto skripty se spouští jednou denně a generují soubory, které se pak posílají jako pull requesty do repozitáře, pokud vytvoří nějaké změny.
+
+- Generuje se ``docs/operations/boards.rst`` ze `souboru boards.toml <https://github.com/pyvec/docs.pyvec.org/blob/master/src/pyvec_docs/boards.toml>`_ a ze šablony ``operations/boards.rst``.
+- Generuje se ``docs/operations/grants.rst`` z dat na `pyvec/money <https://github.com/pyvec/money>`_ a ze šablony ``operations/grants.rst``.
+- Generuje se ``docs/_static/twemoji.min.js``, abychom Twemoji měli lokálně a nemuseli se spoléhat na CDN.
+
+Kód pro generování je v ``src/pyvec_docs/cli.py``. Skripty jde pouštět např. ``uv run pyvec-docs gen-boards``.

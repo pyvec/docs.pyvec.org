@@ -1,11 +1,12 @@
 version: 2
 build:
-  image: latest
+  os: ubuntu-lts-latest
+  tools:
+    python: "3.12"
 python:
-  version: 3.7
   install:
-      - requirements: requirements.txt
+    - method: pip
+      path: .
 sphinx:
-  builder: html
-  configuration: conf.py
+  configuration: docs/conf.py
   fail_on_warning: true
