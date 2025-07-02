@@ -12,6 +12,18 @@ Kanonickým zdrojem pravdy je ale `výpis na justice.cz <https://or.justice.cz/i
 
 
 
+Výbor od 7.5.2025
+-------------------------------------------------
+
+.. csv-table::
+   :header: "Jméno", "GitHub", "Funkce"
+
+   Jakub Vysoký, `@kvbik <https://github.com/kvbik>`_, 
+   Jan Čermák, `@sairon <https://github.com/sairon>`_, |:moneybag:| 
+   Karolina Surma, `@befeleme <https://github.com/befeleme>`_, |:crown:| 
+   Petr Viktorin, `@encukou <https://github.com/encukou>`_, 
+   Jakub Červinka, `@JakubDotPy <https://github.com/JakubDotPy>`_, 
+
 Výbor od 9.4.2022
 -------------------------------------------------
 
