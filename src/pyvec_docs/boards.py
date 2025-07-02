@@ -40,25 +40,9 @@ class BoardMember(BaseModel):
 
 class Board(BaseModel):
     start_on: date
-    voted_on: date
-    has_started: bool
     members: list[BoardMember]
 
     model_config = {"extra": "forbid", "frozen": True}
-
-    @classmethod
-    def create(cls, voted_on=None, start_on=None, **kwargs):
-        if start_on is None:
-            start_on = voted_on
-            has_started = False
-        else:
-            has_started = True
-        return cls(
-            voted_on=voted_on,
-            start_on=start_on,
-            has_started=has_started,
-            **kwargs,
-        )
 
     @property
     def years(self) -> tuple[int, int]:
@@ -68,10 +52,9 @@ class Board(BaseModel):
 
 @cache
 def load_boards(path: Path | str = BOARDS_CONFIG_PATH) -> list[Board]:
-    """Load all boards, including inactive ones"""
     data = tomllib.loads(Path(path).read_text())
     return sorted(
-        (Board.create(**board) for board in data["board"]),
+        (Board(**board) for board in data["board"]),
         key=attrgetter('start_on'),
         reverse=True,
     )
@@ -79,4 +62,4 @@ def load_boards(path: Path | str = BOARDS_CONFIG_PATH) -> list[Board]:
 @cache
 def load_current_board(path: Path | str = BOARDS_CONFIG_PATH) -> Board:
     """Load the board that is currently in power"""
-    return next(board for board in load_boards(path) if board.has_started)
+    return next(board for board in load_boards(path))

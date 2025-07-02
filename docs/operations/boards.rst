@@ -3,7 +3,8 @@ Výbory spolku
 
 Historii :term:`výborů <Výbor>` si pro vlastní potřeby zaznamenáváme do `souboru boards.toml <https://github.com/pyvec/docs.pyvec.org/blob/master/src/pyvec_docs/boards.toml>`_ a z něj se generuje i tato stránka. Kdyby něco nesedělo, ověřte `historii zdrojáku této stránky <https://github.com/pyvec/docs.pyvec.org/commits/master/docs/operations/boards.rst>`_ a funkčnost :ref:`přepisů <generate_files>`.
 
-Kanonickým zdrojem pravdy je ale `výpis na justice.cz <https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=760829&typ=UPLNY>`_.
+Kanonickým zdrojem pravdy o členech výboru je výpis ze spolkového rejstříku, viz. např. `na justice.cz <https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=760829&typ=UPLNY>`_.
+(Rejstřík ale neobsahuje datum zvolení výboru a je aktualizován s administrativím zpožděním.)
 
 
 
@@ -12,8 +13,8 @@ Kanonickým zdrojem pravdy je ale `výpis na justice.cz <https://or.justice.cz/i
 
 
 
-Nově zvolený výbor
-------------------
+Výbor od 7.5.2025
+-------------------------------------------------
 
 .. list-table::
    :header-rows: 1
@@ -37,7 +38,7 @@ Nově zvolený výbor
      * `@JakubDotPy <https://github.com/JakubDotPy>`_
      *
 
-Výbor od 1.9.2022
+Výbor od 9.4.2022
 -------------------------------------------------
 
 .. list-table::
@@ -62,7 +63,7 @@ Výbor od 1.9.2022
      * `@sairon <https://github.com/sairon>`_
      * |:moneybag:|
 
-Výbor od 4.5.2019
+Výbor od 8.4.2019
 -------------------------------------------------
 
 .. list-table::

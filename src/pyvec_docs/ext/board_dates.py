@@ -10,7 +10,7 @@ from pyvec_docs.boards import BOARDS_MANDATE_LENGTH, load_boards
 def board_dates(app: Sphinx, config: Config):
     board = load_boards()[0]
 
-    last_vote = board.voted_on
+    last_vote = board.start_on
     next_vote = last_vote + timedelta(days=BOARDS_MANDATE_LENGTH * 365)
 
     existing_epilog = app.config.rst_epilog or ""
