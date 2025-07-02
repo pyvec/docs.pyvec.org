@@ -16,6 +16,14 @@ def boards():
     return [  # sorted!
         Board(
             **{
+                "start_on": date(2023, 1, 1),
+                "members": [
+                    {"name": "Bob", "github": "bobby"},
+                ],
+            }
+        ),
+        Board(
+            **{
                 "start_on": date(2020, 1, 1),
                 "members": [
                     {"name": "Alice", "github": "alice"},
@@ -32,6 +40,10 @@ def boards():
             }
         ),
     ]
+
+
+def assert_boards_sorted(boards):
+    assert boards == sorted(boards)
 
 
 def test_to_date():

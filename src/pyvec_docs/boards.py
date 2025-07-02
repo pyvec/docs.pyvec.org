@@ -55,6 +55,11 @@ def load_boards(path: Path | str = BOARDS_CONFIG_PATH) -> list[Board]:
     data = tomllib.loads(Path(path).read_text())
     return sorted(
         (Board(**board) for board in data["board"]),
-        key=attrgetter("start_on"),
+        key=attrgetter('start_on'),
         reverse=True,
     )
+
+@cache
+def load_current_board(path: Path | str = BOARDS_CONFIG_PATH) -> Board:
+    """Load the board that is currently in power"""
+    return next(board for board in load_boards(path))
