@@ -3,7 +3,8 @@ Výbory spolku
 
 Historii :term:`výborů <Výbor>` si pro vlastní potřeby zaznamenáváme do `souboru boards.toml <https://github.com/pyvec/docs.pyvec.org/blob/master/src/pyvec_docs/boards.toml>`_ a z něj se generuje i tato stránka. Kdyby něco nesedělo, ověřte `historii zdrojáku této stránky <https://github.com/pyvec/docs.pyvec.org/commits/master/docs/operations/boards.rst>`_ a funkčnost :ref:`přepisů <generate_files>`.
 
-Kanonickým zdrojem pravdy je ale `výpis na justice.cz <https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=760829&typ=UPLNY>`_.
+Kanonickým zdrojem pravdy o členech výboru je výpis ze spolkového rejstříku, `viz justice.cz <https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=760829&typ=UPLNY>`_.
+(Rejstřík ale neobsahuje datum zvolení výboru a je aktualizován s administrativím zpožděním.)
 
 
 
