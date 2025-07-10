@@ -25,12 +25,13 @@ timeout = 40
 
 # Exclude
 exclude = [
-    "127.0.0.1:8000",
-    "cz.pycon.org/20XX",
+    "127\\.0\\.0\\.1:8000",
+    "cz\\.pycon\\.org/20XX",
 
     # Anti-scraping protections
-    "docs.google.com",
-    "www.facebook.com",
-    "www.nytimes.com",
-    "accounts.google.com",
+    "docs\\.google\\.com",
+    "www\\.facebook\\.com",
+    "www\\.nytimes\\.com",
+    "accounts\\.google\\.com",
+    "creativecommons\\.org/licenses/",
 ]
