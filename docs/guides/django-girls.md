@@ -1,8 +1,8 @@
-Jak v ČR pořádat Django Girls
-=============================
+# Jak v ČR pořádat Django Girls
 
-.. warning::
-    Tato příručka ještě není připravena.
+```{warning}
+Tato příručka ještě není připravena.
+```
 
 - návod jak organizovat DG v českém prostředí - obecné rady nedávat sem, ale spíš do globálního návodu pro organizátory, který je přímo na djangogirls.org
 - kde začít? vysvětlení konceptu
@@ -16,6 +16,7 @@ Jak v ČR pořádat Django Girls
 - jaké je ideální složení týmu (koordinátor, PR, ...)
 - na koho se obrátit? kdo u nás už DG konal a kde?
 
-.. image:: ../_static/images/pylady.svg
-    :width: 20%
-    :align: center
+```{image} ../_static/images/pylady.svg
+:width: 20%
+:align: center
+```

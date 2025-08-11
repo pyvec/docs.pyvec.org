@@ -145,6 +145,16 @@ sphinxemoji_style = "twemoji"
 sphinxemoji_source = "twemoji.min.js"
 
 
+# -- Options for the MyST extension ------------------------------------------
+# Available options are described in the docs:
+#   https://myst-parser.readthedocs.io/en/v0.15.1/sphinx/reference.html
+myst_enable_extensions = [
+    "dollarmath",
+    "deflist",
+    "linkify",
+]
+
+
 # -- Setting up extensions ---------------------------------------------------
 
 
