@@ -159,25 +159,25 @@ Konferenční Twitter vystupuje za celý organizační tým - na rozdíl od Face
 ### Zprávičky
 
 ```{todo}
-Tady ještě nic není, musí se to přepsat z [Google Dokumentu](https://docs.google.com/document/d/1J1M6pKTGvQt_UjtXAJzoHJd6GRVHfeGbE3UTWuK-LLw/edit).
+Tady ještě nic není, musí se to přepsat z [Google Dokumentu].
 ```
 
 ### Akademici
 
 ```{todo}
-Tady ještě nic není, musí se to přepsat z [Google Dokumentu](https://docs.google.com/document/d/1J1M6pKTGvQt_UjtXAJzoHJd6GRVHfeGbE3UTWuK-LLw/edit).
+Tady ještě nic není, musí se to přepsat z [Google Dokumentu].
 ```
 
 ### E-mailové skupiny
 
 ```{todo}
-Tady ještě nic není, musí se to přepsat z [Google Dokumentu](https://docs.google.com/document/d/1J1M6pKTGvQt_UjtXAJzoHJd6GRVHfeGbE3UTWuK-LLw/edit).
+Tady ještě nic není, musí se to přepsat z [Google Dokumentu].
 ```
 
 ### Další kanály
 
 ```{todo}
-Tady ještě nic není, musí se to přepsat z [Google Dokumentu](https://docs.google.com/document/d/1J1M6pKTGvQt_UjtXAJzoHJd6GRVHfeGbE3UTWuK-LLw/edit).
+Tady ještě nic není, musí se to přepsat z [Google Dokumentu].
 ```
 
 
@@ -186,13 +186,13 @@ Tady ještě nic není, musí se to přepsat z [Google Dokumentu](https://docs.g
 ### Tón
 
 ```{todo}
-Tady ještě nic není, musí se to přepsat z [Google Dokumentu](https://docs.google.com/document/d/1J1M6pKTGvQt_UjtXAJzoHJd6GRVHfeGbE3UTWuK-LLw/edit).
+Tady ještě nic není, musí se to přepsat z [Google Dokumentu].
 ```
 
 ### Jazyk
 
 ```{todo}
-Tady ještě nic není, musí se to přepsat z [Google Dokumentu](https://docs.google.com/document/d/1J1M6pKTGvQt_UjtXAJzoHJd6GRVHfeGbE3UTWuK-LLw/edit).
+Tady ještě nic není, musí se to přepsat z [Google Dokumentu].
 ```
 
 (odpovidani-na-dotazy)=
@@ -200,7 +200,7 @@ Tady ještě nic není, musí se to přepsat z [Google Dokumentu](https://docs.g
 ### Odpovídání na dotazy
 
 ```{todo}
-Tady ještě nic není, musí se to přepsat z [Google Dokumentu](https://docs.google.com/document/d/1J1M6pKTGvQt_UjtXAJzoHJd6GRVHfeGbE3UTWuK-LLw/edit).
+Tady ještě nic není, musí se to přepsat z [Google Dokumentu].
 ```
 
 
@@ -209,7 +209,7 @@ Tady ještě nic není, musí se to přepsat z [Google Dokumentu](https://docs.g
 ### Co lze průběžně propagovat
 
 ```{todo}
-Tady ještě nic není, musí se to přepsat z [Google Dokumentu](https://docs.google.com/document/d/1J1M6pKTGvQt_UjtXAJzoHJd6GRVHfeGbE3UTWuK-LLw/edit).
+Tady ještě nic není, musí se to přepsat z [Google Dokumentu].
 ```
 
 ### Jak na Call for Papers
@@ -338,12 +338,14 @@ Několik týdnů/dní/hodin před uzávěrkou CfP je dobré plošně bombardovat
 ### Co propagovat během konference
 
 ```{todo}
-Tady ještě nic není, musí se to přepsat z [Google Dokumentu](https://docs.google.com/document/d/1J1M6pKTGvQt_UjtXAJzoHJd6GRVHfeGbE3UTWuK-LLw/edit).
+Tady ještě nic není, musí se to přepsat z [Google Dokumentu].
 ```
 
 
 ## Poznámky závěrem
 
 ```{todo}
-Tady ještě nic není, musí se to přepsat z [Google Dokumentu](https://docs.google.com/document/d/1J1M6pKTGvQt_UjtXAJzoHJd6GRVHfeGbE3UTWuK-LLw/edit).
+Tady ještě nic není, musí se to přepsat z [Google Dokumentu].
 ```
+
+[Google Dokumentu]: https://docs.google.com/document/d/1J1M6pKTGvQt_UjtXAJzoHJd6GRVHfeGbE3UTWuK-LLw/edit
