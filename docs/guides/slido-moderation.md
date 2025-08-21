@@ -1,5 +1,4 @@
-Sli.do moderation guide for PyCon CZ
-====================================
+# Sli.do moderation guide for PyCon CZ
 
 
 The main reason for question moderation is that some people like to hide behind
@@ -9,16 +8,14 @@ examples of questions and comments that should and should not be approved (some
 of them we actually got as questions, some are made up):
 
 
-How to ask / vote on questions
-------------------------------
+## How to ask / vote on questions
 
-1) Go to `www.sli.do` and use ``#pyconcz`` code to join the event
+1) Go to *www.sli.do* and use ``#pyconcz`` code to join the event
 2) Choose the room you are in.
 3) Type your question or upvote already existing ones.
 
 
-How to setup presentation wall view (used on screen after speaker's slides end)
--------------------------------------------------------------------------------
+## How to setup presentation wall view (used on screen after speaker's slides end)
 
 1) Follow steps 1 and 2 from ``How to ask`` guide.
 2) Click on the tiny link at the bottom left side that says ``Present view``.
@@ -26,10 +23,9 @@ How to setup presentation wall view (used on screen after speaker's slides end)
    choice you made when entering the event).
 
 
-How to moderate
----------------
+## How to moderate
 
-1) Go to `www.sli.do` and log in (ask for credentials if you don't have them,
+1) Go to *www.sli.do* and log in (ask for credentials if you don't have them,
    @veruu is your main contact but every moderator should have them).
 2) Choose ``PyCon CZ <YEAR>`` event.
 3) In the menu row, click on ``Questions`` and switch to the correct room (right
@@ -57,51 +53,50 @@ How to moderate
    people can vote on them longer!
 
 
-Question examples
------------------
+## Question examples
 
-   The speaker put no effort into the talk and just read everything
+> The speaker put no effort into the talk and just read everything
 
 It doesn't matter whether the comment is true or not. Sli.do is not a way to
 submit feedback to the talk (and even if it was it can be expressed in a nicer
 way). This question should not be approved.
 
-   Are you seeing a girl?
+> Are you seeing a girl?
 
 How is this related to the talk, and how is it appropriate to ask a speaker
 during the conference at all? This is not Tinder and *personal questions
 should not be approved*.
 
-   You have a nice beard
+> You have a nice beard
 
 Inappropriate and shouldn't be approved, no further explanation needed.
 
-   <speaker talks about teaching Python> How did you get to learn Python?
+> \<speaker talks about teaching Python\> How did you get to learn Python?
 
 While this is borderline personal question it's is still on topic for this
 talk as it's about learning and getting people to learn; and should be
 approved
 
-   <speaker talks about a technical thing> Do you know library XYZ which does
-   something similar?
+> \<speaker talks about a technical thing\> Do you know library XYZ which does
+> something similar?
 
 Straightforward question that's on topic that definitely should be approved.
 
-   Nice talk
+> Nice talk
 
 This is a comment that doesn't have any value and shouldn't be approved.
 
-   Nice talk! I have one comment, you mentioned project ABC didn't support
-   Python3 but they actually added the support a few months ago
+> Nice talk! I have one comment, you mentioned project ABC didn't support
+> Python3 but they actually added the support a few months ago
 
 While it's a comment and not a question, it should be approved as it politely
 points out something the audience should know that's related to the talk.
 
 
-.. note::
-
-   As you can see in the examples it's usually pretty clear if the
-   question is appropriate or not. General rule of thumb is to not let
-   through rude and dismissive comments and let through the rest. In
-   case you aren't sure if the question is OK feel free to ask other
-   organizers!
+```{note}
+As you can see in the examples it's usually pretty clear if the
+question is appropriate or not. General rule of thumb is to not let
+through rude and dismissive comments and let through the rest. In
+case you aren't sure if the question is OK feel free to ask other
+organizers!
+```
