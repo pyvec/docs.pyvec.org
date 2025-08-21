@@ -17,7 +17,7 @@ Tato příručka ještě není připravena. Chceš pomoci s její tvorbou? Na [p
 - ...
 
 
-## Příprava na výuku, splňení osnov
+## Příprava na výuku, splnění osnov
 
 - ...
 
