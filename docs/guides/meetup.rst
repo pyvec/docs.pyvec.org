@@ -459,8 +459,8 @@ Zákulisí existujících srazů v ČR
 Na následujících stránkách se domlouvají organizátoři existujících srazů.
 
 - `Pyvec Slack <https://pyvec.slack.com/>`__
-- `Brno (Google Group) <https://groups.google.com/forum/#!forum/brno-pyvo>`__
-- `Ostrava (Google Group) <https://groups.google.com/forum/#!forum/ostrava-pyvo>`__
+- `Brno (Google Group) <https://groups.google.com/g/brno-pyvo>`__
+- `Ostrava (Google Group) <https://groups.google.com/g/ostrava-pyvo>`__
 - `Ostrava (Facebook) <https://www.facebook.com/groups/pyvoruby/>`__
 
 
