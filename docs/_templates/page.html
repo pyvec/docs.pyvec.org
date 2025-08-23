@@ -1,0 +1,9 @@
+{% extends "!page.html" %}
+
+{% block title %}
+  {% if pagename == "index" %}
+    {{ title }}
+  {% else %}
+    {{ title }} — Dokumentace české Python komunity
+  {% endif %}
+{% endblock %}
