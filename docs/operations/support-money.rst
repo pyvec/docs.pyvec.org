@@ -134,9 +134,10 @@ Postup získání grantu je :ref:`stejný jako u jednorázových <granty>`, jen 
 Účty Pyvce
 ----------
 
-Pyvec disponuje dvěma účty:
+Pyvec disponuje třemi účty:
 
 - `transparentní účet u Fio Banky <https://ib.fio.cz/ib/transparent?a=2600260438>`_
+- `spořící transparentní účet u Fio Banky <https://ib.fio.cz/ib/transparent?a=2903292736>`_
 - netransparentní účet u `PayPal <https://www.paypal.com>`_
 
 PayPal máme především kvůli prodeji lístků a vyplácení *Financial Aid* při organizaci konference `PyCon CZ <https://cz.pycon.org>`_, ale řešíme přes něj i jiné mezinárodní platby, např. sponzorské dary od `PSF <https://www.python.org/psf-landing/>`_. Vše ostatní je na transparentním účtu.
