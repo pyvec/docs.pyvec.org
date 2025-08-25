@@ -1,0 +1,225 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="cs" data-content_root="./">
+<head>
+  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>Jak přispívat do této dokumentace — Dokumentace české Python komunity</title>
+      <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=5349f25f" />
+      <link rel="stylesheet" type="text/css" href="_static/css/theme.css?v=e59714d7" />
+      <link rel="stylesheet" type="text/css" href="_static/twemoji.css" />
+      <link rel="stylesheet" type="text/css" href="_static/custom.css?v=edd4104d" />
+
+  
+      <script src="_static/jquery.js?v=5d32c60e"></script>
+      <script src="_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+      <script src="_static/documentation_options.js?v=9a9e823d"></script>
+      <script src="_static/doctools.js?v=9bcbadda"></script>
+      <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+      <script src="_static/twemoji.min.js?v=3c98b13e"></script>
+      <script src="_static/twemoji.js"></script>
+      <script src="_static/redirect.js?v=38ff8805"></script>
+      <script src="_static/translations.js?v=22e1c300"></script>
+    <script src="_static/js/theme.js"></script>
+    <link rel="index" title="Rejstřík" href="genindex.html" />
+    <link rel="search" title="Vyhledávání" href="search.html" />
+    <link rel="prev" title="Slovníček" href="operations/glossary.html" />
+   <meta property="og:image" content="_static/images/og-image.png"><meta property="og:image:type" content="image/png">
+  <meta property="og:image:alt" content="Ilustrace organizátora Python akcí">
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="index.html" class="icon icon-home">
+            Dokumentace české Python komunity
+              <img src="_static/org-i.svg" class="logo" alt="Logo"/>
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+<li class="toctree-l1"><a class="reference internal" href="guides/meetup.html">Jak pořádat Python sraz (Pyvo)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="guides/beginners-course.html">Jak pořádat kurz pro začátečníky</a></li>
+<li class="toctree-l1"><a class="reference internal" href="guides/pyladies-runs.html">Jak založit nový běh PyLadies</a></li>
+<li class="toctree-l1"><a class="reference internal" href="guides/django-girls.html">Jak v ČR pořádat Django Girls</a></li>
+<li class="toctree-l1"><a class="reference internal" href="guides/pyworkings.html">Jak zorganizovat PyWorking</a></li>
+<li class="toctree-l1"><a class="reference internal" href="guides/high-school-class.html">Jak učit Python na střední škole</a></li>
+<li class="toctree-l1"><a class="reference internal" href="guides/promotion.html">Jak propagovat konferenci</a></li>
+<li class="toctree-l1"><a class="reference internal" href="guides/calendar.html">Jak funguje kalendář akcí</a></li>
+<li class="toctree-l1"><a class="reference internal" href="guides/slido-moderation.html">Sli.do moderation guide for PyCon CZ</a></li>
+<li class="toctree-l1"><a class="reference internal" href="operations/index.html">Neziskovka Pyvec, z.s.</a></li>
+</ul>
+<ul class="current">
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Jak přispívat do této dokumentace</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#rychle-upravy-bez-instalace">Rychlé úpravy bez instalace</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#instalace">Instalace</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#bezna-prace">Běžná práce</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#markdown">Markdown</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#emoji">Emoji</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#slack">Slack</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#readthedocs">ReadTheDocs</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#pyvec-guide">Pyvec Guide</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#verze-pythonu">Verze Pythonu</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#continuous-integration">Continuous Integration</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#kontrola-rozbitych-odkazu">Kontrola rozbitých odkazů</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#generovani-stranek-a-souboru">Generování stránek a souborů</a></li>
+</ul>
+</li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">Dokumentace české Python komunity</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="index.html" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active">Jak přispívat do této dokumentace</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="_sources/contributing.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="jak-prispivat-do-teto-dokumentace">
+<span id="contributing"></span><h1>Jak přispívat do této dokumentace<a class="headerlink" href="#jak-prispivat-do-teto-dokumentace" title="Link to this heading"></a></h1>
+<p>Našli jste chybu? Chtěli byste něco doplnit? Následující odstavce popisují, jak lze materiály upravovat a návrhy na změny posílat autorům.</p>
+<section id="rychle-upravy-bez-instalace">
+<h2>Rychlé úpravy bez instalace<a class="headerlink" href="#rychle-upravy-bez-instalace" title="Link to this heading"></a></h2>
+<p>Abyste něco změnili v textech, nemusíte nic instalovat. Obsah lze upravovat online přes <a class="reference external" href="https://github.com/pyvec/docs.pyvec.org">repozitář na GitHubu</a> pomocí ikony s tužkou v pravém horním rohu u každého souboru.</p>
+</section>
+<section id="instalace">
+<h2>Instalace<a class="headerlink" href="#instalace" title="Link to this heading"></a></h2>
+<p>Když toho upravujete víc, nebo máte zálusk na nějaké složitější kejkle, je lepší mít materiály nainstalované na svém počítači. Bude k tomu potřeba <a class="reference external" href="https://docs.astral.sh/uv/">uv</a>:</p>
+<ol class="arabic simple">
+<li><p>Stáhněte projekt: <code class="docutils literal notranslate"><span class="pre">git</span> <span class="pre">clone</span> <span class="pre">https://github.com/pyvec/docs.pyvec.org.git</span></code></p></li>
+<li><p>Přejděte do něj: <code class="docutils literal notranslate"><span class="pre">cd</span> <span class="pre">docs.pyvec.org</span></code></p></li>
+</ol>
+<div class="admonition note">
+<p class="admonition-title">Poznámka</p>
+<p>O instalaci, včetně správy virtuálního prostředí, se postará
+<code class="docutils literal notranslate"><span class="pre">uv</span></code> automaticky při prvním spuštění.</p>
+</div>
+</section>
+<section id="bezna-prace">
+<h2>Běžná práce<a class="headerlink" href="#bezna-prace" title="Link to this heading"></a></h2>
+<ol class="arabic simple">
+<li><p>Spusťte projekt: <code class="docutils literal notranslate"><span class="pre">uv</span> <span class="pre">run</span> <span class="pre">pyvec-docs</span> <span class="pre">watch</span></code></p></li>
+<li><p>Otevřete si v prohlížeči <a class="reference external" href="http://127.0.0.1:8000">http://127.0.0.1:8000</a></p></li>
+<li><p>V editoru upravujete texty a v prohlížeči si kontrolujete výsledek</p></li>
+<li><p>Projekt zastavíte v terminálu pomocí <kbd class="kbd docutils literal notranslate">Ctrl</kbd>+<kbd class="kbd docutils literal notranslate">C</kbd></p></li>
+</ol>
+<p>Další užitečné nástroje, např. na jednorázové sestavení nebo na
+<a class="reference internal" href="#generate-files"><span class="std std-ref">generování stránek</span></a>,
+najdete spuštěním <code class="docutils literal notranslate"><span class="pre">pyvec-docs</span></code> bez podpříkazu: <code class="docutils literal notranslate"><span class="pre">uv</span> <span class="pre">run</span> <span class="pre">pyvec-docs</span></code></p>
+<section id="markdown">
+<h3>Markdown<a class="headerlink" href="#markdown" title="Link to this heading"></a></h3>
+<p>Původně byla dokumentace psaná v reStructuredText. Nyní ale podporuje i Markdown. Asi zatím nebudeme přepisovat původní stránky, ale pokud chce někdo napsat něco nového, a vyhovoval by mu spíš Markdown, nechť klidně použije Markdown.</p>
+<p>Kdyby s tím byl nějaký problém, tady je <a class="reference external" href="https://docs.readthedocs.io/en/stable/guides/migrate-rest-myst.html">návod na kombo Sphinx + MyST</a>.</p>
+</section>
+<section id="emoji">
+<h3>Emoji<a class="headerlink" href="#emoji" title="Link to this heading"></a></h3>
+<p>Při psaní můžete používat Emoji jako třeba 🇨🇿 nebo 🐍, ale nepište je přímo pomocí Unicode, ale za pomocí značek jako <code class="docutils literal notranslate"><span class="pre">|:cz:|</span></code> nebo <code class="docutils literal notranslate"><span class="pre">|:snake:|</span></code>. Unicode znaky by se zobrazovaly na každém operačním systému jinak, ale tyto značky budou díky rozšíření <a class="reference external" href="https://github.com/sphinx-contrib/emojicodes">emojicodes</a> přeloženy na obrázky a ty se zobrazí vždy všem stejně. Mrkněte na <a class="reference external" href="https://sphinxemojicodes.readthedocs.io/">seznam podporovaných Emoji</a>. Obrázky jsou z <a class="reference external" href="https://github.com/twitter/twemoji">Twemoji</a>.</p>
+</section>
+<section id="slack">
+<h3>Slack<a class="headerlink" href="#slack" title="Link to this heading"></a></h3>
+<p>Při psaní lze psát <code class="docutils literal notranslate"><span class="pre">:slack:`#pyladies</span></code> nebo i jenom <code class="docutils literal notranslate"><span class="pre">:slack:`pyladies</span></code>, což vytvoří odkaz na kanál <a class="reference external" href="https://pyvec.slack.com/app_redirect?channel=pyladies">#pyladies</a> na Pyvec Slacku. Funguje to díky vlastnímu rozšíření Sphinxu, které lze najít v souboru <code class="docutils literal notranslate"><span class="pre">_extensions/slack.py</span></code>.</p>
+<p>Všechny odkazy na kanál <code class="docutils literal notranslate"><span class="pre">:slack:`#pyvec-board</span></code>, ať už je to <code class="docutils literal notranslate"><span class="pre">:slack:`#pyvec-board</span></code> nebo <code class="docutils literal notranslate"><span class="pre">:slack:`#pyvec-board-2019-2021</span></code> jsou automaticky předělány na odkaz na aktuální tajný kanál výboru. K určení správných roků se využívá <a class="reference external" href="https://github.com/pyvec/docs.pyvec.org/blob/master/src/pyvec_docs/boards.toml">soubor boards.toml</a>.</p>
+</section>
+</section>
+<section id="readthedocs">
+<span id="docs-pyvec-rtd"></span><h2>ReadTheDocs<a class="headerlink" href="#readthedocs" title="Link to this heading"></a></h2>
+<p>Na GitHubu jsou pouze zdrojové texty. Po každé změně ve větvi <code class="docutils literal notranslate"><span class="pre">master</span></code> na GitHubu se automaticky vygenerují webové stránky na službě <a class="reference external" href="https://pyvec-guide.readthedocs.io/">ReadTheDocs</a>. Následující kontrolka ukazuje, zda se poslední změny povedlo dostat až do webových stránek (zelená), nebo se to nepovedlo kvůli nějaké chybě (červená):</p>
+<a class="reference external image-reference" href="https://readthedocs.org/projects/pyvec-guide/builds/"><img alt="Documentation Status" src="https://readthedocs.org/projects/pyvec-guide/badge/?version=latest" />
+</a>
+<p>Pokud se něco nepovedlo, podrobnosti lze zjistit na <a class="reference external" href="https://readthedocs.org/projects/pyvec-guide/builds/">této stránce</a>, která je ovšem přístupná jen administrátorům.</p>
+</section>
+<section id="pyvec-guide">
+<h2>Pyvec Guide<a class="headerlink" href="#pyvec-guide" title="Link to this heading"></a></h2>
+<p>Tento projekt se původně jmenoval <code class="docutils literal notranslate"><span class="pre">pyvec-guide</span></code> a proto se tak jmenuje i projekt na ReadTheDocs. Projekt nemá smysl přejmenovávat, když máme nyní doménu <code class="docutils literal notranslate"><span class="pre">docs.pyvec.org</span></code>, akorát bychom rozbili staré odkazy. JavaScript <code class="docutils literal notranslate"><span class="pre">_static/redirect.js</span></code> zajišťuje, že staré odkazy se přesměrují.</p>
+</section>
+<section id="verze-pythonu">
+<h2>Verze Pythonu<a class="headerlink" href="#verze-pythonu" title="Link to this heading"></a></h2>
+<p>Nejnovější verze Pythonu, jakou ReadTheDocs podporují, je 3.12. Z toho důvodu ji vyžaduje i tento projekt. Nastavení je v souboru <code class="docutils literal notranslate"><span class="pre">.readthedocs.yml</span></code> (<a class="reference external" href="https://docs.readthedocs.io/en/latest/config-file/v2.html">dokumentace</a>).</p>
+</section>
+<section id="continuous-integration">
+<h2>Continuous Integration<a class="headerlink" href="#continuous-integration" title="Link to this heading"></a></h2>
+<p>Na repozitáři jsou zapojeny <a class="reference external" href="https://github.com/pyvec/docs.pyvec.org/actions">GitHub Actions</a>. Kontrolka:</p>
+<a class="reference external image-reference" href="https://github.com/pyvec/docs.pyvec.org/actions"><img alt="Continuous Integration Status (test)" src="https://github.com/pyvec/docs.pyvec.org/actions/workflows/test.yml/badge.svg" />
+</a>
+<p>CI je pouze informativní a nezabrání tomu, aby se hlavní větev dostala do ReadTheDocs.</p>
+</section>
+<section id="kontrola-rozbitych-odkazu">
+<h2>Kontrola rozbitých odkazů<a class="headerlink" href="#kontrola-rozbitych-odkazu" title="Link to this heading"></a></h2>
+<p>Na repozitáři je zapojená <a class="reference external" href="https://github.com/lycheeverse/lychee-action">GitHub Action</a>, která jednou denně kontroluje, zda všechny odkazy fungují. Kontrolka:</p>
+<a class="reference external image-reference" href="https://github.com/pyvec/docs.pyvec.org/actions"><img alt="Continuous Integration Status (check links)" src="https://github.com/pyvec/docs.pyvec.org/actions/workflows/check_links.yml/badge.svg" />
+</a>
+<p>Dokonce to automaticky zakládá i issue, pokud to najde nějaký problém. V případě, že je potřeba ignorovat nějakou doménu nebo konkrétní odkaz, je možné to udělat v souboru <code class="docutils literal notranslate"><span class="pre">lychee.toml</span></code>.</p>
+</section>
+<section id="generovani-stranek-a-souboru">
+<span id="generate-files"></span><h2>Generování stránek a souborů<a class="headerlink" href="#generovani-stranek-a-souboru" title="Link to this heading"></a></h2>
+<p>Některé stránky a soubory se generují automaticky pomocí skriptů. Tyto skripty se spouští pomocí <a class="reference external" href="https://github.com/pyvec/docs.pyvec.org/actions">GitHub Actions</a>, konkrétně workflow <code class="docutils literal notranslate"><span class="pre">generate.yml</span></code>. Tyto skripty se spouští jednou denně a generují soubory, které se pak posílají jako pull requesty do repozitáře, pokud vytvoří nějaké změny.</p>
+<ul class="simple">
+<li><p>Generuje se <code class="docutils literal notranslate"><span class="pre">docs/operations/boards.rst</span></code> ze <a class="reference external" href="https://github.com/pyvec/docs.pyvec.org/blob/master/src/pyvec_docs/boards.toml">souboru boards.toml</a> a ze šablony <code class="docutils literal notranslate"><span class="pre">operations/boards.rst</span></code>.</p></li>
+<li><p>Generuje se <code class="docutils literal notranslate"><span class="pre">docs/operations/grants.rst</span></code> z dat na <a class="reference external" href="https://github.com/pyvec/money">pyvec/money</a> a ze šablony <code class="docutils literal notranslate"><span class="pre">operations/grants.rst</span></code>.</p></li>
+<li><p>Generuje se <code class="docutils literal notranslate"><span class="pre">docs/_static/twemoji.min.js</span></code>, abychom Twemoji měli lokálně a nemuseli se spoléhat na CDN.</p></li>
+</ul>
+<p>Kód pro generování je v <code class="docutils literal notranslate"><span class="pre">src/pyvec_docs/cli.py</span></code>. Skripty jde pouštět např. <code class="docutils literal notranslate"><span class="pre">uv</span> <span class="pre">run</span> <span class="pre">pyvec-docs</span> <span class="pre">gen-boards</span></code>.</p>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="operations/glossary.html" class="btn btn-neutral float-left" title="Slovníček" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2025, Pyvec, z.s..</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>
