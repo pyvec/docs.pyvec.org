@@ -12,7 +12,11 @@
 
 {%- block extrahead %}
   {{ super() }}
-  <meta property="og:image" content="{{ pathto('_static/images/og-image.png', 1) }}">
+  {%- if site_baseurl -%}
+    <meta property="og:image" content="{{ site_baseurl.rstrip('/') }}/{{ pathto('_static/images/og-image.png', 1).lstrip('./') }}">
+  {%- else -%}
+    <meta property="og:image" content="{{ pathto('_static/images/og-image.png', 1) }}">
+  {%- endif -%}
   <meta property="og:image:type" content="image/png">
   <meta property="og:image:alt" content="Ilustrace organizátora Python akcí">
 {%- endblock -%}
