@@ -94,7 +94,7 @@ Kontrola rozbitých odkazů
 
 Na repozitáři je zapojená `GitHub Action <https://github.com/lycheeverse/lychee-action>`_, která jednou denně kontroluje, zda všechny odkazy fungují. Kontrolka:
 
-.. image:: https://github.com/pyvec/docs.pyvec.org/actions/workflows/check_links.yml/badge.svg
+.. image:: https://github.com/pyvec/docs.pyvec.org/actions/workflows/check-links.yml/badge.svg
     :target: https://github.com/pyvec/docs.pyvec.org/actions
     :alt: Continuous Integration Status (check links)
 
