@@ -151,3 +151,9 @@ sphinxemoji_source = "twemoji.min.js"
 def setup(app):
     app.add_css_file("custom.css")
     app.add_js_file("redirect.js")
+    
+    # Make html_baseurl available in templates as site_baseurl
+    def add_baseurl_to_context(app, pagename, templatename, context, doctree):
+        context['site_baseurl'] = app.config.html_baseurl
+    
+    app.connect('html-page-context', add_baseurl_to_context)
