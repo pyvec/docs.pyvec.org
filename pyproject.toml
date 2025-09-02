@@ -20,7 +20,7 @@ pyvec-docs = "pyvec_docs.cli:main"
 dev = [
     "pytest-ruff==0.5",
     "pytest==8.4.1",
-    "sphinx-autobuild==2024.10.3",
+    "sphinx-autobuild==2025.8.25",
 ]
 
 [build-system]
