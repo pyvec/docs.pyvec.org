@@ -15,7 +15,6 @@ Obsah
    guides/meetup
    guides/beginners-course
    guides/pyladies-runs
-   guides/django-girls
    guides/pyworkings
    guides/promotion
    guides/calendar
