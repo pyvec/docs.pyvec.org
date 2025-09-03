@@ -87,6 +87,7 @@ Tento seznam je potřeba průběžně aktualizovat a dokumentovat během toho, j
 - Přístup do datové schránky spolku. Ten by snad měl přijít automaticky po tom, co se nový výbor zapíše do rejstříku.
 - Přenastavit přístupy a skupiny ve `správci hesel <https://hesla.pyvec.org>`_.
 - Přístup k bankovnímu účtu Pyvce, PayPalu, Stripu, apod. Toto je zpravidla možné až když je nový výbor zapsán v rejstříku a je k tomu potřeba jít do banky.
+- Přístup k Fakturoidu, Pretixu pro zpracování běžné agendy spolku.
 - Telefonní čísla na 2FA do Google účtu. Mít tam aspoň dva lidi s přístupem.
 - Telefonní číslo na 2FA do Benevity. Bohužel lze nastavit jen jedno a posílají to pouze přes SMS.
 - Přístupy k `seznamu členů <https://docs.google.com/spreadsheets/d/1n8hzBnwZ5ANkUCvwEy8rWsXlqeAAwu-5JBodT5OJx_I/edit#gid=0>`__ tak, aby do něj mohl jen nový výbor. Nevyhazovat *service account*, díky kterému se členové přes API vypisují na web Pyvce, ale jinak všechny ostatní ano. Jsou tam osobní údaje členů, takže kvůli GDPR tam smí jen výbor.
