@@ -141,7 +141,10 @@ Pyvec disponuje několika účty:
 - netransparentní účet u `PayPal <https://www.paypal.com>`_
 - netransparentní účet u `Stripe <https://stripe.com>`_
 
-PayPal a Stripe máme především kvůli prodeji lístků a vyplácení *Financial Aid* při organizaci událostí jako jsou `PyCon CZ <https://cz.pycon.org>`_ nebo `Python Pizza <https://brno.python.pizza/>`_, ale řešíme přes něj i jiné mezinárodní platby, např. sponzorské dary od `PSF <https://www.python.org/psf-landing/>`_. Vše ostatní je na transparentním účtu.
+PayPal a Stripe máme především kvůli prodeji lístků a vyplácení *Financial Aid* při organizaci událostí jako jsou `PyCon CZ <https://cz.pycon.org>`_ nebo `Python Pizza <https://brno.python.pizza/>`_, ale řešíme přes něj i jiné mezinárodní platby, např. sponzorské dary od `PSF <https://www.python.org/psf-landing/>`_. Vše ostatní je na transparentních účtech.
+
+Pyvec vlastní dva transparentní účty u Fio banky. Na spořícím účtu ukládáme většinu prostředků, abychom využili výhod zúročení.
+Na běžném účtu ponecháváme minimum peněz pro běžné platby.
 
 Pyvec k Fio účtu disponuje debetní kartou, ale zatím se jejímu použítí spíše bráníme. Pokud jsou někde potřeba např. pravidelné platby kartou (např. při vedení účtu na `meetup.com <https://www.meetup.com/>`_), je z hlediska zabezpečení lepší, když tam dá člověk svoji kartu a peníze si poté nechá :ref:`proplatit <jak-proplatit>` standardním způsobem.
 
