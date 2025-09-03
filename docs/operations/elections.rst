@@ -96,7 +96,7 @@ Tento seznam je potřeba průběžně aktualizovat a dokumentovat během toho, j
   - Speciálně vzpomenout složku ``Účetnictví/<rok>/ke zpracování``.
 
 - Aktualizovat `tým na GitHubu <https://github.com/orgs/pyvec/teams/board>`_. Minimálně předseda by měl mít ownera na GitHubu k organizaci ``@pyvec``.
-- Placení sídla Pyvce - obstarává firma `Ofigo <https://www.ofigo.cz/>`_: jednou ročně nám posílá na `info@pyvec.org` fakturu k uhrazení. Taky se stará o příchozí poštu (oskenuje a pošle nám mailem)
+- Placení sídla Pyvce - obstarává firma `Ofigo <https://www.ofigo.cz/>`_: jednou ročně nám posílá na `info@pyvec.org` fakturu k uhrazení. Taky se stará o příchozí poštu (oskenuje a pošle nám mailem).
 - Předání papírové dokumentace spolku (šanon). Už tam asi nic důležitého není a nové věci jsou už digitálně, ale co kdyby.
 - Přenastavení e-mailovů info@pyvec.org a board@pyvec.org. To *info* je externí e-mail pro všechny, kdo píšou Pyvci. Ten *board* se dřív používal jako interní e-mail výboru, ale dnes už se většinou používá Slack. Komunikaci ven posíláme ze soukromých mailů, na které se pošta přeposílá, s ``info@pyvec.org`` v CC.
 - Nový výbor by si měl na Slacku vytvořit svůj privátní kanál, např. :slack:`#pyvec-board-2022-2025`. Každý výbor má svůj, v názvu má roky funkčního období.
