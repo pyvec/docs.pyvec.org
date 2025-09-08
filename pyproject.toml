@@ -19,7 +19,7 @@ pyvec-docs = "pyvec_docs.cli:main"
 [dependency-groups]
 dev = [
     "pytest-ruff==0.5",
-    "pytest==8.4.1",
+    "pytest==8.4.2",
     "sphinx-autobuild==2025.8.25",
 ]
 
