@@ -90,6 +90,7 @@ Tento seznam je potřeba průběžně aktualizovat a dokumentovat během toho, j
 - Přístup k Fakturoidu, Pretixu pro zpracování běžné agendy spolku.
 - Telefonní čísla na 2FA do Google účtu. Mít tam aspoň dva lidi s přístupem.
 - Telefonní číslo na 2FA do Benevity. Bohužel lze nastavit jen jedno a posílají to pouze přes SMS.
+- Vygenerovat a nasdílet nové OTP kódy pro Google účet (info@pyvec.org) a Stripe.
 - Přístupy k `seznamu členů <https://docs.google.com/spreadsheets/d/1n8hzBnwZ5ANkUCvwEy8rWsXlqeAAwu-5JBodT5OJx_I/edit#gid=0>`__ tak, aby do něj mohl jen nový výbor. Nevyhazovat *service account*, díky kterému se členové přes API vypisují na web Pyvce, ale jinak všechny ostatní ano. Jsou tam osobní údaje členů, takže kvůli GDPR tam smí jen výbor.
 - Přístup k celé složce *Spolek* na Google Drive. Z tama není nutné vyhazovat starý výbor, spíš jde o to, aby tam všichni z nového výboru mohli.
 
