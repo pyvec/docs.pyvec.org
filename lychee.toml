@@ -34,6 +34,7 @@ exclude = [
     "www\\.nytimes\\.com",
     "accounts\\.google\\.com",
     "creativecommons\\.org/licenses/",
+    "inkscape\\.org",
 
     # Website implements the fragments wrong
     "cz\\.pycon\\.org/2016/speakers/talks/#"
