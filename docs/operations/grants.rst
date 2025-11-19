@@ -14,49 +14,6 @@ Kdyby něco nesedělo, ověřte `historii zdrojáku této stránky <https://gith
 
 
 
-8. 10. 2025 - elektronické hlasování výboru
---------------------------------------------
-
-Dne 10. 9. 2024 požádal uživatel `@hroncok <https://github.com/hroncok>`_ o grant `Záloha na venue PyCamp CZ 2025 <https://github.com/pyvec/money/issues/26>`_:
-
-.. code-block:: text
-
-    **Kdo jste?**
-
-    @hroncok, @anezkamll, a @frenzymadness
-
-    Organizátoři PyCamp CZ 2025, což je akce, kterou jsme představili na letošním srpnovém komunitním sprintu.
-
-    **Kolik potřebujete? (aspoň odhad nebo rozmezí)**
-
-    až 80 tisíc Kč
-
-    **Na jakou věc to je?**
-
-    Na venue pro akci PyCamp CZ 2025. Akce se koná až za rok, ale potřebueme závazně booknout venue a budeme muset platit část nebo plnou cenu.
-
-    PyCamp CZ bude barcamp/unconference víkendová akce inspirovaná komunitním sprintem pro max 100 účastníků. Někde v ČR v září 2025. Kemp nebo jiná venue, kde se dá přespat kombinace vnitřek + stany. Účastnící tvoří program o Pythonu a pod. (přednášky, workshopy, debaty, sprinty) i sekundární program (bojovka, grilovačka, oheň, buřty, kurz první pomoci, apod.). Malý core team + hromada účastníků/dobrovolníků. Budeme vybírat peníze na pokrytí nákladů, za určité množství dobrovolničiny budeme dávat částečný nebo plný refund.
-
-    **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
-
-    Akci plánujeme financovat pomocí pěněz od účastníků a grantu od PSF apod., ale momentálně nemáme peníze na zaplacení venue rok dopředu. Pyvec ty peníze má, takže bychom je rádi použili. Pokud se akce nezvládne zafinancovat z externích zdrojů, je možné, že budeme ty peníze od Pyvce chtít částečně utratit, ale momentálně se počítá s tím, že je Pyvec dostane cca do 1 roka zpět.
-
-    Dopad bude, že budeme moci zafixovat místo a datum konání a začít organizovat věšketré další aktivity, které toto blokuje.
-
-    Je to trochu time sensitive, až budeme mít na mysli konkrétní venue, budeme potřebovat vědět, jestli ty peníze máme nebo ne. Pokud board bude chtít schválit konkrétní venue před puštěním peněz, nevadí nám to, ale bude to potřeba udělat obratem.
-
-
-    Děkujem
-
-Výbor o tomto elektronicky hlasoval 8. 10. 2025, kdy bylo hlasování uzavřeno s následujícím výsledkem:
-
-* Jakub Vysoký: ano
-
-* Jan Čermák: ano
-
-
-Grant byl schválen.
-
 18. 3. 2025 - elektronické hlasování výboru
 --------------------------------------------
 
@@ -198,6 +155,53 @@ Výbor o tomto elektronicky hlasoval 24. 10. 2024, kdy bylo hlasování uzavřen
 * Jan Javorek: ano
 
 * Barbora Drbohlavová: ano
+
+
+Grant byl schválen.
+
+24. 10. 2024 - elektronické hlasování výboru
+--------------------------------------------
+
+Dne 10. 9. 2024 požádal uživatel `@hroncok <https://github.com/hroncok>`_ o grant `Záloha na venue PyCamp CZ 2025 <https://github.com/pyvec/money/issues/26>`_:
+
+.. code-block:: text
+
+    **Kdo jste?**
+
+    @hroncok, @anezkamll, a @frenzymadness
+
+    Organizátoři PyCamp CZ 2025, což je akce, kterou jsme představili na letošním srpnovém komunitním sprintu.
+
+    **Kolik potřebujete? (aspoň odhad nebo rozmezí)**
+
+    až 80 tisíc Kč
+
+    **Na jakou věc to je?**
+
+    Na venue pro akci PyCamp CZ 2025. Akce se koná až za rok, ale potřebueme závazně booknout venue a budeme muset platit část nebo plnou cenu.
+
+    PyCamp CZ bude barcamp/unconference víkendová akce inspirovaná komunitním sprintem pro max 100 účastníků. Někde v ČR v září 2025. Kemp nebo jiná venue, kde se dá přespat kombinace vnitřek + stany. Účastnící tvoří program o Pythonu a pod. (přednášky, workshopy, debaty, sprinty) i sekundární program (bojovka, grilovačka, oheň, buřty, kurz první pomoci, apod.). Malý core team + hromada účastníků/dobrovolníků. Budeme vybírat peníze na pokrytí nákladů, za určité množství dobrovolničiny budeme dávat částečný nebo plný refund.
+
+    **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
+
+    Akci plánujeme financovat pomocí pěněz od účastníků a grantu od PSF apod., ale momentálně nemáme peníze na zaplacení venue rok dopředu. Pyvec ty peníze má, takže bychom je rádi použili. Pokud se akce nezvládne zafinancovat z externích zdrojů, je možné, že budeme ty peníze od Pyvce chtít částečně utratit, ale momentálně se počítá s tím, že je Pyvec dostane cca do 1 roka zpět.
+
+    Dopad bude, že budeme moci zafixovat místo a datum konání a začít organizovat věšketré další aktivity, které toto blokuje.
+
+    Je to trochu time sensitive, až budeme mít na mysli konkrétní venue, budeme potřebovat vědět, jestli ty peníze máme nebo ne. Pokud board bude chtít schválit konkrétní venue před puštěním peněz, nevadí nám to, ale bude to potřeba udělat obratem.
+
+
+    Děkujem
+
+Výbor o tomto elektronicky hlasoval 24. 10. 2024, kdy bylo hlasování uzavřeno s následujícím výsledkem:
+
+* Jan Javorek: ano
+
+* Jakub Vysoký: ano
+
+* Anežka Müller: zdržel(a) se
+
+* Jan Čermák: ano
 
 
 Grant byl schválen.
