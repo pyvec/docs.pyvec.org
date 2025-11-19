@@ -2,13 +2,15 @@ import subprocess
 import sys
 from operator import itemgetter
 from pathlib import Path
+from datetime import date
 
 import click
 import requests
 from jinja2 import Template
 
 from pyvec_docs.boards import load_boards
-from pyvec_docs.grants import get_lock_date, get_votes, remove_comments, to_date
+from pyvec_docs.grants import get_resolution_date, get_lock_date
+from pyvec_docs.grants import get_votes, remove_comments, to_date
 
 
 @click.group()
@@ -88,7 +90,17 @@ def gen_grants(
                 # skip unlabeled, e.g. https://github.com/pyvec/money/issues/1
                 continue
 
-            if issue["locked"]:
+            # Figure out what to report as the date of the vote.
+            # For issues newer than 2024-09-05:
+            #  - use the date of adding the "approved" or "rejected" label
+            # For issues older than that, use older method (this way the
+            # already-generated dates don't change):
+            #  - for locked issues, use the date the issue was locked
+            #  - for unlocked issues, use date when the issue was closed
+
+            is_new = to_date(issue["created_at"]) >= date(2024, 9, 5)
+
+            if is_new or issue["locked"]:
                 res = requests.get(
                     issue["events_url"],
                     headers=github_headers,
@@ -102,8 +114,12 @@ def gen_grants(
                         "is paginated and the code isn't yet designed "
                         "to handle this!"
                     )
+                if is_new:
+                    voted_at = get_resolution_date(res.json())
                 else:
                     voted_at = get_lock_date(res.json())
+                if not voted_at:
+                    continue
             else:
                 voted_at = to_date(issue["closed_at"])
 
