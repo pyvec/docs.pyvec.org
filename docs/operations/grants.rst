@@ -14,6 +14,37 @@ Kdyby něco nesedělo, ověřte `historii zdrojáku této stránky <https://gith
 
 
 
+2. 7. 2025 - elektronické hlasování výboru
+--------------------------------------------
+
+Dne 30. 6. 2025 požádal uživatel `@clytaemnestra <https://github.com/clytaemnestra>`_ o grant `Grant na červencové Pražské Pyvo <https://github.com/pyvec/money/issues/43>`_:
+
+.. code-block:: text
+
+    **Kdo jste?**
+    Pražské Pyvo
+
+    **Kolik potřebujete? (aspoň odhad nebo rozmezí)**
+     40k s tím, že na místě budeme vybírat dobrovolnou platbu za jídlo
+    **Na jakou věc to je?**
+    Na catering, který je podmínkou pro rezervaci místa na červencové Pyvo na hradbách. Více info tady: https://pyvec.slack.com/archives/C12L770TV/p1750947932133339 
+
+    **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
+    Je to skvělá příležitost přivést do komunity nové lidi, zvlášť když velká část účastníctva EuroPythonu je z Česka. Zároveň je to příležitost pro pravidelné návštěvníky Pyva propojit se s lidmi z celé Evropy i světa. Na programu budou i PyLadies drinks, takže bude možnost potkat se s PyLadies z různých zemí, sdílet nápady a podpořit tak místní komunitu.
+
+Výbor o tomto elektronicky hlasoval 2. 7. 2025, kdy bylo hlasování uzavřeno s následujícím výsledkem:
+
+* Jan Čermák: ano
+
+* Karolina Surma: ano
+
+* Petr Viktorin: ano
+
+* Jakub Červinka: ano
+
+
+Grant byl schválen.
+
 18. 3. 2025 - elektronické hlasování výboru
 --------------------------------------------
 
