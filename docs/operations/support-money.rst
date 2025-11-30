@@ -131,6 +131,29 @@ Postup získání grantu je :ref:`stejný jako u jednorázových <granty>`, jen 
    Výbor o tomto zahlasuje a odepíše, že grant bude přidělen. Následně když Lumír kupuje lístečky, schová si účtenku, případně fakturu psanou na Pyvec. Když Věrka, spoluorganizátorka kurzů, bude kupovat prodlužovačku, schová si účtenku taky. Dá ji Lumírovi a ten jí účtenku proplatí ze svého. Takto Lumír nakumuluje účtenky a ke konci roku si nechá všechny proplatit od Pyvce. Pyvec mu bez dalšího schvalování proplatí účtenky do výše 1200 Kč.
 
 
+Jak poslat „vydělané“ peníze Pyvci
+----------------------------------
+
+Pokud něco „prodáváme“, byť třeba za symbolickou cenu, nelze pak peníze Pyvci jen tak poslat na účet. Aby to bylo účetně v pořádku, je potřeba postupovat konkrétním způsobem. Nejdřív potřebujeme evidenci v podobě tabulky, jež představuje „pokladnu“. Tabulka má následující sloupce:
+
+* Celé jméno plátce,
+* datum,
+* částka.
+
+Tabulka tedy eviduje kdo, kdy a kolik vložil do „pokladny“. Toto se pošle :term:`účetní <Účetní>`. Ta na to vystaví daňový doklad. Proti tomuto dokladu a s variabilním symbolem z dokladu se provede platba s penězi na účet Pyvce. Příklad:
+
+   Nela je ústřední postavou PyLadies Jihlava. Rozhodne se, že by bylo fajn, kdyby PyLadies Jihlava měly trička. Dostane na ně :ref:`jednorázový grant <granty>` Pyvce, ale ten nepokryje celé náklady na jejich výrobu. Proto se rozhodne vybírat od příjemců triček ještě symbolickou stokorunu. Vytvoří na `Google Sheets <https://sheets.google.com/>`__ tabulku, kde zapisuje od koho, kdy a kolik peněz dostala. Když je s „prodejem“ triček hotova, pošle tabulku :term:`pokladníkovi <Pokladník>`.
+
+   Osoba ve funkci pokladníka tabulku pošle :term:`účetní <Účetní>` a dostane od ní doklad, který pošle Nele. Nela z dokladu vyčte variabilní symbol a na transparentní účet Pyvce pošle všechny sesbírané peníze v jedné platbě s tímto variabilním symbolem.
+
+Ukázka reálné „pokladny“ (jména jsou překryta šedým obdélníkem):
+
+.. image:: ../_static/images/pokladna.png
+    :width: 80%
+    :align: center
+    :alt: Ukázka reálné pokladny
+
+
 Účty Pyvce
 ----------
 
