@@ -9,7 +9,7 @@ dependencies = [
     "pydantic>=2.12.4",
     "requests>=2.32.5",
     "sphinx-rtd-theme>=3.0.2",
-    "sphinx<9",  # see https://github.com/executablebooks/MyST-Parser/issues/1077
+    "sphinx<10",  # see https://github.com/executablebooks/MyST-Parser/issues/1077
     "sphinxemoji>=0.3.1",
 ]
 
@@ -24,7 +24,7 @@ dev = [
 ]
 
 [build-system]
-requires = ["uv_build>=0.7.3,<0.10.0"]
+requires = ["uv_build>=0.7.3,<0.11.0"]
 build-backend = "uv_build"
 
 [tool.pytest.ini_options]
