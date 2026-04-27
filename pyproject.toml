@@ -3,7 +3,7 @@ name = "pyvec-docs"
 version = "0"
 requires-python = "==3.12.*"
 dependencies = [
-    "click>=8.3.2",
+    "click>=8.3.3",
     "jinja2>=3.1.6",
     "myst-parser>=5.0.0",
     "pydantic>=2.13.3",
@@ -24,7 +24,7 @@ dev = [
 ]
 
 [build-system]
-requires = ["uv_build>=0.11.7,<0.12.0"]
+requires = ["uv_build>=0.11.8,<0.12.0"]
 build-backend = "uv_build"
 
 [tool.pytest.ini_options]
