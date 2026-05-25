@@ -42,5 +42,6 @@ exclude = [
     "domena\\.cz",
 
     # Website implements the fragments wrong
-    "cz\\.pycon\\.org/2016/speakers/talks/#"
+    "cz\\.pycon\\.org/2016/speakers/talks/#",
+    "www\\.zakonyprolidi\\.cz"
 ]
