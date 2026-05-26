@@ -67,7 +67,7 @@ Předání moci
 - Tento meeting je oficiální schůze výboru. Zápis ze schůze píše starý
   výbor do "svého" existujícího dokumentu. (Později se přesune, viz níže.)
 - Nový výbor si mezi sebou musí zvolit předsedu a může zvolit :term:`pokladníka <Pokladník>`. Každý člen výboru má jeden hlas a funkci dostává ten, kdo má nejvíc hlasů.
-- Nový výbor dostává první závažný úkol, při kterém jej ideálně stínuje starý výbor a pomáhá mu k jeho dokončení: Kontaktovat právničku spolku, `AK Šichová <https://aksichova.cz/>`__, aby připravila papíry, kodifikovala výsledek voleb a změnu zanesla do státního rejstříku (úkol není hotov, dokud na justice.cz nejsou u Pyvce vidět nová jména).
+- Nový výbor dostává první závažný úkol, při kterém jej ideálně stínuje starý výbor a pomáhá mu k jeho dokončení: Kontaktovat právníky spolku, aby připravili papíry, kodifikovali výsledek voleb a změnu zanesli do státního rejstříku (úkol není hotov, dokud na justice.cz nejsou u Pyvce vidět nová jména).
 - Nový výbor oznámí své zvolení v :slack:`#announcements`.
 - Starý výbor zajistí vyhotovení zápisů ze zasedání členské schůze a z předání moci:
 
