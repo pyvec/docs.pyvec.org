@@ -14,6 +14,42 @@ Kdyby něco nesedělo, ověřte `historii zdrojáku této stránky <https://gith
 
 
 
+3. 12. 2025 - elektronické hlasování výboru
+--------------------------------------------
+
+Dne 10. 11. 2025 požádal uživatel `@frenzymadness <https://github.com/frenzymadness>`_ o grant `Grant Python Pizza Ostrava <https://github.com/pyvec/money/issues/46>`_:
+
+.. code-block:: text
+
+    **Kdo jste?**
+
+    Martina Zátopková, Lumír Balhar – organizátoři z české Python community
+
+    **Kolik potřebujete? (aspoň odhad nebo rozmezí)**
+
+    25 000 Kč
+
+    **Na jakou věc to je?**
+
+    Python Pizza Ostrava 2026
+
+    **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
+
+    Plánujeme zorganizovat veleúspěšnou Python Pizzu i v Ostravě. V ideálním případě se nám podaří sehnat dostatek sponzorů, takže toto nebude grant jako takový, ale jen protočení sponzorských financí a výdělku ze vstupenek, ale to se špatně odhaduje dopředu. Proto bychom potřebovali schválit budget dopředu, abychom mohli zajistit venue a další náklady/zálohy ještě před tím, než nám dorazí sponzorské finance.
+
+Výbor o tomto elektronicky hlasoval 3. 12. 2025, kdy bylo hlasování uzavřeno s následujícím výsledkem:
+
+* Petr Viktorin: ano
+
+* Karolina Surma: ano
+
+* Jakub Vysoký: ano
+
+* Jakub Červinka: ano
+
+
+Grant byl schválen.
+
 2. 7. 2025 - elektronické hlasování výboru
 --------------------------------------------
 
