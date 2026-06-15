@@ -19,12 +19,12 @@ pyvec-docs = "pyvec_docs.cli:main"
 [dependency-groups]
 dev = [
     "pytest-ruff>=0.5",
-    "pytest>=9.0.3",
+    "pytest>=9.1.0",
     "sphinx-autobuild>=2025.8.25",
 ]
 
 [build-system]
-requires = ["uv_build>=0.11.19,<0.12.0"]
+requires = ["uv_build>=0.11.21,<0.12.0"]
 build-backend = "uv_build"
 
 [tool.pytest.ini_options]
