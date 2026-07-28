@@ -17,8 +17,8 @@ retry_wait_time = 5
 # Check links inside `<code>` and `<pre>` blocks and Markdown code blocks
 include_verbatim = true
 
-# Check fragments in links
-include_fragments = true
+# Check anchor fragments in links, e.g. #section
+include_fragments = "anchor-only"
 
 # Add 'Too many requests'
 accept = ["100..=103", "200..=299", "429"]
