@@ -2,7 +2,11 @@
 
 # Jak pořádat Python sraz (Pyvo)
 
-% Protože Sphinx umožňuje odkazování napříč dokumenty, hodí se mít názvy odkazů unikátní. Z toho důvodu všechny odkazy v této příručce začínají 'srazy-'.
+<!--
+
+Protože Sphinx umožňuje odkazování napříč dokumenty, hodí se mít názvy odkazů unikátní. Z toho důvodu všechny odkazy v této příručce začínají 'srazy-'.
+
+-->
 
 Tato příručka si klade za cíl shromáždit veškeré zkušenosti, jež jsme za roky pořádání srazů nasbírali, aby si je mohl kdokoliv přečíst a na jejich základě založit vlastní sraz. Zároveň by bylo hezké, kdyby se stala kodexem toho, jak se správné Pyvo má dělat, kdyby sledovala nejnovější trendy a změny a kdyby díky společnému úsilí zůstala v souladu s tím, co se na srazech reálně praktikuje.
 
@@ -187,12 +191,15 @@ Existuje Twitter účet {twitter}`napyvo`, kam lze psát cokoliv v souvislosti s
 Tato sekce ještě není zcela připravena.
 ```
 
-% Lanyrd, Facebook Event + Pyonieri, Srazy.info, univerzity, firmy, Twitter... zpravicka na root.cz, zpravicka na   zdrojak, email pozvanka na django-cs / py konference, meetup.com, https://wiki.python.org/moin/PythonEventsCalendar
+<!--
 
-% Firmy!!!
+Lanyrd, Facebook Event + Pyonieri, Srazy.info, univerzity, firmy, Twitter... zpravicka na root.cz, zpravicka na   zdrojak, email pozvanka na django-cs / py konference, meetup.com, https://wiki.python.org/moin/PythonEventsCalendar
 
-% Hang some flyers at your local college; hold some meetings on a campus and get listed as a campus organization.
+Firmy!!!
 
+Hang some flyers at your local college; hold some meetings on a campus and get listed as a campus organization.
+
+-->
 
 (srazy-sponzori)=
 
@@ -220,15 +227,18 @@ Tato sekce ještě není připravena.
 Tato sekce ještě není připravena.
 ```
 
-% I've found that keeping the presentations short, and maybe having two or three speakers, is a good alternative to having one speaker (unless a good speaker volunteers!). It takes some of the load off the speaker and gets more people involved.
+<!--
 
-% Zahraniční speakeři versus zkušení speakeři versus nováčci
-% Líheň
-% doporučení, jak vybrat přednášející, lightning talky
-% přednášení hloupostí na lightning talku podnítí ostatní
+I've found that keeping the presentations short, and maybe having two or three speakers, is a good alternative to having one speaker (unless a good speaker volunteers!). It takes some of the load off the speaker and gets more people involved.
 
-% https://wiki.python.org/moin/PythonSpeakers
+Zahraniční speakeři versus zkušení speakeři versus nováčci
+Líheň
+doporučení, jak vybrat přednášející, lightning talky
+přednášení hloupostí na lightning talku podnítí ostatní
 
+https://wiki.python.org/moin/PythonSpeakers
+
+-->
 
 ## Průběh akce
 
