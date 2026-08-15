@@ -14,6 +14,73 @@ Kdyby něco nesedělo, ověřte `historii zdrojáku této stránky <https://gith
 
 
 
+3. 12. 2025 - elektronické hlasování výboru
+--------------------------------------------
+
+Dne 10. 11. 2025 požádal uživatel `@frenzymadness <https://github.com/frenzymadness>`_ o grant `Grant Python Pizza Ostrava <https://github.com/pyvec/money/issues/46>`_:
+
+.. code-block:: text
+
+    **Kdo jste?**
+
+    Martina Zátopková, Lumír Balhar – organizátoři z české Python community
+
+    **Kolik potřebujete? (aspoň odhad nebo rozmezí)**
+
+    25 000 Kč
+
+    **Na jakou věc to je?**
+
+    Python Pizza Ostrava 2026
+
+    **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
+
+    Plánujeme zorganizovat veleúspěšnou Python Pizzu i v Ostravě. V ideálním případě se nám podaří sehnat dostatek sponzorů, takže toto nebude grant jako takový, ale jen protočení sponzorských financí a výdělku ze vstupenek, ale to se špatně odhaduje dopředu. Proto bychom potřebovali schválit budget dopředu, abychom mohli zajistit venue a další náklady/zálohy ještě před tím, než nám dorazí sponzorské finance.
+
+Výbor o tomto elektronicky hlasoval 3. 12. 2025, kdy bylo hlasování uzavřeno s následujícím výsledkem:
+
+* Petr Viktorin: ano
+
+* Karolina Surma: ano
+
+* Jakub Vysoký: ano
+
+* Jakub Červinka: ano
+
+
+Grant byl schválen.
+
+2. 7. 2025 - elektronické hlasování výboru
+--------------------------------------------
+
+Dne 30. 6. 2025 požádal uživatel `@clytaemnestra <https://github.com/clytaemnestra>`_ o grant `Grant na červencové Pražské Pyvo <https://github.com/pyvec/money/issues/43>`_:
+
+.. code-block:: text
+
+    **Kdo jste?**
+    Pražské Pyvo
+
+    **Kolik potřebujete? (aspoň odhad nebo rozmezí)**
+     40k s tím, že na místě budeme vybírat dobrovolnou platbu za jídlo
+    **Na jakou věc to je?**
+    Na catering, který je podmínkou pro rezervaci místa na červencové Pyvo na hradbách. Více info tady: https://pyvec.slack.com/archives/C12L770TV/p1750947932133339 
+
+    **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
+    Je to skvělá příležitost přivést do komunity nové lidi, zvlášť když velká část účastníctva EuroPythonu je z Česka. Zároveň je to příležitost pro pravidelné návštěvníky Pyva propojit se s lidmi z celé Evropy i světa. Na programu budou i PyLadies drinks, takže bude možnost potkat se s PyLadies z různých zemí, sdílet nápady a podpořit tak místní komunitu.
+
+Výbor o tomto elektronicky hlasoval 2. 7. 2025, kdy bylo hlasování uzavřeno s následujícím výsledkem:
+
+* Jan Čermák: ano
+
+* Karolina Surma: ano
+
+* Petr Viktorin: ano
+
+* Jakub Červinka: ano
+
+
+Grant byl schválen.
+
 18. 3. 2025 - elektronické hlasování výboru
 --------------------------------------------
 
@@ -155,6 +222,53 @@ Výbor o tomto elektronicky hlasoval 24. 10. 2024, kdy bylo hlasování uzavřen
 * Jan Javorek: ano
 
 * Barbora Drbohlavová: ano
+
+
+Grant byl schválen.
+
+24. 10. 2024 - elektronické hlasování výboru
+--------------------------------------------
+
+Dne 10. 9. 2024 požádal uživatel `@hroncok <https://github.com/hroncok>`_ o grant `Záloha na venue PyCamp CZ 2025 <https://github.com/pyvec/money/issues/26>`_:
+
+.. code-block:: text
+
+    **Kdo jste?**
+
+    @hroncok, @anezkamll, a @frenzymadness
+
+    Organizátoři PyCamp CZ 2025, což je akce, kterou jsme představili na letošním srpnovém komunitním sprintu.
+
+    **Kolik potřebujete? (aspoň odhad nebo rozmezí)**
+
+    až 80 tisíc Kč
+
+    **Na jakou věc to je?**
+
+    Na venue pro akci PyCamp CZ 2025. Akce se koná až za rok, ale potřebueme závazně booknout venue a budeme muset platit část nebo plnou cenu.
+
+    PyCamp CZ bude barcamp/unconference víkendová akce inspirovaná komunitním sprintem pro max 100 účastníků. Někde v ČR v září 2025. Kemp nebo jiná venue, kde se dá přespat kombinace vnitřek + stany. Účastnící tvoří program o Pythonu a pod. (přednášky, workshopy, debaty, sprinty) i sekundární program (bojovka, grilovačka, oheň, buřty, kurz první pomoci, apod.). Malý core team + hromada účastníků/dobrovolníků. Budeme vybírat peníze na pokrytí nákladů, za určité množství dobrovolničiny budeme dávat částečný nebo plný refund.
+
+    **Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
+
+    Akci plánujeme financovat pomocí pěněz od účastníků a grantu od PSF apod., ale momentálně nemáme peníze na zaplacení venue rok dopředu. Pyvec ty peníze má, takže bychom je rádi použili. Pokud se akce nezvládne zafinancovat z externích zdrojů, je možné, že budeme ty peníze od Pyvce chtít částečně utratit, ale momentálně se počítá s tím, že je Pyvec dostane cca do 1 roka zpět.
+
+    Dopad bude, že budeme moci zafixovat místo a datum konání a začít organizovat věšketré další aktivity, které toto blokuje.
+
+    Je to trochu time sensitive, až budeme mít na mysli konkrétní venue, budeme potřebovat vědět, jestli ty peníze máme nebo ne. Pokud board bude chtít schválit konkrétní venue před puštěním peněz, nevadí nám to, ale bude to potřeba udělat obratem.
+
+
+    Děkujem
+
+Výbor o tomto elektronicky hlasoval 24. 10. 2024, kdy bylo hlasování uzavřeno s následujícím výsledkem:
+
+* Jan Javorek: ano
+
+* Jakub Vysoký: ano
+
+* Anežka Müller: zdržel(a) se
+
+* Jan Čermák: ano
 
 
 Grant byl schválen.

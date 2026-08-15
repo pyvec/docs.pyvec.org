@@ -141,13 +141,17 @@ Schůze výboru
 +------------------------------+-----------------+
 
 #. Na předem domluvený datum a čas je v Google Kalendáři pozvánka na schůzi výboru pro všechny jeho členy, která má připojený odkaz na `Google Meet <https://meet.google.com/>`__.
+#. Před schůzi členové výboru sestavují agendu s jednotlivými body k řešení - ukládá se ve stávajícím `dokumentu se zápisy <https://docs.pyvec.org/operations/meeting-notes.html>`__.
 #. V daný čas si členové výboru otevřou `Trello nástěnku s úkoly pro výbor <https://trello.com/b/6GjKGJfq/board>`__ a připojí se na hovor.
-#. Na nástěnce je každá schůze reprezentována kartičkou ve sloupci *Schůze*. V ní je seznam věcí, které by měl výbor projednat. Kromě věcí, které na seznam mohou členové výboru volně přidat během předchozího měsíce má program schůze tyto pevné pravidelné body:
+#. Program schůze má tyto pevné pravidelné body:
 
-   * Projít, zda není potřeba **něco schválit** (Pull Requesty na `docs.pyvec.org <https://github.com/pyvec/docs.pyvec.org>`__ nebo jinde, granty…). Tento bod zaručuje, že např. žádosti o grant nečekají nikdy déle než měsíc.
-   * Domluvit se **kdy bude další schůze**, vytvořit jí kartičku a poslat novou pozvánku do kalendáře. Tento bod zaručuje, že se výbor sejde i další měsíc.
+   * Projít agendu sestavenou před schůzí.
+   * Projít otevřené žádosti o `granty <github.com/pyvec/money/issues>`, díky čemuž žádosti nečekají nikdy déle než měsíc.
+   * Projít, zda není potřeba **něco schválit** (Pull Requesty na `docs.pyvec.org <https://github.com/pyvec/docs.pyvec.org>`__ nebo jinde…).
+   * Pokud zbývá čas, projít Trello nástěnku: pročesat kartičky ve sloupcech *Ke schválení*, *Doing* a *To Do* a posunout je tak, aby se shodovaly s realitou.
+   * Potvrdit si datum a čas příští schůze.
 
-#. Výbor volitelně kouká po kartičkách ve sloupci *To Do* a zkouší je v rámci možností života dobrovolníků postupně řešit.
+#. Plánované i neplánované body, které výbor řeší, se zapisují do `dokumentu za stávající období <https://docs.pyvec.org/operations/meeting-notes.html>`__.
 
 
 Přijetí nového člena

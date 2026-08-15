@@ -94,11 +94,11 @@ Kontrola rozbitých odkazů
 
 Na repozitáři je zapojená `GitHub Action <https://github.com/lycheeverse/lychee-action>`_, která jednou denně kontroluje, zda všechny odkazy fungují. Kontrolka:
 
-.. image:: https://github.com/pyvec/docs.pyvec.org/actions/workflows/check_links.yml/badge.svg
+.. image:: https://github.com/pyvec/docs.pyvec.org/actions/workflows/check-links.yml/badge.svg
     :target: https://github.com/pyvec/docs.pyvec.org/actions
     :alt: Continuous Integration Status (check links)
 
-Dokonce by to mělo automaticky zakládat i issue, pokud to najde nějaký problém. V případě, že je potřeba ignorovat nějakou doménu nebo konkrétní odkaz, je možné to udělat v souboru ``lychee.toml``.
+Dokonce to automaticky zakládá i issue, pokud to najde nějaký problém. V případě, že je potřeba ignorovat nějakou doménu nebo konkrétní odkaz, je možné to udělat v souboru ``lychee.toml``.
 
 .. _generate_files:
 

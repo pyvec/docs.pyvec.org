@@ -10,9 +10,9 @@ jobs:
     permissions:
       issues: write  # required for peter-evans/create-issue-from-file
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - name: Install uv
-        uses: astral-sh/setup-uv@v6
+        uses: astral-sh/setup-uv@v7
       - name: Build documentation
         run: uv run pyvec-docs build
       - name: Link Checker
@@ -23,7 +23,7 @@ jobs:
           fail: false
       - name: Create Issue From File
         if: steps.lychee.outputs.exit_code != 0
-        uses: peter-evans/create-issue-from-file@v5
+        uses: peter-evans/create-issue-from-file@v6
         with:
           title: Link Checker Report
           content-filepath: ./lychee/out.md

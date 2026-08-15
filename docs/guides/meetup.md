@@ -424,8 +424,8 @@ Pokud chceš nabrat nějakou další inspiraci k tomu, jak organizovat Python sr
 Na následujících stránkách se domlouvají organizátoři existujících srazů.
 
 - [Pyvec Slack](https://pyvec.slack.com/)
-- [Brno (Google Group)](https://groups.google.com/forum/#!forum/brno-pyvo)
-- [Ostrava (Google Group)](https://groups.google.com/forum/#!forum/ostrava-pyvo)
+- [Brno (Google Group)](https://groups.google.com/g/brno-pyvo)
+- [Ostrava (Google Group)](https://groups.google.com/g/ostrava-pyvo)
 - [Ostrava (Facebook)](https://www.facebook.com/groups/pyvoruby/)
 
 

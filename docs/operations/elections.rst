@@ -67,7 +67,7 @@ Předání moci
 - Tento meeting je oficiální schůze výboru. Zápis ze schůze píše starý
   výbor do "svého" existujícího dokumentu. (Později se přesune, viz níže.)
 - Nový výbor si mezi sebou musí zvolit předsedu a může zvolit :term:`pokladníka <Pokladník>`. Každý člen výboru má jeden hlas a funkci dostává ten, kdo má nejvíc hlasů.
-- Nový výbor dostává první závažný úkol, při kterém jej ideálně stínuje starý výbor a pomáhá mu k jeho dokončení: Kontaktovat právničku spolku, `AK Šichová <https://aksichova.cz/>`__, aby připravila papíry, kodifikovala výsledek voleb a změnu zanesla do státního rejstříku (úkol není hotov, dokud na justice.cz nejsou u Pyvce vidět nová jména).
+- Nový výbor dostává první závažný úkol, při kterém jej ideálně stínuje starý výbor a pomáhá mu k jeho dokončení: Kontaktovat právníky spolku, aby připravili papíry, kodifikovali výsledek voleb a změnu zanesli do státního rejstříku (úkol není hotov, dokud na justice.cz nejsou u Pyvce vidět nová jména).
 - Nový výbor oznámí své zvolení v :slack:`#announcements`.
 - Starý výbor zajistí vyhotovení zápisů ze zasedání členské schůze a z předání moci:
 
@@ -87,15 +87,17 @@ Tento seznam je potřeba průběžně aktualizovat a dokumentovat během toho, j
 - Přístup do datové schránky spolku. Ten by snad měl přijít automaticky po tom, co se nový výbor zapíše do rejstříku.
 - Přenastavit přístupy a skupiny ve `správci hesel <https://hesla.pyvec.org>`_.
 - Přístup k bankovnímu účtu Pyvce, PayPalu, Stripu, apod. Toto je zpravidla možné až když je nový výbor zapsán v rejstříku a je k tomu potřeba jít do banky.
+- Přístup k Fakturoidu, Pretixu pro zpracování běžné agendy spolku.
 - Telefonní čísla na 2FA do Google účtu. Mít tam aspoň dva lidi s přístupem.
 - Telefonní číslo na 2FA do Benevity. Bohužel lze nastavit jen jedno a posílají to pouze přes SMS.
+- Vygenerovat a nasdílet nové OTP kódy pro Google účet (info@pyvec.org) a Stripe.
 - Přístupy k `seznamu členů <https://docs.google.com/spreadsheets/d/1n8hzBnwZ5ANkUCvwEy8rWsXlqeAAwu-5JBodT5OJx_I/edit#gid=0>`__ tak, aby do něj mohl jen nový výbor. Nevyhazovat *service account*, díky kterému se členové přes API vypisují na web Pyvce, ale jinak všechny ostatní ano. Jsou tam osobní údaje členů, takže kvůli GDPR tam smí jen výbor.
 - Přístup k celé složce *Spolek* na Google Drive. Z tama není nutné vyhazovat starý výbor, spíš jde o to, aby tam všichni z nového výboru mohli.
 
   - Speciálně vzpomenout složku ``Účetnictví/<rok>/ke zpracování``.
 
 - Aktualizovat `tým na GitHubu <https://github.com/orgs/pyvec/teams/board>`_. Minimálně předseda by měl mít ownera na GitHubu k organizaci ``@pyvec``.
-- Placení sídla Pyvce.
+- Placení sídla Pyvce - obstarává firma `Ofigo <https://www.ofigo.cz/>`_: jednou ročně nám posílá na `info@pyvec.org` fakturu k uhrazení. Taky se stará o příchozí poštu (oskenuje a pošle nám mailem).
 - Předání papírové dokumentace spolku (šanon). Už tam asi nic důležitého není a nové věci jsou už digitálně, ale co kdyby.
 - Přenastavení e-mailovů info@pyvec.org a board@pyvec.org. To *info* je externí e-mail pro všechny, kdo píšou Pyvci. Ten *board* se dřív používal jako interní e-mail výboru, ale dnes už se většinou používá Slack. Komunikaci ven posíláme ze soukromých mailů, na které se pošta přeposílá, s ``info@pyvec.org`` v CC.
 - Nový výbor by si měl na Slacku vytvořit svůj privátní kanál, např. :slack:`#pyvec-board-2022-2025`. Každý výbor má svůj, v názvu má roky funkčního období.

@@ -51,7 +51,7 @@ Vedoucí
 : Člen týmu si může vzít na starost i úkol, který neví jak zpracovat - to je v pořádku. Vedoucí všechno vysvětlí, naučí, a zapíše sem.
 
 Přístupy
-: Členové týmu by měli být na [Pyvec Slacku](https://pyvec.slack.com/) v místnosti {slack}`#pyconcz-media` a v týmu ``@pyconcz-media-team``, ve Facebookové skupine [Pyonýři](https://www.facebook.com/groups/pyonieri/), měli by být nastavení jako spoluorganizátoři Facebookové události pro konferenci (příspěvky od organizátorů se zobrazují viditelněji), měli by mít přístup do Twitter účtu [@pyconcz](https://twitter.com/pyconcz) a měli by umět posílat e-maily do skupiny [django-cs](https://groups.google.com/forum/#!forum/django-cs) a [konference py.cz](https://www.py.cz/KonferenceDiskuze).
+: Členové týmu by měli být na [Pyvec Slacku](https://pyvec.slack.com/) v místnosti {slack}`#pyconcz-media` a v týmu ``@pyconcz-media-team``, ve Facebookové skupine [Pyonýři](https://www.facebook.com/groups/pyonieri/), měli by být nastavení jako spoluorganizátoři Facebookové události pro konferenci (příspěvky od organizátorů se zobrazují viditelněji), měli by mít přístup do Twitter účtu [@pyconcz](https://twitter.com/pyconcz) a měli by umět posílat e-maily do skupiny [django-cs](https://groups.google.com/g/django-cs).
 
 Úkoly od spoluorganizátorů
 : Pokud na Slacku přijde úkol ("zpropagujte datum konference") a v Media týmu je víc lidí, je dobré na Slack napsat "jdu na to", pokud to jdu udělat, aby ostatní z týmu věděli, že už to nemusí řešit. Případně "budu na to mít čas dnes večer" (třeba to někdo zvládne i dřív) nebo "udělám Facebook" (někdo jiný si vezme Twitter).
@@ -228,7 +228,7 @@ Používání zkratky *CfP* nebo sousloví *Call for Papers* celkem funguje v za
 
 #### Plošné bombardování
 
-Když je otevřeno CfP, je dobré to dát plošně vědět, protože existuje pár lidí, kterým toto oznámení stačí a následně něco do CfP pošlou. Není dobré se tím ale vyčerpávat, protože zas tak moc těch lidí není. Nezapomínat na e-mailové skupiny jako [django-cs](https://groups.google.com/forum/#!forum/django-cs) a [konference py.cz](https://www.py.cz/KonferenceDiskuze), kde jsou také lidé, kteří na toto mohou reagovat.
+Když je otevřeno CfP, je dobré to dát plošně vědět, protože existuje pár lidí, kterým toto oznámení stačí a následně něco do CfP pošlou. Není dobré se tím ale vyčerpávat, protože zas tak moc těch lidí není. Nezapomínat na e-mailové skupiny jako [django-cs](https://groups.google.com/g/django-cs), kde jsou také lidé, kteří na toto mohou reagovat.
 
 #### Agregátory na Twitteru
 

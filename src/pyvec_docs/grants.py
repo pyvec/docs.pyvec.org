@@ -40,3 +40,10 @@ def get_lock_date(events):
     for event in reversed(events):
         if event["event"] == "locked":
             return to_date(event["created_at"])
+
+
+def get_resolution_date(events):
+    for event in reversed(events):
+        if event["event"] == "labeled":
+            if event["label"]["name"] in {"approved", "rejected"}:
+                return to_date(event["created_at"])

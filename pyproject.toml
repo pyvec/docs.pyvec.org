@@ -3,14 +3,14 @@ name = "pyvec-docs"
 version = "0"
 requires-python = "==3.12.*"
 dependencies = [
-    "click==8.2.1",
-    "jinja2==3.1.6",
-    "myst-parser[linkify]==4.0.1",
-    "pydantic==2.11.7",
-    "requests==2.32.4",
-    "sphinx-rtd-theme==3.0.2",
-    "sphinx==8.2.3",
-    "sphinxemoji==0.3.1",
+    "click>=8.4.2",
+    "jinja2>=3.1.6",
+    "myst-parser>=5.1.0",
+    "pydantic>=2.13.4",
+    "requests>=2.34.2",
+    "sphinx-rtd-theme>=3.1.0",
+    "sphinx<10",  # see https://github.com/executablebooks/MyST-Parser/issues/1077
+    "sphinxemoji>=0.3.2",
 ]
 
 [project.scripts]
@@ -18,13 +18,13 @@ pyvec-docs = "pyvec_docs.cli:main"
 
 [dependency-groups]
 dev = [
-    "pytest-ruff==0.4.1",
-    "pytest==8.3.4",
-    "sphinx-autobuild==2024.10.3",
+    "pytest-ruff>=0.5",
+    "pytest>=9.1.1",
+    "sphinx-autobuild>=2025.8.25",
 ]
 
 [build-system]
-requires = ["uv_build>=0.7.3,<0.8.0"]
+requires = ["uv_build>=0.12.2,<0.13.0"]
 build-backend = "uv_build"
 
 [tool.pytest.ini_options]

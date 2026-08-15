@@ -1,0 +1,21 @@
+{% extends "!page.html" %}
+
+{%- block htmltitle -%}
+  <title>
+    {%- if pagename == "index" -%}
+      {{ project|e }}
+    {%- else -%}
+      {{ title|striptags|e }} — Dokumentace české Python komunity
+    {%- endif -%}
+  </title>
+{%- endblock -%}
+
+{%- block extrahead %}
+  {{ super() }}
+  {%- if site_baseurl -%}
+    <meta property="og:image" content="{{ site_baseurl.rstrip('/') }}/{{ pathto('_static/images/og-image.png', 1).lstrip('./') }}">
+  {%- else -%}
+    <meta property="og:image" content="{{ pathto('_static/images/og-image.png', 1) }}">
+  {%- endif -%}
+  <meta property="og:image:type" content="image/png">
+{%- endblock -%}
