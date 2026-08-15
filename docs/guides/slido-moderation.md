@@ -1,4 +1,4 @@
-# Sli.do moderation guide for PyCon CZ
+# Slido moderation guide for PyCon CZ
 
 
 The main reason for question moderation is that some people like to hide behind
@@ -10,7 +10,8 @@ of them we actually got as questions, some are made up):
 
 ## How to ask / vote on questions
 
-1) Go to *www.sli.do* and use ``#pyconcz`` code to join the event
+1) Go to [slido.com](http://www.slido.com/) and use ``#pyconcz`` code to join
+   the event
 2) Choose the room you are in.
 3) Type your question or upvote already existing ones.
 
@@ -25,7 +26,8 @@ of them we actually got as questions, some are made up):
 
 ## How to moderate
 
-1) Go to *www.sli.do* and log in (ask for credentials if you don't have them,
+1) Go to [slido.com](http://www.slido.com/) and log in (ask for credentials
+   if you don't have them,
    @veruu is your main contact but every moderator should have them).
 2) Choose ``PyCon CZ <YEAR>`` event.
 3) In the menu row, click on ``Questions`` and switch to the correct room (right
@@ -57,7 +59,7 @@ of them we actually got as questions, some are made up):
 
 > The speaker put no effort into the talk and just read everything
 
-It doesn't matter whether the comment is true or not. Sli.do is not a way to
+It doesn't matter whether the comment is true or not. Slido is not a way to
 submit feedback to the talk (and even if it was it can be expressed in a nicer
 way). This question should not be approved.
 
