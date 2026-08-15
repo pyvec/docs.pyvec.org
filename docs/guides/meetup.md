@@ -185,7 +185,7 @@ jste-li už na našem {ref}`Slacku <slack>`, volat o pomoc v kanálu {slack}`#py
 
 ### Propagace
 
-Existuje Twitter účet {twitter}`napyvo`, kam lze psát cokoliv v souvislosti s vaším srazem. {ref}`Zažádejte si o přístup <twitter>` a nebojte se tam psát. Nad toto ještě existuje robot [pyvo-twitter](https://github.com/pyvec/pyvo-twitter>), který píše na {twitter}`napyvo` automatické zprávy upozorňující na srazy. Upozorňuje ovšem jen na ty srazy, které jsou včas {ref}`potvrzené na pyvo.cz <srazy-pyvocz>`. Jestliže zaznamenáte nějaký problém s robotem, pište do {slack}`#automatizace`.
+Existuje Twitter účet {twitter}`napyvo`, kam lze psát cokoliv v souvislosti s vaším srazem. {ref}`Zažádejte si o přístup <twitter>` a nebojte se tam psát. Nad toto ještě existuje robot [pyvo-twitter](https://github.com/pyvec/pyvo-twitter), který píše na {twitter}`napyvo` automatické zprávy upozorňující na srazy. Upozorňuje ovšem jen na ty srazy, které jsou včas {ref}`potvrzené na pyvo.cz <srazy-pyvocz>`. Jestliže zaznamenáte nějaký problém s robotem, pište do {slack}`#automatizace`.
 
 ```{warning}
 Tato sekce ještě není zcela připravena.

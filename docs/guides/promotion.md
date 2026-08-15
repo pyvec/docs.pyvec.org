@@ -298,7 +298,7 @@ Můžeme poprosit organizátory spřátelených nebo prostě blízkých konferen
 
 Je potřeba během CfP zaúkolovat lidi na jednotlivých Pyvech nebo PyLadies kurzech apod., aby přítomným řekli o CfP. Je bohužel potřeba jim to připomenout v den konání. Pokud mají událost na FB nebo Twitter hashtag, můžeme se ještě vetřít i přes sociální sítě během konání události. Zvláště na PyLadies atd. je dobré, aby člověk na místě zmínil a vysvětlil, že do CfP lze přijmout i nováčky v přednášení nebo v Pythonu.
 
-Lze projít archiv [pyvo.cz](https://pyvo.cz/>) za poslední rok ve všech městech a zkusit napsat přednášejícím, zda nechtějí své přednáškové umění povýšit na konferenční. Lze napsat lektorům z PyLadies kurzů, zda nechtějí mít přednášku na téma vzdělávání. Lze napsat organizátorkám kurzů, zda nechtějí podat na konferenci [komunitní zprávu o tom, jak v ČR kurzy PyLadies fungují a jak se rozrůstají](https://www.youtube.com/watch?v=l___hGXy598).
+Lze projít archiv [pyvo.cz](https://pyvo.cz/) za poslední rok ve všech městech a zkusit napsat přednášejícím, zda nechtějí své přednáškové umění povýšit na konferenční. Lze napsat lektorům z PyLadies kurzů, zda nechtějí mít přednášku na téma vzdělávání. Lze napsat organizátorkám kurzů, zda nechtějí podat na konferenci [komunitní zprávu o tom, jak v ČR kurzy PyLadies fungují a jak se rozrůstají](https://www.youtube.com/watch?v=l___hGXy598).
 
 #### Firmy
 
