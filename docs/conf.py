@@ -1,4 +1,4 @@
-# Configuration file for the Sphinx documentation builder
+# # Configuration file for the Sphinx documentation builder
 
 import os
 import tomllib
@@ -149,9 +149,7 @@ sphinxemoji_source = "twemoji.min.js"
 # Available options are described in the docs:
 #   https://myst-parser.readthedocs.io/en/v0.15.1/sphinx/reference.html
 myst_enable_extensions = [
-    "dollarmath",
     "deflist",
-    "linkify",
 ]
 
 
