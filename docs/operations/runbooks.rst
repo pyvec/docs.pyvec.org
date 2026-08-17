@@ -78,8 +78,11 @@ Jak si nechat něco proplatit
 #. Při nákupech uchovávám účtenky nebo faktury. Faktura musí mít tyto náležitosti:
 
    - musí být vystavena na **Pyvec, z.s.**
-   - | musí mít správnou **fakturační** adresu Pyvce (uvedena i `dole na webu <https://pyvec.org/>`_):
+   - | musí mít správnou **fakturační** adresu Pyvce:
      | Korunní 2569/108, 101 00 Praha 10 – Vinohrady
+   - u zahraničních dodavatelů musí mít **DIČ**: ``CZ22746668``
+
+   Aktuální údaje najdeš v patičce stránek `pyvec.org <https://pyvec.org>`__.
 
    .. hint::
       Pokud se podepisuje nějaká smlouva a podepisuje ji někdo za Pyvec, musí u jejich jména figurovat opět název a adresa Pyvce, ne adresa k němu domů.
