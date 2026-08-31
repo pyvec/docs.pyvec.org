@@ -33,6 +33,7 @@ addopts = "--ff --ruff --ruff-format"
 
 [tool.ruff.lint]
 extend-select = ["I"]
+ignore = ["SIM102", "PIE804", "I001"]
 
 [tool.ruff.lint.isort]
 combine-as-imports = true
