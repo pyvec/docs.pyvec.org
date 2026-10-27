@@ -14,7 +14,7 @@ Pravidelné akce
 
 Pravidelné akce lze přidat přes tzv. iCal export. Ten může generovat přímo vaše webová stránka (jako v případě `pyvo.cz <https://pyvo.cz/>`__), nebo jej lze vytáhnout z nějaké služby (Google Calendar, meetup.com).
 
-URL exportu pak na náš web přidejte do souboru `static/data/events_feeds.yml <https://github.com/pyvec/python.cz/edit/master/pythoncz/static/data/events_feeds.yml>`__ repozitáře `pyvec/python.cz <https://github.com/pyvec/python.cz>`__ pomocí pull requestu. Po začlenění se akce objeví rovnou a následně se budou načítat samy každý den.
+URL exportu pak na náš web přidejte do souboru `static/data/events_feeds.yml <https://github.com/pyvec/python.cz/edit/master/pythoncz/static/data/events_feeds.yml>`__ repozitáře :gh-repo:`pyvec/python.cz` pomocí pull requestu. Po začlenění se akce objeví rovnou a následně se budou načítat samy každý den.
 
 Jednorázové akce
 ~~~~~~~~~~~~~~~~

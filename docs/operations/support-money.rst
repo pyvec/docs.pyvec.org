@@ -49,7 +49,7 @@ Na příkladu je vidět hned několik výhod tohoto modelu:
 .. note::
    Pyvec může věci :ref:`proplácet <jak-proplatit>` jen oproti dokladu podle :ref:`sekce Účetní doklady <doklady>`. Pokud vám sponzor pošle více peněz, než nakonec bylo potřeba, nelze vám je jen tak vyplatit. Můžete je ale v budoucnu čerpat na další věci pomocí :ref:`grantů <granty>`.
 
-Na domluvu ohledně otočení sponzorských peněz můžete použít kanál :slack:`#money` na :ref:`Slacku <slack>` nebo založit žádost na `pyvec/money <https://github.com/pyvec/money/>`_ v podobě GitHub issue.
+Na domluvu ohledně otočení sponzorských peněz můžete použít kanál :slack:`#money` na :ref:`Slacku <slack>` nebo založit žádost na :gh-repo:`pyvec/money` v podobě GitHub issue.
 
 
 .. _granty:
@@ -59,7 +59,7 @@ Granty
 
 Pokud na svou věc nemáte sponzora, můžete požádat Pyvec o grant. Pyvec disponuje penězi, které na jeho účtě zbyly z nevyčerpaných sponzorských darů, z neurčených darů a z přebytků hospodaření konference `PyCon CZ <https://cz.pycon.org/>`__. Slovo grant může někoho děsit, ale v našem podání to není nic byrokratického. Grant můžete žádat na libovolnou záležitost, která souvisí s misí Pyvce (viz stanovy: :ref:`ucel-spolku` a :ref:`formy-cinnosti-spolku`), ať už jde o stokoruny nebo desetitisíce: nájmy, trička, samolepky, projektor...
 
-#. Na repozitáři `pyvec/money <https://github.com/pyvec/money/>`_ založte novou žádost (GitHub issue). Je předvyplněná otázkami, stačí na ně odpovědět.
+#. Na repozitáři :gh-repo:`pyvec/money` založte novou žádost (GitHub issue). Je předvyplněná otázkami, stačí na ně odpovědět.
 
 #. :term:`Výbor` žádost zváží a :ref:`odhlasuje <jak-hlasovani>`, zda ji schválí nebo zamítne, a to pomocí palců přímo na žádosti. Toto se děje pro všechny žádosti minimálně jednou za měsíc na schůzi výboru, ale v závislosti na vytíženosti členů výboru se to může zvládnout i rychleji. Výbor se rozhoduje na základě mnoha faktorů, např.:
 
@@ -73,7 +73,7 @@ Pokud na svou věc nemáte sponzora, můžete požádat Pyvec o grant. Pyvec dis
    .. note::
       Pyvec může věci :ref:`proplácet <jak-proplatit>` jen oproti dokladu podle :ref:`sekce Účetní doklady <doklady>`. Pokud vám byl udělen grant 4000 Kč, je tím míněno "proplatíme účetní doklady do výše 4000 Kč".
 
-#. Napíšete článek na `komunitní blog <https://blog.python.cz/>`__ (`repozitář <https://github.com/pyvec/blog.python.cz>`__), kde sepíšete (případně vyfotíte) výslednou věc. Jak se to povedlo, komu to pomohlo, jakou měli radost, co se naučili apod. (viz `příklad <https://blog.python.cz/Nad%C4%9Blili-jsme-PyLadies-tri%C4%8Dka>`__).
+#. Napíšete článek na `komunitní blog <https://blog.python.cz/>`__ (:gh-repo:`repozitář <pyvec/blog.python.cz>`), kde sepíšete (případně vyfotíte) výslednou věc. Jak se to povedlo, komu to pomohlo, jakou měli radost, co se naučili apod. (viz `příklad <https://blog.python.cz/Nad%C4%9Blili-jsme-PyLadies-tri%C4%8Dka>`__).
 
    Příspěvek na blogu je **podmínkou** jednorázových grantů. Články nám pomáhají získávat peníze od sponzorů a informují komunitu o tom, co děláme. Pokud použijete grant a článek nenapíšete, nedostanete další grant.
 
@@ -82,7 +82,7 @@ Pokud na svou věc nemáte sponzora, můžete požádat Pyvec o grant. Pyvec dis
 
 Příklad:
 
-   Zuzka by chtěla natisknout třička pro `PyLadies <https://pyladies.cz/>`__. Na tričkách nechce loga sponzorů, takže sponzory nehledá, požádá Pyvec o grant. Na `pyvec/money <https://github.com/pyvec/money/>`_ založí novou žádost a vyplní:
+   Zuzka by chtěla natisknout třička pro `PyLadies <https://pyladies.cz/>`__. Na tričkách nechce loga sponzorů, takže sponzory nehledá, požádá Pyvec o grant. Na :gh-repo:`pyvec/money` založí novou žádost a vyplní:
 
    .. code-block:: text
 
@@ -112,7 +112,7 @@ Granty mohou být :ref:`jednorázové <granty>` nebo paušální. Ty paušální
 
 Postup získání grantu je :ref:`stejný jako u jednorázových <granty>`, jen s tím rozdílem, že nežádáte o jednorázové peníze, ale o pravidelnou částku na měsíc. Opět platí, že Pyvec může věci :ref:`proplácet <jak-proplatit>` jen oproti dokladu podle :ref:`sekce Účetní doklady <doklady>`. Grant 200 Kč/měsíc tedy znamená "proplatíme účetní doklady do výše 200 Kč měsíčně". Po získání paušálního grantu **nemusíte psát článek na blog**. (Ale můžete!) Příklad:
 
-   Lumír na `pyvec/money <https://github.com/pyvec/money/>`_ založí novou žádost:
+   Lumír na :gh-repo:`pyvec/money` založí novou žádost:
 
    .. code-block:: text
 

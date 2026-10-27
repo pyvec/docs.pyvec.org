@@ -150,7 +150,7 @@ Schůze výboru
 
    * Projít agendu sestavenou před schůzí.
    * Projít otevřené žádosti o `granty <github.com/pyvec/money/issues>`, díky čemuž žádosti nečekají nikdy déle než měsíc.
-   * Projít, zda není potřeba **něco schválit** (Pull Requesty na `docs.pyvec.org <https://github.com/pyvec/docs.pyvec.org>`__ nebo jinde…).
+   * Projít, zda není potřeba **něco schválit** (Pull Requesty na :gh-repo:`docs.pyvec.org <pyvec/docs.pyvec.org>` nebo jinde…).
    * Pokud zbývá čas, projít Trello nástěnku: pročesat kartičky ve sloupcech *Ke schválení*, *Doing* a *To Do* a posunout je tak, aby se shodovaly s realitou.
    * Potvrdit si datum a čas příští schůze.
 

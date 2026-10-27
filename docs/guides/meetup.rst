@@ -40,7 +40,7 @@ Slovníček
 Web
 ^^^
 
-Hlavním rozcestníkem komunity je sice `python.cz <https://python.cz/>`__, ale srazy mají vyhrazený svůj vlastní web, `pyvo.cz <https://pyvo.cz/>`__. Jako i všechno ostatní co se tvoří pro Python komunitu u nás, i tento web `je Open Source <https://github.com/pyvec/pyvo.cz>`__ a může do něj přispět kdokoliv.
+Hlavním rozcestníkem komunity je sice `python.cz <https://python.cz/>`__, ale srazy mají vyhrazený svůj vlastní web, `pyvo.cz <https://pyvo.cz/>`__. Jako i všechno ostatní co se tvoří pro Python komunitu u nás, i tento web :gh-repo:`je Open Source <pyvec/pyvo.cz>` a může do něj přispět kdokoliv.
 
 
 Mám založit sraz?
@@ -177,7 +177,7 @@ Informace na pyvo.cz
 ^^^^^^^^^^^^^^^^^^^^
 
 Před každým setkáním v předstihu přidejte informace na `pyvo.cz <https://pyvo.cz>`__.
-Každý sraz je zaznamenán v `.yaml` souboru v `repozitáři na GitHubu <https://github.com/pyvec/pyvo-data>`__.
+Každý sraz je zaznamenán v `.yaml` souboru v :gh-repo:`repozitáři na GitHubu <pyvec/pyvo-data>`.
 
 Na stránce pro konkrétní město je odkaz *přidat informace o dalším srazu*,
 který otevře stránku s předvyplněnými informacemi pro další sraz.
@@ -194,7 +194,7 @@ jste-li už na našem :ref:`Slacku <slack>`, volat o pomoc v kanálu :slack:`#py
 Propagace
 ^^^^^^^^^
 
-Existuje Twitter účet :twitter:`napyvo`, kam lze psát cokoliv v souvislosti s vaším srazem. :ref:`Zažádejte si o přístup <twitter>` a nebojte se tam psát. Nad toto ještě existuje robot `pyvo-twitter <https://github.com/pyvec/pyvo-twitter>`_, který píše na :twitter:`napyvo` automatické zprávy upozorňující na srazy. Upozorňuje ovšem jen na ty srazy, které jsou včas :ref:`potvrzené na pyvo.cz <srazy-pyvocz>`. Jestliže zaznamenáte nějaký problém s robotem, pište do :slack:`#automatizace`.
+Existuje Twitter účet :twitter:`napyvo`, kam lze psát cokoliv v souvislosti s vaším srazem. :ref:`Zažádejte si o přístup <twitter>` a nebojte se tam psát. Nad toto ještě existuje robot :gh-repo:`pyvo-twitter <pyvec/pyvo-twitter>`, který píše na :twitter:`napyvo` automatické zprávy upozorňující na srazy. Upozorňuje ovšem jen na ty srazy, které jsou včas :ref:`potvrzené na pyvo.cz <srazy-pyvocz>`. Jestliže zaznamenáte nějaký problém s robotem, pište do :slack:`#automatizace`.
 
 .. warning::
     Tato sekce ještě není zcela připravena.
@@ -347,7 +347,7 @@ V průběhu volné zábavy by bylo fajn, kdyby se k sobě účastníci pořád c
 Knihovnička
 ^^^^^^^^^^^
 
-Existuje tzv. `Knihovnička <https://github.com/pyvec/bookshelf/>`__, do které můžete darovat knihy a z níž si knihy můžete půjčovat. Přestože jsou srazy v různých městech, docela se nám zatím daří knihy distribuovat a poptávky po zapůjčkách uspokojovat (velký dík za to patří především knihovníkovi `Petru Viktorinovi <https://encukou.cz/>`__, jenž s knihami pravidelně objíždí většinu srazů v ČR). Máš-li sraz, tato Knihovnička je jednou z věcí, kterou tam můžeš docela snadno zavést a podpořit tak interakci lidí i přenos vědomostí.
+Existuje tzv. :gh-repo:`Knihovnička <pyvec/bookshelf>`, do které můžete darovat knihy a z níž si knihy můžete půjčovat. Přestože jsou srazy v různých městech, docela se nám zatím daří knihy distribuovat a poptávky po zapůjčkách uspokojovat (velký dík za to patří především knihovníkovi `Petru Viktorinovi <https://encukou.cz/>`__, jenž s knihami pravidelně objíždí většinu srazů v ČR). Máš-li sraz, tato Knihovnička je jednou z věcí, kterou tam můžeš docela snadno zavést a podpořit tak interakci lidí i přenos vědomostí.
 
 
 Po akci
@@ -359,9 +359,9 @@ Po akci
 Materiály z přednášek
 ^^^^^^^^^^^^^^^^^^^^^
 
-Jako archiv informací o jednotlivých srazech jsme využívali `Lanyrd <https://en.wikipedia.org/wiki/Lanyrd>`__, ale nakonec jsme si na `pyvo.cz <https://pyvo.cz/>`__ udělali vlastní systém s databází `pyvo-data <https://github.com/pyvec/pyvo-data>`__.
+Jako archiv informací o jednotlivých srazech jsme využívali `Lanyrd <https://en.wikipedia.org/wiki/Lanyrd>`__, ale nakonec jsme si na `pyvo.cz <https://pyvo.cz/>`__ udělali vlastní systém s databází :gh-repo:`pyvo-data <pyvec/pyvo-data>`.
 
-Pokud máš nějaké slajdy nebo jiné materiály, je dobré je na stránky vašeho srazu doplnit k popisu přednášek. Může to být skoro cokoliv od odkazu na YouTube s videem z přednášky, po odkazy na slajdy ze služeb jako `Speaker Deck <https://speakerdeck.com/>`__ či `SlideShare <https://www.slideshare.net/>`__. Pokud ti přednášející předá slajdy ve formě souboru, převeď je pokud možno na PDF a nahraj do repozitáře `talks-archive <https://github.com/pyvec/talks-archive>`__.
+Pokud máš nějaké slajdy nebo jiné materiály, je dobré je na stránky vašeho srazu doplnit k popisu přednášek. Může to být skoro cokoliv od odkazu na YouTube s videem z přednášky, po odkazy na slajdy ze služeb jako `Speaker Deck <https://speakerdeck.com/>`__ či `SlideShare <https://www.slideshare.net/>`__. Pokud ti přednášející předá slajdy ve formě souboru, převeď je pokud možno na PDF a nahraj do repozitáře :gh-repo:`talks-archive <pyvec/talks-archive>`.
 
 
 .. _srazy-fotky:
@@ -381,7 +381,7 @@ Videa
 
 Pokud se ti povedlo natočit nějaká videa (viz :ref:`srazy-nataceni`), buď dej vědět `Petrovi Viktorinovi <https://encukou.cz/>`__ a nebo se pokus o jejich zpracování sám/sama.
 
- 1. Připrav prázdný adresář pro každou přednášku. S ti tím pomůže funkce ``videometadata`` nástroje `pyvodb <https://github.com/pyvec/pyvodb>`__:
+ 1. Připrav prázdný adresář pro každou přednášku. S ti tím pomůže funkce ``videometadata`` nástroje :gh-repo:`pyvodb <pyvec/pyvodb>`:
 
 .. code-block:: shell
 
@@ -404,7 +404,7 @@ Pokud se ti povedlo natočit nějaká videa (viz :ref:`srazy-nataceni`), buď de
 
  2. Do připravených adresářů nahraj soubory s videem – jak z kamery, tak záznamy projekce. Uprav vygenerovaný soubor ``config.yaml``, tak aby obsahoval správný název přednášky, jméno přednášejícího, datum a URL akce, stejně jako odkazy na videosoubory (pokud kamera automaticky dělí záběry do více souborů, nevadí to) a další metadata: jestli byla projekce 4:3 nebo 16:9, jestli jde o lightning talk, v jakém jazyku byla přednáška a v jakém slajdy, atd. Všechny možné volby najdeš v nápovědě níže zmíněného nástroje ``talk-video-maker``.
 
- 3. Nainstaluj `talk-video-maker <https://github.com/encukou/talk-video-maker>`__ a jeho závislosti – `Inkscape <https://inkscape.org/cs/>`__, `FFmpeg <https://ffmpeg.org/>`__ a font `Signika Negative <https://fonts.google.com/specimen/Signika+Negative>`__. Tohle s největší pravděpodobností nebude fungovat jinde než na Linuxu. Na wiki projektu je stručný `návod, jak s tím začít <https://github.com/encukou/talk-video-maker/wiki/Jak-s-t%C3%ADm-za%C4%8D%C3%ADt>`__.
+ 3. Nainstaluj :gh-repo:`talk-video-maker <encukou/talk-video-maker>` a jeho závislosti – `Inkscape <https://inkscape.org/cs/>`__, `FFmpeg <https://ffmpeg.org/>`__ a font `Signika Negative <https://fonts.google.com/specimen/Signika+Negative>`__. Tohle s největší pravděpodobností nebude fungovat jinde než na Linuxu. Na wiki projektu je stručný `návod, jak s tím začít <https://github.com/encukou/talk-video-maker/wiki/Jak-s-t%C3%ADm-za%C4%8D%C3%ADt>`__.
 
 .. code-block:: shell
 
@@ -416,7 +416,7 @@ Pokud se ti povedlo natočit nějaká videa (viz :ref:`srazy-nataceni`), buď de
 
  4. Pokud se vše podařilo, máš v aktuálním adresáři sestříhané video a k němu YAML soubor s metadaty potřebnými pro YouTube. Zkontroluj, jestli video vypadá, jak vypadat má, jestli nejsou překlepy v titulcích a jestli i na konci videa je synchronní obraz a zvuk. Pokud něco není v pořádku, pokus se najít příčinu – nejspíš to bude poškozený nebo špatně ustřižený video soubor.
 
- 5. Pro nahrávání do `kanálu Pyvo na YouTube <https://www.youtube.com/channel/UCaT4I7hjX9iH1YFvNvuu84A>`__ potřebuješ vlastní Google účet. Následně požádáš `Petra Viktorina <https://encukou.cz/>`__, aby tě přidal jako správce. Na YouTube pak budeš moci přepínat mezi svými účty, přičemž jedním z nich bude právě Pyvo. Protože ruční nahrávání je otrava, existuje nástroj `talk-video-uploader <https://github.com/oskar456/talk-video-uploader>`__, který video nahraje za tebe. Při prvním spuštění tě požádá o udělení oprávnění ke konkrétnímu účtu, do kterého následně bude nahrávat všechna videa.
+ 5. Pro nahrávání do `kanálu Pyvo na YouTube <https://www.youtube.com/channel/UCaT4I7hjX9iH1YFvNvuu84A>`__ potřebuješ vlastní Google účet. Následně požádáš `Petra Viktorina <https://encukou.cz/>`__, aby tě přidal jako správce. Na YouTube pak budeš moci přepínat mezi svými účty, přičemž jedním z nich bude právě Pyvo. Protože ruční nahrávání je otrava, existuje nástroj :gh-repo:`talk-video-uploader <oskar456/talk-video-uploader>`, který video nahraje za tebe. Při prvním spuštění tě požádá o udělení oprávnění ke konkrétnímu účtu, do kterého následně bude nahrávat všechna videa.
 
 .. code-block:: shell
 
@@ -428,7 +428,7 @@ Pokud se ti povedlo natočit nějaká videa (viz :ref:`srazy-nataceni`), buď de
 
 ..
 
- 6. Po nahrání všech videí je potřeba doplnit odkazy na ně do databáze `pyvo-data <https://github.com/pyvec/pyvo-data>`__. Příslušný fragment YAML souboru vygeneruje přímo ``talk-video-uploader``. Videa jsou při nahrávání nastavena jako neveřejná. Až YouTube video zpracuje a zkontroluješ, že je všechno v pořádku, nastav ho jako veřejné přímo z webového rozhraní YouTube.
+ 6. Po nahrání všech videí je potřeba doplnit odkazy na ně do databáze :gh-repo:`pyvo-data <pyvec/pyvo-data>`. Příslušný fragment YAML souboru vygeneruje přímo ``talk-video-uploader``. Videa jsou při nahrávání nastavena jako neveřejná. Až YouTube video zpracuje a zkontroluješ, že je všechno v pořádku, nastav ho jako veřejné přímo z webového rozhraní YouTube.
 
 Při sdílení myslete na to, že ne každý může chtít, aby byla jeho přednáška veřejně přístupná (viz :ref:`srazy-prednasejici`). Měli byste mít od přednášejícího svolení s nahráváním a uveřejněním nebo by mělo být alespoň jasné, že si mohou vybrat.
 
