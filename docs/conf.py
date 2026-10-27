@@ -33,10 +33,9 @@ extensions = [
     "sphinx.ext.doctest",
     "sphinx.ext.todo",
     "sphinx.ext.githubpages",
+    "sphinx.ext.extlinks",
     "sphinxemoji.sphinxemoji",
     "pyvec_docs.ext.slack",
-    "pyvec_docs.ext.twitter",
-    "pyvec_docs.ext.gh_repo",
     "pyvec_docs.ext.board_dates",
     "myst_parser",
 ]
@@ -136,6 +135,15 @@ epub_exclude_files = ["search.html"]
 
 # If true, `todo` and `todoList` produce output, else they produce nothing.
 todo_include_todos = True
+
+
+# -- Options for the extlinks extension -------------------------------------
+
+extlinks = {
+    "gh-repo": ("https://github.com/%s", "%s"),
+    "twitter": ("https://x.com/%s", "@%s"),
+    "x": ("https://x.com/%s", "@%s"),
+}
 
 
 # -- Options for the emoji extension -----------------------------------------

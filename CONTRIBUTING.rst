@@ -51,9 +51,18 @@ Při psaní můžete používat Emoji jako třeba |:cz:| nebo |:snake:|, ale nep
 Slack
 ^^^^^
 
-Při psaní lze psát ``:slack:`#pyladies`` nebo i jenom ``:slack:`pyladies``, což vytvoří odkaz na kanál :slack:`#pyladies` na Pyvec Slacku. Funguje to díky vlastnímu rozšíření Sphinxu, které lze najít v souboru ``_extensions/slack.py``.
+Při psaní lze psát ``:slack:`#pyladies`` nebo i jenom ``:slack:`pyladies``, což vytvoří odkaz na kanál :slack:`#pyladies` na Pyvec Slacku. Funguje to díky vlastnímu rozšíření Sphinxu, které lze najít v souboru ``src/pyvec_docs/ext/slack.py``.
 
 Všechny odkazy na kanál ``:slack:`#pyvec-board``, ať už je to ``:slack:`#pyvec-board`` nebo ``:slack:`#pyvec-board-2019-2021`` jsou automaticky předělány na odkaz na aktuální tajný kanál výboru. K určení správných roků se využívá `soubor boards.toml <https://github.com/pyvec/docs.pyvec.org/blob/master/src/pyvec_docs/boards.toml>`_.
+
+X (Twitter) a GitHub
+^^^^^^^^^^^^^^^^^^^^
+
+Při psaní lze psát ``:x:`napyvo``, což vytvoří odkaz na účet :x:`napyvo` na X (dříve Twitter). Starší zápis ``:twitter:`napyvo`` funguje stejně. Odkaz může mít i vlastní text a vést na cokoliv na X, např. ``:x:`tweet <honzajavorek/status/963867692594638848>``.
+
+Podobně ``:gh-repo:`pyvec/docs.pyvec.org`` vytvoří odkaz na repozitář :gh-repo:`pyvec/docs.pyvec.org` na GitHubu.
+
+Funguje to díky rozšíření `extlinks <https://www.sphinx-doc.org/en/master/usage/extensions/extlinks.html>`__, nastavenému v souboru ``docs/conf.py``.
 
 .. _docs-pyvec-rtd:
 

@@ -57,7 +57,7 @@ Vedoucí
    Člen týmu si může vzít na starost i úkol, který neví jak zpracovat - to je v pořádku. Vedoucí všechno vysvětlí, naučí, a zapíše sem.
 
 Přístupy
-   Členové týmu by měli být na `Pyvec Slacku <https://pyvec.slack.com/>`__ v místnosti :slack:`#pyconcz-media` a v týmu ``@pyconcz-media-team``, ve Facebookové skupine `Pyonýři <https://www.facebook.com/groups/pyonieri/>`__, měli by být nastavení jako spoluorganizátoři Facebookové události pro konferenci (příspěvky od organizátorů se zobrazují viditelněji), měli by mít přístup do Twitter účtu `@pyconcz <https://twitter.com/pyconcz>`__ a měli by umět posílat e-maily do skupiny `django-cs <https://groups.google.com/g/django-cs>`__.
+   Členové týmu by měli být na `Pyvec Slacku <https://pyvec.slack.com/>`__ v místnosti :slack:`#pyconcz-media` a v týmu ``@pyconcz-media-team``, ve Facebookové skupine `Pyonýři <https://www.facebook.com/groups/pyonieri/>`__, měli by být nastavení jako spoluorganizátoři Facebookové události pro konferenci (příspěvky od organizátorů se zobrazují viditelněji), měli by mít přístup do Twitter účtu :x:`pyconcz` a měli by umět posílat e-maily do skupiny `django-cs <https://groups.google.com/g/django-cs>`__.
 
 Úkoly od spoluorganizátorů
    Pokud na Slacku přijde úkol ("zpropagujte datum konference") a v Media týmu je víc lidí, je dobré na Slack napsat "jdu na to", pokud to jdu udělat, aby ostatní z týmu věděli, že už to nemusí řešit. Případně "budu na to mít čas dnes večer" (třeba to někdo zvládne i dřív) nebo "udělám Facebook" (někdo jiný si vezme Twitter).
@@ -118,7 +118,7 @@ Na `pycon.org <https://pycon.org/>`__ je kalendář, kam je potřeba co nejdří
 
 Kromě toho existuje `Python Events Calendar <https://wiki.python.org/moin/PythonEventsCalendar>`__. Aktuálně není jasné, jestli se změny v CSV výše promítnou i do něj. Proto radši navíc `pošli e-mail <https://wiki.python.org/python/conferences/regional/PythonEventsCalendar.html#submitting-an-event>`__ i sem. Pozor, je nutné použít danou šablonu.
 
-Pokud tam konference nebude, je pravděpodobné, že si datum vybere i jiná konference. Bude-li v nedalekém místě, může z toho být `mrzení <https://twitter.com/mariocj89/status/1100488632064856064>`__ v podobě nechtěného přetahování speakerů a návštěvníků.
+Pokud tam konference nebude, je pravděpodobné, že si datum vybere i jiná konference. Bude-li v nedalekém místě, může z toho být :x:`mrzení <mariocj89/status/1100488632064856064>` v podobě nechtěného přetahování speakerů a návštěvníků.
 
 Facebook
 ~~~~~~~~
@@ -153,7 +153,7 @@ Emoji pomáhají tomu, aby si lidi statusu všimli, ale nemělo by se to s nimi 
 Twitter
 ~~~~~~~
 
-Máme účet `@pyconcz <https://twitter.com/pyconcz>`__, velmi důležité věci budeme chtít retweetovat i na dalších účtech (`@napyvo <https://twitter.com/napyvo>`__, `@pyvec <https://twitter.com/pyvec>`__, `@pyladiescz <https://twitter.com/pyladiescz>`__). Od dob, co Twitter neudržuje lineární historii sledovaných tweetů a lidi sledují stovky účtů, se nedá spolehnout na to, že cokoliv tweetneme, někdo vůbec zachytí a přečte. Jedinou obranou je důležité věci tweetovat opakovaně a v různé časy během dne.
+Máme účet :x:`pyconcz`, velmi důležité věci budeme chtít retweetovat i na dalších účtech (:x:`napyvo`, :x:`pyvec`, :x:`pyladiescz`). Od dob, co Twitter neudržuje lineární historii sledovaných tweetů a lidi sledují stovky účtů, se nedá spolehnout na to, že cokoliv tweetneme, někdo vůbec zachytí a přečte. Jedinou obranou je důležité věci tweetovat opakovaně a v různé časy během dne.
 
 Nemá smysl nic psát od pátku od oběda do neděle do večera - Češi zmizí na víkend někam na chatu a Twitter nečtou. Nejlepší tweetovací časy jsou 11 ráno a 3 odpoledne. Změřil to v minulosti `buffer.com <https://buffer.com/>`__ na reálných datech z PyCon CZ účtu a celkem se i zdá, že to funguje.
 
@@ -161,7 +161,7 @@ Speakeři, přednášky, videa apod. věci, kterých je hodně, se tweetujou jed
 
 Emoji pomáhají tomu, aby si lidi statusu všimli, ale nemělo by se to s nimi asi úplně přehánět.
 
-Velké publikum se dá sehnat tak, že s účtem `@pyconcz <https://twitter.com/pyconcz>`__ followujeme jiné, relevantní účty. Je to trochu followovací spam, ale funguje dobře. Pokud je to relevantní, nevidím v tom problém. Vždy je dobré před konferencí projet, co se kde urodilo nového za účty a co je kde za nové zajímavé lidi kolem Pythonu a nafollowovat je. Hledají se tak, že se na Twitteru přihlásíme za konferenční účet, pak `se nechají vypsat účty, které mají něco společného s Pythonem <https://twitter.com/search?f=users&q=python>`__ a okem se kontroluje, jestli jsou z ČR, případně z přilehlých zemí. Následně se už jen kliká. Také se vyplatí followovat jiné evropské PyCon / PyLadies / Django Girls účty. Pro inspiraci nechť slouží `existující seznam followovaných účtů <https://twitter.com/pyconcz/following>`__.
+Velké publikum se dá sehnat tak, že s účtem :x:`pyconcz` followujeme jiné, relevantní účty. Je to trochu followovací spam, ale funguje dobře. Pokud je to relevantní, nevidím v tom problém. Vždy je dobré před konferencí projet, co se kde urodilo nového za účty a co je kde za nové zajímavé lidi kolem Pythonu a nafollowovat je. Hledají se tak, že se na Twitteru přihlásíme za konferenční účet, pak :x:`se nechají vypsat účty, které mají něco společného s Pythonem <search?f=users&q=python>` a okem se kontroluje, jestli jsou z ČR, případně z přilehlých zemí. Následně se už jen kliká. Také se vyplatí followovat jiné evropské PyCon / PyLadies / Django Girls účty. Pro inspiraci nechť slouží :x:`existující seznam followovaných účtů <pyconcz/following>`.
 
 Před každou konferencí je také potřeba upravit bio (kdy a kde se konference koná), grafika, atd.
 
@@ -247,7 +247,7 @@ Když je otevřeno CfP, je dobré to dát plošně vědět, protože existuje p�
 Agregátory na Twitteru
 ^^^^^^^^^^^^^^^^^^^^^^
 
-Může se vyplatit oslovit různé agregátory, aby náš tweet retweetli a tak se dostal k více lidem, např. `@callbackwomen <https://twitter.com/callbackwomen>`__. Z osobního účtu jim můžeme jen tak poslat `tweet <https://twitter.com/honzajavorek/status/963867692594638848>`__ s odkazem na konferenční tweet, který bychom rádi zpropagovali.
+Může se vyplatit oslovit různé agregátory, aby náš tweet retweetli a tak se dostal k více lidem, např. :x:`callbackwomen`. Z osobního účtu jim můžeme jen tak poslat :x:`tweet <honzajavorek/status/963867692594638848>` s odkazem na konferenční tweet, který bychom rádi zpropagovali.
 
 .. _priprava-na-cfp:
 
@@ -258,7 +258,7 @@ Před CfP je dobré si udělat "domácí úkoly". Stejně jako si sportovní kom
 
 Základem je vědět obecně, koho chci do CfP dostat. PyCon CZ je historicky hodně o tom, že ukazuje diverzitu světa Pythonu. Zajímavé je tedy dostat do CfP lidi, kteří nejsou tak úplně programátoři (`biologové <https://cz.pycon.org/2018/programme/detail/talk/21/>`__, datoví novináři, `fyzikové <https://cz.pycon.org/2017/speakers/detail/talk/22/>`__, ...), začátečníky, ženy, `děti <https://cz.pycon.org/2018/programme/detail/talk/33/>`__, atd. Takže pokud někde někoho takového zahlédnu, chňapnu po něm a budu se jej snažit do CfP dotlačit.
 
-Potom PyCon CZ mívá expertní přednášky, které nejsou zajímavé tím, že jsou z (pro programátory) obskurního prostředí nebo že je přednáší `desetiletý chlapec <https://twitter.com/all_about_code>`__, ale jsou zajímavé prostě tématem. V tomto případě jsou samozřejmě nějaká evergreen témata, která letí vždycky (databáze, API, komunita, vzdělávání, ...), ale pak je dobré i zjistit, co letí právě teď.
+Potom PyCon CZ mívá expertní přednášky, které nejsou zajímavé tím, že jsou z (pro programátory) obskurního prostředí nebo že je přednáší :x:`desetiletý chlapec <all_about_code>`, ale jsou zajímavé prostě tématem. V tomto případě jsou samozřejmě nějaká evergreen témata, která letí vždycky (databáze, API, komunita, vzdělávání, ...), ale pak je dobré i zjistit, co letí právě teď.
 
 Pokud zrovna neobjíždím konference a nesleduji zahraniční články z oboru, lze i tak snadno zjistit, čím svět žije - stačí si jen :ref:`projít jiné konference <jine-konference-programy>` a "dělat si čárky" u témat, která se opakují. V letech 2017-2018 např. velmi letělo "GraphQL" a i bez toho, abych věděl co to vůbec je, můžu mířit na lidi, kteří o tom píšou na svém Twitteru, přednáší na konferencích, atd. Také mohu ke svým tweetům o CfP přidat #graphql, a je to.
 
@@ -269,7 +269,7 @@ Jiné konference a cestování speakerů
 
 Co znamená "projít jiné konference"? Znamená to zjistit, jaké další Python konference se teď konaly nebo budou konat v Evropě. Pomoci může například `seznam na pycon.org <https://pycon.org/>`__ Je dobré vědět, jestli se PyCon CZ koná souběžně s jinou konferencí (jednou se to stalo s PyCon DE a to bylo velké mrzení, jelikož k nám nechtěl přijet nikdo z Německa) nebo těsně před/po jiné blízké (Německo, Rakousko, Polsko, Slovensko) či velké (EuroPython) konferenci. Z toho pak vyvozuji závěry. Evropský speaker, který přijede do Polska týden před PyCon CZ asi nebude mít problém se stavit i u nás. Americký speaker, který má letět týden po PyCon CZ na EuroPython si možná rád odskočí dát přednášku do ČR a můžeme mu zkusit napsat.
 
-Do CfP se jinak moc nevyplatí mířit na speakery za oceánem, pokud nemají cestu kolem - ti se obecně zvou spíš separátně jako keynote speakeři. Není to ale absolutní pravidlo - `Honza <https://honzajavorek.cz>`__ omylem napsal `člověku, protože si nevšiml, že je z Texasu <https://twitter.com/vanl>`__, a ten prostě neváhal a přiletěl.
+Do CfP se jinak moc nevyplatí mířit na speakery za oceánem, pokud nemají cestu kolem - ti se obecně zvou spíš separátně jako keynote speakeři. Není to ale absolutní pravidlo - `Honza <https://honzajavorek.cz>`__ omylem napsal :x:`člověku, protože si nevšiml, že je z Texasu <vanl>`, a ten prostě neváhal a přiletěl.
 
 S tím souvisí obecně snadnost cestování. Země na východ od nás potřebují spíše granty, země na západ zase spíš přicestují, klidně i letadlem. Speakeři jsou taky jenom lidi, takže se těší na výlet do Prahy (protože je krásná a profláklá po celém světě) nebo do Brna (protože `o něm píšou NYT <https://www.nytimes.com/2017/04/12/travel/cafe-and-cocktail-culture-brno-czech-republic.html>`__ aj.), ale otázka je, jak moc je budeme muset přemlouvat, aby přijeli jinam. S tím souvisí i kvalitní sekce o místě konání na webu, která město dokáže "prodat". Je potřeba mít toto kvůli speakerům v provozu už při CfP, aby věděli, že nepojedou přes půl Evropy nebo světa do nějaké díry. Také je dobré zdůraznit jednoduchost dopravy (např. z Londýna do Ostravy se dá dostat letem do Pardubic a dál Pendolinem).
 
@@ -280,7 +280,7 @@ Programy jiných konferencí
 
 Informaci o dopravě na místo konání lze použít i naopak - tzn. když zjistím, že v UK žijí relativně bohatí lidé a z UK se do Ostravy dostanu díky nízkonákladovkám relativně snadno, začnu se dívat po speakerech v UK. Stejně tak pokud do Ostravy jedou přímé vlaky z Polska, využiju zase to.
 
-Nejjednodušší je otevřít si v takovém případě stránky PyCon UK nebo PyCon PL, projít jejich přednášky, vytipovat si zajímavé lidi, a těm napsat e-mail nebo i jen `tweet <https://twitter.com/honzajavorek/status/963866686578360321>`__. Takový "`scouting <https://cs.wikipedia.org/wiki/Skaut_(sport)>`__" je samozřejmě trochu parazitování na cizích pečlivě seskládaných programech, ale dělají to všichni, takže se tím asi není potřeba moc rozrušovat. Navíc jde jen o oslovování lidí - nemusí mít čas, nemusí nic poslat, nemusí se dostat přes CfP komisi...
+Nejjednodušší je otevřít si v takovém případě stránky PyCon UK nebo PyCon PL, projít jejich přednášky, vytipovat si zajímavé lidi, a těm napsat e-mail nebo i jen :x:`tweet <honzajavorek/status/963866686578360321>`. Takový "`scouting <https://cs.wikipedia.org/wiki/Skaut_(sport)>`__" je samozřejmě trochu parazitování na cizích pečlivě seskládaných programech, ale dělají to všichni, takže se tím asi není potřeba moc rozrušovat. Navíc jde jen o oslovování lidí - nemusí mít čas, nemusí nic poslat, nemusí se dostat přes CfP komisi...
 
 Propagace jiných konferencí
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -290,33 +290,33 @@ Pokud během našeho CfP mají CfP nebo prodávají lístky i jiné konference, 
 Hashtagy na Twitteru
 ^^^^^^^^^^^^^^^^^^^^
 
-Lze tweetovat spolu s hashtagy mířící na různé věci, co zrovna letí - např. `zde se tweetuje o CfP, ale s hashtagem #datascience <https://twitter.com/pyconcz/status/965503220155060225>`__.
+Lze tweetovat spolu s hashtagy mířící na různé věci, co zrovna letí - např. :x:`zde se tweetuje o CfP, ale s hashtagem #datascience <pyconcz/status/965503220155060225>`.
 
 Minulé roky
 ^^^^^^^^^^^
 
-PyCon CZ se organizuje od roku 2015 a je velká pravděpodobnost, že lidé, kteří na něm už někdy vystupovali, by měli co říct i nadále. Stránky minulých ročníků jsou dostupné vždy na ``https://cz.pycon.org/20XX``, takže není těžké si to zanalyzovat a individuálně poslat e-mail nebo `tweet <https://twitter.com/honzajavorek/status/962375899785121793>`__.
+PyCon CZ se organizuje od roku 2015 a je velká pravděpodobnost, že lidé, kteří na něm už někdy vystupovali, by měli co říct i nadále. Stránky minulých ročníků jsou dostupné vždy na ``https://cz.pycon.org/20XX``, takže není těžké si to zanalyzovat a individuálně poslat e-mail nebo :x:`tweet <honzajavorek/status/962375899785121793>`.
 
 Open Source
 ^^^^^^^^^^^
 
-Lze projít `nejúspěšnější Open Source projekty na GitHubu <https://github.com/topics/python>`__  a v `jejich contributors <https://github.com/httpie/cli/graphs/contributors>`__ identifikovat `lidi, kteří mají na projektu zásadní podíl <https://github.com/jakubroztocil>`__ a přitom by mohli dorazit na PyCon CZ s přednáškou nebo workshopem (tzn. buď je z jejich osobních profilů zřejmé, že běžně lítají po celém světě, nebo jsou někde z Evropy). Pozvat je můžeme e-mailem, ale klidně i `jen tweetem <https://twitter.com/honzajavorek/status/964410268913606659>`__.
+Lze projít `nejúspěšnější Open Source projekty na GitHubu <https://github.com/topics/python>`__  a v `jejich contributors <https://github.com/httpie/cli/graphs/contributors>`__ identifikovat `lidi, kteří mají na projektu zásadní podíl <https://github.com/jakubroztocil>`__ a přitom by mohli dorazit na PyCon CZ s přednáškou nebo workshopem (tzn. buď je z jejich osobních profilů zřejmé, že běžně lítají po celém světě, nebo jsou někde z Evropy). Pozvat je můžeme e-mailem, ale klidně i :x:`jen tweetem <honzajavorek/status/964410268913606659>`.
 
 Probíhající události
 ^^^^^^^^^^^^^^^^^^^^
 
 Zjistíme si na `meetup.com <https://www.meetup.com/>`__ a konfery.cz (zdá se, že tento web během pandemie skončil), jaké relevantní (Python, Ruby, databáze, API, ...) meetupy probíhají v ČR a v Evropě během našeho CfP. Najdeme si jejich Twitter účet, oficiální Twitter hashtag, Facebookovou událost, apod. Na čas jejich konání naplánujeme zprávu, která poprosí organizátory o šíření zprávy o našem CfP, popřípadě pozve účastníky, aby na našem CfP participovali. Pokud je událost vícedenní, tweetujeme každý den. Reálné příklady:
 
-- `Rusko <https://twitter.com/honzajavorek/status/963462774960599040>`__
-- `Německo <https://twitter.com/honzajavorek/status/963837746266636288>`__
-- `Německo <https://twitter.com/honzajavorek/status/963482404429049856>`__
-- `Česko <https://twitter.com/honzajavorek/status/964123378289291264>`__
-- `Švýcarsko <https://twitter.com/honzajavorek/status/964427884210221056>`__
+- :x:`Rusko <honzajavorek/status/963462774960599040>`
+- :x:`Německo <honzajavorek/status/963837746266636288>`
+- :x:`Německo <honzajavorek/status/963482404429049856>`
+- :x:`Česko <honzajavorek/status/964123378289291264>`
+- :x:`Švýcarsko <honzajavorek/status/964427884210221056>`
 
 Organizátoři jiných konferencí
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Můžeme poprosit organizátory spřátelených nebo prostě blízkých konferencí, aby sdíleli informace o našem CfP. Organizátory spřátelených (PyCon SK, PyCon PL) navíc většinou přímo zveme na volňásky. Pokud víme, že občas přednáší, zkusíme je i rovnou pozvat do CfP, klidně jen `tweetem <https://twitter.com/honzajavorek/status/963866687983546369>`__.
+Můžeme poprosit organizátory spřátelených nebo prostě blízkých konferencí, aby sdíleli informace o našem CfP. Organizátory spřátelených (PyCon SK, PyCon PL) navíc většinou přímo zveme na volňásky. Pokud víme, že občas přednáší, zkusíme je i rovnou pozvat do CfP, klidně jen :x:`tweetem <honzajavorek/status/963866687983546369>`.
 
 Česká komunita
 ^^^^^^^^^^^^^^
@@ -343,7 +343,7 @@ Nováčci
 
 Lákání nováčků je vyloženě "`scouting <https://cs.wikipedia.org/wiki/Skaut_(sport)>`__". Jsou to lidé, kteří nejspíš mají co říct, ale bojí se, nikdy to nedělali, mohou mít nízké sebevědomí, apod.
 
-Vytipování je dost na osobní bázi - většinou takový nováček nemůže dát expertní přednášku, takže hledáme spíše "hluboký lidský příběh" založený na osobním úspěchu, který umožnil či akceleroval Python a jeho komunita: `Ze skladníka programátorem <https://blog.python.cz/ja-python-a-rosti>`__, `absolventka PyLadies v Kanadě <https://twitter.com/BaruZKanady/status/1053485882827784192>`__, to vše jsou příběhy, které lze zachytit a přetavit v přednášku na PyCon CZ.
+Vytipování je dost na osobní bázi - většinou takový nováček nemůže dát expertní přednášku, takže hledáme spíše "hluboký lidský příběh" založený na osobním úspěchu, který umožnil či akceleroval Python a jeho komunita: `Ze skladníka programátorem <https://blog.python.cz/ja-python-a-rosti>`__, :x:`absolventka PyLadies v Kanadě <BaruZKanady/status/1053485882827784192>`, to vše jsou příběhy, které lze zachytit a přetavit v přednášku na PyCon CZ.
 
 Nemusí to být ale jen příběh. I začátečník v přednášení nebo Pythonu může mít nabušenou přednášku, viz již proběhlé `programování s dětmi <https://cz.pycon.org/2018/programme/detail/talk/13/>`__, `šifrovačky <https://cz.pycon.org/2016/speakers/talks/#honza-klusacek>`__ nebo `testování <https://cz.pycon.org/2016/speakers/talks/#magdalena-kabatova>`__.
 
@@ -358,9 +358,9 @@ Odpočet
 
 Několik týdnů/dní/hodin před uzávěrkou CfP je dobré plošně bombardovat Twitter i Facebook s tím, že se blíží konec. Lze se přitom všelijak vyřádit, cílem je jakkoliv zaujmout pozornost:
 
-- `emoji <https://twitter.com/pyconcz/status/968487634954784769>`__
-- `obrázky <https://twitter.com/pyconcz/status/968764208325255168>`__
-- `gify <https://twitter.com/pyconcz/status/968907400655892480>`__
+- :x:`emoji <pyconcz/status/968487634954784769>`
+- :x:`obrázky <pyconcz/status/968764208325255168>`
+- :x:`gify <pyconcz/status/968907400655892480>`
 
 
 Co propagovat během konference

@@ -369,7 +369,7 @@ Pokud máš nějaké slajdy nebo jiné materiály, je dobré je na stránky vaš
 Fotky
 ^^^^^
 
-Pyvec má na svém Google Drive archiv všech možných fotek z akcí české Python komunity, který zatím ale neústí v žádnou veřejnou, centralizovanou celorepublikovou galerii. Pokud máš nějaké fotky ze srazu (viz :ref:`srazy-foceni`) a chceš je archivovat, kontaktuj určitě :ref:`srazy-pyvec`. Chceš-li je sdílet, hoď je, kam je ti libo. Když se ti pár fotek opravdu povede, tweetni je a udělej *mention* na `@naPyvo <https://twitter.com/napyvo>`__ (rádi to retweetnem).
+Pyvec má na svém Google Drive archiv všech možných fotek z akcí české Python komunity, který zatím ale neústí v žádnou veřejnou, centralizovanou celorepublikovou galerii. Pokud máš nějaké fotky ze srazu (viz :ref:`srazy-foceni`) a chceš je archivovat, kontaktuj určitě :ref:`srazy-pyvec`. Chceš-li je sdílet, hoď je, kam je ti libo. Když se ti pár fotek opravdu povede, tweetni je a udělej *mention* na :x:`naPyvo` (rádi to retweetnem).
 
 Při sdílení myslete na to, že ne každý se rád fotí a ne každý rád visí někde na Facebooku.
 
@@ -475,7 +475,7 @@ Tipy
 Původ názvu Pyvo
 ^^^^^^^^^^^^^^^^
 
-Název *Pyvo* vymyslel `Rastislav Turek <https://twitter.com/synopsi>`__ někdy v roce 2011. Založil skupinu `Pyonieri <https://www.facebook.com/groups/pyonieri/>`__ a odstartoval v Bratislavě srazy Pyvo, které byly ale prakticky od začátku spojené s `Rubyslavou <http://rubyslava.sk/>`__. Když Honza Javorek zakládal Python sraz v Brně, název se svolením převzal. Později se rozšířil i do Prahy (kde přejmenovali Django CS / Pyvec srazy na Pyvo) a do Ostravy, kde už se to jako Pyvo rovnou založilo. Mezitím se Rubyslava stala srazem pro programátory všeho druhu a Pyvo v Bratislavě jako samostatný projekt úplně zaniklo. Až později bylo nahrazeno komunitou kolem `PyCon SK <https://pycon.sk/>`__ a jejich srazy.
+Název *Pyvo* vymyslel :x:`Rastislav Turek <synopsi>` někdy v roce 2011. Založil skupinu `Pyonieri <https://www.facebook.com/groups/pyonieri/>`__ a odstartoval v Bratislavě srazy Pyvo, které byly ale prakticky od začátku spojené s `Rubyslavou <http://rubyslava.sk/>`__. Když Honza Javorek zakládal Python sraz v Brně, název se svolením převzal. Později se rozšířil i do Prahy (kde přejmenovali Django CS / Pyvec srazy na Pyvo) a do Ostravy, kde už se to jako Pyvo rovnou založilo. Mezitím se Rubyslava stala srazem pro programátory všeho druhu a Pyvo v Bratislavě jako samostatný projekt úplně zaniklo. Až později bylo nahrazeno komunitou kolem `PyCon SK <https://pycon.sk/>`__ a jejich srazy.
 
 
 .. _srazy-pyvec:
