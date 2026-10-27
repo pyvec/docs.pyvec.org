@@ -200,7 +200,7 @@ Existuje Twitter účet :twitter:`napyvo`, kam lze psát cokoliv v souvislosti s
     Tato sekce ještě není zcela připravena.
 
 ..
-    Lanyrd, Facebook Event + Pyonieri, Srazy.info, univerzity, firmy, Twitter... zpravicka na root.cz, zpravicka na   zdrojak, email pozvanka na django-cs / py konference, meetup.com, https://wiki.python.org/moin/PythonEventsCalendar
+    Lanyrd, Facebook Event + Pyonieri, Srazy.info, univerzity, firmy, Twitter... zpravicka na root.cz, zpravicka na   zdrojak, email pozvanka na django-cs / py konference, meetup.com, https://wiki.python.org/python/conferences/regional/PythonEventsCalendar.html
 
     Firmy!!!
 
@@ -243,7 +243,7 @@ Přednášející
     přednášení hloupostí na lightning talku podnítí ostatní
 
 ..
-    https://wiki.python.org/moin/PythonSpeakers
+    https://wiki.python.org/python/archive/PythonSpeakers.html
 
 
 Průběh akce
@@ -448,7 +448,7 @@ Pokud chceš nabrat nějakou další inspiraci k tomu, jak organizovat Python sr
 Globální zdroje
 ^^^^^^^^^^^^^^^
 
-- `Starting Your Python Users Group <https://wiki.python.org/moin/StartingYourUsersGroup>`__ na python.org
+- `Starting Your Python Users Group <https://wiki.python.org/python/archive/StartingYourUsersGroup.html>`__ na python.org
 
 
 .. _srazy-zakulisi-cr:
