@@ -141,6 +141,7 @@ todo_include_todos = True
 
 extlinks = {
     "gh-repo": ("https://github.com/%s", "%s"),
+    "gh-user": ("https://github.com/%s", "@%s"),
     "twitter": ("https://x.com/%s", "@%s"),
     "x": ("https://x.com/%s", "@%s"),
 }

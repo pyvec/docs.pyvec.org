@@ -24,7 +24,7 @@ Výbor od {{ board.start_on.strftime("%-d.%-m.%Y") }}
      * Funkce
   {%- for member in board.members %}
    * * {{ member.name }}
-     * `@{{ member.github }} <https://github.com/{{ member.github }}>`_
+     * :gh-user:`{{ member.github }}`
      *
       {%- if member.is_chair -%}
          {{- " " -}} |:crown:|

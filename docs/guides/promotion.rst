@@ -300,7 +300,7 @@ PyCon CZ se organizuje od roku 2015 a je velká pravděpodobnost, že lidé, kte
 Open Source
 ^^^^^^^^^^^
 
-Lze projít `nejúspěšnější Open Source projekty na GitHubu <https://github.com/topics/python>`__  a v `jejich contributors <https://github.com/httpie/cli/graphs/contributors>`__ identifikovat `lidi, kteří mají na projektu zásadní podíl <https://github.com/jakubroztocil>`__ a přitom by mohli dorazit na PyCon CZ s přednáškou nebo workshopem (tzn. buď je z jejich osobních profilů zřejmé, že běžně lítají po celém světě, nebo jsou někde z Evropy). Pozvat je můžeme e-mailem, ale klidně i :x:`jen tweetem <honzajavorek/status/964410268913606659>`.
+Lze projít `nejúspěšnější Open Source projekty na GitHubu <https://github.com/topics/python>`__  a v `jejich contributors <https://github.com/httpie/cli/graphs/contributors>`__ identifikovat :gh-user:`lidi, kteří mají na projektu zásadní podíl <jakubroztocil>` a přitom by mohli dorazit na PyCon CZ s přednáškou nebo workshopem (tzn. buď je z jejich osobních profilů zřejmé, že běžně lítají po celém světě, nebo jsou někde z Evropy). Pozvat je můžeme e-mailem, ale klidně i :x:`jen tweetem <honzajavorek/status/964410268913606659>`.
 
 Probíhající události
 ^^^^^^^^^^^^^^^^^^^^

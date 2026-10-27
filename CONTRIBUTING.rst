@@ -60,7 +60,7 @@ X (Twitter) a GitHub
 
 Při psaní lze psát ``:x:`napyvo``, což vytvoří odkaz na účet :x:`napyvo` na X (dříve Twitter). Starší zápis ``:twitter:`napyvo`` funguje stejně. Odkaz může mít i vlastní text a vést na cokoliv na X, např. ``:x:`tweet <honzajavorek/status/963867692594638848>``.
 
-Podobně ``:gh-repo:`pyvec/docs.pyvec.org`` vytvoří odkaz na repozitář :gh-repo:`pyvec/docs.pyvec.org` na GitHubu.
+Podobně ``:gh-repo:`pyvec/docs.pyvec.org`` vytvoří odkaz na repozitář :gh-repo:`pyvec/docs.pyvec.org` na GitHubu a ``:gh-user:`honzajavorek`` vytvoří odkaz na profil :gh-user:`honzajavorek`.
 
 Funguje to díky rozšíření `extlinks <https://www.sphinx-doc.org/en/master/usage/extensions/extlinks.html>`__, nastavenému v souboru ``docs/conf.py``.
 

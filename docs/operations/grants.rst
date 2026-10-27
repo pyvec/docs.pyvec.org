@@ -17,7 +17,7 @@ Kdyby něco nesedělo, ověřte `historii zdrojáku této stránky <https://gith
 3. 12. 2025 - elektronické hlasování výboru
 --------------------------------------------
 
-Dne 10. 11. 2025 požádal uživatel `@frenzymadness <https://github.com/frenzymadness>`_ o grant `Grant Python Pizza Ostrava <https://github.com/pyvec/money/issues/46>`_:
+Dne 10. 11. 2025 požádal uživatel :gh-user:`frenzymadness` o grant `Grant Python Pizza Ostrava <https://github.com/pyvec/money/issues/46>`_:
 
 .. code-block:: text
 
@@ -53,7 +53,7 @@ Grant byl schválen.
 2. 7. 2025 - elektronické hlasování výboru
 --------------------------------------------
 
-Dne 30. 6. 2025 požádal uživatel `@clytaemnestra <https://github.com/clytaemnestra>`_ o grant `Grant na červencové Pražské Pyvo <https://github.com/pyvec/money/issues/43>`_:
+Dne 30. 6. 2025 požádal uživatel :gh-user:`clytaemnestra` o grant `Grant na červencové Pražské Pyvo <https://github.com/pyvec/money/issues/43>`_:
 
 .. code-block:: text
 
@@ -84,7 +84,7 @@ Grant byl schválen.
 18. 3. 2025 - elektronické hlasování výboru
 --------------------------------------------
 
-Dne 18. 2. 2025 požádal uživatel `@frenzymadness <https://github.com/frenzymadness>`_ o grant `Python Community Sprint na Východě 2025 <https://github.com/pyvec/money/issues/32>`_:
+Dne 18. 2. 2025 požádal uživatel :gh-user:`frenzymadness` o grant `Python Community Sprint na Východě 2025 <https://github.com/pyvec/money/issues/32>`_:
 
 .. code-block:: text
 
@@ -122,7 +122,7 @@ Grant byl schválen.
 11. 3. 2025 - elektronické hlasování výboru
 --------------------------------------------
 
-Dne 11. 3. 2025 požádal uživatel `@befeleme <https://github.com/befeleme>`_ o grant `Příspěvek na trička <https://github.com/pyvec/money/issues/38>`_:
+Dne 11. 3. 2025 požádal uživatel :gh-user:`befeleme` o grant `Příspěvek na trička <https://github.com/pyvec/money/issues/38>`_:
 
 .. code-block:: text
 
@@ -154,7 +154,7 @@ Grant byl schválen.
 18. 2. 2025 - elektronické hlasování výboru
 --------------------------------------------
 
-Dne 17. 2. 2025 požádal uživatel `@anezkamll <https://github.com/anezkamll>`_ o grant `Proplacení účastnických placek Brno Python Pizza (ze sponzorského budgetu akce) <https://github.com/pyvec/money/issues/31>`_:
+Dne 17. 2. 2025 požádal uživatel :gh-user:`anezkamll` o grant `Proplacení účastnických placek Brno Python Pizza (ze sponzorského budgetu akce) <https://github.com/pyvec/money/issues/31>`_:
 
 .. code-block:: text
 
@@ -191,7 +191,7 @@ Grant byl schválen.
 24. 10. 2024 - elektronické hlasování výboru
 --------------------------------------------
 
-Dne 17. 10. 2024 požádal uživatel `@benabraham <https://github.com/benabraham>`_ o grant `HDMI kabel pro pražské Pyvo <https://github.com/pyvec/money/issues/27>`_:
+Dne 17. 10. 2024 požádal uživatel :gh-user:`benabraham` o grant `HDMI kabel pro pražské Pyvo <https://github.com/pyvec/money/issues/27>`_:
 
 .. code-block:: text
 
@@ -229,7 +229,7 @@ Grant byl schválen.
 24. 10. 2024 - elektronické hlasování výboru
 --------------------------------------------
 
-Dne 10. 9. 2024 požádal uživatel `@hroncok <https://github.com/hroncok>`_ o grant `Záloha na venue PyCamp CZ 2025 <https://github.com/pyvec/money/issues/26>`_:
+Dne 10. 9. 2024 požádal uživatel :gh-user:`hroncok` o grant `Záloha na venue PyCamp CZ 2025 <https://github.com/pyvec/money/issues/26>`_:
 
 .. code-block:: text
 
@@ -276,7 +276,7 @@ Grant byl schválen.
 2. 10. 2024 - elektronické hlasování výboru
 --------------------------------------------
 
-Dne 1. 9. 2024 požádal uživatel `@kvbik <https://github.com/kvbik>`_ o grant `Python Community Sprint Msene Lazne 2024 <https://github.com/pyvec/money/issues/25>`_:
+Dne 1. 9. 2024 požádal uživatel :gh-user:`kvbik` o grant `Python Community Sprint Msene Lazne 2024 <https://github.com/pyvec/money/issues/25>`_:
 
 .. code-block:: text
 
@@ -311,7 +311,7 @@ Grant byl schválen.
 10. 9. 2024 - elektronické hlasování výboru
 --------------------------------------------
 
-Dne 22. 2. 2024 požádal uživatel `@benabraham <https://github.com/benabraham>`_ o grant `Proplacení meetup.com pro Pyvo Praha <https://github.com/pyvec/money/issues/18>`_:
+Dne 22. 2. 2024 požádal uživatel :gh-user:`benabraham` o grant `Proplacení meetup.com pro Pyvo Praha <https://github.com/pyvec/money/issues/18>`_:
 
 .. code-block:: text
 
@@ -344,7 +344,7 @@ Grant byl schválen.
 11. 5. 2024 - elektronické hlasování výboru
 --------------------------------------------
 
-Dne 23. 4. 2024 požádal uživatel `@frenzymadness <https://github.com/frenzymadness>`_ o grant `Python Community Sprint na Východě 2024 <https://github.com/pyvec/money/issues/19>`_:
+Dne 23. 4. 2024 požádal uživatel :gh-user:`frenzymadness` o grant `Python Community Sprint na Východě 2024 <https://github.com/pyvec/money/issues/19>`_:
 
 .. code-block:: text
 
@@ -378,7 +378,7 @@ Grant byl schválen.
 10. 12. 2023 - elektronické hlasování výboru
 --------------------------------------------
 
-Dne 26. 11. 2023 požádal uživatel `@clytaemnestra <https://github.com/clytaemnestra>`_ o grant `Jednorázový grant na dort na Pyvo <https://github.com/pyvec/money/issues/15>`_:
+Dne 26. 11. 2023 požádal uživatel :gh-user:`clytaemnestra` o grant `Jednorázový grant na dort na Pyvo <https://github.com/pyvec/money/issues/15>`_:
 
 .. code-block:: text
 
@@ -411,7 +411,7 @@ Grant byl schválen.
 7. 12. 2023 - elektronické hlasování výboru
 --------------------------------------------
 
-Dne 29. 8. 2023 požádal uživatel `@kvbik <https://github.com/kvbik>`_ o grant `Python Community Sprint Msene Lazne 2023  <https://github.com/pyvec/money/issues/14>`_:
+Dne 29. 8. 2023 požádal uživatel :gh-user:`kvbik` o grant `Python Community Sprint Msene Lazne 2023  <https://github.com/pyvec/money/issues/14>`_:
 
 .. code-block:: text
 
@@ -449,7 +449,7 @@ Grant byl schválen.
 26. 8. 2023 - elektronické hlasování výboru
 --------------------------------------------
 
-Dne 25. 7. 2023 požádal uživatel `@clytaemnestra <https://github.com/clytaemnestra>`_ o grant `Jednorázový grant na PyCon CZ trička na EuroPython <https://github.com/pyvec/money/issues/13>`_:
+Dne 25. 7. 2023 požádal uživatel :gh-user:`clytaemnestra` o grant `Jednorázový grant na PyCon CZ trička na EuroPython <https://github.com/pyvec/money/issues/13>`_:
 
 .. code-block:: text
 
@@ -480,7 +480,7 @@ Grant byl schválen.
 26. 6. 2023 - elektronické hlasování výboru
 --------------------------------------------
 
-Dne 13. 6. 2023 požádal uživatel `@befeleme <https://github.com/befeleme>`_ o grant `Jednorázový grant na výrobu samolepek PyLadies <https://github.com/pyvec/money/issues/12>`_:
+Dne 13. 6. 2023 požádal uživatel :gh-user:`befeleme` o grant `Jednorázový grant na výrobu samolepek PyLadies <https://github.com/pyvec/money/issues/12>`_:
 
 .. code-block:: text
 
@@ -520,7 +520,7 @@ Grant byl schválen.
 2. 4. 2023 - elektronické hlasování výboru
 --------------------------------------------
 
-Dne 27. 2. 2023 požádal uživatel `@Zuzanita <https://github.com/Zuzanita>`_ o grant `Trička pro PyLadies <https://github.com/pyvec/money/issues/10>`_:
+Dne 27. 2. 2023 požádal uživatel :gh-user:`Zuzanita` o grant `Trička pro PyLadies <https://github.com/pyvec/money/issues/10>`_:
 
 .. code-block:: text
 
@@ -554,7 +554,7 @@ Grant byl schválen.
 1. 12. 2022 - elektronické hlasování výboru
 --------------------------------------------
 
-Dne 22. 11. 2022 požádal uživatel `@clytaemnestra <https://github.com/clytaemnestra>`_ o grant `Pražské Pyvo - pronájem projektoru a audiotechniky <https://github.com/pyvec/money/issues/9>`_:
+Dne 22. 11. 2022 požádal uživatel :gh-user:`clytaemnestra` o grant `Pražské Pyvo - pronájem projektoru a audiotechniky <https://github.com/pyvec/money/issues/9>`_:
 
 .. code-block:: text
 
@@ -587,7 +587,7 @@ Grant byl schválen.
 13. 10. 2022 - elektronické hlasování výboru
 --------------------------------------------
 
-Dne 27. 8. 2022 požádal uživatel `@kvbik <https://github.com/kvbik>`_ o grant `Python Community Sprint Msene Lazne 2022 <https://github.com/pyvec/money/issues/8>`_:
+Dne 27. 8. 2022 požádal uživatel :gh-user:`kvbik` o grant `Python Community Sprint Msene Lazne 2022 <https://github.com/pyvec/money/issues/8>`_:
 
 .. code-block:: text
 
@@ -623,7 +623,7 @@ Grant byl schválen.
 13. 10. 2022 - elektronické hlasování výboru
 --------------------------------------------
 
-Dne 27. 8. 2022 požádal uživatel `@kvbik <https://github.com/kvbik>`_ o grant `Python Community Sprint Msene Lazne 2021 <https://github.com/pyvec/money/issues/7>`_:
+Dne 27. 8. 2022 požádal uživatel :gh-user:`kvbik` o grant `Python Community Sprint Msene Lazne 2021 <https://github.com/pyvec/money/issues/7>`_:
 
 .. code-block:: text
 
@@ -663,7 +663,7 @@ Grant byl schválen.
 15. 9. 2021 - elektronické hlasování výboru
 --------------------------------------------
 
-Dne 25. 8. 2021 požádal uživatel `@tomasbedrich <https://github.com/tomasbedrich>`_ o grant `Prostory pro plzeňské Pyvo 09/2021 <https://github.com/pyvec/money/issues/6>`_:
+Dne 25. 8. 2021 požádal uživatel :gh-user:`tomasbedrich` o grant `Prostory pro plzeňské Pyvo 09/2021 <https://github.com/pyvec/money/issues/6>`_:
 
 .. code-block:: text
 
@@ -693,7 +693,7 @@ Grant byl schválen.
 21. 12. 2020 - elektronické hlasování výboru
 --------------------------------------------
 
-Dne 19. 12. 2020 požádal uživatel `@janpipek <https://github.com/janpipek>`_ o grant `PyData listopad 2019 - náklady zahraničního speakera <https://github.com/pyvec/money/issues/5>`_:
+Dne 19. 12. 2020 požádal uživatel :gh-user:`janpipek` o grant `PyData listopad 2019 - náklady zahraničního speakera <https://github.com/pyvec/money/issues/5>`_:
 
 .. code-block:: text
 
@@ -729,7 +729,7 @@ Grant byl schválen.
 16. 12. 2020 - elektronické hlasování výboru
 --------------------------------------------
 
-Dne 16. 12. 2020 požádal uživatel `@kvbik <https://github.com/kvbik>`_ o grant `Python Community Sprint Msene Lazne 2020 <https://github.com/pyvec/money/issues/4>`_:
+Dne 16. 12. 2020 požádal uživatel :gh-user:`kvbik` o grant `Python Community Sprint Msene Lazne 2020 <https://github.com/pyvec/money/issues/4>`_:
 
 .. code-block:: text
 
@@ -765,7 +765,7 @@ Grant byl schválen.
 1. 8. 2020 - elektronické hlasování výboru
 --------------------------------------------
 
-Dne 26. 2. 2020 požádal uživatel `@radusaaa <https://github.com/radusaaa>`_ o grant `Grant pro pražské PyLadies - jarní běh 2020 <https://github.com/pyvec/money/issues/3>`_:
+Dne 26. 2. 2020 požádal uživatel :gh-user:`radusaaa` o grant `Grant pro pražské PyLadies - jarní běh 2020 <https://github.com/pyvec/money/issues/3>`_:
 
 .. code-block:: text
 
@@ -800,7 +800,7 @@ Grant byl schválen.
 1. 8. 2020 - elektronické hlasování výboru
 --------------------------------------------
 
-Dne 13. 2. 2020 požádal uživatel `@IvaFingerova <https://github.com/IvaFingerova>`_ o grant `Meetup.com subscription fee pr PyWorking <https://github.com/pyvec/money/issues/2>`_:
+Dne 13. 2. 2020 požádal uživatel :gh-user:`IvaFingerova` o grant `Meetup.com subscription fee pr PyWorking <https://github.com/pyvec/money/issues/2>`_:
 
 .. code-block:: text
 
