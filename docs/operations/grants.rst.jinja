@@ -1,9 +1,9 @@
 Elektronická hlasování o grantech
 =================================
 
-Od roku 2020 o grantech :term:`výbor <Výbor>` hlasuje prostřednictvím repozitáře `pyvec/money <https://github.com/pyvec/money>`_.
+Od roku 2020 o grantech :term:`výbor <Výbor>` hlasuje prostřednictvím repozitáře :gh-repo:`pyvec/money`.
 
-Hlasování o grantech probíhá :ref:`pomocí reakcí <jak-hlasovani>` na GitHub Issues. Hlasování se automaticky archivují sem do dokumentace pro účely jednoduššího vyhledávání, zálohy, kdyby se s `pyvec/money <https://github.com/pyvec/money>`_ něco stalo, a pro nějakou historickou evidenci. Kanonickým zdrojem pravdy ale zůstává hlasování přímo na GitHub Issues, toto je jen přepis. Skript započítává pouze hlasy od členů výboru (podle `souboru boards.toml <https://github.com/pyvec/docs.pyvec.org/blob/master/src/pyvec_docs/boards.toml>`_).
+Hlasování o grantech probíhá :ref:`pomocí reakcí <jak-hlasovani>` na GitHub Issues. Hlasování se automaticky archivují sem do dokumentace pro účely jednoduššího vyhledávání, zálohy, kdyby se s :gh-repo:`pyvec/money` něco stalo, a pro nějakou historickou evidenci. Kanonickým zdrojem pravdy ale zůstává hlasování přímo na GitHub Issues, toto je jen přepis. Skript započítává pouze hlasy od členů výboru (podle `souboru boards.toml <https://github.com/pyvec/docs.pyvec.org/blob/master/src/pyvec_docs/boards.toml>`_).
 
 Kdyby něco nesedělo, ověřte `historii zdrojáku této stránky <https://github.com/pyvec/docs.pyvec.org/commits/master/docs/operations/grants.rst>`_ a funkčnost :ref:`přepisů <generate_files>`.
 

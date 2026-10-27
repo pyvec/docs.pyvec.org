@@ -8,7 +8,7 @@ Našli jste chybu? Chtěli byste něco doplnit? Následující odstavce popisuj�
 Rychlé úpravy bez instalace
 ---------------------------
 
-Abyste něco změnili v textech, nemusíte nic instalovat. Obsah lze upravovat online přes `repozitář na GitHubu <https://github.com/pyvec/docs.pyvec.org>`_ pomocí ikony s tužkou v pravém horním rohu u každého souboru.
+Abyste něco změnili v textech, nemusíte nic instalovat. Obsah lze upravovat online přes :gh-repo:`repozitář na GitHubu <pyvec/docs.pyvec.org>` pomocí ikony s tužkou v pravém horním rohu u každého souboru.
 
 Instalace
 ---------
@@ -46,7 +46,7 @@ Kdyby s tím byl nějaký problém, tady je `návod na kombo Sphinx + MyST <http
 Emoji
 ^^^^^
 
-Při psaní můžete používat Emoji jako třeba |:cz:| nebo |:snake:|, ale nepište je přímo pomocí Unicode, ale za pomocí značek jako ``|:cz:|`` nebo ``|:snake:|``. Unicode znaky by se zobrazovaly na každém operačním systému jinak, ale tyto značky budou díky rozšíření `emojicodes <https://github.com/sphinx-contrib/emojicodes>`__ přeloženy na obrázky a ty se zobrazí vždy všem stejně. Mrkněte na `seznam podporovaných Emoji <https://sphinxemojicodes.readthedocs.io/>`__. Obrázky jsou z `Twemoji <https://github.com/twitter/twemoji>`_.
+Při psaní můžete používat Emoji jako třeba |:cz:| nebo |:snake:|, ale nepište je přímo pomocí Unicode, ale za pomocí značek jako ``|:cz:|`` nebo ``|:snake:|``. Unicode znaky by se zobrazovaly na každém operačním systému jinak, ale tyto značky budou díky rozšíření :gh-repo:`emojicodes <sphinx-contrib/emojicodes>` přeloženy na obrázky a ty se zobrazí vždy všem stejně. Mrkněte na `seznam podporovaných Emoji <https://sphinxemojicodes.readthedocs.io/>`__. Obrázky jsou z :gh-repo:`Twemoji <twitter/twemoji>`.
 
 Slack
 ^^^^^
@@ -101,7 +101,7 @@ CI je pouze informativní a nezabrání tomu, aby se hlavní větev dostala do R
 Kontrola rozbitých odkazů
 -------------------------
 
-Na repozitáři je zapojená `GitHub Action <https://github.com/lycheeverse/lychee-action>`_, která jednou denně kontroluje, zda všechny odkazy fungují. Kontrolka:
+Na repozitáři je zapojená :gh-repo:`GitHub Action <lycheeverse/lychee-action>`, která jednou denně kontroluje, zda všechny odkazy fungují. Kontrolka:
 
 .. image:: https://github.com/pyvec/docs.pyvec.org/actions/workflows/check-links.yml/badge.svg
     :target: https://github.com/pyvec/docs.pyvec.org/actions
@@ -117,7 +117,7 @@ Generování stránek a souborů
 Některé stránky a soubory se generují automaticky pomocí skriptů. Tyto skripty se spouští pomocí `GitHub Actions <https://github.com/pyvec/docs.pyvec.org/actions>`_, konkrétně workflow ``generate.yml``. Tyto skripty se spouští jednou denně a generují soubory, které se pak posílají jako pull requesty do repozitáře, pokud vytvoří nějaké změny.
 
 - Generuje se ``docs/operations/boards.rst`` ze `souboru boards.toml <https://github.com/pyvec/docs.pyvec.org/blob/master/src/pyvec_docs/boards.toml>`_ a ze šablony ``operations/boards.rst``.
-- Generuje se ``docs/operations/grants.rst`` z dat na `pyvec/money <https://github.com/pyvec/money>`_ a ze šablony ``operations/grants.rst``.
+- Generuje se ``docs/operations/grants.rst`` z dat na :gh-repo:`pyvec/money` a ze šablony ``operations/grants.rst``.
 - Generuje se ``docs/_static/twemoji.min.js``, abychom Twemoji měli lokálně a nemuseli se spoléhat na CDN.
 
 Kód pro generování je v ``src/pyvec_docs/cli.py``. Skripty jde pouštět např. ``uv run pyvec-docs gen-boards``.
