@@ -23,19 +23,19 @@ Výbor od 7.5.2025
      * GitHub
      * Funkce
    * * Jakub Vysoký
-     * `@kvbik <https://github.com/kvbik>`_
+     * :gh-user:`kvbik`
      *
    * * Jan Čermák
-     * `@sairon <https://github.com/sairon>`_
+     * :gh-user:`sairon`
      * |:moneybag:|
    * * Karolina Surma
-     * `@befeleme <https://github.com/befeleme>`_
+     * :gh-user:`befeleme`
      * |:crown:|
    * * Petr Viktorin
-     * `@encukou <https://github.com/encukou>`_
+     * :gh-user:`encukou`
      *
    * * Jakub Červinka
-     * `@JakubDotPy <https://github.com/JakubDotPy>`_
+     * :gh-user:`JakubDotPy`
      *
 
 Výbor od 9.4.2022
@@ -48,19 +48,19 @@ Výbor od 9.4.2022
      * GitHub
      * Funkce
    * * Barbora Drbohlavová
-     * `@baradrb <https://github.com/baradrb>`_
+     * :gh-user:`baradrb`
      * |:crown:|
    * * Anežka Müller
-     * `@anezkamll <https://github.com/anezkamll>`_
+     * :gh-user:`anezkamll`
      *
    * * Jan Javorek
-     * `@honzajavorek <https://github.com/honzajavorek>`_
+     * :gh-user:`honzajavorek`
      *
    * * Jakub Vysoký
-     * `@kvbik <https://github.com/kvbik>`_
+     * :gh-user:`kvbik`
      *
    * * Jan Čermák
-     * `@sairon <https://github.com/sairon>`_
+     * :gh-user:`sairon`
      * |:moneybag:|
 
 Výbor od 8.4.2019
@@ -73,19 +73,19 @@ Výbor od 8.4.2019
      * GitHub
      * Funkce
    * * Martin Bílek
-     * `@martinbilek <https://github.com/martinbilek>`_
+     * :gh-user:`martinbilek`
      * |:crown:| |:moneybag:|
    * * Aleš Zoulek
-     * `@aleszoulek <https://github.com/aleszoulek>`_
+     * :gh-user:`aleszoulek`
      *
    * * Jan Javorek
-     * `@honzajavorek <https://github.com/honzajavorek>`_
+     * :gh-user:`honzajavorek`
      *
    * * Jakub Vysoký
-     * `@kvbik <https://github.com/kvbik>`_
+     * :gh-user:`kvbik`
      *
    * * Jiří Bartoň
-     * `@whiskybar <https://github.com/whiskybar>`_
+     * :gh-user:`whiskybar`
      *
 
 Výbor od 27.3.2012
@@ -98,23 +98,23 @@ Výbor od 27.3.2012
      * GitHub
      * Funkce
    * * Martin Bílek
-     * `@martinbilek <https://github.com/martinbilek>`_
+     * :gh-user:`martinbilek`
      * |:crown:| |:moneybag:|
    * * Aleš Zoulek
-     * `@aleszoulek <https://github.com/aleszoulek>`_
+     * :gh-user:`aleszoulek`
      *
    * * Robin Gottfried
-     * `@czervenka <https://github.com/czervenka>`_
+     * :gh-user:`czervenka`
      *
    * * Jan Král
-     * `@honzakral <https://github.com/honzakral>`_
+     * :gh-user:`honzakral`
      *
    * * Jakub Vysoký
-     * `@kvbik <https://github.com/kvbik>`_
+     * :gh-user:`kvbik`
      *
    * * Jiří Bartoň
-     * `@whiskybar <https://github.com/whiskybar>`_
+     * :gh-user:`whiskybar`
      *
    * * Vítězslav Pliska
-     * `@whit <https://github.com/whit>`_
+     * :gh-user:`whit`
      *

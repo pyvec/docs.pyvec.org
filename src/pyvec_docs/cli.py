@@ -132,10 +132,7 @@ def gen_grants(
                     "title": issue["title"],
                     "description": remove_comments(issue["body"]),
                     "url": issue["html_url"],
-                    "user": {
-                        "username": issue["user"]["login"],
-                        "url": issue["user"]["html_url"],
-                    },
+                    "user": {"username": issue["user"]["login"]},
                     "is_approved": "approved" in labels,
                     "filed_at": to_date(issue["created_at"]),
                     "voted_at": voted_at,
