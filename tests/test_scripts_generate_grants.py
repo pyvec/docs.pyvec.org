@@ -15,21 +15,17 @@ from pyvec_docs.grants import (
 def boards():
     return [  # sorted!
         Board(
-            **{
-                "start_on": date(2020, 1, 1),
-                "members": [
-                    {"name": "Alice", "github": "alice"},
-                    {"name": "Doubravka", "github": "doubravka"},
-                ],
-            }
+            start_on=date(2020, 1, 1),
+            members=[
+                {"name": "Alice", "github": "alice"},
+                {"name": "Doubravka", "github": "doubravka"},
+            ],
         ),
         Board(
-            **{
-                "start_on": date(2019, 1, 1),
-                "members": [
-                    {"name": "Bob", "github": "bobby"},
-                ],
-            }
+            start_on=date(2019, 1, 1),
+            members=[
+                {"name": "Bob", "github": "bobby"},
+            ],
         ),
     ]
 
