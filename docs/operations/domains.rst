@@ -6,31 +6,65 @@ Domény
 Aktuální stav domén spravovaných českou Python komunitou.
 
 
-+-----------------------+--------------------+-------------+---------------+
-| Doména                | Vlastník (kontakt) | Registrátor | DNS           |
-+=======================+====================+=============+===============+
-| |:pray:| `python.cz`_ | KRAXNET s.r.o.     | KRAXNET     | KRAXNET       |
-+-----------------------+--------------------+-------------+---------------+
-| |:zzz:| `py.cz`_      | Jára Altmann       | IGNUM       | ZAGAMMA       |
-+-----------------------+--------------------+-------------+---------------+
-| `pyvec.cz`_           | Pyvec, z.s.        | WEDOS       | WEDOS (Pyvec) |
-+-----------------------+--------------------+-------------+---------------+
-| `pyvec.com`_          | Pyvec, z.s.        | WEDOS       | WEDOS (Pyvec) |
-+-----------------------+--------------------+-------------+---------------+
-| `pyvec.org`_          | Pyvec, z.s. (*)    | WEDOS       | WEDOS (Pyvec) |
-+-----------------------+--------------------+-------------+---------------+
-| `pydata.cz`_          | Pyvec, z.s.        | WEDOS       | WEDOS (Pyvec) |
-+-----------------------+--------------------+-------------+---------------+
-| `pyladies.cz`_        | Pyvec, z.s.        | WEDOS       | WEDOS (Pyvec) |
-+-----------------------+--------------------+-------------+---------------+
-| `pycon.cz`_           | Pyvec, z.s.        | WEDOS       | WEDOS (Pyvec) |
-+-----------------------+--------------------+-------------+---------------+
-| `pyworking.cz`_       | Pyvec, z.s.        | WEDOS       | WEDOS (Pyvec) |
-+-----------------------+--------------------+-------------+---------------+
-| `pyvo.cz`_            | Pyvec, z.s.        | WEDOS       | Roští (Pyvec) |
-+-----------------------+--------------------+-------------+---------------+
-| `pycamp.cz`_          | Pyvec, z.s.        | WEDOS       | WEDOS (Pyvec) |
-+-----------------------+--------------------+-------------+---------------+
+.. list-table::
+   :header-rows: 1
+
+   * * Doména
+     * Vlastník (kontakt)
+     * Registrátor
+     * DNS
+   * * |:pray:| `python.cz`_
+     * KRAXNET s.r.o.
+     * KRAXNET
+     * KRAXNET
+   * * |:zzz:| `py.cz`_
+     * Jára Altmann
+     * IGNUM
+     * ZAGAMMA
+   * * `pyvec.cz`_
+     * Pyvec, z.s.
+     * WEDOS
+     * WEDOS (Pyvec)
+   * * `pyvec.com`_
+     * Pyvec, z.s.
+     * WEDOS
+     * WEDOS (Pyvec)
+   * * `pyvec.org`_
+     * Pyvec, z.s. (*)
+     * WEDOS
+     * WEDOS (Pyvec)
+   * * `pydata.cz`_
+     * Pyvec, z.s.
+     * WEDOS
+     * WEDOS (Pyvec)
+   * * `pyladies.cz`_
+     * Pyvec, z.s.
+     * WEDOS
+     * WEDOS (Pyvec)
+   * * `pycon.cz`_
+     * Pyvec, z.s.
+     * WEDOS
+     * WEDOS (Pyvec)
+   * * `pyworking.cz`_
+     * Pyvec, z.s.
+     * WEDOS
+     * WEDOS (Pyvec)
+   * * `pyvo.cz`_
+     * Pyvec, z.s.
+     * WEDOS
+     * Roští (Pyvec)
+   * * `pycamp.cz`_
+     * Pyvec, z.s.
+     * WEDOS
+     * WEDOS (Pyvec)
+   * * |:beers:| `nepyvo.cz`_
+     * Luděk Reif
+     * WEDOS
+     * Cloudflare
+   * * |:umbrella:| `pythonisti.cz`_
+     * Honza Javorek
+     * WEDOS
+     * WEDOS
 
 
 .. _python.cz: https://www.nic.cz/whois/domain/python.cz/
@@ -44,6 +78,8 @@ Aktuální stav domén spravovaných českou Python komunitou.
 .. _pyworking.cz: https://www.nic.cz/whois/domain/pyworking.cz/
 .. _pyvo.cz: https://www.nic.cz/whois/domain/pyvo.cz/
 .. _pycamp.cz: https://www.nic.cz/whois/domain/pycamp.cz/
+.. _nepyvo.cz: https://www.nic.cz/whois/domain/nepyvo.cz/
+.. _pythonisti.cz: https://www.nic.cz/whois/domain/pythonisti.cz/
 
 .. _v diskusi na Slacku: https://pyvec.slack.com/archives/C6ZMKC50E/p1574335038001900
 
@@ -56,6 +92,8 @@ Domény které Pyvec nevlastní
 ----------------------------
 
 * |:pray:| Doménu `python.cz`_ máme propůjčenu. Změny děláme tak, že napíšeme na info@kraxnet.cz.
+* |:beers:| Doména `nepyvo.cz`_ patří brněnské komunitě kolem srazu NePyvo.
+* |:umbrella:| Doménu `pythonisti.cz`_ má Honza Javorek jako zálohu pro případ, že bychom přišli o python.cz. Přesměrovává na python.cz.
 * |:zzz:| Doména `py.cz`_ není pod našimi křídly. Nikdy se nedotáhlo sloučení py.cz s novou komunitou vznikající po roce 2010.
 
 
