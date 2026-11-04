@@ -6,35 +6,65 @@ Domény
 Aktuální stav domén spravovaných českou Python komunitou.
 
 
-+--------------------------------+--------------------+-------------+---------------+
-| Doména                         | Vlastník (kontakt) | Registrátor | DNS           |
-+================================+====================+=============+===============+
-| |:pray:| `python.cz`_          | KRAXNET s.r.o.     | KRAXNET     | KRAXNET       |
-+--------------------------------+--------------------+-------------+---------------+
-| |:zzz:| `py.cz`_               | Jára Altmann       | IGNUM       | ZAGAMMA       |
-+--------------------------------+--------------------+-------------+---------------+
-| `pyvec.cz`_                    | Pyvec, z.s.        | WEDOS       | WEDOS (Pyvec) |
-+--------------------------------+--------------------+-------------+---------------+
-| `pyvec.com`_                   | Pyvec, z.s.        | WEDOS       | WEDOS (Pyvec) |
-+--------------------------------+--------------------+-------------+---------------+
-| `pyvec.org`_                   | Pyvec, z.s. (*)    | WEDOS       | WEDOS (Pyvec) |
-+--------------------------------+--------------------+-------------+---------------+
-| `pydata.cz`_                   | Pyvec, z.s.        | WEDOS       | WEDOS (Pyvec) |
-+--------------------------------+--------------------+-------------+---------------+
-| `pyladies.cz`_                 | Pyvec, z.s.        | WEDOS       | WEDOS (Pyvec) |
-+--------------------------------+--------------------+-------------+---------------+
-| `pycon.cz`_                    | Pyvec, z.s.        | WEDOS       | WEDOS (Pyvec) |
-+--------------------------------+--------------------+-------------+---------------+
-| `pyworking.cz`_                | Pyvec, z.s.        | WEDOS       | WEDOS (Pyvec) |
-+--------------------------------+--------------------+-------------+---------------+
-| `pyvo.cz`_                     | Pyvec, z.s.        | WEDOS       | Roští (Pyvec) |
-+--------------------------------+--------------------+-------------+---------------+
-| `pycamp.cz`_                   | Pyvec, z.s.        | WEDOS       | WEDOS (Pyvec) |
-+--------------------------------+--------------------+-------------+---------------+
-| |:beers:| `nepyvo.cz`_         | Luděk Reif         | WEDOS       | Cloudflare    |
-+--------------------------------+--------------------+-------------+---------------+
-| |:umbrella:| `pythonisti.cz`_  | Honza Javorek      | WEDOS       | WEDOS         |
-+--------------------------------+--------------------+-------------+---------------+
+.. list-table::
+   :header-rows: 1
+
+   * * Doména
+     * Vlastník (kontakt)
+     * Registrátor
+     * DNS
+   * * |:pray:| `python.cz`_
+     * KRAXNET s.r.o.
+     * KRAXNET
+     * KRAXNET
+   * * |:zzz:| `py.cz`_
+     * Jára Altmann
+     * IGNUM
+     * ZAGAMMA
+   * * `pyvec.cz`_
+     * Pyvec, z.s.
+     * WEDOS
+     * WEDOS (Pyvec)
+   * * `pyvec.com`_
+     * Pyvec, z.s.
+     * WEDOS
+     * WEDOS (Pyvec)
+   * * `pyvec.org`_
+     * Pyvec, z.s. (*)
+     * WEDOS
+     * WEDOS (Pyvec)
+   * * `pydata.cz`_
+     * Pyvec, z.s.
+     * WEDOS
+     * WEDOS (Pyvec)
+   * * `pyladies.cz`_
+     * Pyvec, z.s.
+     * WEDOS
+     * WEDOS (Pyvec)
+   * * `pycon.cz`_
+     * Pyvec, z.s.
+     * WEDOS
+     * WEDOS (Pyvec)
+   * * `pyworking.cz`_
+     * Pyvec, z.s.
+     * WEDOS
+     * WEDOS (Pyvec)
+   * * `pyvo.cz`_
+     * Pyvec, z.s.
+     * WEDOS
+     * Roští (Pyvec)
+   * * `pycamp.cz`_
+     * Pyvec, z.s.
+     * WEDOS
+     * WEDOS (Pyvec)
+   * * |:beers:| `nepyvo.cz`_
+     * Luděk Reif
+     * WEDOS
+     * Cloudflare
+   * * |:umbrella:| `pythonisti.cz`_
+     * Honza Javorek
+     * WEDOS
+     * WEDOS
 
 
 .. _python.cz: https://www.nic.cz/whois/domain/python.cz/
