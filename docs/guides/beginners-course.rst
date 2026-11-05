@@ -14,6 +14,7 @@ nebo něco mezi tím – je to jen na tobě!
 .. image:: ../_static/images/pylady.svg
     :width: 20%
     :align: center
+    :class: adaptive-image
 
 
 Před začátkem

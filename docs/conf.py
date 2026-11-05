@@ -64,11 +64,6 @@ language = "cs"
 # This pattern also affects html_static_path and html_extra_path .
 exclude_patterns = ["Thumbs.db", ".DS_Store"]
 
-# The name of the Pygments (syntax highlighting) style to use. Furo uses
-# pygments_style in light mode and pygments_dark_style in dark mode.
-pygments_style = "friendly"
-pygments_dark_style = "monokai"
-
 
 # -- Options for HTML output -------------------------------------------------
 
@@ -79,9 +74,23 @@ html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "")
 # a list of builtin themes.
 html_theme = "furo"
 html_title = project
+html_logo = "_static/images/org.svg"
 html_theme_options = {
-    "light_logo": "images/org.svg",
-    "dark_logo": "images/org-i.svg",
+    # Colours from https://pyvec.org/ (blue #0097df, slate #232f36 and
+    # #3b4f5a). The blues are adjusted so that links pass WCAG AA contrast.
+    "light_css_variables": {
+        "color-brand-primary": "#0079b3",
+        "color-brand-content": "#0079b3",
+    },
+    "dark_css_variables": {
+        "color-brand-primary": "#33b1ec",
+        "color-brand-content": "#33b1ec",
+        "color-background-primary": "#1b2429",
+        "color-background-secondary": "#232f36",
+        "color-background-hover": "#2b3a42",
+        "color-background-border": "#3b4f5a",
+        "color-card-background": "#1f292f",
+    },
     "source_repository": "https://github.com/pyvec/docs.pyvec.org/",
     "source_branch": "master",
     "source_directory": "docs/",

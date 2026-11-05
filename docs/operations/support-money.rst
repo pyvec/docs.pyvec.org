@@ -11,6 +11,7 @@ Finanční podpora
 .. image:: ../_static/images/money.svg
    :width: 80%
    :align: center
+   :class: adaptive-image
 
 
 .. _financni-sluzby:

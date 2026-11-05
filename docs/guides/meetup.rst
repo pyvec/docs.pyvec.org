@@ -10,6 +10,7 @@ Tato příručka si klade za cíl shromáždit veškeré zkušenosti, jež jsme 
 .. image:: ../_static/images/ukulele.svg
     :width: 30%
     :align: center
+    :class: adaptive-image
 
 
 Python v ČR
@@ -441,6 +442,7 @@ Pokud chceš nabrat nějakou další inspiraci k tomu, jak organizovat Python sr
 .. image:: ../_static/images/snake.svg
     :width: 30%
     :align: center
+    :class: adaptive-image
 
 
 .. _srazy-globalni-zdroje:
