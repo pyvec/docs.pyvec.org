@@ -24,7 +24,7 @@ v kontaktech 1. stupně. Pokud chcete přístup, napište některému z adminů.
        |:pencil2:| Eva Bohnová, |:pencil2:| Mária Melišková
    * * `PyLadies CZ <https://www.linkedin.com/company/30644381/>`__
      * `PyLadies CZ <https://pyladies.cz/>`_ celkově
-     * |:crown:| Daniel Kopecký, |:crown:| David Slavíček, |:crown:| Honza Javorek
+     * |:crown:| Daniel Kopecký, |:crown:| David Slavíček, |:crown:| Hana Štamberková, |:crown:| Honza Javorek
    * * `PyLadies Prague <https://www.linkedin.com/company/pyladies-prague/>`__
      * PyLadies v Praze
      * Vojtěch Šnajdr
