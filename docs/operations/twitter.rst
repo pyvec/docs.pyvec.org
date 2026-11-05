@@ -15,10 +15,6 @@ Jestliže organizujete nějaké `Pyvo <https://pyvo.cz/>`_, nebojte si říct o 
 Účty
 ----
 
-.. contents::
-   :depth: 1
-   :local:
-
 @napyvo
 ^^^^^^^
 

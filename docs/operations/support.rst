@@ -11,6 +11,7 @@ Dotazy pište na info@pyvec.org nebo do kanálu :slack:`#pyvec` na :ref:`Slacku 
    :depth: 1
    :local:
    :backlinks: none
+   :class: this-will-duplicate-information-and-it-is-still-useful-here
 
 
 .. _slack:

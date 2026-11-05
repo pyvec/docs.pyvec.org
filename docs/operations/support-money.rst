@@ -3,11 +3,6 @@
 Finanční podpora
 ================
 
-.. contents:: Obsah
-   :depth: 1
-   :local:
-   :backlinks: none
-
 .. image:: ../_static/images/money.svg
    :width: 80%
    :align: center
@@ -25,6 +20,7 @@ Přes Pyvec tečou peníze české Python komunity. Poskytujeme tyto hlavní slu
    :depth: 1
    :local:
    :backlinks: none
+   :class: this-will-duplicate-information-and-it-is-still-useful-here
 
 Pokud je vám cokoliv nejasné, ozvěte se v kanálu :slack:`#money` na :ref:`Slacku <slack>`.
 
