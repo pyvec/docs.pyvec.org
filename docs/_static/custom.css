@@ -52,3 +52,11 @@ body[data-theme="dark"],
     color-scheme: dark;
   }
 }
+
+/*
+  The browser's default placeholder grey has poor contrast on the slate
+  sidebar. Use the same colour as the search icon (5.8:1).
+*/
+.sidebar-search::placeholder {
+  color: var(--color-sidebar-search-icon);
+}

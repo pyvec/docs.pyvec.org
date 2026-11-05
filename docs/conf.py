@@ -108,6 +108,11 @@ html_theme_options = {
         "color-background-hover": "#2b3a42",
         "color-background-border": "#3b4f5a",
         "color-card-background": "#1f292f",
+        "color-admonition-background": "#232f36",
+        # Furo's greys fall below 4.5:1 contrast on the slate backgrounds
+        "color-foreground-secondary": "#aab8c0",
+        "color-foreground-muted": "#909ca4",
+        "color-brand-visited": "#bb8aee",
     },
     "source_repository": "https://github.com/pyvec/docs.pyvec.org/",
     "source_branch": "master",

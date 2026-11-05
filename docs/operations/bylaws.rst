@@ -8,9 +8,6 @@ Stanovy Pyvec, z.s.
 .. note::
     Vizuálně oddělené poznámky, jako je tato, nejsou oficiální součástí stanov a slouží pouze k lepšímu porozumění právnického textu běžnými smrtelníky. Originální znění stanov je k dispozici na `webových stránkách spolku`_ (dole v patičce) nebo na `justice.cz`_.
 
-.. contents::
-    :depth: 2
-
 I. Název, forma a sídlo
 ^^^^^^^^^^^^^^^^^^^^^^^
 
