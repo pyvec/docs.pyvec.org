@@ -3,10 +3,17 @@ build:
   os: ubuntu-lts-latest
   tools:
     python: "3.12"
-python:
-  install:
-    - method: pip
-      path: .
+  jobs:
+    # Install exactly what's in uv.lock, same as CI
+    # https://docs.readthedocs.com/platform/stable/build-customization.html#install-dependencies-with-uv
+    pre_create_environment:
+      - asdf plugin add uv
+      - asdf install uv latest
+      - asdf global uv latest
+    create_environment:
+      - uv venv "${READTHEDOCS_VIRTUALENV_PATH}"
+    install:
+      - UV_PROJECT_ENVIRONMENT="${READTHEDOCS_VIRTUALENV_PATH}" uv sync --frozen --no-dev
 sphinx:
   configuration: docs/conf.py
   fail_on_warning: true
