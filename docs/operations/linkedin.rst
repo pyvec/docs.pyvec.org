@@ -9,6 +9,7 @@ Přístup se nesdílí heslem. Kterýkoliv Super admin vás může přidat
 v *Settings → Manage admins → Add admin*, a nemusíte být ani
 v kontaktech 1. stupně. Pokud chcete přístup, napište některému ze Super adminů.
 Content admin může jen přidávat obsah, správce přidávat nemůže.
+Otazník znamená, že to jen tušíme a není to ověřené.
 
 .. list-table::
    :header-rows: 1
@@ -31,11 +32,11 @@ Content admin může jen přidávat obsah, správce přidávat nemůže.
      * –
    * * `PyLadies Prague <https://www.linkedin.com/company/pyladies-prague/>`__
      * PyLadies v Praze
-     * pravděpodobně Vojtěch Šnajdr
+     * Vojtěch Šnajdr (?)
      * ???
    * * `PyLadies Brno <https://www.linkedin.com/company/pyladies-brno/>`__
      * PyLadies v Brně
-     * ??? (přístup mají David Slavíček, Hana Štamberková, Boris Kolda, Martin Zelený)
+     * David Slavíček (?), Hana Štamberková (?), Boris Kolda (?), Martin Zelený (?)
      * ???
    * * `PyLadies Data Prague <https://www.linkedin.com/company/pyladies-data-prague/>`__
      * PyLadies Data v Praze
@@ -44,5 +45,5 @@ Content admin může jen přidávat obsah, správce přidávat nemůže.
      * Jan Pipek, Marie Baluch, Petr Šimeček, a další
    * * `PyData Prague <https://www.linkedin.com/company/85424923/>`__
      * `PyData CZ <https://pydata.cz/>`_
-     * ??? (přístup mají Jan Pipek, Adam Křenek, a další)
+     * Jan Pipek (?), Adam Křenek (?), a další
      * ???
