@@ -60,3 +60,12 @@ body[data-theme="dark"],
 .sidebar-search::placeholder {
   color: var(--color-sidebar-search-icon);
 }
+
+/*
+  Sphinx centres tables that don't set :align:, and Furo keeps that.
+  Align them to the left like the rest of the text.
+*/
+article table.align-default {
+  margin-left: 0;
+  margin-right: 0;
+}
