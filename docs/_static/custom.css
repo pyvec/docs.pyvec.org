@@ -69,3 +69,12 @@ article table.align-default {
   margin-left: 0;
   margin-right: 0;
 }
+
+/*
+  Furo's logo has no dimensions, so the sidebar jumps when it loads.
+  Reserve its space with the proportions of org.svg (viewBox 2923×1573).
+*/
+.sidebar-logo {
+  width: 100%;
+  aspect-ratio: 2923 / 1573;
+}

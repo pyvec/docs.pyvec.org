@@ -37,6 +37,7 @@ extensions = [
     "sphinxemoji.sphinxemoji",
     "pyvec_docs.ext.slack",
     "pyvec_docs.ext.board_dates",
+    "pyvec_docs.ext.image_dimensions",
     "myst_parser",
 ]
 
