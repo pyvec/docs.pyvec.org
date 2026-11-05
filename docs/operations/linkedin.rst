@@ -42,7 +42,7 @@ v kontaktech 1. stupně. Pokud chcete přístup, napište některému z adminů,
        | Boris Kolda
        | Martin Zelený
      * |:gear:| `otevřít <https://www.linkedin.com/company/pyladies-brno/admin/settings/manage-admins/>`__
-   * * `PyLadies Data Prague <https://www.linkedin.com/company/pyladies-data-prague/>`__
+   * * `PyLadies Data Prague <https://www.linkedin.com/company/105774340/>`__
      * | |:crown:| Barbora Profantová
        | |:crown:| Jakub Urban
        | |:crown:| Karla Fejfarová
@@ -52,12 +52,14 @@ v kontaktech 1. stupně. Pokud chcete přístup, napište některému z adminů,
        | |:pencil2:| Jan Pipek
        | |:pencil2:| Marie Baluch
        | |:pencil2:| Petr Šimeček
-       | a další
-     * |:gear:| `otevřít <https://www.linkedin.com/company/pyladies-data-prague/admin/settings/manage-admins/>`__
+     * |:gear:| `otevřít <https://www.linkedin.com/company/105774340/admin/settings/manage-admins/>`__
    * * `PyData Prague <https://www.linkedin.com/company/85424923/>`__
-     * | Jan Pipek
-       | Adam Křenek
-       | a další
+     * | |:crown:| Adam Křenek
+       | |:crown:| Erika Doniecová
+       | |:crown:| Jakub Urban
+       | |:crown:| Jan Pipek
+       | |:crown:| Jiří Bajer
+       | |:crown:| Ondřej Kokeš
      * |:gear:| `otevřít <https://www.linkedin.com/company/85424923/admin/settings/manage-admins/>`__
 
 * |:crown:| Super admin může přidávat další adminy.
