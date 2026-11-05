@@ -27,7 +27,7 @@ v kontaktech 1. stupně. Pokud chcete přístup, napište některému z adminů.
      * |:crown:| Daniel Kopecký, |:crown:| David Slavíček, |:crown:| Honza Javorek
    * * `PyLadies Prague <https://www.linkedin.com/company/pyladies-prague/>`__
      * PyLadies v Praze
-     * Vojtěch Šnajdr (?)
+     * Vojtěch Šnajdr
    * * `PyLadies Brno <https://www.linkedin.com/company/pyladies-brno/>`__
      * PyLadies v Brně
      * David Slavíček, Hana Štamberková, Boris Kolda, Martin Zelený
@@ -42,4 +42,3 @@ v kontaktech 1. stupně. Pokud chcete přístup, napište některému z adminů.
 
 * |:crown:| Super admin může přidávat další adminy.
 * |:pencil2:| Content admin může jen přidávat obsah, další adminy přidat nemůže.
-* (?) Nevíme jistě, jestli je dotyčný opravdu admin.
