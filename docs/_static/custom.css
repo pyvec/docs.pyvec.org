@@ -1,13 +1,24 @@
-article blockquote {
-  margin-left: 0;
-  padding: 24px 12px 24px 24px;
-  border-left: 0.5rem solid var(--color-background-border);
-  background: var(--color-background-secondary);
+/*
+  Single-colour illustrations and the logo are drawn black. In dark mode,
+  invert them to light grey (#ccc). Follows both Furo's toggle and, in its
+  "auto" mode, the system setting, the same way Furo switches its own colours.
+*/
+body[data-theme="dark"] .adaptive-image,
+body[data-theme="dark"] .sidebar-logo {
+  filter: invert(80%);
+}
+
+@media (prefers-color-scheme: dark) {
+  body:not([data-theme="light"]) .adaptive-image,
+  body:not([data-theme="light"]) .sidebar-logo {
+    filter: invert(80%);
+  }
 }
 
 /*
-  Fixing margin of illustrations
+  Furo's overflow-wrap:break-word makes the title wrap mid-word
+  ("česk/é") in the sidebar, even though whole words fit on the line.
 */
-article .image-reference img {
-  margin-bottom: 12px;
+.sidebar-brand-text {
+  overflow-wrap: normal;
 }
