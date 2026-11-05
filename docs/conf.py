@@ -64,8 +64,10 @@ language = "cs"
 # This pattern also affects html_static_path and html_extra_path .
 exclude_patterns = ["Thumbs.db", ".DS_Store"]
 
-# The name of the Pygments (syntax highlighting) style to use.
-pygments_style = "monokai"
+# The name of the Pygments (syntax highlighting) style to use. Furo uses
+# pygments_style in light mode and pygments_dark_style in dark mode.
+pygments_style = "friendly"
+pygments_dark_style = "monokai"
 
 
 # -- Options for HTML output -------------------------------------------------
@@ -75,8 +77,15 @@ html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "")
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = "sphinx_rtd_theme"
-html_logo = "_static/images/org-i.svg"
+html_theme = "furo"
+html_title = project
+html_theme_options = {
+    "light_logo": "images/org.svg",
+    "dark_logo": "images/org-i.svg",
+    "source_repository": "https://github.com/pyvec/docs.pyvec.org/",
+    "source_branch": "master",
+    "source_directory": "docs/",
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
