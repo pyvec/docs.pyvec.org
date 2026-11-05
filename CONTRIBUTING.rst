@@ -82,6 +82,20 @@ Pyvec Guide
 
 Tento projekt se původně jmenoval ``pyvec-guide`` a proto se tak jmenuje i projekt na ReadTheDocs. Projekt nemá smysl přejmenovávat, když máme nyní doménu ``docs.pyvec.org``, akorát bychom rozbili staré odkazy. JavaScript ``_static/redirect.js`` zajišťuje, že staré odkazy se přesměrují.
 
+Obrázek pro sociální sítě
+-------------------------
+
+Když někdo sdílí odkaz na dokumentaci, třeba na sociálních sítích nebo na Slacku, zobrazí se u něj náhledový obrázek ``docs/_static/images/og-image.png``. Zdrojem je ``docs/_static/images/og-image.svg`` a PNG se z něj vyrábí ručně:
+
+#. Upravte ``og-image.svg``, např. v `Inkscape <https://inkscape.org/>`__. Nadpis je napsaný písmem `Inter Display <https://rsms.me/inter/>`__ v řezu Bold, takže ho musíte mít nainstalované.
+#. Vyexportujte z něj PNG o rozměrech 1200 × 630 px:
+
+   .. code-block:: console
+
+      $ inkscape docs/_static/images/og-image.svg --export-type=png --export-filename=docs/_static/images/og-image.png -w 1200 -h 630
+
+#. Commitněte oba soubory.
+
 Verze Pythonu
 -------------
 

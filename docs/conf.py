@@ -37,6 +37,7 @@ extensions = [
     "sphinxemoji.sphinxemoji",
     "pyvec_docs.ext.slack",
     "pyvec_docs.ext.board_dates",
+    "pyvec_docs.ext.image_dimensions",
     "myst_parser",
 ]
 
@@ -64,9 +65,6 @@ language = "cs"
 # This pattern also affects html_static_path and html_extra_path .
 exclude_patterns = ["Thumbs.db", ".DS_Store"]
 
-# The name of the Pygments (syntax highlighting) style to use.
-pygments_style = "monokai"
-
 
 # -- Options for HTML output -------------------------------------------------
 
@@ -75,8 +73,52 @@ html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "")
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = "sphinx_rtd_theme"
-html_logo = "_static/images/org-i.svg"
+html_theme = "furo"
+html_title = project
+html_logo = "_static/images/org.svg"
+# Colours from https://pyvec.org/ (blue #0097df, slate #232f36 and #3b4f5a).
+# The blues are adjusted so that text passes WCAG AA contrast. The sidebar is
+# slate in both light and dark mode, like the header on pyvec.org.
+sidebar_css_variables = {
+    "color-sidebar-background": "#232f36",
+    "color-sidebar-background-border": "#232f36",
+    "color-sidebar-brand-text": "#ffffff",
+    "color-sidebar-caption-text": "#aab8c0",
+    "color-sidebar-link-text": "#d6dee3",
+    "color-sidebar-link-text--top-level": "#33b1ec",
+    "color-sidebar-item-background--hover": "#2b3a42",
+    "color-sidebar-item-expander-background--hover": "#2b3a42",
+    "color-sidebar-search-background": "#2b3a42",
+    "color-sidebar-search-background--focus": "#1b2429",
+    "color-sidebar-search-border": "#3b4f5a",
+    "color-sidebar-search-icon": "#aab8c0",
+    "color-sidebar-search-text": "#ffffff",
+}
+html_theme_options = {
+    "light_css_variables": {
+        "color-brand-primary": "#0079b3",
+        "color-brand-content": "#0079b3",
+        **sidebar_css_variables,
+    },
+    "dark_css_variables": {
+        **sidebar_css_variables,
+        "color-brand-primary": "#33b1ec",
+        "color-brand-content": "#33b1ec",
+        "color-background-primary": "#1b2429",
+        "color-background-secondary": "#232f36",
+        "color-background-hover": "#2b3a42",
+        "color-background-border": "#3b4f5a",
+        "color-card-background": "#1f292f",
+        "color-admonition-background": "#232f36",
+        # Furo's greys fall below 4.5:1 contrast on the slate backgrounds
+        "color-foreground-secondary": "#aab8c0",
+        "color-foreground-muted": "#909ca4",
+        "color-brand-visited": "#bb8aee",
+    },
+    "source_repository": "https://github.com/pyvec/docs.pyvec.org/",
+    "source_branch": "master",
+    "source_directory": "docs/",
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,

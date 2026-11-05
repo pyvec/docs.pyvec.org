@@ -1,13 +1,80 @@
-.rst-content blockquote {
-  margin-left: 0;
-  padding: 24px 12px 24px 24px;
-  border-left: 0.5rem solid #bbb;
-  background: #eee;
+/*
+  Single-colour illustrations are drawn black. In dark mode, invert them to
+  light grey (#ccc). Follows both Furo's toggle and, in its "auto" mode, the
+  system setting, the same way Furo switches its own colours.
+
+  Sphinx puts the image's class on the wrapping link too, so the selector
+  must target only the img, or the filter would apply twice.
+*/
+body[data-theme="dark"] img.adaptive-image {
+  filter: invert(80%);
+}
+
+@media (prefers-color-scheme: dark) {
+  body:not([data-theme="light"]) img.adaptive-image {
+    filter: invert(80%);
+  }
 }
 
 /*
-  Fixing margin of illustrations
+  The logo is drawn black, but the sidebar is dark slate in both modes.
 */
-.rst-content .image-reference img {
-  margin-bottom: 12px;
+.sidebar-logo {
+  filter: invert(80%);
+}
+
+/*
+  Furo's overflow-wrap:break-word makes the title wrap mid-word
+  ("česk/é") in the sidebar, even though whole words fit on the line.
+*/
+.sidebar-brand-text {
+  overflow-wrap: normal;
+}
+
+/*
+  Furo doesn't declare color-scheme, so browsers follow the OS. On a light
+  page with the OS in dark mode, the native text selection was dark blue
+  and unreadable. Declare the active scheme, so the browser and OS pick
+  fitting native colours for selection, scrollbars, and form controls.
+  The sidebar is slate in both modes, so it's always dark.
+*/
+body {
+  color-scheme: light;
+}
+
+body[data-theme="dark"],
+.sidebar-drawer {
+  color-scheme: dark;
+}
+
+@media (prefers-color-scheme: dark) {
+  body:not([data-theme="light"]) {
+    color-scheme: dark;
+  }
+}
+
+/*
+  The browser's default placeholder grey has poor contrast on the slate
+  sidebar. Use the same colour as the search icon (5.8:1).
+*/
+.sidebar-search::placeholder {
+  color: var(--color-sidebar-search-icon);
+}
+
+/*
+  Sphinx centres tables that don't set :align:, and Furo keeps that.
+  Align them to the left like the rest of the text.
+*/
+article table.align-default {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+/*
+  Furo's logo has no dimensions, so the sidebar jumps when it loads.
+  Reserve its space with the proportions of org.svg (viewBox 2923×1573).
+*/
+.sidebar-logo {
+  width: 100%;
+  aspect-ratio: 2923 / 1573;
 }

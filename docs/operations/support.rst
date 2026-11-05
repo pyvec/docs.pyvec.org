@@ -7,10 +7,13 @@ Pyvec nikomu neříká, co má dělat. Pomáhá těm, kteří se o něco snaží
 
 Dotazy pište na info@pyvec.org nebo do kanálu :slack:`#pyvec` na :ref:`Slacku <slack>`.
 
-.. contents:: Oblasti podpory
+Oblasti podpory:
+
+.. contents::
    :depth: 1
    :local:
    :backlinks: none
+   :class: this-will-duplicate-information-and-it-is-still-useful-here
 
 
 .. _slack:
