@@ -2,14 +2,17 @@
   Single-colour illustrations and the logo are drawn black. In dark mode,
   invert them to light grey (#ccc). Follows both Furo's toggle and, in its
   "auto" mode, the system setting, the same way Furo switches its own colours.
+
+  Sphinx puts the image's class on the wrapping link too, so the selector
+  must target only the img, or the filter would apply twice.
 */
-body[data-theme="dark"] .adaptive-image,
+body[data-theme="dark"] img.adaptive-image,
 body[data-theme="dark"] .sidebar-logo {
   filter: invert(80%);
 }
 
 @media (prefers-color-scheme: dark) {
-  body:not([data-theme="light"]) .adaptive-image,
+  body:not([data-theme="light"]) img.adaptive-image,
   body:not([data-theme="light"]) .sidebar-logo {
     filter: invert(80%);
   }
