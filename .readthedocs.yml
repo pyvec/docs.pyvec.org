@@ -6,10 +6,12 @@ build:
   jobs:
     # Install exactly what's in uv.lock, same as CI
     # https://docs.readthedocs.com/platform/stable/build-customization.html#install-dependencies-with-uv
+    # uv comes from PyPI, because installing it with asdf resolves "latest"
+    # through GitHub, which fails intermittently on Read the Docs. The reshim
+    # puts the uv command on PATH, so it works even after the venv activates.
     pre_create_environment:
-      - asdf plugin add uv
-      - asdf install uv latest
-      - asdf global uv latest
+      - python -m pip install uv
+      - asdf reshim python
     create_environment:
       - uv venv "${READTHEDOCS_VIRTUALENV_PATH}"
     install:
