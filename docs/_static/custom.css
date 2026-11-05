@@ -1,13 +1,13 @@
-.rst-content blockquote {
+article blockquote {
   margin-left: 0;
   padding: 24px 12px 24px 24px;
-  border-left: 0.5rem solid #bbb;
-  background: #eee;
+  border-left: 0.5rem solid var(--color-background-border);
+  background: var(--color-background-secondary);
 }
 
 /*
   Fixing margin of illustrations
 */
-.rst-content .image-reference img {
+article .image-reference img {
   margin-bottom: 12px;
 }
