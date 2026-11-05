@@ -30,3 +30,27 @@ body[data-theme="dark"] img.adaptive-image {
 .sidebar-brand-text {
   overflow-wrap: normal;
 }
+
+/*
+  Furo doesn't style text selection, so browsers use the system colour, which
+  is dark blue on a light page when the OS is in dark mode. Selected text,
+  including links, gets one high-contrast colour on a Pyvec tint. The sidebar
+  is slate in both modes, so it always uses the dark variant.
+*/
+::selection {
+  color: #000;
+  background: #c7e7f7;
+}
+
+body[data-theme="dark"] ::selection,
+.sidebar-drawer ::selection {
+  color: #fff;
+  background: #3b4f5a;
+}
+
+@media (prefers-color-scheme: dark) {
+  body:not([data-theme="light"]) ::selection {
+    color: #fff;
+    background: #3b4f5a;
+  }
+}
