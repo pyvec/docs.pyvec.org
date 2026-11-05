@@ -75,14 +75,32 @@ html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "")
 html_theme = "furo"
 html_title = project
 html_logo = "_static/images/org.svg"
+# Colours from https://pyvec.org/ (blue #0097df, slate #232f36 and #3b4f5a).
+# The blues are adjusted so that text passes WCAG AA contrast. The sidebar is
+# slate in both light and dark mode, like the header on pyvec.org.
+sidebar_css_variables = {
+    "color-sidebar-background": "#232f36",
+    "color-sidebar-background-border": "#232f36",
+    "color-sidebar-brand-text": "#ffffff",
+    "color-sidebar-caption-text": "#aab8c0",
+    "color-sidebar-link-text": "#d6dee3",
+    "color-sidebar-link-text--top-level": "#33b1ec",
+    "color-sidebar-item-background--hover": "#2b3a42",
+    "color-sidebar-item-expander-background--hover": "#2b3a42",
+    "color-sidebar-search-background": "#2b3a42",
+    "color-sidebar-search-background--focus": "#1b2429",
+    "color-sidebar-search-border": "#3b4f5a",
+    "color-sidebar-search-icon": "#aab8c0",
+    "color-sidebar-search-text": "#ffffff",
+}
 html_theme_options = {
-    # Colours from https://pyvec.org/ (blue #0097df, slate #232f36 and
-    # #3b4f5a). The blues are adjusted so that links pass WCAG AA contrast.
     "light_css_variables": {
         "color-brand-primary": "#0079b3",
         "color-brand-content": "#0079b3",
+        **sidebar_css_variables,
     },
     "dark_css_variables": {
+        **sidebar_css_variables,
         "color-brand-primary": "#33b1ec",
         "color-brand-content": "#33b1ec",
         "color-background-primary": "#1b2429",
