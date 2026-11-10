@@ -40,6 +40,8 @@ exclude = [
     "creativecommons\\.org/licenses/",
     "inkscape\\.org",
     "domena\\.cz",
+    "x\\.com",
+    "www\\.youtube\\.com",
 
     # Deep links into the Slack app, always 403 or redirected to sign-in for anonymous requests
     "pyvec\\.slack\\.com",
