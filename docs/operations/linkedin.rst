@@ -16,7 +16,7 @@ v kontaktech 1. stupně. Pokud chcete přístup, napište některému z adminů,
      * Admini
      * Správa
    * * `Pyvec <https://www.linkedin.com/company/pyvec-org/>`__
-     * ???
+     * :ref:`Aktuální výbor <vybory>`, viz :ref:`předávání <co-predat>`
      * |:gear:| `otevřít <https://www.linkedin.com/company/pyvec-org/admin/settings/manage-admins/>`__
    * * `PyCon CZ <https://www.linkedin.com/company/pycon-cz/>`__
      * | |:crown:| Anežka Müller
