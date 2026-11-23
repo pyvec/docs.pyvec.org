@@ -46,6 +46,9 @@ exclude = [
     # Deep links into the Slack app, always 403 or redirected to sign-in for anonymous requests
     "pyvec\\.slack\\.com",
 
+    # LinkedIn admin pages, need login and anonymous requests get 999
+    "www\\.linkedin\\.com/company/[^/]+/admin/",
+
     # Website implements the fragments wrong
     "cz\\.pycon\\.org/2016/speakers/talks/#",
     "www\\.zakonyprolidi\\.cz"

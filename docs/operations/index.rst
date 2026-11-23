@@ -15,6 +15,7 @@ kolem `programovacího jazyka Python <https://python.cz>`__. Její cíle jsou fo
    domains
    web-apps
    twitter
+   linkedin
    boards
    meeting-notes
    grants
