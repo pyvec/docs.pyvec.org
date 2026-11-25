@@ -1,13 +1,6 @@
 Jak řešit situace
 =================
 
-.. contents::
-   :depth: 2
-   :local:
-   :backlinks: none
-
-
-
 Návody pro kohokoliv
 --------------------
 

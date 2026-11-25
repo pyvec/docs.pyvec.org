@@ -3,6 +3,7 @@
 .. image:: _static/images/community.svg
     :width: 80%
     :align: center
+    :class: adaptive-image
 
 Obsah
 -----
