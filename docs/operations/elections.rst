@@ -78,6 +78,8 @@ Předání moci
 - Starý výbor předá novému vše ze seznamu níže.
 - Nový výbor naplánuje termín další schůze. Ideálně vytvoří opakovanou kalendářovou událost na všechny další schůze.
 
+.. _co-predat:
+
 Co předat
 ---------
 
@@ -98,6 +100,7 @@ Tento seznam je potřeba průběžně aktualizovat a dokumentovat během toho, j
 
 - Aktualizovat `tým na GitHubu <https://github.com/orgs/pyvec/teams/board>`_. Minimálně předseda by měl mít ownera na GitHubu k organizaci ``@pyvec``.
 - Aktualizovat vlastníky `organizace na PyPI <https://pypi.org/org/pyvec/>`__.
+- Přenastavit adminy `stránky Pyvce na LinkedInu <https://www.linkedin.com/company/pyvec-org/admin/settings/manage-admins/>`__ (viz :ref:`linkedin`). Nový výbor přidat jako Super adminy a všechny ostatní odebrat. Za admina jde přidat jen ten, kdo stránku sleduje, takže ji noví členové výboru musí nejdřív začít sledovat.
 - Placení sídla Pyvce - obstarává firma `Ofigo <https://www.ofigo.cz/>`_: jednou ročně nám posílá na `info@pyvec.org` fakturu k uhrazení. Taky se stará o příchozí poštu (oskenuje a pošle nám mailem).
 - Předání papírové dokumentace spolku (šanon). Už tam asi nic důležitého není a nové věci jsou už digitálně, ale co kdyby.
 - Přenastavení e-mailovů info@pyvec.org a board@pyvec.org. To *info* je externí e-mail pro všechny, kdo píšou Pyvci. Ten *board* se dřív používal jako interní e-mail výboru, ale dnes už se většinou používá Slack. Komunikaci ven posíláme ze soukromých mailů, na které se pošta přeposílá, s ``info@pyvec.org`` v CC.

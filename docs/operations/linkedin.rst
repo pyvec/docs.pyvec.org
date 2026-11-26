@@ -7,7 +7,7 @@ Aktuální stav LinkedIn stránek spravovaných českou Python komunitou.
 
 Přístup se nesdílí heslem. Admin vás může přidat
 v *Settings → Manage admins → Add admin*, a nemusíte být ani
-v kontaktech 1. stupně. Pokud chcete přístup, napište některému z adminů, ideálně asi :ref:`na Slacku <slack>`.
+v kontaktech 1. stupně. Musíte ale stránku sledovat, jinak vás LinkedIn mezi adminy přidat nenechá. Pokud chcete přístup, napište některému z adminů, ideálně asi :ref:`na Slacku <slack>`.
 
 .. list-table::
    :header-rows: 1
@@ -16,7 +16,7 @@ v kontaktech 1. stupně. Pokud chcete přístup, napište některému z adminů,
      * Admini
      * Správa
    * * `Pyvec <https://www.linkedin.com/company/pyvec-org/>`__
-     * ???
+     * :ref:`Aktuální výbor <vybory>`, viz :ref:`předávání <co-predat>`
      * |:gear:| `otevřít <https://www.linkedin.com/company/pyvec-org/admin/settings/manage-admins/>`__
    * * `PyCon CZ <https://www.linkedin.com/company/pycon-cz/>`__
      * | |:crown:| Anežka Müller
